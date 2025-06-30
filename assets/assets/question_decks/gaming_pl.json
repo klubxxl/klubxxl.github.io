@@ -1,0 +1,2113 @@
+{
+    "deck": {
+      "id": "gaming",
+      "name": "Gaming i Esport - Świeża Wersja",
+      "description": "W pełni odświeżona wersja (PL, 100 pytań).",
+      "category": "gaming",
+      "version": "2.0.0",
+      "language": "pl"
+    },
+    "questions": [
+      {
+        "id": "gam_001",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_001_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_001_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_001_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_001_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_001_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_001_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_002",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_002_opt_1",
+            "text": "PC"
+          },
+          {
+            "id": "gam_002_opt_2",
+            "text": "Xbox"
+          },
+          {
+            "id": "gam_002_opt_3",
+            "text": "PlayStation"
+          },
+          {
+            "id": "gam_002_opt_4",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_002_opt_5",
+            "text": "Mobile"
+          },
+          {
+            "id": "gam_002_opt_6",
+            "text": "Retro Consoles"
+          }
+        ],
+        "text": "Najlepsza platforma do grania?"
+      },
+      {
+        "id": "gam_003",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_003_opt_1",
+            "text": "Dance"
+          },
+          {
+            "id": "gam_003_opt_2",
+            "text": "Screenshot"
+          },
+          {
+            "id": "gam_003_opt_3",
+            "text": "Trash talk"
+          },
+          {
+            "id": "gam_003_opt_4",
+            "text": "Victory food"
+          },
+          {
+            "id": "gam_003_opt_5",
+            "text": "Share clip"
+          },
+          {
+            "id": "gam_003_opt_6",
+            "text": "Silent smile"
+          }
+        ],
+        "text": "Najlepszy sposób na świętowanie zwycięstwa?"
+      },
+      {
+        "id": "gam_004",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_004_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_004_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_004_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_004_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_004_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_004_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_005",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_005_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_005_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_005_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_005_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_005_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_005_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_006",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_006_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_006_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_006_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_006_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_006_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_006_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_007",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_007_opt_1",
+            "text": "FPS"
+          },
+          {
+            "id": "gam_007_opt_2",
+            "text": "RPG"
+          },
+          {
+            "id": "gam_007_opt_3",
+            "text": "Survival"
+          },
+          {
+            "id": "gam_007_opt_4",
+            "text": "Battle Royale"
+          },
+          {
+            "id": "gam_007_opt_5",
+            "text": "Sandbox"
+          },
+          {
+            "id": "gam_007_opt_6",
+            "text": "Simulation"
+          }
+        ],
+        "text": "Ulubiony gatunek gier?"
+      },
+      {
+        "id": "gam_008",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_008_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_008_opt_2",
+            "text": "GTA"
+          },
+          {
+            "id": "gam_008_opt_3",
+            "text": "Resident Evil"
+          },
+          {
+            "id": "gam_008_opt_4",
+            "text": "Elden Ring"
+          },
+          {
+            "id": "gam_008_opt_5",
+            "text": "Fallout"
+          },
+          {
+            "id": "gam_008_opt_6",
+            "text": "The Witcher"
+          }
+        ],
+        "text": "W jakim świecie z gier najniebezpieczniej byłoby mieszkać?"
+      },
+      {
+        "id": "gam_009",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_009_opt_1",
+            "text": "Dance"
+          },
+          {
+            "id": "gam_009_opt_2",
+            "text": "Screenshot"
+          },
+          {
+            "id": "gam_009_opt_3",
+            "text": "Trash talk"
+          },
+          {
+            "id": "gam_009_opt_4",
+            "text": "Victory food"
+          },
+          {
+            "id": "gam_009_opt_5",
+            "text": "Share clip"
+          },
+          {
+            "id": "gam_009_opt_6",
+            "text": "Silent smile"
+          }
+        ],
+        "text": "Najlepszy sposób na świętowanie zwycięstwa?"
+      },
+      {
+        "id": "gam_010",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_010_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_010_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_010_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_010_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_010_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_010_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_011",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_011_opt_1",
+            "text": "FPS"
+          },
+          {
+            "id": "gam_011_opt_2",
+            "text": "RPG"
+          },
+          {
+            "id": "gam_011_opt_3",
+            "text": "Survival"
+          },
+          {
+            "id": "gam_011_opt_4",
+            "text": "Battle Royale"
+          },
+          {
+            "id": "gam_011_opt_5",
+            "text": "Sandbox"
+          },
+          {
+            "id": "gam_011_opt_6",
+            "text": "Simulation"
+          }
+        ],
+        "text": "Ulubiony gatunek gier?"
+      },
+      {
+        "id": "gam_012",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_012_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_012_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_012_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_012_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_012_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_012_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_013",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_013_opt_1",
+            "text": "Ragequitting"
+          },
+          {
+            "id": "gam_013_opt_2",
+            "text": "Blaming team"
+          },
+          {
+            "id": "gam_013_opt_3",
+            "text": "Camping"
+          },
+          {
+            "id": "gam_013_opt_4",
+            "text": "Always toxic"
+          },
+          {
+            "id": "gam_013_opt_5",
+            "text": "Never healing"
+          },
+          {
+            "id": "gam_013_opt_6",
+            "text": "Trolling"
+          }
+        ],
+        "text": "Najgorszy nawyk gamingowy?"
+      },
+      {
+        "id": "gam_014",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_014_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_014_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_014_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_014_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_014_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_014_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_015",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_015_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_015_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_015_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_015_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_015_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_015_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_016",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_016_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_016_opt_2",
+            "text": "GTA"
+          },
+          {
+            "id": "gam_016_opt_3",
+            "text": "Resident Evil"
+          },
+          {
+            "id": "gam_016_opt_4",
+            "text": "Elden Ring"
+          },
+          {
+            "id": "gam_016_opt_5",
+            "text": "Fallout"
+          },
+          {
+            "id": "gam_016_opt_6",
+            "text": "The Witcher"
+          }
+        ],
+        "text": "W jakim świecie z gier najniebezpieczniej byłoby mieszkać?"
+      },
+      {
+        "id": "gam_017",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_017_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_017_opt_2",
+            "text": "Sekiro"
+          },
+          {
+            "id": "gam_017_opt_3",
+            "text": "Cuphead"
+          },
+          {
+            "id": "gam_017_opt_4",
+            "text": "Getting Over It"
+          },
+          {
+            "id": "gam_017_opt_5",
+            "text": "Minecraft Hardcore"
+          },
+          {
+            "id": "gam_017_opt_6",
+            "text": "Super Meat Boy"
+          }
+        ],
+        "text": "Którą grą najbardziej chwalisz się, że ją ukończyłeś?"
+      },
+      {
+        "id": "gam_018",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_018_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_018_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_018_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_018_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_018_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_018_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_019",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_019_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_019_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_019_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_019_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_019_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_019_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_020",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_020_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_020_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_020_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_020_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_020_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_020_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_021",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_021_opt_1",
+            "text": "Ragequitting"
+          },
+          {
+            "id": "gam_021_opt_2",
+            "text": "Blaming team"
+          },
+          {
+            "id": "gam_021_opt_3",
+            "text": "Camping"
+          },
+          {
+            "id": "gam_021_opt_4",
+            "text": "Always toxic"
+          },
+          {
+            "id": "gam_021_opt_5",
+            "text": "Never healing"
+          },
+          {
+            "id": "gam_021_opt_6",
+            "text": "Trolling"
+          }
+        ],
+        "text": "Najgorszy nawyk gamingowy?"
+      },
+      {
+        "id": "gam_022",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_022_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_022_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_022_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_022_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_022_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_022_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_023",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_023_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_023_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_023_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_023_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_023_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_023_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_024",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_024_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_024_opt_2",
+            "text": "Sekiro"
+          },
+          {
+            "id": "gam_024_opt_3",
+            "text": "Cuphead"
+          },
+          {
+            "id": "gam_024_opt_4",
+            "text": "Getting Over It"
+          },
+          {
+            "id": "gam_024_opt_5",
+            "text": "Minecraft Hardcore"
+          },
+          {
+            "id": "gam_024_opt_6",
+            "text": "Super Meat Boy"
+          }
+        ],
+        "text": "Którą grą najbardziej chwalisz się, że ją ukończyłeś?"
+      },
+      {
+        "id": "gam_025",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_025_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_025_opt_2",
+            "text": "GTA"
+          },
+          {
+            "id": "gam_025_opt_3",
+            "text": "Resident Evil"
+          },
+          {
+            "id": "gam_025_opt_4",
+            "text": "Elden Ring"
+          },
+          {
+            "id": "gam_025_opt_5",
+            "text": "Fallout"
+          },
+          {
+            "id": "gam_025_opt_6",
+            "text": "The Witcher"
+          }
+        ],
+        "text": "W jakim świecie z gier najniebezpieczniej byłoby mieszkać?"
+      },
+      {
+        "id": "gam_026",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_026_opt_1",
+            "text": "Dance"
+          },
+          {
+            "id": "gam_026_opt_2",
+            "text": "Screenshot"
+          },
+          {
+            "id": "gam_026_opt_3",
+            "text": "Trash talk"
+          },
+          {
+            "id": "gam_026_opt_4",
+            "text": "Victory food"
+          },
+          {
+            "id": "gam_026_opt_5",
+            "text": "Share clip"
+          },
+          {
+            "id": "gam_026_opt_6",
+            "text": "Silent smile"
+          }
+        ],
+        "text": "Najlepszy sposób na świętowanie zwycięstwa?"
+      },
+      {
+        "id": "gam_027",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_027_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_027_opt_2",
+            "text": "Sekiro"
+          },
+          {
+            "id": "gam_027_opt_3",
+            "text": "Cuphead"
+          },
+          {
+            "id": "gam_027_opt_4",
+            "text": "Getting Over It"
+          },
+          {
+            "id": "gam_027_opt_5",
+            "text": "Minecraft Hardcore"
+          },
+          {
+            "id": "gam_027_opt_6",
+            "text": "Super Meat Boy"
+          }
+        ],
+        "text": "Którą grą najbardziej chwalisz się, że ją ukończyłeś?"
+      },
+      {
+        "id": "gam_028",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_028_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_028_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_028_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_028_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_028_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_028_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_029",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_029_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_029_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_029_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_029_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_029_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_029_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_030",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_030_opt_1",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_030_opt_2",
+            "text": "Blizzard"
+          },
+          {
+            "id": "gam_030_opt_3",
+            "text": "Riot Games"
+          },
+          {
+            "id": "gam_030_opt_4",
+            "text": "Valve"
+          },
+          {
+            "id": "gam_030_opt_5",
+            "text": "Rockstar"
+          },
+          {
+            "id": "gam_030_opt_6",
+            "text": "FromSoftware"
+          }
+        ],
+        "text": "Która firma robi najlepsze gry?"
+      },
+      {
+        "id": "gam_031",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_031_opt_1",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_031_opt_2",
+            "text": "Blizzard"
+          },
+          {
+            "id": "gam_031_opt_3",
+            "text": "Riot Games"
+          },
+          {
+            "id": "gam_031_opt_4",
+            "text": "Valve"
+          },
+          {
+            "id": "gam_031_opt_5",
+            "text": "Rockstar"
+          },
+          {
+            "id": "gam_031_opt_6",
+            "text": "FromSoftware"
+          }
+        ],
+        "text": "Która firma robi najlepsze gry?"
+      },
+      {
+        "id": "gam_032",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_032_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_032_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_032_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_032_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_032_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_032_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_033",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_033_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_033_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_033_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_033_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_033_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_033_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_034",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_034_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_034_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_034_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_034_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_034_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_034_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_035",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_035_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_035_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_035_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_035_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_035_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_035_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_036",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_036_opt_1",
+            "text": "Dance"
+          },
+          {
+            "id": "gam_036_opt_2",
+            "text": "Screenshot"
+          },
+          {
+            "id": "gam_036_opt_3",
+            "text": "Trash talk"
+          },
+          {
+            "id": "gam_036_opt_4",
+            "text": "Victory food"
+          },
+          {
+            "id": "gam_036_opt_5",
+            "text": "Share clip"
+          },
+          {
+            "id": "gam_036_opt_6",
+            "text": "Silent smile"
+          }
+        ],
+        "text": "Najlepszy sposób na świętowanie zwycięstwa?"
+      },
+      {
+        "id": "gam_037",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_037_opt_1",
+            "text": "PC"
+          },
+          {
+            "id": "gam_037_opt_2",
+            "text": "Xbox"
+          },
+          {
+            "id": "gam_037_opt_3",
+            "text": "PlayStation"
+          },
+          {
+            "id": "gam_037_opt_4",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_037_opt_5",
+            "text": "Mobile"
+          },
+          {
+            "id": "gam_037_opt_6",
+            "text": "Retro Consoles"
+          }
+        ],
+        "text": "Najlepsza platforma do grania?"
+      },
+      {
+        "id": "gam_038",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_038_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_038_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_038_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_038_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_038_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_038_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_039",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_039_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_039_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_039_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_039_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_039_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_039_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_040",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_040_opt_1",
+            "text": "Dance"
+          },
+          {
+            "id": "gam_040_opt_2",
+            "text": "Screenshot"
+          },
+          {
+            "id": "gam_040_opt_3",
+            "text": "Trash talk"
+          },
+          {
+            "id": "gam_040_opt_4",
+            "text": "Victory food"
+          },
+          {
+            "id": "gam_040_opt_5",
+            "text": "Share clip"
+          },
+          {
+            "id": "gam_040_opt_6",
+            "text": "Silent smile"
+          }
+        ],
+        "text": "Najlepszy sposób na świętowanie zwycięstwa?"
+      },
+      {
+        "id": "gam_041",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_041_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_041_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_041_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_041_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_041_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_041_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_042",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_042_opt_1",
+            "text": "FPS"
+          },
+          {
+            "id": "gam_042_opt_2",
+            "text": "RPG"
+          },
+          {
+            "id": "gam_042_opt_3",
+            "text": "Survival"
+          },
+          {
+            "id": "gam_042_opt_4",
+            "text": "Battle Royale"
+          },
+          {
+            "id": "gam_042_opt_5",
+            "text": "Sandbox"
+          },
+          {
+            "id": "gam_042_opt_6",
+            "text": "Simulation"
+          }
+        ],
+        "text": "Ulubiony gatunek gier?"
+      },
+      {
+        "id": "gam_043",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_043_opt_1",
+            "text": "Dance"
+          },
+          {
+            "id": "gam_043_opt_2",
+            "text": "Screenshot"
+          },
+          {
+            "id": "gam_043_opt_3",
+            "text": "Trash talk"
+          },
+          {
+            "id": "gam_043_opt_4",
+            "text": "Victory food"
+          },
+          {
+            "id": "gam_043_opt_5",
+            "text": "Share clip"
+          },
+          {
+            "id": "gam_043_opt_6",
+            "text": "Silent smile"
+          }
+        ],
+        "text": "Najlepszy sposób na świętowanie zwycięstwa?"
+      },
+      {
+        "id": "gam_044",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_044_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_044_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_044_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_044_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_044_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_044_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_045",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_045_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_045_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_045_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_045_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_045_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_045_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_046",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_046_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_046_opt_2",
+            "text": "Sekiro"
+          },
+          {
+            "id": "gam_046_opt_3",
+            "text": "Cuphead"
+          },
+          {
+            "id": "gam_046_opt_4",
+            "text": "Getting Over It"
+          },
+          {
+            "id": "gam_046_opt_5",
+            "text": "Minecraft Hardcore"
+          },
+          {
+            "id": "gam_046_opt_6",
+            "text": "Super Meat Boy"
+          }
+        ],
+        "text": "Którą grą najbardziej chwalisz się, że ją ukończyłeś?"
+      },
+      {
+        "id": "gam_047",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_047_opt_1",
+            "text": "Ranked Mode"
+          },
+          {
+            "id": "gam_047_opt_2",
+            "text": "Loot Boxes"
+          },
+          {
+            "id": "gam_047_opt_3",
+            "text": "Battle Pass"
+          },
+          {
+            "id": "gam_047_opt_4",
+            "text": "Skins"
+          },
+          {
+            "id": "gam_047_opt_5",
+            "text": "Achievements"
+          },
+          {
+            "id": "gam_047_opt_6",
+            "text": "Grinding XP"
+          }
+        ],
+        "text": "Co najbardziej uzależnia w grach?"
+      },
+      {
+        "id": "gam_048",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_048_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_048_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_048_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_048_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_048_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_048_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_049",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_049_opt_1",
+            "text": "FPS"
+          },
+          {
+            "id": "gam_049_opt_2",
+            "text": "RPG"
+          },
+          {
+            "id": "gam_049_opt_3",
+            "text": "Survival"
+          },
+          {
+            "id": "gam_049_opt_4",
+            "text": "Battle Royale"
+          },
+          {
+            "id": "gam_049_opt_5",
+            "text": "Sandbox"
+          },
+          {
+            "id": "gam_049_opt_6",
+            "text": "Simulation"
+          }
+        ],
+        "text": "Ulubiony gatunek gier?"
+      },
+      {
+        "id": "gam_050",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_050_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_050_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_050_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_050_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_050_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_050_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_051",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_051_opt_1",
+            "text": "PC"
+          },
+          {
+            "id": "gam_051_opt_2",
+            "text": "Xbox"
+          },
+          {
+            "id": "gam_051_opt_3",
+            "text": "PlayStation"
+          },
+          {
+            "id": "gam_051_opt_4",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_051_opt_5",
+            "text": "Mobile"
+          },
+          {
+            "id": "gam_051_opt_6",
+            "text": "Retro Consoles"
+          }
+        ],
+        "text": "Najlepsza platforma do grania?"
+      },
+      {
+        "id": "gam_052",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_052_opt_1",
+            "text": "Dance"
+          },
+          {
+            "id": "gam_052_opt_2",
+            "text": "Screenshot"
+          },
+          {
+            "id": "gam_052_opt_3",
+            "text": "Trash talk"
+          },
+          {
+            "id": "gam_052_opt_4",
+            "text": "Victory food"
+          },
+          {
+            "id": "gam_052_opt_5",
+            "text": "Share clip"
+          },
+          {
+            "id": "gam_052_opt_6",
+            "text": "Silent smile"
+          }
+        ],
+        "text": "Najlepszy sposób na świętowanie zwycięstwa?"
+      },
+      {
+        "id": "gam_053",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_053_opt_1",
+            "text": "PC"
+          },
+          {
+            "id": "gam_053_opt_2",
+            "text": "Xbox"
+          },
+          {
+            "id": "gam_053_opt_3",
+            "text": "PlayStation"
+          },
+          {
+            "id": "gam_053_opt_4",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_053_opt_5",
+            "text": "Mobile"
+          },
+          {
+            "id": "gam_053_opt_6",
+            "text": "Retro Consoles"
+          }
+        ],
+        "text": "Najlepsza platforma do grania?"
+      },
+      {
+        "id": "gam_054",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_054_opt_1",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_054_opt_2",
+            "text": "Blizzard"
+          },
+          {
+            "id": "gam_054_opt_3",
+            "text": "Riot Games"
+          },
+          {
+            "id": "gam_054_opt_4",
+            "text": "Valve"
+          },
+          {
+            "id": "gam_054_opt_5",
+            "text": "Rockstar"
+          },
+          {
+            "id": "gam_054_opt_6",
+            "text": "FromSoftware"
+          }
+        ],
+        "text": "Która firma robi najlepsze gry?"
+      },
+      {
+        "id": "gam_055",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_055_opt_1",
+            "text": "Sniper Rifle"
+          },
+          {
+            "id": "gam_055_opt_2",
+            "text": "Shotgun"
+          },
+          {
+            "id": "gam_055_opt_3",
+            "text": "Sword"
+          },
+          {
+            "id": "gam_055_opt_4",
+            "text": "Bow"
+          },
+          {
+            "id": "gam_055_opt_5",
+            "text": "Magic Spells"
+          },
+          {
+            "id": "gam_055_opt_6",
+            "text": "Rocket Launcher"
+          }
+        ],
+        "text": "Ulubiony typ broni w grach?"
+      },
+      {
+        "id": "gam_056",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_056_opt_1",
+            "text": "PC"
+          },
+          {
+            "id": "gam_056_opt_2",
+            "text": "Xbox"
+          },
+          {
+            "id": "gam_056_opt_3",
+            "text": "PlayStation"
+          },
+          {
+            "id": "gam_056_opt_4",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_056_opt_5",
+            "text": "Mobile"
+          },
+          {
+            "id": "gam_056_opt_6",
+            "text": "Retro Consoles"
+          }
+        ],
+        "text": "Najlepsza platforma do grania?"
+      },
+      {
+        "id": "gam_057",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_057_opt_1",
+            "text": "Dark Souls"
+          },
+          {
+            "id": "gam_057_opt_2",
+            "text": "Sekiro"
+          },
+          {
+            "id": "gam_057_opt_3",
+            "text": "Cuphead"
+          },
+          {
+            "id": "gam_057_opt_4",
+            "text": "Getting Over It"
+          },
+          {
+            "id": "gam_057_opt_5",
+            "text": "Minecraft Hardcore"
+          },
+          {
+            "id": "gam_057_opt_6",
+            "text": "Super Meat Boy"
+          }
+        ],
+        "text": "Którą grą najbardziej chwalisz się, że ją ukończyłeś?"
+      },
+      {
+        "id": "gam_058",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_058_opt_1",
+            "text": "The Leader"
+          },
+          {
+            "id": "gam_058_opt_2",
+            "text": "The Tryhard"
+          },
+          {
+            "id": "gam_058_opt_3",
+            "text": "The Troll"
+          },
+          {
+            "id": "gam_058_opt_4",
+            "text": "The Strategist"
+          },
+          {
+            "id": "gam_058_opt_5",
+            "text": "The Noob"
+          },
+          {
+            "id": "gam_058_opt_6",
+            "text": "The Support"
+          }
+        ],
+        "text": "Która rola w grach najbardziej do ciebie pasuje?"
+      },
+      {
+        "id": "gam_059",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_059_opt_1",
+            "text": "Ragequitting"
+          },
+          {
+            "id": "gam_059_opt_2",
+            "text": "Blaming team"
+          },
+          {
+            "id": "gam_059_opt_3",
+            "text": "Camping"
+          },
+          {
+            "id": "gam_059_opt_4",
+            "text": "Always toxic"
+          },
+          {
+            "id": "gam_059_opt_5",
+            "text": "Never healing"
+          },
+          {
+            "id": "gam_059_opt_6",
+            "text": "Trolling"
+          }
+        ],
+        "text": "Najgorszy nawyk gamingowy?"
+      },
+      {
+        "id": "gam_060",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "gam_060_opt_1",
+            "text": "PC"
+          },
+          {
+            "id": "gam_060_opt_2",
+            "text": "Xbox"
+          },
+          {
+            "id": "gam_060_opt_3",
+            "text": "PlayStation"
+          },
+          {
+            "id": "gam_060_opt_4",
+            "text": "Nintendo"
+          },
+          {
+            "id": "gam_060_opt_5",
+            "text": "Mobile"
+          },
+          {
+            "id": "gam_060_opt_6",
+            "text": "Retro Consoles"
+          }
+        ],
+        "text": "Najlepsza platforma do grania?"
+      },
+      {
+        "id": "gam_061",
+        "type": "players",
+        "options": [],
+        "text": "Kto nigdy nie czyta tutoriali?"
+      },
+      {
+        "id": "gam_062",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najwyższy ranking ELO?"
+      },
+      {
+        "id": "gam_063",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najdziwniejszy nick streamera?"
+      },
+      {
+        "id": "gam_064",
+        "type": "players",
+        "options": [],
+        "text": "Kto ma najlepszy refleks w grach?"
+      },
+      {
+        "id": "gam_065",
+        "type": "players",
+        "options": [],
+        "text": "Kto gra na najłatwiejszym poziomie?"
+      },
+      {
+        "id": "gam_066",
+        "type": "players",
+        "options": [],
+        "text": "Kto zawsze jest ciągnięty przez innych?"
+      },
+      {
+        "id": "gam_067",
+        "type": "players",
+        "options": [],
+        "text": "Kto nigdy nie leczy drużyny?"
+      },
+      {
+        "id": "gam_068",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najwyższy ranking ELO?"
+      },
+      {
+        "id": "gam_069",
+        "type": "players",
+        "options": [],
+        "text": "Kto jest najbardziej uzależniony od grania?"
+      },
+      {
+        "id": "gam_070",
+        "type": "players",
+        "options": [],
+        "text": "Kto zapomina zapisać postęp gry?"
+      },
+      {
+        "id": "gam_071",
+        "type": "players",
+        "options": [],
+        "text": "Kto ogląda najwięcej streamów z gier?"
+      },
+      {
+        "id": "gam_072",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najwyższy ranking ELO?"
+      },
+      {
+        "id": "gam_073",
+        "type": "players",
+        "options": [],
+        "text": "Kto jest najbardziej uzależniony od grania?"
+      },
+      {
+        "id": "gam_074",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najdziwniejszy nick streamera?"
+      },
+      {
+        "id": "gam_075",
+        "type": "players",
+        "options": [],
+        "text": "Kto zawsze testuje nowe gry pierwszy?"
+      },
+      {
+        "id": "gam_076",
+        "type": "players",
+        "options": [],
+        "text": "Kto ma najlepszy refleks w grach?"
+      },
+      {
+        "id": "gam_077",
+        "type": "players",
+        "options": [],
+        "text": "Kto gra na najłatwiejszym poziomie?"
+      },
+      {
+        "id": "gam_078",
+        "type": "players",
+        "options": [],
+        "text": "Kto gra w mobilki całą noc?"
+      },
+      {
+        "id": "gam_079",
+        "type": "players",
+        "options": [],
+        "text": "Kto najszybciej się denerwuje?"
+      },
+      {
+        "id": "gam_080",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najwyższy ranking ELO?"
+      },
+      {
+        "id": "gam_081",
+        "type": "players",
+        "options": [],
+        "text": "Kto ma najlepszy refleks w grach?"
+      },
+      {
+        "id": "gam_082",
+        "type": "players",
+        "options": [],
+        "text": "Kto gra na najłatwiejszym poziomie?"
+      },
+      {
+        "id": "gam_083",
+        "type": "players",
+        "options": [],
+        "text": "Kto najwięcej kampi?"
+      },
+      {
+        "id": "gam_084",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najwyższy ranking ELO?"
+      },
+      {
+        "id": "gam_085",
+        "type": "players",
+        "options": [],
+        "text": "Kto pierwszy ginie w grach horrorowych?"
+      },
+      {
+        "id": "gam_086",
+        "type": "players",
+        "options": [],
+        "text": "Kto zawsze jest ciągnięty przez innych?"
+      },
+      {
+        "id": "gam_087",
+        "type": "players",
+        "options": [],
+        "text": "Kto zawsze jest ciągnięty przez innych?"
+      },
+      {
+        "id": "gam_088",
+        "type": "players",
+        "options": [],
+        "text": "Kto założyłby gaming cafe?"
+      },
+      {
+        "id": "gam_089",
+        "type": "players",
+        "options": [],
+        "text": "Kto kupuje najwięcej skinów?"
+      },
+      {
+        "id": "gam_090",
+        "type": "players",
+        "options": [],
+        "text": "Kto kupuje najwięcej skinów?"
+      },
+      {
+        "id": "gam_091",
+        "type": "players",
+        "options": [],
+        "text": "Kto jest najbardziej uzależniony od grania?"
+      },
+      {
+        "id": "gam_092",
+        "type": "players",
+        "options": [],
+        "text": "Kto zostałby profesjonalnym gamerem?"
+      },
+      {
+        "id": "gam_093",
+        "type": "players",
+        "options": [],
+        "text": "Kto kupuje najwięcej skinów?"
+      },
+      {
+        "id": "gam_094",
+        "type": "players",
+        "options": [],
+        "text": "Kto jest najbardziej uzależniony od grania?"
+      },
+      {
+        "id": "gam_095",
+        "type": "players",
+        "options": [],
+        "text": "Kto zostałby profesjonalnym gamerem?"
+      },
+      {
+        "id": "gam_096",
+        "type": "players",
+        "options": [],
+        "text": "Kto najwięcej kampi?"
+      },
+      {
+        "id": "gam_097",
+        "type": "players",
+        "options": [],
+        "text": "Kto ogląda najwięcej streamów z gier?"
+      },
+      {
+        "id": "gam_098",
+        "type": "players",
+        "options": [],
+        "text": "Kto zawsze testuje nowe gry pierwszy?"
+      },
+      {
+        "id": "gam_099",
+        "type": "players",
+        "options": [],
+        "text": "Kto miałby najdziwniejszy nick streamera?"
+      },
+      {
+        "id": "gam_100",
+        "type": "players",
+        "options": [],
+        "text": "Kto ma najlepszy refleks w grach?"
+      }
+    ]
+  }
+  

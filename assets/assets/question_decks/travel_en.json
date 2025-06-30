@@ -1,0 +1,3527 @@
+{
+    "deck": {
+        "id": "travel",
+        "name": "Travel & Adventure",
+        "description": "Questions about travel experiences, destinations, and wanderlust for adventurous souls.",
+        "category": "travel",
+        "version": "1.0.0",
+        "language": "en"
+    },
+    "questions": [
+        {
+            "id": "trv_001",
+            "text": "What's your dream vacation destination?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "dest_beach",
+                    "text": "Tropical Beach"
+                },
+                {
+                    "id": "dest_mountains",
+                    "text": "Mountain Adventure"
+                },
+                {
+                    "id": "dest_city",
+                    "text": "Famous City"
+                },
+                {
+                    "id": "dest_safari",
+                    "text": "African Safari"
+                },
+                {
+                    "id": "dest_cultural",
+                    "text": "Cultural Heritage Site"
+                },
+                {
+                    "id": "dest_unknown",
+                    "text": "Somewhere Unknown"
+                }
+            ]
+        },
+        {
+            "id": "trv_002",
+            "text": "Who is most likely to get lost while traveling?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_003",
+            "text": "What's your preferred way to travel?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "travel_plane",
+                    "text": "Airplane"
+                },
+                {
+                    "id": "travel_train",
+                    "text": "Train"
+                },
+                {
+                    "id": "travel_car",
+                    "text": "Road Trip"
+                },
+                {
+                    "id": "travel_cruise",
+                    "text": "Cruise Ship"
+                },
+                {
+                    "id": "travel_backpack",
+                    "text": "Backpacking"
+                },
+                {
+                    "id": "travel_bike",
+                    "text": "Motorcycle/Bike"
+                }
+            ]
+        },
+        {
+            "id": "trv_004",
+            "text": "Who would be the best travel companion?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_005",
+            "text": "What's most important when packing?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pack_light",
+                    "text": "Pack Light"
+                },
+                {
+                    "id": "pack_emergency",
+                    "text": "Emergency Kit"
+                },
+                {
+                    "id": "pack_comfort",
+                    "text": "Comfort Items"
+                },
+                {
+                    "id": "pack_tech",
+                    "text": "Electronics & Chargers"
+                },
+                {
+                    "id": "pack_weather",
+                    "text": "Weather Appropriate"
+                },
+                {
+                    "id": "pack_souvenirs",
+                    "text": "Space for Souvenirs"
+                }
+            ]
+        },
+        {
+            "id": "trv_006",
+            "text": "Who is most likely to miss their flight?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_007",
+            "text": "Best accommodation type?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "stay_hotel",
+                    "text": "Luxury Hotel"
+                },
+                {
+                    "id": "stay_hostel",
+                    "text": "Hostel"
+                },
+                {
+                    "id": "stay_airbnb",
+                    "text": "Airbnb/Local Stay"
+                },
+                {
+                    "id": "stay_camping",
+                    "text": "Camping"
+                },
+                {
+                    "id": "stay_resort",
+                    "text": "All-Inclusive Resort"
+                },
+                {
+                    "id": "stay_couch",
+                    "text": "Couchsurfing"
+                }
+            ]
+        },
+        {
+            "id": "trv_008",
+            "text": "Who would try the weirdest local food?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_009",
+            "text": "Worst travel nightmare?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "nightmare_luggage",
+                    "text": "Lost Luggage"
+                },
+                {
+                    "id": "nightmare_sick",
+                    "text": "Getting Sick"
+                },
+                {
+                    "id": "nightmare_language",
+                    "text": "Language Barrier"
+                },
+                {
+                    "id": "nightmare_money",
+                    "text": "Running Out of Money"
+                },
+                {
+                    "id": "nightmare_weather",
+                    "text": "Bad Weather"
+                },
+                {
+                    "id": "nightmare_scam",
+                    "text": "Tourist Scam"
+                }
+            ]
+        },
+        {
+            "id": "trv_010",
+            "text": "Who is most likely to become a travel blogger?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_011",
+            "text": "Who would sleep through their flight announcement?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_012",
+            "text": "What's your favorite travel snack?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "snack_chips",
+                    "text": "Chips"
+                },
+                {
+                    "id": "snack_chocolate",
+                    "text": "Chocolate"
+                },
+                {
+                    "id": "snack_nuts",
+                    "text": "Mixed Nuts"
+                },
+                {
+                    "id": "snack_fruit",
+                    "text": "Fresh Fruit"
+                },
+                {
+                    "id": "snack_sandwiches",
+                    "text": "Sandwiches"
+                },
+                {
+                    "id": "snack_energy",
+                    "text": "Energy Bars"
+                }
+            ]
+        },
+        {
+            "id": "trv_013",
+            "text": "Who would never get lost during a whole trip?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_014",
+            "text": "Best vehicle for a road trip?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "vehicle_suv",
+                    "text": "SUV"
+                },
+                {
+                    "id": "vehicle_rv",
+                    "text": "RV/Camper"
+                },
+                {
+                    "id": "vehicle_convertible",
+                    "text": "Convertible"
+                },
+                {
+                    "id": "vehicle_motorcycle",
+                    "text": "Motorcycle"
+                },
+                {
+                    "id": "vehicle_van",
+                    "text": "Van"
+                },
+                {
+                    "id": "vehicle_truck",
+                    "text": "Pickup Truck"
+                }
+            ]
+        },
+        {
+            "id": "trv_015",
+            "text": "Who was abroad most recently?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_016",
+            "text": "What cuisine would you most want to try?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "cuisine_japanese",
+                    "text": "Japanese"
+                },
+                {
+                    "id": "cuisine_indian",
+                    "text": "Indian"
+                },
+                {
+                    "id": "cuisine_thai",
+                    "text": "Thai"
+                },
+                {
+                    "id": "cuisine_italian",
+                    "text": "Italian"
+                },
+                {
+                    "id": "cuisine_mexican",
+                    "text": "Mexican"
+                },
+                {
+                    "id": "cuisine_french",
+                    "text": "French"
+                }
+            ]
+        },
+        {
+            "id": "trv_017",
+            "text": "Who would travel abroad without a passport?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_018",
+            "text": "Preferred flight class?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "class_economy",
+                    "text": "Economy"
+                },
+                {
+                    "id": "class_premium",
+                    "text": "Premium Economy"
+                },
+                {
+                    "id": "class_business",
+                    "text": "Business Class"
+                },
+                {
+                    "id": "class_first",
+                    "text": "First Class"
+                },
+                {
+                    "id": "class_private",
+                    "text": "Private Jet"
+                },
+                {
+                    "id": "class_budget",
+                    "text": "Budget Airline"
+                }
+            ]
+        },
+        {
+            "id": "trv_019",
+            "text": "Who wouldn't get a US visa?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_020",
+            "text": "What's your travel planning style?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "plan_detailed",
+                    "text": "Detailed Itinerary"
+                },
+                {
+                    "id": "plan_rough",
+                    "text": "Rough Plan"
+                },
+                {
+                    "id": "plan_spontaneous",
+                    "text": "Completely Spontaneous"
+                },
+                {
+                    "id": "plan_bucket",
+                    "text": "Bucket List Focused"
+                },
+                {
+                    "id": "plan_budget",
+                    "text": "Budget First"
+                },
+                {
+                    "id": "plan_weather",
+                    "text": "Follow Good Weather"
+                }
+            ]
+        },
+        {
+            "id": "trv_021",
+            "text": "Who would be the best travel photographer?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_022",
+            "text": "Best time to travel?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "time_spring",
+                    "text": "Spring"
+                },
+                {
+                    "id": "time_summer",
+                    "text": "Summer"
+                },
+                {
+                    "id": "time_autumn",
+                    "text": "Autumn"
+                },
+                {
+                    "id": "time_winter",
+                    "text": "Winter"
+                },
+                {
+                    "id": "time_off_season",
+                    "text": "Off Season"
+                },
+                {
+                    "id": "time_anytime",
+                    "text": "Anytime"
+                }
+            ]
+        },
+        {
+            "id": "trv_023",
+            "text": "Who would forget to book accommodation?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_024",
+            "text": "What's most important in a hotel room?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "hotel_wifi",
+                    "text": "Good WiFi"
+                },
+                {
+                    "id": "hotel_bed",
+                    "text": "Comfortable Bed"
+                },
+                {
+                    "id": "hotel_view",
+                    "text": "Great View"
+                },
+                {
+                    "id": "hotel_bathroom",
+                    "text": "Nice Bathroom"
+                },
+                {
+                    "id": "hotel_location",
+                    "text": "Central Location"
+                },
+                {
+                    "id": "hotel_quiet",
+                    "text": "Quiet Environment"
+                }
+            ]
+        },
+        {
+            "id": "trv_025",
+            "text": "Who would eat street food without hesitation?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_026",
+            "text": "Preferred travel duration?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "duration_weekend",
+                    "text": "Weekend Getaway"
+                },
+                {
+                    "id": "duration_week",
+                    "text": "One Week"
+                },
+                {
+                    "id": "duration_month",
+                    "text": "One Month"
+                },
+                {
+                    "id": "duration_season",
+                    "text": "Whole Season"
+                },
+                {
+                    "id": "duration_year",
+                    "text": "Gap Year"
+                },
+                {
+                    "id": "duration_permanent",
+                    "text": "Digital Nomad Life"
+                }
+            ]
+        },
+        {
+            "id": "trv_027",
+            "text": "Who would book the wrong flight dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_028",
+            "text": "What's your travel entertainment?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "entertainment_books",
+                    "text": "Books"
+                },
+                {
+                    "id": "entertainment_movies",
+                    "text": "Downloaded Movies"
+                },
+                {
+                    "id": "entertainment_music",
+                    "text": "Music Playlists"
+                },
+                {
+                    "id": "entertainment_games",
+                    "text": "Mobile Games"
+                },
+                {
+                    "id": "entertainment_podcasts",
+                    "text": "Podcasts"
+                },
+                {
+                    "id": "entertainment_sleep",
+                    "text": "Just Sleep"
+                }
+            ]
+        },
+        {
+            "id": "trv_029",
+            "text": "Who would make friends with locals everywhere?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_030",
+            "text": "Best souvenir type?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "souvenir_food",
+                    "text": "Local Food"
+                },
+                {
+                    "id": "souvenir_clothes",
+                    "text": "Traditional Clothing"
+                },
+                {
+                    "id": "souvenir_art",
+                    "text": "Local Art"
+                },
+                {
+                    "id": "souvenir_books",
+                    "text": "Books/Maps"
+                },
+                {
+                    "id": "souvenir_jewelry",
+                    "text": "Jewelry"
+                },
+                {
+                    "id": "souvenir_photos",
+                    "text": "Just Photos"
+                }
+            ]
+        },
+        {
+            "id": "trv_031",
+            "text": "Who would spend the most money on vacation?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_032",
+            "text": "Best airport activity while waiting?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "airport_shopping",
+                    "text": "Duty-Free Shopping"
+                },
+                {
+                    "id": "airport_eating",
+                    "text": "Try Airport Food"
+                },
+                {
+                    "id": "airport_lounge",
+                    "text": "Airport Lounge"
+                },
+                {
+                    "id": "airport_work",
+                    "text": "Catch Up on Work"
+                },
+                {
+                    "id": "airport_sleep",
+                    "text": "Find a Quiet Spot to Sleep"
+                },
+                {
+                    "id": "airport_people",
+                    "text": "People Watching"
+                }
+            ]
+        },
+        {
+            "id": "trv_033",
+            "text": "Who would get sick from trying exotic food?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_034",
+            "text": "What's your travel budget priority?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "budget_accommodation",
+                    "text": "Nice Accommodation"
+                },
+                {
+                    "id": "budget_food",
+                    "text": "Great Food Experiences"
+                },
+                {
+                    "id": "budget_activities",
+                    "text": "Activities & Tours"
+                },
+                {
+                    "id": "budget_transport",
+                    "text": "Comfortable Transport"
+                },
+                {
+                    "id": "budget_shopping",
+                    "text": "Shopping & Souvenirs"
+                },
+                {
+                    "id": "budget_emergency",
+                    "text": "Emergency Fund"
+                }
+            ]
+        },
+        {
+            "id": "trv_035",
+            "text": "Who would pack everything at the last minute?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_036",
+            "text": "Ideal vacation weather?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "weather_sunny",
+                    "text": "Sunny & Warm"
+                },
+                {
+                    "id": "weather_mild",
+                    "text": "Mild & Breezy"
+                },
+                {
+                    "id": "weather_cool",
+                    "text": "Cool & Crisp"
+                },
+                {
+                    "id": "weather_snowy",
+                    "text": "Snowy & Cold"
+                },
+                {
+                    "id": "weather_rainy",
+                    "text": "Rainy & Cozy"
+                },
+                {
+                    "id": "weather_varied",
+                    "text": "Varied & Changing"
+                }
+            ]
+        },
+        {
+            "id": "trv_037",
+            "text": "Who would learn the local language before traveling?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_038",
+            "text": "What's your travel photography focus?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "photo_landmarks",
+                    "text": "Famous Landmarks"
+                },
+                {
+                    "id": "photo_food",
+                    "text": "Local Food"
+                },
+                {
+                    "id": "photo_people",
+                    "text": "Local People"
+                },
+                {
+                    "id": "photo_nature",
+                    "text": "Natural Landscapes"
+                },
+                {
+                    "id": "photo_architecture",
+                    "text": "Architecture"
+                },
+                {
+                    "id": "photo_selfies",
+                    "text": "Selfies Everywhere"
+                }
+            ]
+        },
+        {
+            "id": "trv_039",
+            "text": "Who would get the most jet lag?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_040",
+            "text": "Best way to meet people while traveling?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "meet_tours",
+                    "text": "Group Tours"
+                },
+                {
+                    "id": "meet_hostels",
+                    "text": "Hostels"
+                },
+                {
+                    "id": "meet_bars",
+                    "text": "Local Bars"
+                },
+                {
+                    "id": "meet_apps",
+                    "text": "Travel Apps"
+                },
+                {
+                    "id": "meet_activities",
+                    "text": "Local Activities"
+                },
+                {
+                    "id": "meet_random",
+                    "text": "Random Encounters"
+                }
+            ]
+        },
+        {
+            "id": "trv_041",
+            "text": "Who would bring the most unnecessary items?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_042",
+            "text": "Preferred travel group size?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "group_solo",
+                    "text": "Solo Travel"
+                },
+                {
+                    "id": "group_couple",
+                    "text": "Just Me & Partner"
+                },
+                {
+                    "id": "group_small",
+                    "text": "Small Group (3-5)"
+                },
+                {
+                    "id": "group_medium",
+                    "text": "Medium Group (6-10)"
+                },
+                {
+                    "id": "group_large",
+                    "text": "Large Group (10+)"
+                },
+                {
+                    "id": "group_family",
+                    "text": "Family Trip"
+                }
+            ]
+        },
+        {
+            "id": "trv_043",
+            "text": "Who would hitchhike in a foreign country?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_044",
+            "text": "What's your travel transportation priority?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "transport_speed",
+                    "text": "Speed"
+                },
+                {
+                    "id": "transport_comfort",
+                    "text": "Comfort"
+                },
+                {
+                    "id": "transport_cost",
+                    "text": "Low Cost"
+                },
+                {
+                    "id": "transport_experience",
+                    "text": "Unique Experience"
+                },
+                {
+                    "id": "transport_environmental",
+                    "text": "Eco-Friendly"
+                },
+                {
+                    "id": "transport_scenic",
+                    "text": "Scenic Route"
+                }
+            ]
+        },
+        {
+            "id": "trv_045",
+            "text": "Who would get lost in their own hotel?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_046",
+            "text": "Best travel memory type?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "memory_adventure",
+                    "text": "Adventure Experience"
+                },
+                {
+                    "id": "memory_cultural",
+                    "text": "Cultural Discovery"
+                },
+                {
+                    "id": "memory_food",
+                    "text": "Amazing Food"
+                },
+                {
+                    "id": "memory_people",
+                    "text": "Meeting Great People"
+                },
+                {
+                    "id": "memory_view",
+                    "text": "Breathtaking View"
+                },
+                {
+                    "id": "memory_unexpected",
+                    "text": "Unexpected Surprise"
+                }
+            ]
+        },
+        {
+            "id": "trv_047",
+            "text": "Who would travel with the heaviest suitcase?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_048",
+            "text": "What's your travel research method?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "research_guides",
+                    "text": "Travel Guidebooks"
+                },
+                {
+                    "id": "research_blogs",
+                    "text": "Travel Blogs"
+                },
+                {
+                    "id": "research_social",
+                    "text": "Social Media"
+                },
+                {
+                    "id": "research_friends",
+                    "text": "Friends' Recommendations"
+                },
+                {
+                    "id": "research_reviews",
+                    "text": "Online Reviews"
+                },
+                {
+                    "id": "research_none",
+                    "text": "No Research, Wing It"
+                }
+            ]
+        },
+        {
+            "id": "trv_049",
+            "text": "Who would fall asleep on public transport?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_050",
+            "text": "Best way to deal with language barriers?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "language_app",
+                    "text": "Translation App"
+                },
+                {
+                    "id": "language_gestures",
+                    "text": "Hand Gestures"
+                },
+                {
+                    "id": "language_basic",
+                    "text": "Learn Basic Phrases"
+                },
+                {
+                    "id": "language_guide",
+                    "text": "Hire Local Guide"
+                },
+                {
+                    "id": "language_drawing",
+                    "text": "Draw Pictures"
+                },
+                {
+                    "id": "language_smile",
+                    "text": "Smile & Hope"
+                }
+            ]
+        },
+        {
+            "id": "trv_051",
+            "text": "Who would get scammed by a taxi driver?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_052",
+            "text": "Best train journey experience?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "train_orient",
+                    "text": "Orient Express"
+                },
+                {
+                    "id": "train_trans_siberian",
+                    "text": "Trans-Siberian Railway"
+                },
+                {
+                    "id": "train_scenic",
+                    "text": "Scenic Mountain Route"
+                },
+                {
+                    "id": "train_bullet",
+                    "text": "Japanese Bullet Train"
+                },
+                {
+                    "id": "train_overnight",
+                    "text": "Overnight Sleeper"
+                },
+                {
+                    "id": "train_local",
+                    "text": "Local Commuter Experience"
+                }
+            ]
+        },
+        {
+            "id": "trv_053",
+            "text": "Who would try bungee jumping without hesitation?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_054",
+            "text": "Most interesting local market find?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "market_spices",
+                    "text": "Exotic Spices"
+                },
+                {
+                    "id": "market_crafts",
+                    "text": "Handmade Crafts"
+                },
+                {
+                    "id": "market_vintage",
+                    "text": "Vintage Items"
+                },
+                {
+                    "id": "market_food",
+                    "text": "Strange Food"
+                },
+                {
+                    "id": "market_textiles",
+                    "text": "Local Textiles"
+                },
+                {
+                    "id": "market_antiques",
+                    "text": "Antiques"
+                }
+            ]
+        },
+        {
+            "id": "trv_055",
+            "text": "Who would get homesick the fastest?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_056",
+            "text": "Best cruise ship activity?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "cruise_dining",
+                    "text": "Fine Dining"
+                },
+                {
+                    "id": "cruise_shows",
+                    "text": "Entertainment Shows"
+                },
+                {
+                    "id": "cruise_deck",
+                    "text": "Relaxing on Deck"
+                },
+                {
+                    "id": "cruise_pool",
+                    "text": "Pool & Hot Tub"
+                },
+                {
+                    "id": "cruise_casino",
+                    "text": "Casino"
+                },
+                {
+                    "id": "cruise_shore",
+                    "text": "Shore Excursions"
+                }
+            ]
+        },
+        {
+            "id": "trv_057",
+            "text": "Who would accidentally book a hostel instead of a hotel?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_058",
+            "text": "Best exotic food to try?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "exotic_insects",
+                    "text": "Edible Insects"
+                },
+                {
+                    "id": "exotic_durian",
+                    "text": "Durian Fruit"
+                },
+                {
+                    "id": "exotic_haggis",
+                    "text": "Scottish Haggis"
+                },
+                {
+                    "id": "exotic_fermented",
+                    "text": "Fermented Fish"
+                },
+                {
+                    "id": "exotic_blood",
+                    "text": "Blood Sausage"
+                },
+                {
+                    "id": "exotic_eyeball",
+                    "text": "Fish Eyeball Soup"
+                }
+            ]
+        },
+        {
+            "id": "trv_059",
+            "text": "Who would get lost using GPS?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_060",
+            "text": "Preferred camping style?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "camp_tent",
+                    "text": "Traditional Tent"
+                },
+                {
+                    "id": "camp_rv",
+                    "text": "RV/Motorhome"
+                },
+                {
+                    "id": "camp_cabin",
+                    "text": "Rustic Cabin"
+                },
+                {
+                    "id": "camp_glamping",
+                    "text": "Glamping"
+                },
+                {
+                    "id": "camp_hammock",
+                    "text": "Hammock under Stars"
+                },
+                {
+                    "id": "camp_car",
+                    "text": "Sleep in Car"
+                }
+            ]
+        },
+        {
+            "id": "trv_061",
+            "text": "Who would lose their passport on the first day?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_062",
+            "text": "Best beach activity?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "beach_swimming",
+                    "text": "Swimming"
+                },
+                {
+                    "id": "beach_sunbathing",
+                    "text": "Sunbathing"
+                },
+                {
+                    "id": "beach_volleyball",
+                    "text": "Beach Volleyball"
+                },
+                {
+                    "id": "beach_diving",
+                    "text": "Snorkeling/Diving"
+                },
+                {
+                    "id": "beach_walking",
+                    "text": "Beach Walking"
+                },
+                {
+                    "id": "beach_reading",
+                    "text": "Reading a Book"
+                }
+            ]
+        },
+        {
+            "id": "trv_063",
+            "text": "Who would drink tap water in every country?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_064",
+            "text": "Best mountain activity?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "mountain_hiking",
+                    "text": "Hiking"
+                },
+                {
+                    "id": "mountain_skiing",
+                    "text": "Skiing/Snowboarding"
+                },
+                {
+                    "id": "mountain_climbing",
+                    "text": "Rock Climbing"
+                },
+                {
+                    "id": "mountain_cable",
+                    "text": "Cable Car Rides"
+                },
+                {
+                    "id": "mountain_photography",
+                    "text": "Photography"
+                },
+                {
+                    "id": "mountain_meditation",
+                    "text": "Meditation & Reflection"
+                }
+            ]
+        },
+        {
+            "id": "trv_065",
+            "text": "Who would accidentally enter the wrong country?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_066",
+            "text": "Best travel app?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "app_maps",
+                    "text": "Maps & Navigation"
+                },
+                {
+                    "id": "app_translate",
+                    "text": "Translation"
+                },
+                {
+                    "id": "app_currency",
+                    "text": "Currency Converter"
+                },
+                {
+                    "id": "app_weather",
+                    "text": "Weather"
+                },
+                {
+                    "id": "app_booking",
+                    "text": "Hotel Booking"
+                },
+                {
+                    "id": "app_reviews",
+                    "text": "Restaurant Reviews"
+                }
+            ]
+        },
+        {
+            "id": "trv_067",
+            "text": "Who would try to haggle for everything?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_068",
+            "text": "Worst tourist behavior?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tourist_loud",
+                    "text": "Being Too Loud"
+                },
+                {
+                    "id": "tourist_disrespect",
+                    "text": "Disrespecting Culture"
+                },
+                {
+                    "id": "tourist_littering",
+                    "text": "Littering"
+                },
+                {
+                    "id": "tourist_demanding",
+                    "text": "Demanding Everything in English"
+                },
+                {
+                    "id": "tourist_photos",
+                    "text": "Taking Inappropriate Photos"
+                },
+                {
+                    "id": "tourist_drunk",
+                    "text": "Getting Too Drunk"
+                }
+            ]
+        },
+        {
+            "id": "trv_069",
+            "text": "Who would become best friends with hotel staff?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_070",
+            "text": "Best travel season?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "season_spring",
+                    "text": "Spring Blooms"
+                },
+                {
+                    "id": "season_summer",
+                    "text": "Summer Heat"
+                },
+                {
+                    "id": "season_autumn",
+                    "text": "Autumn Colors"
+                },
+                {
+                    "id": "season_winter",
+                    "text": "Winter Wonderland"
+                },
+                {
+                    "id": "season_shoulder",
+                    "text": "Shoulder Season"
+                },
+                {
+                    "id": "season_monsoon",
+                    "text": "Monsoon Adventure"
+                }
+            ]
+        },
+        {
+            "id": "trv_071",
+            "text": "Who would accidentally go to the wrong terminal?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_072",
+            "text": "Best European city break?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "euro_paris",
+                    "text": "Paris"
+                },
+                {
+                    "id": "euro_rome",
+                    "text": "Rome"
+                },
+                {
+                    "id": "euro_barcelona",
+                    "text": "Barcelona"
+                },
+                {
+                    "id": "euro_amsterdam",
+                    "text": "Amsterdam"
+                },
+                {
+                    "id": "euro_prague",
+                    "text": "Prague"
+                },
+                {
+                    "id": "euro_budapest",
+                    "text": "Budapest"
+                }
+            ]
+        },
+        {
+            "id": "trv_073",
+            "text": "Who would survive the longest in the wilderness?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_074",
+            "text": "Best Asian destination?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "asia_japan",
+                    "text": "Japan"
+                },
+                {
+                    "id": "asia_thailand",
+                    "text": "Thailand"
+                },
+                {
+                    "id": "asia_india",
+                    "text": "India"
+                },
+                {
+                    "id": "asia_vietnam",
+                    "text": "Vietnam"
+                },
+                {
+                    "id": "asia_indonesia",
+                    "text": "Indonesia"
+                },
+                {
+                    "id": "asia_south_korea",
+                    "text": "South Korea"
+                }
+            ]
+        },
+        {
+            "id": "trv_075",
+            "text": "Who would buy the most useless souvenir?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_076",
+            "text": "Best African safari experience?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "safari_kenya",
+                    "text": "Kenya's Masai Mara"
+                },
+                {
+                    "id": "safari_tanzania",
+                    "text": "Tanzania's Serengeti"
+                },
+                {
+                    "id": "safari_south_africa",
+                    "text": "South Africa's Kruger"
+                },
+                {
+                    "id": "safari_botswana",
+                    "text": "Botswana's Okavango"
+                },
+                {
+                    "id": "safari_namibia",
+                    "text": "Namibia's Desert"
+                },
+                {
+                    "id": "safari_zambia",
+                    "text": "Zambia's Walking Safari"
+                }
+            ]
+        },
+        {
+            "id": "trv_077",
+            "text": "Who would forget to check visa requirements?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_078",
+            "text": "Best South American adventure?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "sa_machu_picchu",
+                    "text": "Machu Picchu, Peru"
+                },
+                {
+                    "id": "sa_amazon",
+                    "text": "Amazon Rainforest"
+                },
+                {
+                    "id": "sa_patagonia",
+                    "text": "Patagonia"
+                },
+                {
+                    "id": "sa_iguazu",
+                    "text": "Iguazu Falls"
+                },
+                {
+                    "id": "sa_galapagos",
+                    "text": "Galapagos Islands"
+                },
+                {
+                    "id": "sa_rio",
+                    "text": "Rio de Janeiro"
+                }
+            ]
+        },
+        {
+            "id": "trv_079",
+            "text": "Who would get food poisoning abroad?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_080",
+            "text": "Best mode of transport in cities?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "city_metro",
+                    "text": "Metro/Subway"
+                },
+                {
+                    "id": "city_bus",
+                    "text": "Local Bus"
+                },
+                {
+                    "id": "city_taxi",
+                    "text": "Taxi/Uber"
+                },
+                {
+                    "id": "city_bike",
+                    "text": "Bicycle Rental"
+                },
+                {
+                    "id": "city_walking",
+                    "text": "Walking"
+                },
+                {
+                    "id": "city_scooter",
+                    "text": "Electric Scooter"
+                }
+            ]
+        },
+        {
+            "id": "trv_081",
+            "text": "Who would pack winter clothes for a tropical trip?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_082",
+            "text": "Best travel documentary to watch?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "doc_planet_earth",
+                    "text": "Planet Earth"
+                },
+                {
+                    "id": "doc_anthony_bourdain",
+                    "text": "Anthony Bourdain Shows"
+                },
+                {
+                    "id": "doc_lonely_planet",
+                    "text": "Travel Channel"
+                },
+                {
+                    "id": "doc_vice",
+                    "text": "VICE Travel"
+                },
+                {
+                    "id": "doc_rick_steves",
+                    "text": "Rick Steves' Europe"
+                },
+                {
+                    "id": "doc_travel_man",
+                    "text": "Travel Man"
+                }
+            ]
+        },
+        {
+            "id": "trv_083",
+            "text": "Who would try to communicate only with Google Translate?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_084",
+            "text": "Most overrated tourist destination?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "overrated_times_square",
+                    "text": "Times Square"
+                },
+                {
+                    "id": "overrated_mona_lisa",
+                    "text": "Mona Lisa"
+                },
+                {
+                    "id": "overrated_hollywood",
+                    "text": "Hollywood Walk of Fame"
+                },
+                {
+                    "id": "overrated_pisa",
+                    "text": "Leaning Tower of Pisa"
+                },
+                {
+                    "id": "overrated_mermaid",
+                    "text": "Little Mermaid Statue"
+                },
+                {
+                    "id": "overrated_stonehenge",
+                    "text": "Stonehenge"
+                }
+            ]
+        },
+        {
+            "id": "trv_085",
+            "text": "Who would become a digital nomad?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_086",
+            "text": "Best travel credit card benefit?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "credit_miles",
+                    "text": "Free Miles/Points"
+                },
+                {
+                    "id": "credit_lounge",
+                    "text": "Airport Lounge Access"
+                },
+                {
+                    "id": "credit_no_fees",
+                    "text": "No Foreign Transaction Fees"
+                },
+                {
+                    "id": "credit_insurance",
+                    "text": "Travel Insurance"
+                },
+                {
+                    "id": "credit_upgrades",
+                    "text": "Free Upgrades"
+                },
+                {
+                    "id": "credit_baggage",
+                    "text": "Free Checked Bags"
+                }
+            ]
+        },
+        {
+            "id": "trv_087",
+            "text": "Who would get detained at customs?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_088",
+            "text": "Best travel TV show?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tv_top_gear",
+                    "text": "Top Gear Specials"
+                },
+                {
+                    "id": "tv_globe_trekker",
+                    "text": "Globe Trekker"
+                },
+                {
+                    "id": "tv_amazing_race",
+                    "text": "The Amazing Race"
+                },
+                {
+                    "id": "tv_idiot_abroad",
+                    "text": "An Idiot Abroad"
+                },
+                {
+                    "id": "tv_long_way",
+                    "text": "Long Way Round/Down"
+                },
+                {
+                    "id": "tv_human_planet",
+                    "text": "Human Planet"
+                }
+            ]
+        },
+        {
+            "id": "trv_089",
+            "text": "Who would try to bring exotic animals home?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_090",
+            "text": "Best travel insurance coverage?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "insurance_medical",
+                    "text": "Medical Emergencies"
+                },
+                {
+                    "id": "insurance_trip",
+                    "text": "Trip Cancellation"
+                },
+                {
+                    "id": "insurance_baggage",
+                    "text": "Lost Baggage"
+                },
+                {
+                    "id": "insurance_evacuation",
+                    "text": "Emergency Evacuation"
+                },
+                {
+                    "id": "insurance_adventure",
+                    "text": "Adventure Sports"
+                },
+                {
+                    "id": "insurance_rental",
+                    "text": "Rental Car"
+                }
+            ]
+        },
+        {
+            "id": "trv_091",
+            "text": "Who would get lost in their own neighborhood abroad?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_092",
+            "text": "Best travel podcast?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "podcast_travel_tales",
+                    "text": "Travel Tales"
+                },
+                {
+                    "id": "podcast_amateur",
+                    "text": "Amateur Traveler"
+                },
+                {
+                    "id": "podcast_zero_to_travel",
+                    "text": "Zero to Travel"
+                },
+                {
+                    "id": "podcast_world_wanderers",
+                    "text": "World Wanderers"
+                },
+                {
+                    "id": "podcast_nomad",
+                    "text": "The Nomad Stories"
+                },
+                {
+                    "id": "podcast_off_track",
+                    "text": "Off Track Travel"
+                }
+            ]
+        },
+        {
+            "id": "trv_093",
+            "text": "Who would forget to turn off roaming charges?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_094",
+            "text": "Best time of day to travel?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "time_early_morning",
+                    "text": "Early Morning"
+                },
+                {
+                    "id": "time_mid_morning",
+                    "text": "Mid Morning"
+                },
+                {
+                    "id": "time_afternoon",
+                    "text": "Afternoon"
+                },
+                {
+                    "id": "time_evening",
+                    "text": "Evening"
+                },
+                {
+                    "id": "time_night",
+                    "text": "Night"
+                },
+                {
+                    "id": "time_red_eye",
+                    "text": "Red-Eye Flight"
+                }
+            ]
+        },
+        {
+            "id": "trv_095",
+            "text": "Who would accidentally join a tour in the wrong language?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_096",
+            "text": "Best travel book genre?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "book_memoir",
+                    "text": "Travel Memoirs"
+                },
+                {
+                    "id": "book_guides",
+                    "text": "Travel Guides"
+                },
+                {
+                    "id": "book_fiction",
+                    "text": "Location-Based Fiction"
+                },
+                {
+                    "id": "book_history",
+                    "text": "Historical Travel"
+                },
+                {
+                    "id": "book_adventure",
+                    "text": "Adventure Stories"
+                },
+                {
+                    "id": "book_culture",
+                    "text": "Cultural Exploration"
+                }
+            ]
+        },
+        {
+            "id": "trv_097",
+            "text": "Who would get sick from airplane food?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_098",
+            "text": "Best airline amenity?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "airline_entertainment",
+                    "text": "In-Flight Entertainment"
+                },
+                {
+                    "id": "airline_wifi",
+                    "text": "Free WiFi"
+                },
+                {
+                    "id": "airline_food",
+                    "text": "Good Food"
+                },
+                {
+                    "id": "airline_seats",
+                    "text": "Comfortable Seats"
+                },
+                {
+                    "id": "airline_service",
+                    "text": "Friendly Service"
+                },
+                {
+                    "id": "airline_legroom",
+                    "text": "Extra Legroom"
+                }
+            ]
+        },
+        {
+            "id": "trv_099",
+            "text": "Who would try to fit their entire wardrobe in carry-on?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_100",
+            "text": "Best solo travel destination?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "solo_iceland",
+                    "text": "Iceland"
+                },
+                {
+                    "id": "solo_new_zealand",
+                    "text": "New Zealand"
+                },
+                {
+                    "id": "solo_japan",
+                    "text": "Japan"
+                },
+                {
+                    "id": "solo_netherlands",
+                    "text": "Netherlands"
+                },
+                {
+                    "id": "solo_australia",
+                    "text": "Australia"
+                },
+                {
+                    "id": "solo_singapore",
+                    "text": "Singapore"
+                }
+            ]
+        },
+        {
+            "id": "trv_101",
+            "text": "Who would forget their phone charger every trip?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_102",
+            "text": "Best North American road trip?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "na_route66",
+                    "text": "Route 66"
+                },
+                {
+                    "id": "na_pacific_coast",
+                    "text": "Pacific Coast Highway"
+                },
+                {
+                    "id": "na_blue_ridge",
+                    "text": "Blue Ridge Parkway"
+                },
+                {
+                    "id": "na_alaska",
+                    "text": "Alaska Highway"
+                },
+                {
+                    "id": "na_canadian_rockies",
+                    "text": "Canadian Rockies"
+                },
+                {
+                    "id": "na_great_lakes",
+                    "text": "Great Lakes Circle"
+                }
+            ]
+        },
+        {
+            "id": "trv_103",
+            "text": "Who would book accommodation in the wrong city?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_104",
+            "text": "Best island getaway?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "island_maldives",
+                    "text": "Maldives"
+                },
+                {
+                    "id": "island_hawaii",
+                    "text": "Hawaii"
+                },
+                {
+                    "id": "island_bali",
+                    "text": "Bali"
+                },
+                {
+                    "id": "island_santorini",
+                    "text": "Santorini"
+                },
+                {
+                    "id": "island_fiji",
+                    "text": "Fiji"
+                },
+                {
+                    "id": "island_caribbean",
+                    "text": "Caribbean Islands"
+                }
+            ]
+        },
+        {
+            "id": "trv_105",
+            "text": "Who would get sunburned on their first day?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_106",
+            "text": "Best winter destination?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "winter_lapland",
+                    "text": "Lapland, Finland"
+                },
+                {
+                    "id": "winter_banff",
+                    "text": "Banff, Canada"
+                },
+                {
+                    "id": "winter_patagonia",
+                    "text": "Patagonia"
+                },
+                {
+                    "id": "winter_hokkaido",
+                    "text": "Hokkaido, Japan"
+                },
+                {
+                    "id": "winter_iceland",
+                    "text": "Iceland"
+                },
+                {
+                    "id": "winter_antarctica",
+                    "text": "Antarctica"
+                }
+            ]
+        },
+        {
+            "id": "trv_107",
+            "text": "Who would accidentally book a flight for the wrong month?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_108",
+            "text": "Best city for food lovers?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "food_tokyo",
+                    "text": "Tokyo"
+                },
+                {
+                    "id": "food_paris",
+                    "text": "Paris"
+                },
+                {
+                    "id": "food_bangkok",
+                    "text": "Bangkok"
+                },
+                {
+                    "id": "food_mumbai",
+                    "text": "Mumbai"
+                },
+                {
+                    "id": "food_istanbul",
+                    "text": "Istanbul"
+                },
+                {
+                    "id": "food_lima",
+                    "text": "Lima"
+                }
+            ]
+        },
+        {
+            "id": "trv_109",
+            "text": "Who would take the most bathroom breaks during a road trip?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_110",
+            "text": "Best adventure sport to try while traveling?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "adventure_bungee",
+                    "text": "Bungee Jumping"
+                },
+                {
+                    "id": "adventure_skydiving",
+                    "text": "Skydiving"
+                },
+                {
+                    "id": "adventure_whitewater",
+                    "text": "Whitewater Rafting"
+                },
+                {
+                    "id": "adventure_paragliding",
+                    "text": "Paragliding"
+                },
+                {
+                    "id": "adventure_ziplining",
+                    "text": "Zip Lining"
+                },
+                {
+                    "id": "adventure_shark_diving",
+                    "text": "Shark Cage Diving"
+                }
+            ]
+        },
+        {
+            "id": "trv_111",
+            "text": "Who would get motion sickness on any form of transport?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_112",
+            "text": "Best way to document your travels?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "document_journal",
+                    "text": "Travel Journal"
+                },
+                {
+                    "id": "document_photos",
+                    "text": "Photography"
+                },
+                {
+                    "id": "document_video",
+                    "text": "Video Blog"
+                },
+                {
+                    "id": "document_social",
+                    "text": "Social Media Posts"
+                },
+                {
+                    "id": "document_blog",
+                    "text": "Travel Blog"
+                },
+                {
+                    "id": "document_scrapbook",
+                    "text": "Physical Scrapbook"
+                }
+            ]
+        },
+        {
+            "id": "trv_113",
+            "text": "Who would lose their luggage claim ticket?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_114",
+            "text": "Best cultural experience while traveling?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "culture_festivals",
+                    "text": "Local Festivals"
+                },
+                {
+                    "id": "culture_cooking",
+                    "text": "Cooking Classes"
+                },
+                {
+                    "id": "culture_language",
+                    "text": "Language Exchange"
+                },
+                {
+                    "id": "culture_homestay",
+                    "text": "Homestay Experience"
+                },
+                {
+                    "id": "culture_art",
+                    "text": "Art Workshops"
+                },
+                {
+                    "id": "culture_music",
+                    "text": "Traditional Music Shows"
+                }
+            ]
+        },
+        {
+            "id": "trv_115",
+            "text": "Who would get altitude sickness in the mountains?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_116",
+            "text": "Best way to save money while traveling?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "save_hostels",
+                    "text": "Stay in Hostels"
+                },
+                {
+                    "id": "save_local_food",
+                    "text": "Eat Local Street Food"
+                },
+                {
+                    "id": "save_public_transport",
+                    "text": "Use Public Transport"
+                },
+                {
+                    "id": "save_free_activities",
+                    "text": "Free Walking Tours"
+                },
+                {
+                    "id": "save_off_season",
+                    "text": "Travel Off-Season"
+                },
+                {
+                    "id": "save_work_exchange",
+                    "text": "Work Exchange Programs"
+                }
+            ]
+        },
+        {
+            "id": "trv_117",
+            "text": "Who would try to bargain at a fixed-price store?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_118",
+            "text": "Best festival to experience while traveling?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "festival_carnival",
+                    "text": "Rio Carnival"
+                },
+                {
+                    "id": "festival_oktoberfest",
+                    "text": "Oktoberfest"
+                },
+                {
+                    "id": "festival_holi",
+                    "text": "Holi Festival"
+                },
+                {
+                    "id": "festival_burning_man",
+                    "text": "Burning Man"
+                },
+                {
+                    "id": "festival_cherry_blossom",
+                    "text": "Cherry Blossom Festival"
+                },
+                {
+                    "id": "festival_day_of_dead",
+                    "text": "Day of the Dead"
+                }
+            ]
+        },
+        {
+            "id": "trv_119",
+            "text": "Who would accidentally eat something they're allergic to?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_120",
+            "text": "Best natural wonder to visit?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "wonder_northern_lights",
+                    "text": "Northern Lights"
+                },
+                {
+                    "id": "wonder_grand_canyon",
+                    "text": "Grand Canyon"
+                },
+                {
+                    "id": "wonder_great_barrier_reef",
+                    "text": "Great Barrier Reef"
+                },
+                {
+                    "id": "wonder_victoria_falls",
+                    "text": "Victoria Falls"
+                },
+                {
+                    "id": "wonder_mount_everest",
+                    "text": "Mount Everest"
+                },
+                {
+                    "id": "wonder_amazon",
+                    "text": "Amazon Rainforest"
+                }
+            ]
+        },
+        {
+            "id": "trv_121",
+            "text": "Who would get locked out of their hotel room?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_122",
+            "text": "Best type of guided tour?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tour_walking",
+                    "text": "Walking Tour"
+                },
+                {
+                    "id": "tour_bus",
+                    "text": "Bus Tour"
+                },
+                {
+                    "id": "tour_bike",
+                    "text": "Bike Tour"
+                },
+                {
+                    "id": "tour_food",
+                    "text": "Food Tour"
+                },
+                {
+                    "id": "tour_historical",
+                    "text": "Historical Tour"
+                },
+                {
+                    "id": "tour_adventure",
+                    "text": "Adventure Tour"
+                }
+            ]
+        },
+        {
+            "id": "trv_123",
+            "text": "Who would tip inappropriately in different cultures?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_124",
+            "text": "Best way to meet locals while traveling?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "locals_markets",
+                    "text": "Local Markets"
+                },
+                {
+                    "id": "locals_classes",
+                    "text": "Take a Class"
+                },
+                {
+                    "id": "locals_volunteering",
+                    "text": "Volunteer Work"
+                },
+                {
+                    "id": "locals_sports",
+                    "text": "Join Local Sports"
+                },
+                {
+                    "id": "locals_couchsurfing",
+                    "text": "Couchsurfing"
+                },
+                {
+                    "id": "locals_cafes",
+                    "text": "Hang Out in Cafes"
+                }
+            ]
+        },
+        {
+            "id": "trv_125",
+            "text": "Who would accidentally board the wrong bus?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_126",
+            "text": "Best travel milestone to celebrate?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "milestone_first_solo",
+                    "text": "First Solo Trip"
+                },
+                {
+                    "id": "milestone_sixth_continent",
+                    "text": "Visiting 6th Continent"
+                },
+                {
+                    "id": "milestone_hundredth_country",
+                    "text": "100th Country"
+                },
+                {
+                    "id": "milestone_round_world",
+                    "text": "Around the World Trip"
+                },
+                {
+                    "id": "milestone_year_traveling",
+                    "text": "One Year Traveling"
+                },
+                {
+                    "id": "milestone_passport_full",
+                    "text": "Filling Up Your Passport"
+                }
+            ]
+        },
+        {
+            "id": "trv_127",
+            "text": "Who would get scammed buying fake designer goods?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_128",
+            "text": "Best bucket list destination?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bucket_antarctica",
+                    "text": "Antarctica"
+                },
+                {
+                    "id": "bucket_everest_base",
+                    "text": "Everest Base Camp"
+                },
+                {
+                    "id": "bucket_sahara",
+                    "text": "Sahara Desert"
+                },
+                {
+                    "id": "bucket_tibet",
+                    "text": "Tibet"
+                },
+                {
+                    "id": "bucket_north_pole",
+                    "text": "North Pole"
+                },
+                {
+                    "id": "bucket_space",
+                    "text": "Space Tourism"
+                }
+            ]
+        },
+        {
+            "id": "trv_129",
+            "text": "Who would forget to pack underwear?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_130",
+            "text": "Best travel goal for this year?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "goal_new_continent",
+                    "text": "Visit a New Continent"
+                },
+                {
+                    "id": "goal_solo_trip",
+                    "text": "Take a Solo Trip"
+                },
+                {
+                    "id": "goal_language_immersion",
+                    "text": "Language Immersion"
+                },
+                {
+                    "id": "goal_volunteer_abroad",
+                    "text": "Volunteer Abroad"
+                },
+                {
+                    "id": "goal_adventure_sport",
+                    "text": "Try an Adventure Sport"
+                },
+                {
+                    "id": "goal_digital_nomad",
+                    "text": "Become a Digital Nomad"
+                }
+            ]
+        },
+        {
+            "id": "trv_131",
+            "text": "Who would accidentally offend locals with their behavior?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_132",
+            "text": "Best travel memory you could create?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "memory_sunrise",
+                    "text": "Watching Sunrise from a Mountain"
+                },
+                {
+                    "id": "memory_local_family",
+                    "text": "Dinner with a Local Family"
+                },
+                {
+                    "id": "memory_festival",
+                    "text": "Dancing at a Local Festival"
+                },
+                {
+                    "id": "memory_wildlife",
+                    "text": "Close Encounter with Wildlife"
+                },
+                {
+                    "id": "memory_kindness",
+                    "text": "Random Act of Kindness"
+                },
+                {
+                    "id": "memory_overcome_fear",
+                    "text": "Overcoming a Fear"
+                }
+            ]
+        },
+        {
+            "id": "trv_133",
+            "text": "Who would get the worst tan lines?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_134",
+            "text": "Best way to beat jet lag?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "jetlag_sleep_schedule",
+                    "text": "Adjust Sleep Schedule Before"
+                },
+                {
+                    "id": "jetlag_natural_light",
+                    "text": "Get Natural Light"
+                },
+                {
+                    "id": "jetlag_stay_hydrated",
+                    "text": "Stay Hydrated"
+                },
+                {
+                    "id": "jetlag_no_alcohol",
+                    "text": "Avoid Alcohol"
+                },
+                {
+                    "id": "jetlag_melatonin",
+                    "text": "Take Melatonin"
+                },
+                {
+                    "id": "jetlag_power_through",
+                    "text": "Just Power Through It"
+                }
+            ]
+        },
+        {
+            "id": "trv_135",
+            "text": "Who would try to fit way too much into one day?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_136",
+            "text": "Best travel purchase you could make?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "purchase_quality_luggage",
+                    "text": "Quality Luggage"
+                },
+                {
+                    "id": "purchase_travel_insurance",
+                    "text": "Comprehensive Travel Insurance"
+                },
+                {
+                    "id": "purchase_noise_canceling",
+                    "text": "Noise-Canceling Headphones"
+                },
+                {
+                    "id": "purchase_portable_charger",
+                    "text": "Portable Phone Charger"
+                },
+                {
+                    "id": "purchase_universal_adapter",
+                    "text": "Universal Power Adapter"
+                },
+                {
+                    "id": "purchase_first_aid",
+                    "text": "Travel First Aid Kit"
+                }
+            ]
+        },
+        {
+            "id": "trv_137",
+            "text": "Who would accidentally go through customs with something illegal?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_138",
+            "text": "Best travel splurge worth the money?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "splurge_business_class",
+                    "text": "Business Class Flight"
+                },
+                {
+                    "id": "splurge_luxury_hotel",
+                    "text": "One Night in Luxury Hotel"
+                },
+                {
+                    "id": "splurge_private_tour",
+                    "text": "Private Tour Guide"
+                },
+                {
+                    "id": "splurge_helicopter_ride",
+                    "text": "Helicopter Tour"
+                },
+                {
+                    "id": "splurge_michelin_star",
+                    "text": "Michelin Star Restaurant"
+                },
+                {
+                    "id": "splurge_safari_lodge",
+                    "text": "Luxury Safari Lodge"
+                }
+            ]
+        },
+        {
+            "id": "trv_139",
+            "text": "Who would get completely lost without their phone?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_140",
+            "text": "Best travel philosophy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "philosophy_plan_everything",
+                    "text": "Plan Everything in Advance"
+                },
+                {
+                    "id": "philosophy_go_with_flow",
+                    "text": "Go with the Flow"
+                },
+                {
+                    "id": "philosophy_when_in_rome",
+                    "text": "When in Rome, Do as Romans"
+                },
+                {
+                    "id": "philosophy_collect_experiences",
+                    "text": "Collect Experiences, Not Things"
+                },
+                {
+                    "id": "philosophy_leave_no_trace",
+                    "text": "Leave No Trace"
+                },
+                {
+                    "id": "philosophy_embrace_unknown",
+                    "text": "Embrace the Unknown"
+                }
+            ]
+        },
+        {
+            "id": "trv_141",
+            "text": "Who would pack the most unnecessary items?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_142",
+            "text": "Best travel regret to avoid?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "regret_overpacking",
+                    "text": "Overpacking"
+                },
+                {
+                    "id": "regret_no_travel_insurance",
+                    "text": "Not Getting Travel Insurance"
+                },
+                {
+                    "id": "regret_too_rushed",
+                    "text": "Trying to See Too Much"
+                },
+                {
+                    "id": "regret_no_research",
+                    "text": "Not Researching Local Customs"
+                },
+                {
+                    "id": "regret_tourist_traps",
+                    "text": "Only Visiting Tourist Traps"
+                },
+                {
+                    "id": "regret_no_backup_plans",
+                    "text": "Having No Backup Plans"
+                }
+            ]
+        },
+        {
+            "id": "trv_143",
+            "text": "Who would make the best travel companion?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_144",
+            "text": "Best way to make your trip more sustainable?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "sustainable_local_transport",
+                    "text": "Use Local Transportation"
+                },
+                {
+                    "id": "sustainable_longer_stays",
+                    "text": "Stay Longer in Fewer Places"
+                },
+                {
+                    "id": "sustainable_local_business",
+                    "text": "Support Local Businesses"
+                },
+                {
+                    "id": "sustainable_reusable_items",
+                    "text": "Bring Reusable Items"
+                },
+                {
+                    "id": "sustainable_offset_carbon",
+                    "text": "Offset Your Carbon Footprint"
+                },
+                {
+                    "id": "sustainable_volunteer",
+                    "text": "Volunteer for Local Causes"
+                }
+            ]
+        },
+        {
+            "id": "trv_145",
+            "text": "Who would forget to exchange money before traveling?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_146",
+            "text": "Best travel lesson you've learned?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "lesson_flexibility",
+                    "text": "Flexibility is Key"
+                },
+                {
+                    "id": "lesson_pack_light",
+                    "text": "Pack Light, Travel Right"
+                },
+                {
+                    "id": "lesson_trust_gut",
+                    "text": "Trust Your Gut Instinct"
+                },
+                {
+                    "id": "lesson_embrace_discomfort",
+                    "text": "Embrace Discomfort"
+                },
+                {
+                    "id": "lesson_people_are_kind",
+                    "text": "Most People Are Kind"
+                },
+                {
+                    "id": "lesson_journey_matters",
+                    "text": "The Journey Matters Most"
+                }
+            ]
+        },
+        {
+            "id": "trv_147",
+            "text": "Who would argue with immigration officers?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_148",
+            "text": "Best travel mindset to have?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "mindset_curious",
+                    "text": "Stay Curious"
+                },
+                {
+                    "id": "mindset_patient",
+                    "text": "Be Patient"
+                },
+                {
+                    "id": "mindset_grateful",
+                    "text": "Practice Gratitude"
+                },
+                {
+                    "id": "mindset_open_minded",
+                    "text": "Keep an Open Mind"
+                },
+                {
+                    "id": "mindset_present",
+                    "text": "Stay Present"
+                },
+                {
+                    "id": "mindset_adventurous",
+                    "text": "Embrace Adventure"
+                }
+            ]
+        },
+        {
+            "id": "trv_149",
+            "text": "Who would get the most homesick?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_150",
+            "text": "Best end to a perfect trip?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "end_sunset_view",
+                    "text": "Watching Sunset from Perfect Spot"
+                },
+                {
+                    "id": "end_meaningful_conversation",
+                    "text": "Deep Conversation with New Friend"
+                },
+                {
+                    "id": "end_local_celebration",
+                    "text": "Joining Local Celebration"
+                },
+                {
+                    "id": "end_accomplishment",
+                    "text": "Achieving Something You Feared"
+                },
+                {
+                    "id": "end_quiet_reflection",
+                    "text": "Quiet Moment of Reflection"
+                },
+                {
+                    "id": "end_planning_return",
+                    "text": "Already Planning to Return"
+                }
+            ]
+        },
+        {
+            "id": "trv_151",
+            "text": "Who would book the cheapest flight with 3 layovers?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_152",
+            "text": "Best weird food combination you'd try abroad?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "weird_ice_cream_rice",
+                    "text": "Ice Cream with Rice"
+                },
+                {
+                    "id": "weird_chocolate_bacon",
+                    "text": "Chocolate Covered Bacon"
+                },
+                {
+                    "id": "weird_pizza_pineapple",
+                    "text": "Pineapple Pizza (if you hate it)"
+                },
+                {
+                    "id": "weird_fish_ice_cream",
+                    "text": "Fish and Chips Ice Cream"
+                },
+                {
+                    "id": "weird_spicy_chocolate",
+                    "text": "Extremely Spicy Chocolate"
+                },
+                {
+                    "id": "weird_fermented_everything",
+                    "text": "Fermented Everything"
+                }
+            ]
+        },
+        {
+            "id": "trv_153",
+            "text": "Who would accidentally join a protest march?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_154",
+            "text": "Best way to embarrass yourself abroad?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "embarrass_language",
+                    "text": "Mispronouncing Words Badly"
+                },
+                {
+                    "id": "embarrass_gestures",
+                    "text": "Using Wrong Hand Gestures"
+                },
+                {
+                    "id": "embarrass_clothing",
+                    "text": "Inappropriate Clothing"
+                },
+                {
+                    "id": "embarrass_loudness",
+                    "text": "Being Too Loud"
+                },
+                {
+                    "id": "embarrass_photos",
+                    "text": "Taking Photos Where Forbidden"
+                },
+                {
+                    "id": "embarrass_tipping",
+                    "text": "Tipping Incorrectly"
+                }
+            ]
+        },
+        {
+            "id": "trv_155",
+            "text": "Who would get arrested for something innocent abroad?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_156",
+            "text": "Best travel story you wish you had?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "story_met_celebrity",
+                    "text": "Met a Celebrity by Accident"
+                },
+                {
+                    "id": "story_missed_disaster",
+                    "text": "Missed Flight That Had Problems"
+                },
+                {
+                    "id": "story_found_love",
+                    "text": "Found Love in Foreign Country"
+                },
+                {
+                    "id": "story_saved_someone",
+                    "text": "Helped Save Someone's Life"
+                },
+                {
+                    "id": "story_discovered_place",
+                    "text": "Discovered Hidden Paradise"
+                },
+                {
+                    "id": "story_changed_life",
+                    "text": "Experience That Changed Your Life"
+                }
+            ]
+        },
+        {
+            "id": "trv_157",
+            "text": "Who would accidentally eat dog food thinking it's a local delicacy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_158",
+            "text": "Best travel disaster that turned into adventure?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "disaster_missed_flight",
+                    "text": "Missed Flight Led to Better Trip"
+                },
+                {
+                    "id": "disaster_wrong_hotel",
+                    "text": "Wrong Hotel Was Actually Better"
+                },
+                {
+                    "id": "disaster_lost_wallet",
+                    "text": "Lost Wallet, Met Amazing People"
+                },
+                {
+                    "id": "disaster_bad_weather",
+                    "text": "Storm Led to Unique Experience"
+                },
+                {
+                    "id": "disaster_language_barrier",
+                    "text": "Language Mix-up Created Friendship"
+                },
+                {
+                    "id": "disaster_transportation_fail",
+                    "text": "Transport Breakdown = Adventure"
+                }
+            ]
+        },
+        {
+            "id": "trv_159",
+            "text": "Who would try to pet wild animals?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_160",
+            "text": "Best way to ruin a group trip?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "ruin_complain_constantly",
+                    "text": "Complain About Everything"
+                },
+                {
+                    "id": "ruin_never_compromise",
+                    "text": "Never Compromise on Plans"
+                },
+                {
+                    "id": "ruin_always_late",
+                    "text": "Always Be Late"
+                },
+                {
+                    "id": "ruin_hog_bathroom",
+                    "text": "Spend Hours in Bathroom"
+                },
+                {
+                    "id": "ruin_cheap_out",
+                    "text": "Be Extremely Cheap"
+                },
+                {
+                    "id": "ruin_document_everything",
+                    "text": "Document Every Second"
+                }
+            ]
+        },
+        {
+            "id": "trv_161",
+            "text": "Who would get sick from the airplane AC?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_162",
+            "text": "Best travel pickup line in a foreign country?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pickup_lost",
+                    "text": "I'm Lost, Can You Help?"
+                },
+                {
+                    "id": "pickup_translate",
+                    "text": "Can You Translate This Menu?"
+                },
+                {
+                    "id": "pickup_photo",
+                    "text": "Could You Take My Photo?"
+                },
+                {
+                    "id": "pickup_recommendation",
+                    "text": "What's Your Favorite Local Spot?"
+                },
+                {
+                    "id": "pickup_confused_tourist",
+                    "text": "I'm Obviously a Confused Tourist"
+                },
+                {
+                    "id": "pickup_exchange_languages",
+                    "text": "Want to Exchange Languages?"
+                }
+            ]
+        },
+        {
+            "id": "trv_163",
+            "text": "Who would accidentally book a room in a haunted hotel?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_164",
+            "text": "Best travel excuse to get out of work?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "excuse_food_poisoning",
+                    "text": "Severe Food Poisoning"
+                },
+                {
+                    "id": "excuse_flight_delayed",
+                    "text": "Flight Delayed 24 Hours"
+                },
+                {
+                    "id": "excuse_lost_passport",
+                    "text": "Lost Passport at Embassy"
+                },
+                {
+                    "id": "excuse_medical_emergency",
+                    "text": "Family Medical Emergency"
+                },
+                {
+                    "id": "excuse_natural_disaster",
+                    "text": "Natural Disaster"
+                },
+                {
+                    "id": "excuse_visa_issues",
+                    "text": "Visa Problems"
+                }
+            ]
+        },
+        {
+            "id": "trv_165",
+            "text": "Who would fall in love with every tour guide?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_166",
+            "text": "Best way to look like a local?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "local_dress_code",
+                    "text": "Copy Local Dress Style"
+                },
+                {
+                    "id": "local_learn_phrases",
+                    "text": "Learn Basic Phrases"
+                },
+                {
+                    "id": "local_use_transport",
+                    "text": "Use Public Transport"
+                },
+                {
+                    "id": "local_eat_where_locals_eat",
+                    "text": "Eat Where Locals Eat"
+                },
+                {
+                    "id": "local_avoid_tourist_spots",
+                    "text": "Avoid Tourist Spots"
+                },
+                {
+                    "id": "local_walk_confidently",
+                    "text": "Walk Like You Know Where You're Going"
+                }
+            ]
+        },
+        {
+            "id": "trv_167",
+            "text": "Who would accidentally become an internet meme while traveling?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_168",
+            "text": "Best travel skill to master?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "skill_packing",
+                    "text": "Master Packing"
+                },
+                {
+                    "id": "skill_navigation",
+                    "text": "Never Get Lost"
+                },
+                {
+                    "id": "skill_bargaining",
+                    "text": "Bargaining Like a Pro"
+                },
+                {
+                    "id": "skill_languages",
+                    "text": "Quick Language Learning"
+                },
+                {
+                    "id": "skill_cultural_adaptation",
+                    "text": "Cultural Adaptation"
+                },
+                {
+                    "id": "skill_budget_management",
+                    "text": "Budget Management"
+                }
+            ]
+        },
+        {
+            "id": "trv_169",
+            "text": "Who would try to bring a live chicken on the plane?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_170",
+            "text": "Best ridiculous souvenir to buy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "ridiculous_gnome",
+                    "text": "Garden Gnome from Every Country"
+                },
+                {
+                    "id": "ridiculous_magnet",
+                    "text": "Refrigerator Magnet Collection"
+                },
+                {
+                    "id": "ridiculous_shot_glass",
+                    "text": "Shot Glass Even Though You Don't Drink"
+                },
+                {
+                    "id": "ridiculous_snow_globe",
+                    "text": "Snow Globe from Desert Country"
+                },
+                {
+                    "id": "ridiculous_spoon",
+                    "text": "Decorative Spoon Collection"
+                },
+                {
+                    "id": "ridiculous_keychain",
+                    "text": "Keychain for Each City"
+                }
+            ]
+        },
+        {
+            "id": "trv_171",
+            "text": "Who would get trapped in a revolving door at the airport?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_172",
+            "text": "Best travel emergency to have good story?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "emergency_volcano",
+                    "text": "Stuck Due to Volcano Eruption"
+                },
+                {
+                    "id": "emergency_monsoon",
+                    "text": "Caught in Monsoon"
+                },
+                {
+                    "id": "emergency_strike",
+                    "text": "Transportation Strike"
+                },
+                {
+                    "id": "emergency_festival",
+                    "text": "City Shut Down for Festival"
+                },
+                {
+                    "id": "emergency_royal_visit",
+                    "text": "Roads Closed for Royal Visit"
+                },
+                {
+                    "id": "emergency_historic_event",
+                    "text": "Witnessed Historic Event"
+                }
+            ]
+        },
+        {
+            "id": "trv_173",
+            "text": "Who would accidentally start an international incident?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_174",
+            "text": "Best weird transportation you'd try?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "weird_transport_camel",
+                    "text": "Camel Caravan"
+                },
+                {
+                    "id": "weird_transport_dog_sled",
+                    "text": "Dog Sled"
+                },
+                {
+                    "id": "weird_transport_hot_air",
+                    "text": "Hot Air Balloon"
+                },
+                {
+                    "id": "weird_transport_elephant",
+                    "text": "Elephant Ride"
+                },
+                {
+                    "id": "weird_transport_reindeer",
+                    "text": "Reindeer Sled"
+                },
+                {
+                    "id": "weird_transport_yak",
+                    "text": "Yak in Tibet"
+                }
+            ]
+        },
+        {
+            "id": "trv_175",
+            "text": "Who would propose to someone they met on vacation?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_176",
+            "text": "Best travel show to binge before a trip?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "show_parts_unknown",
+                    "text": "Anthony Bourdain: Parts Unknown"
+                },
+                {
+                    "id": "show_planet_earth",
+                    "text": "Planet Earth Series"
+                },
+                {
+                    "id": "show_travel_channel",
+                    "text": "Travel Channel Documentaries"
+                },
+                {
+                    "id": "show_rick_steves",
+                    "text": "Rick Steves' Europe"
+                },
+                {
+                    "id": "show_samantha_brown",
+                    "text": "Samantha Brown's Places to Love"
+                },
+                {
+                    "id": "show_bizarre_foods",
+                    "text": "Bizarre Foods"
+                }
+            ]
+        },
+        {
+            "id": "trv_177",
+            "text": "Who would end up in the wrong country entirely?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_178",
+            "text": "Best travel challenge to attempt?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "challenge_no_english",
+                    "text": "Travel Without Speaking English"
+                },
+                {
+                    "id": "challenge_no_phone",
+                    "text": "Travel Without Phone/GPS"
+                },
+                {
+                    "id": "challenge_budget_limit",
+                    "text": "$10 Per Day Challenge"
+                },
+                {
+                    "id": "challenge_no_planning",
+                    "text": "Zero Planning Challenge"
+                },
+                {
+                    "id": "challenge_only_local_transport",
+                    "text": "Only Local Transportation"
+                },
+                {
+                    "id": "challenge_eat_everything_offered",
+                    "text": "Eat Everything Offered"
+                }
+            ]
+        },
+        {
+            "id": "trv_179",
+            "text": "Who would pack a full formal outfit for backpacking?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_180",
+            "text": "Best travel tradition to start?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tradition_journal",
+                    "text": "Write in Travel Journal Daily"
+                },
+                {
+                    "id": "tradition_postcard",
+                    "text": "Send Postcard to Yourself"
+                },
+                {
+                    "id": "tradition_local_breakfast",
+                    "text": "Try Local Breakfast Everywhere"
+                },
+                {
+                    "id": "tradition_sunrise_photo",
+                    "text": "Take Sunrise Photo Each Day"
+                },
+                {
+                    "id": "tradition_learn_phrase",
+                    "text": "Learn One New Phrase Daily"
+                },
+                {
+                    "id": "tradition_help_stranger",
+                    "text": "Help One Stranger Per Trip"
+                }
+            ]
+        },
+        {
+            "id": "trv_181",
+            "text": "Who would become a famous travel influencer by accident?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_182",
+            "text": "Best way to survive a 20-hour layover?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "layover_city_tour",
+                    "text": "Quick City Tour"
+                },
+                {
+                    "id": "layover_airport_hotel",
+                    "text": "Book Airport Hotel"
+                },
+                {
+                    "id": "layover_explore_airport",
+                    "text": "Explore Entire Airport"
+                },
+                {
+                    "id": "layover_binge_watch",
+                    "text": "Binge Watch TV Series"
+                },
+                {
+                    "id": "layover_work_catch_up",
+                    "text": "Catch Up on Work"
+                },
+                {
+                    "id": "layover_meditate",
+                    "text": "Practice Meditation"
+                }
+            ]
+        },
+        {
+            "id": "trv_183",
+            "text": "Who would accidentally join a cult while traveling?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_184",
+            "text": "Best travel farewell ritual?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "farewell_last_meal",
+                    "text": "One Last Local Meal"
+                },
+                {
+                    "id": "farewell_sunrise_walk",
+                    "text": "Sunrise Walk Through City"
+                },
+                {
+                    "id": "farewell_thank_you_notes",
+                    "text": "Write Thank You Notes to Locals"
+                },
+                {
+                    "id": "farewell_photo_montage",
+                    "text": "Create Photo Montage"
+                },
+                {
+                    "id": "farewell_promise_return",
+                    "text": "Promise to Return"
+                },
+                {
+                    "id": "farewell_airport_cry",
+                    "text": "Emotional Cry at Airport"
+                }
+            ]
+        },
+        {
+            "id": "trv_185",
+            "text": "Who would become a travel blogger after one trip?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_186",
+            "text": "Best travel confession?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "confession_fake_accent",
+                    "text": "I Fake a Local Accent"
+                },
+                {
+                    "id": "confession_mcdonalds",
+                    "text": "I Always Try McDonald's Abroad"
+                },
+                {
+                    "id": "confession_tourist_photos",
+                    "text": "I Love Cheesy Tourist Photos"
+                },
+                {
+                    "id": "confession_overpacker",
+                    "text": "I'm a Chronic Overpacker"
+                },
+                {
+                    "id": "confession_google_translate",
+                    "text": "I Use Google Translate for Everything"
+                },
+                {
+                    "id": "confession_avoid_locals",
+                    "text": "I Sometimes Avoid Talking to Locals"
+                }
+            ]
+        },
+        {
+            "id": "trv_187",
+            "text": "Who would start crying when their trip ends?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_188",
+            "text": "Best travel superpower to have?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "superpower_understand_languages",
+                    "text": "Understand Any Language"
+                },
+                {
+                    "id": "superpower_never_get_lost",
+                    "text": "Never Get Lost"
+                },
+                {
+                    "id": "superpower_perfect_packing",
+                    "text": "Perfect Packing Every Time"
+                },
+                {
+                    "id": "superpower_no_jet_lag",
+                    "text": "Never Experience Jet Lag"
+                },
+                {
+                    "id": "superpower_cultural_blend",
+                    "text": "Instantly Blend with Any Culture"
+                },
+                {
+                    "id": "superpower_unlimited_budget",
+                    "text": "Unlimited Travel Budget"
+                }
+            ]
+        },
+        {
+            "id": "trv_189",
+            "text": "Who would book their return flight while still on vacation?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "trv_190",
+            "text": "Best way to know you're truly addicted to travel?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "addicted_plan_next",
+                    "text": "Planning Next Trip Before Current Ends"
+                },
+                {
+                    "id": "addicted_home_restless",
+                    "text": "Feeling Restless at Home"
+                },
+                {
+                    "id": "addicted_maps_obsession",
+                    "text": "Constant Map Browsing"
+                },
+                {
+                    "id": "addicted_travel_shows",
+                    "text": "Only Watch Travel Shows"
+                },
+                {
+                    "id": "addicted_passport_photos",
+                    "text": "Looking at Passport Stamps Daily"
+                },
+                {
+                    "id": "addicted_dream_destinations",
+                    "text": "Dreaming About Destinations Nightly"
+                }
+            ]
+        }
+    ]
+}

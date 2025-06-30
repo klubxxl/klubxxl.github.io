@@ -1,0 +1,3687 @@
+{
+    "deck": {
+        "id": "work",
+        "name": "Praca i kariera",
+        "description": "Profesjonalne pytania skupione na karierze dla wydarzeń firmowych i budowania zespołu.",
+        "category": "work",
+        "version": "1.0.0",
+        "language": "pl"
+    },
+    "questions": [
+        {
+            "id": "wrk_001",
+            "text": "Co jest najważniejsze w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "job_salary",
+                    "text": "Dobra pensja"
+                },
+                {
+                    "id": "job_balance",
+                    "text": "Równowaga praca-życie"
+                },
+                {
+                    "id": "job_growth",
+                    "text": "Rozwój kariery"
+                },
+                {
+                    "id": "job_colleagues",
+                    "text": "Mili koledzy"
+                },
+                {
+                    "id": "job_security",
+                    "text": "Bezpieczeństwo zatrudnienia"
+                },
+                {
+                    "id": "job_meaningful",
+                    "text": "Sensowna praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_002",
+            "text": "Kto najprawdopodobniej zostanie szefem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_003",
+            "text": "Kto byłby najlepszym liderem zespołu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_004",
+            "text": "Idealne środowisko pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "env_open",
+                    "text": "Biuro otwarte"
+                },
+                {
+                    "id": "env_private",
+                    "text": "Prywatne biuro"
+                },
+                {
+                    "id": "env_remote",
+                    "text": "Praca zdalna"
+                },
+                {
+                    "id": "env_coworking",
+                    "text": "Coworking"
+                },
+                {
+                    "id": "env_outdoor",
+                    "text": "Biuro na zewnątrz"
+                },
+                {
+                    "id": "env_cafe",
+                    "text": "Kawiarnia"
+                }
+            ]
+        },
+        {
+            "id": "wrk_005",
+            "text": "Kto najprawdopodobniej będzie pracować po godzinach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_006",
+            "text": "Kto najlepiej prowadzi prezentacje?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_007",
+            "text": "Najlepszy benefit w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "perk_food",
+                    "text": "Darmowe jedzenie"
+                },
+                {
+                    "id": "perk_hours",
+                    "text": "Elastyczne godziny"
+                },
+                {
+                    "id": "perk_gym",
+                    "text": "Karnet na siłownię"
+                },
+                {
+                    "id": "perk_travel",
+                    "text": "Możliwości podróży"
+                },
+                {
+                    "id": "perk_learning",
+                    "text": "Budżet na naukę"
+                },
+                {
+                    "id": "perk_wfh",
+                    "text": "Praca z domu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_008",
+            "text": "Kto najprawdopodobniej założy własny biznes?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_009",
+            "text": "Kto byłby najbardziej zorganizowanym kolegą?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_010",
+            "text": "Najgorszy nawyk biurowy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "habit_typing",
+                    "text": "Głośne pisanie"
+                },
+                {
+                    "id": "habit_perfume",
+                    "text": "Mocne perfumy"
+                },
+                {
+                    "id": "habit_messy",
+                    "text": "Bałagan na biurku"
+                },
+                {
+                    "id": "habit_snacking",
+                    "text": "Ciągłe przekąski"
+                },
+                {
+                    "id": "habit_calls",
+                    "text": "Rozmowy telefoniczne"
+                },
+                {
+                    "id": "habit_fish",
+                    "text": "Ryba w mikrofalówce"
+                }
+            ]
+        },
+        {
+            "id": "wrk_011",
+            "text": "Jaki jest twój największy cel kariery?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "goal_ceo",
+                    "text": "Zostać CEO"
+                },
+                {
+                    "id": "goal_expert",
+                    "text": "Być ekspertem"
+                },
+                {
+                    "id": "goal_entrepreneur",
+                    "text": "Założyć własny biznes"
+                },
+                {
+                    "id": "goal_balance",
+                    "text": "Równowaga praca-życie"
+                },
+                {
+                    "id": "goal_travel",
+                    "text": "Praca i podróże"
+                },
+                {
+                    "id": "goal_impact",
+                    "text": "Wywrzeć wpływ"
+                }
+            ]
+        },
+        {
+            "id": "wrk_012",
+            "text": "Kto najprawdopodobniej zostanie awansowany pierwszy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_013",
+            "text": "Najlepszy sposób na naukę nowych umiejętności?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "learn_online",
+                    "text": "Kursy online"
+                },
+                {
+                    "id": "learn_mentor",
+                    "text": "Mentoring"
+                },
+                {
+                    "id": "learn_practice",
+                    "text": "Praktyka"
+                },
+                {
+                    "id": "learn_books",
+                    "text": "Czytanie książek"
+                },
+                {
+                    "id": "learn_conference",
+                    "text": "Konferencje"
+                },
+                {
+                    "id": "learn_colleagues",
+                    "text": "Pytaj kolegów"
+                }
+            ]
+        },
+        {
+            "id": "wrk_014",
+            "text": "Kto byłby najlepszym mentorem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_015",
+            "text": "Jak często sprawdzasz służbowe maile?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "email_constant",
+                    "text": "Cały czas"
+                },
+                {
+                    "id": "email_hourly",
+                    "text": "Co godzinę"
+                },
+                {
+                    "id": "email_daily",
+                    "text": "Kilka razy dziennie"
+                },
+                {
+                    "id": "email_workday",
+                    "text": "Tylko w pracy"
+                },
+                {
+                    "id": "email_weekly",
+                    "text": "Raz dziennie"
+                },
+                {
+                    "id": "email_avoid",
+                    "text": "Unikam gdy mogę"
+                }
+            ]
+        },
+        {
+            "id": "wrk_016",
+            "text": "Kto najprawdopodobniej będzie pracować weekendy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_017",
+            "text": "Najgorsze zachowanie na spotkaniach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "meeting_late",
+                    "text": "Zawsze spóźniony"
+                },
+                {
+                    "id": "meeting_phone",
+                    "text": "Na telefonie"
+                },
+                {
+                    "id": "meeting_dominate",
+                    "text": "Dominuje dyskusję"
+                },
+                {
+                    "id": "meeting_silent",
+                    "text": "Nigdy nie mówi"
+                },
+                {
+                    "id": "meeting_interrupt",
+                    "text": "Przerywa innym"
+                },
+                {
+                    "id": "meeting_unprepared",
+                    "text": "Nieprzygotowany"
+                }
+            ]
+        },
+        {
+            "id": "wrk_018",
+            "text": "Kto byłby najbardziej kreatywnym problem solverem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_019",
+            "text": "Najlepszy motywator w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "motivate_money",
+                    "text": "Pieniądze"
+                },
+                {
+                    "id": "motivate_recognition",
+                    "text": "Uznanie"
+                },
+                {
+                    "id": "motivate_growth",
+                    "text": "Rozwój osobisty"
+                },
+                {
+                    "id": "motivate_challenge",
+                    "text": "Nowe wyzwania"
+                },
+                {
+                    "id": "motivate_team",
+                    "text": "Świetny zespół"
+                },
+                {
+                    "id": "motivate_purpose",
+                    "text": "Poczucie celu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_020",
+            "text": "Kto najprawdopodobniej rzuci pracę bez wypowiedzenia?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_021",
+            "text": "Najlepsza metoda produktywności?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "prod_pomodoro",
+                    "text": "Technika Pomodoro"
+                },
+                {
+                    "id": "prod_lists",
+                    "text": "Listy zadań"
+                },
+                {
+                    "id": "prod_timeblock",
+                    "text": "Blokowanie czasu"
+                },
+                {
+                    "id": "prod_deadlines",
+                    "text": "Presja terminów"
+                },
+                {
+                    "id": "prod_music",
+                    "text": "Muzyka w tle"
+                },
+                {
+                    "id": "prod_caffeine",
+                    "text": "Dużo kawy"
+                }
+            ]
+        },
+        {
+            "id": "wrk_022",
+            "text": "Kto byłby najbardziej punktualny?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_023",
+            "text": "Idealny grafik pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "schedule_9to5",
+                    "text": "9 do 17"
+                },
+                {
+                    "id": "schedule_early",
+                    "text": "Rankiem"
+                },
+                {
+                    "id": "schedule_night",
+                    "text": "Wieczorem"
+                },
+                {
+                    "id": "schedule_flexible",
+                    "text": "Elastyczne godziny"
+                },
+                {
+                    "id": "schedule_4day",
+                    "text": "4-dniowy tydzień"
+                },
+                {
+                    "id": "schedule_compressed",
+                    "text": "Skompresowany grafik"
+                }
+            ]
+        },
+        {
+            "id": "wrk_024",
+            "text": "Kto najprawdopodobniej będzie robić wszystko jednocześnie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_025",
+            "text": "Najlepszy sposób na radzenie ze stresem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "stress_exercise",
+                    "text": "Ćwiczenia"
+                },
+                {
+                    "id": "stress_break",
+                    "text": "Przerwy"
+                },
+                {
+                    "id": "stress_organize",
+                    "text": "Organizacja"
+                },
+                {
+                    "id": "stress_delegate",
+                    "text": "Delegowanie zadań"
+                },
+                {
+                    "id": "stress_meditation",
+                    "text": "Medytacja"
+                },
+                {
+                    "id": "stress_talk",
+                    "text": "Rozmowa z kimś"
+                }
+            ]
+        },
+        {
+            "id": "wrk_026",
+            "text": "Kto najlepiej poradzi sobie z trudnymi klientami?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_027",
+            "text": "Najgorsza przeszkoda w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "distract_social",
+                    "text": "Social media"
+                },
+                {
+                    "id": "distract_noise",
+                    "text": "Hałas biurowy"
+                },
+                {
+                    "id": "distract_meetings",
+                    "text": "Za dużo spotkań"
+                },
+                {
+                    "id": "distract_colleagues",
+                    "text": "Gadatliwi koledzy"
+                },
+                {
+                    "id": "distract_phone",
+                    "text": "Telefon prywatny"
+                },
+                {
+                    "id": "distract_email",
+                    "text": "Ciągłe maile"
+                }
+            ]
+        },
+        {
+            "id": "wrk_028",
+            "text": "Kto najprawdopodobniej będzie pracować z kawiarni?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_029",
+            "text": "Najlepsze narzędzie komunikacji?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "comm_email",
+                    "text": "Email"
+                },
+                {
+                    "id": "comm_slack",
+                    "text": "Slack/Teams"
+                },
+                {
+                    "id": "comm_face",
+                    "text": "Twarzą w twarz"
+                },
+                {
+                    "id": "comm_video",
+                    "text": "Rozmowy wideo"
+                },
+                {
+                    "id": "comm_phone",
+                    "text": "Telefon"
+                },
+                {
+                    "id": "comm_written",
+                    "text": "Dokumenty pisemne"
+                }
+            ]
+        },
+        {
+            "id": "wrk_030",
+            "text": "Kto byłby najbardziej drobiazgowy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_031",
+            "text": "Najważniejsze narzędzie do pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tool_laptop",
+                    "text": "Dobry laptop"
+                },
+                {
+                    "id": "tool_phone",
+                    "text": "Smartfon"
+                },
+                {
+                    "id": "tool_monitor",
+                    "text": "Wiele monitorów"
+                },
+                {
+                    "id": "tool_software",
+                    "text": "Dobre oprogramowanie"
+                },
+                {
+                    "id": "tool_internet",
+                    "text": "Szybki internet"
+                },
+                {
+                    "id": "tool_coffee",
+                    "text": "Ekspres do kawy"
+                }
+            ]
+        },
+        {
+            "id": "wrk_032",
+            "text": "Kto najprawdopodobniej będzie opierać się nowej technologii?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_033",
+            "text": "Preferowany sposób robienia notatek?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "notes_handwrite",
+                    "text": "Odręczne"
+                },
+                {
+                    "id": "notes_laptop",
+                    "text": "Laptop"
+                },
+                {
+                    "id": "notes_tablet",
+                    "text": "Tablet"
+                },
+                {
+                    "id": "notes_phone",
+                    "text": "Telefon"
+                },
+                {
+                    "id": "notes_sticky",
+                    "text": "Karteczki samoprzylepne"
+                },
+                {
+                    "id": "notes_memory",
+                    "text": "Po prostu pamiętam"
+                }
+            ]
+        },
+        {
+            "id": "wrk_034",
+            "text": "Kto byłby najlepszym wsparciem technicznym?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_035",
+            "text": "Jak robisz kopie zapasowe ważnych plików?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "backup_cloud",
+                    "text": "Chmura"
+                },
+                {
+                    "id": "backup_external",
+                    "text": "Dysk zewnętrzny"
+                },
+                {
+                    "id": "backup_multiple",
+                    "text": "Wiele lokalizacji"
+                },
+                {
+                    "id": "backup_server",
+                    "text": "Serwer firmowy"
+                },
+                {
+                    "id": "backup_email",
+                    "text": "Email do siebie"
+                },
+                {
+                    "id": "backup_none",
+                    "text": "Nie robię"
+                }
+            ]
+        },
+        {
+            "id": "wrk_036",
+            "text": "Kto najprawdopodobniej ma najbardziej bałagan na pulpicie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_037",
+            "text": "Najlepsza etykieta rozmów wideo?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "video_mute",
+                    "text": "Wycisz gdy nie mówisz"
+                },
+                {
+                    "id": "video_camera",
+                    "text": "Kamera zawsze włączona"
+                },
+                {
+                    "id": "video_background",
+                    "text": "Profesjonalne tło"
+                },
+                {
+                    "id": "video_dressed",
+                    "text": "Całkowicie ubrany"
+                },
+                {
+                    "id": "video_quiet",
+                    "text": "Ciche otoczenie"
+                },
+                {
+                    "id": "video_punctual",
+                    "text": "Dołącz punktualnie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_038",
+            "text": "Kto najprawdopodobniej zapomni się wyciszyć?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_039",
+            "text": "Najbardziej irytujący nawyk mailowy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "email_replyall",
+                    "text": "Odpowiedz wszystkim"
+                },
+                {
+                    "id": "email_urgent",
+                    "text": "Wszystko pilne"
+                },
+                {
+                    "id": "email_long",
+                    "text": "Za długie"
+                },
+                {
+                    "id": "email_short",
+                    "text": "Za krótkie"
+                },
+                {
+                    "id": "email_late",
+                    "text": "Późne odpowiedzi"
+                },
+                {
+                    "id": "email_cc",
+                    "text": "Za dużo DW"
+                }
+            ]
+        },
+        {
+            "id": "wrk_040",
+            "text": "Kto najprawdopodobniej wysyła maile w nocy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_041",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_41_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_41_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_41_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_41_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_41_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_41_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_042",
+            "text": "Kto najprawdopodobniej zostać następnym CEO?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_043",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_43_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_43_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_43_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_43_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_43_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_43_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_044",
+            "text": "Kto najprawdopodobniej pracować najdłużej?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_045",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_45_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_45_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_45_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_45_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_45_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_45_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_046",
+            "text": "Kto najprawdopodobniej mieć najczystsze biurko?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_047",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_47_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_47_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_47_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_47_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_47_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_47_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_048",
+            "text": "Kto najprawdopodobniej pamiętać urodziny wszystkich?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_049",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_49_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_49_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_49_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_49_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_49_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_49_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_050",
+            "text": "Kto najprawdopodobniej spóźniać się na spotkania?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_051",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_51_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_51_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_51_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_51_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_51_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_51_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_052",
+            "text": "Kto najprawdopodobniej jeść lunch przy biurku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_053",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_53_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_53_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_53_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_53_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_53_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_53_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_054",
+            "text": "Kto najprawdopodobniej pracować z egzotycznych miejsc?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_055",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_55_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_55_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_55_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_55_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_55_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_55_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_056",
+            "text": "Kto najprawdopodobniej opanować nowe oprogramowanie pierwszy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_057",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_57_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_57_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_57_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_57_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_57_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_57_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_058",
+            "text": "Kto najprawdopodobniej robić najlepsze prezentacje?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_059",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_59_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_59_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_59_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_59_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_59_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_59_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_060",
+            "text": "Kto najprawdopodobniej negocjować największe kontrakty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_061",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_61_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_61_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_61_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_61_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_61_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_61_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_062",
+            "text": "Kto najprawdopodobniej mentorować nowych pracowników?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_063",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_63_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_63_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_63_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_63_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_63_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_63_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_064",
+            "text": "Kto najprawdopodobniej organizować wydarzenia zespołowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_065",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_65_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_65_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_65_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_65_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_65_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_65_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_066",
+            "text": "Kto najprawdopodobniej wymyślać kreatywne rozwiązania?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_067",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_67_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_67_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_67_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_67_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_67_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_67_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_068",
+            "text": "Kto najprawdopodobniej radzić sobie z kryzysami?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_069",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_69_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_69_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_69_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_69_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_69_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_69_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_070",
+            "text": "Kto najprawdopodobniej przejść na emeryturę wcześnie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_071",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_71_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_71_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_71_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_71_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_71_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_71_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_072",
+            "text": "Kto najprawdopodobniej założyć własną firmę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_073",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_73_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_73_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_73_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_73_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_73_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_73_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_074",
+            "text": "Kto najprawdopodobniej zdobyć najwięcej certyfikatów?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_075",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_75_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_75_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_75_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_75_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_75_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_75_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_076",
+            "text": "Kto najprawdopodobniej networkować najefektywniej?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_077",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_77_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_77_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_77_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_77_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_77_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_77_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_078",
+            "text": "Kto najprawdopodobniej zachować równowagę życie-praca?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_079",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_79_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_79_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_79_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_79_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_79_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_79_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_080",
+            "text": "Kto najprawdopodobniej zostać awansowanym najszybciej?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_081",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_81_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_81_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_81_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_81_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_81_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_81_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_082",
+            "text": "Kto najprawdopodobniej całkowicie zmienić karierę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_083",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_83_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_83_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_83_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_83_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_83_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_83_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_084",
+            "text": "Kto najprawdopodobniej pracować zdalnie na stałe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_085",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_85_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_85_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_85_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_85_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_85_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_85_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_086",
+            "text": "Kto najprawdopodobniej prowadzić największe projekty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_087",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_87_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_87_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_87_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_87_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_87_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_87_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_088",
+            "text": "Kto najprawdopodobniej dogadać się ze wszystkimi?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_089",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_89_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_89_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_89_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_89_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_89_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_89_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_090",
+            "text": "Kto najprawdopodobniej zautomatyzować swoją pracę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_091",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_91_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_91_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_91_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_91_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_91_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_91_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_092",
+            "text": "Kto najprawdopodobniej zostać ekspertem branży?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_093",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_93_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_93_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_93_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_93_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_93_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_93_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_094",
+            "text": "Kto najprawdopodobniej najwięcej podróżować służbowo?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_095",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_95_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_95_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_95_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_95_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_95_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_95_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_096",
+            "text": "Kto najprawdopodobniej wygrać pracownik miesiąca?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_097",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_97_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_97_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_97_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_97_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_97_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_97_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_098",
+            "text": "Kto najprawdopodobniej mieć najlepszy profil LinkedIn?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_099",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_99_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_99_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_99_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_99_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_99_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_99_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_100",
+            "text": "Kto najprawdopodobniej zostać zwerbowanym?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_101",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_101_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_101_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_101_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_101_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_101_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_101_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_102",
+            "text": "Kto najprawdopodobniej przemawiać na konferencjach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_103",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_103_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_103_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_103_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_103_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_103_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_103_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_104",
+            "text": "Kto najprawdopodobniej napisać książkę biznesową?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_105",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_105_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_105_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_105_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_105_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_105_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_105_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_106",
+            "text": "Kto najprawdopodobniej zostać konsultantem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_107",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_107_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_107_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_107_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_107_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_107_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_107_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_108",
+            "text": "Kto najprawdopodobniej pracować w wielu krajach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_109",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_109_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_109_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_109_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_109_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_109_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_109_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_110",
+            "text": "Kto najprawdopodobniej zbudować najsilniejszy zespół?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_111",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_111_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_111_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_111_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_111_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_111_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_111_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_112",
+            "text": "Kto najprawdopodobniej wprowadzać innowacje w procesach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_113",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_113_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_113_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_113_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_113_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_113_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_113_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_114",
+            "text": "Kto najprawdopodobniej radzić sobie z trudnymi klientami?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_115",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_115_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_115_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_115_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_115_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_115_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_115_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_116",
+            "text": "Kto najprawdopodobniej zamknąć najwięcej sprzedaży?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_117",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_117_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_117_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_117_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_117_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_117_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_117_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_118",
+            "text": "Kto najprawdopodobniej obniżyć koszty firmy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_119",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_119_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_119_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_119_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_119_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_119_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_119_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_120",
+            "text": "Kto najprawdopodobniej poprawić kulturę firmy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_121",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_121_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_121_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_121_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_121_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_121_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_121_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_122",
+            "text": "Kto najprawdopodobniej prowadzić transformację cyfrową?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_123",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_123_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_123_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_123_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_123_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_123_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_123_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_124",
+            "text": "Kto najprawdopodobniej zostać szefem działu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_125",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_125_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_125_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_125_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_125_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_125_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_125_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_126",
+            "text": "Kto najprawdopodobniej dostać największą podwyżkę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_127",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_127_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_127_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_127_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_127_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_127_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_127_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_128",
+            "text": "Kto najprawdopodobniej pracować po emeryturze?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_129",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_129_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_129_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_129_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_129_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_129_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_129_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_130",
+            "text": "Kto najprawdopodobniej przejść na freelancing?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_131",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_131_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_131_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_131_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_131_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_131_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_131_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_132",
+            "text": "Kto najprawdopodobniej zostać członkiem zarządu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_133",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_133_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_133_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_133_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_133_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_133_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_133_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_134",
+            "text": "Kto najprawdopodobniej mentorować kierownictwo?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_135",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_135_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_135_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_135_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_135_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_135_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_135_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_136",
+            "text": "Kto najprawdopodobniej założyć organizację non-profit?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_137",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_137_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_137_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_137_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_137_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_137_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_137_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_138",
+            "text": "Kto najprawdopodobniej zostać aniołem biznesu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_139",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_139_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_139_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_139_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_139_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_139_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_139_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_140",
+            "text": "Kto najprawdopodobniej uczyć innych swoich umiejętności?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_141",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_141_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_141_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_141_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_141_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_141_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_141_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_142",
+            "text": "Kto najprawdopodobniej zrewolucjonizować swoją branżę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_143",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_143_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_143_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_143_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_143_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_143_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_143_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_144",
+            "text": "Kto najprawdopodobniej zostać następnym CEO?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_145",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_145_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_145_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_145_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_145_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_145_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_145_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_146",
+            "text": "Kto najprawdopodobniej pracować najdłużej?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_147",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_147_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_147_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_147_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_147_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_147_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_147_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_148",
+            "text": "Kto najprawdopodobniej mieć najczystsze biurko?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_149",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_149_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_149_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_149_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_149_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_149_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_149_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_150",
+            "text": "Kto najprawdopodobniej pamiętać urodziny wszystkich?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_151",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_151_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_151_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_151_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_151_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_151_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_151_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_152",
+            "text": "Kto najprawdopodobniej spóźniać się na spotkania?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_153",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_153_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_153_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_153_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_153_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_153_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_153_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_154",
+            "text": "Kto najprawdopodobniej jeść lunch przy biurku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_155",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_155_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_155_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_155_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_155_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_155_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_155_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_156",
+            "text": "Kto najprawdopodobniej pracować z egzotycznych miejsc?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_157",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_157_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_157_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_157_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_157_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_157_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_157_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_158",
+            "text": "Kto najprawdopodobniej opanować nowe oprogramowanie pierwszy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_159",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_159_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_159_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_159_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_159_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_159_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_159_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_160",
+            "text": "Kto najprawdopodobniej robić najlepsze prezentacje?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_161",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_161_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_161_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_161_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_161_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_161_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_161_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_162",
+            "text": "Kto najprawdopodobniej negocjować największe kontrakty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_163",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_163_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_163_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_163_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_163_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_163_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_163_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_164",
+            "text": "Kto najprawdopodobniej mentorować nowych pracowników?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_165",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_165_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_165_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_165_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_165_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_165_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_165_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_166",
+            "text": "Kto najprawdopodobniej organizować wydarzenia zespołowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_167",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_167_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_167_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_167_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_167_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_167_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_167_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_168",
+            "text": "Kto najprawdopodobniej wymyślać kreatywne rozwiązania?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_169",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_169_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_169_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_169_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_169_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_169_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_169_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_170",
+            "text": "Kto najprawdopodobniej radzić sobie z kryzysami?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_171",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_171_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_171_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_171_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_171_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_171_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_171_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_172",
+            "text": "Kto najprawdopodobniej przejść na emeryturę wcześnie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_173",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_173_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_173_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_173_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_173_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_173_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_173_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_174",
+            "text": "Kto najprawdopodobniej założyć własną firmę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_175",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_175_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_175_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_175_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_175_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_175_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_175_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_176",
+            "text": "Kto najprawdopodobniej zdobyć najwięcej certyfikatów?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_177",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_177_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_177_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_177_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_177_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_177_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_177_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_178",
+            "text": "Kto najprawdopodobniej networkować najefektywniej?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_179",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_179_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_179_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_179_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_179_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_179_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_179_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_180",
+            "text": "Kto najprawdopodobniej zachować równowagę życie-praca?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_181",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_181_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_181_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_181_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_181_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_181_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_181_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_182",
+            "text": "Kto najprawdopodobniej zostać awansowanym najszybciej?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_183",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_183_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_183_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_183_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_183_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_183_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_183_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_184",
+            "text": "Kto najprawdopodobniej całkowicie zmienić karierę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_185",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_185_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_185_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_185_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_185_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_185_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_185_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_186",
+            "text": "Kto najprawdopodobniej pracować zdalnie na stałe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_187",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_187_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_187_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_187_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_187_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_187_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_187_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_188",
+            "text": "Kto najprawdopodobniej prowadzić największe projekty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_189",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_189_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_189_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_189_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_189_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_189_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_189_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_190",
+            "text": "Kto najprawdopodobniej dogadać się ze wszystkimi?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_191",
+            "text": "Najlepsze podejście do przywództwa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_191_1",
+                    "text": "Demokratyczne"
+                },
+                {
+                    "id": "opt_191_2",
+                    "text": "Bez ingerencji"
+                },
+                {
+                    "id": "opt_191_3",
+                    "text": "Wspierające"
+                },
+                {
+                    "id": "opt_191_4",
+                    "text": "Wizjonerskie"
+                },
+                {
+                    "id": "opt_191_5",
+                    "text": "Coachingowe"
+                },
+                {
+                    "id": "opt_191_6",
+                    "text": "Bezpośrednie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_192",
+            "text": "Kto najprawdopodobniej zautomatyzować swoją pracę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_193",
+            "text": "Najlepsze podejście do feedbacku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_193_1",
+                    "text": "Bezpośrednie i szczere"
+                },
+                {
+                    "id": "opt_193_2",
+                    "text": "Metoda kanapki"
+                },
+                {
+                    "id": "opt_193_3",
+                    "text": "Forma pisemna"
+                },
+                {
+                    "id": "opt_193_4",
+                    "text": "Prywatne spotkanie"
+                },
+                {
+                    "id": "opt_193_5",
+                    "text": "Regularne checkingi"
+                },
+                {
+                    "id": "opt_193_6",
+                    "text": "Publiczne uznanie"
+                }
+            ]
+        },
+        {
+            "id": "wrk_194",
+            "text": "Kto najprawdopodobniej zostać ekspertem branży?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_195",
+            "text": "Najlepsze podejście do temperatury?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_195_1",
+                    "text": "Chłodno (18-20°C)"
+                },
+                {
+                    "id": "opt_195_2",
+                    "text": "Umiarkowanie (21-22°C)"
+                },
+                {
+                    "id": "opt_195_3",
+                    "text": "Ciepło (23-24°C)"
+                },
+                {
+                    "id": "opt_195_4",
+                    "text": "Gorąco (25°C+)"
+                },
+                {
+                    "id": "opt_195_5",
+                    "text": "Zmienne"
+                },
+                {
+                    "id": "opt_195_6",
+                    "text": "Kontrola osobista"
+                }
+            ]
+        },
+        {
+            "id": "wrk_196",
+            "text": "Kto najprawdopodobniej najwięcej podróżować służbowo?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_197",
+            "text": "Najlepsze podejście do networkingu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_197_1",
+                    "text": "Wydarzenia branżowe"
+                },
+                {
+                    "id": "opt_197_2",
+                    "text": "Społeczności online"
+                },
+                {
+                    "id": "opt_197_3",
+                    "text": "Przez kolegów"
+                },
+                {
+                    "id": "opt_197_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_197_5",
+                    "text": "Naturalne rozmowy"
+                },
+                {
+                    "id": "opt_197_6",
+                    "text": "Unikam networkingu"
+                }
+            ]
+        },
+        {
+            "id": "wrk_198",
+            "text": "Kto najprawdopodobniej wygrać pracownik miesiąca?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_199",
+            "text": "Najlepsze podejście do sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_199_1",
+                    "text": "Wzrost zarobków"
+                },
+                {
+                    "id": "opt_199_2",
+                    "text": "Stanowisko"
+                },
+                {
+                    "id": "opt_199_3",
+                    "text": "Wywarly wpływ"
+                },
+                {
+                    "id": "opt_199_4",
+                    "text": "Szczęście"
+                },
+                {
+                    "id": "opt_199_5",
+                    "text": "Zdobyte umiejętności"
+                },
+                {
+                    "id": "opt_199_6",
+                    "text": "Równowaga życie-praca"
+                }
+            ]
+        },
+        {
+            "id": "wrk_200",
+            "text": "Kto najprawdopodobniej mieć najlepszy profil LinkedIn?",
+            "type": "players",
+            "options": []
+        }
+    ]
+}

@@ -1,0 +1,3687 @@
+{
+    "deck": {
+        "id": "work",
+        "name": "Work & Career",
+        "description": "Professional and career-focused questions for work events and team building.",
+        "category": "work",
+        "version": "1.0.0",
+        "language": "en"
+    },
+    "questions": [
+        {
+            "id": "wrk_001",
+            "text": "What's most important in a job?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "job_salary",
+                    "text": "Good Salary"
+                },
+                {
+                    "id": "job_balance",
+                    "text": "Work-Life Balance"
+                },
+                {
+                    "id": "job_growth",
+                    "text": "Career Growth"
+                },
+                {
+                    "id": "job_colleagues",
+                    "text": "Nice Colleagues"
+                },
+                {
+                    "id": "job_security",
+                    "text": "Job Security"
+                },
+                {
+                    "id": "job_meaningful",
+                    "text": "Meaningful Work"
+                }
+            ]
+        },
+        {
+            "id": "wrk_002",
+            "text": "Who is most likely to become the boss?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_003",
+            "text": "Who would be the best team leader?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_004",
+            "text": "Ideal work environment?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "env_open",
+                    "text": "Open Office"
+                },
+                {
+                    "id": "env_private",
+                    "text": "Private Office"
+                },
+                {
+                    "id": "env_remote",
+                    "text": "Remote Work"
+                },
+                {
+                    "id": "env_coworking",
+                    "text": "Co-working Space"
+                },
+                {
+                    "id": "env_outdoor",
+                    "text": "Outdoor Workspace"
+                },
+                {
+                    "id": "env_cafe",
+                    "text": "Cafe"
+                }
+            ]
+        },
+        {
+            "id": "wrk_005",
+            "text": "Who is most likely to work overtime?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_006",
+            "text": "Who would be best at presentations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_007",
+            "text": "Best work perk?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "perk_food",
+                    "text": "Free Food"
+                },
+                {
+                    "id": "perk_hours",
+                    "text": "Flexible Hours"
+                },
+                {
+                    "id": "perk_gym",
+                    "text": "Gym Membership"
+                },
+                {
+                    "id": "perk_travel",
+                    "text": "Travel Opportunities"
+                },
+                {
+                    "id": "perk_learning",
+                    "text": "Learning Budget"
+                },
+                {
+                    "id": "perk_wfh",
+                    "text": "Work From Home"
+                }
+            ]
+        },
+        {
+            "id": "wrk_008",
+            "text": "Who is most likely to start their own business?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_009",
+            "text": "Who would be the most organized colleague?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_010",
+            "text": "Worst office habit?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "habit_typing",
+                    "text": "Loud Typing"
+                },
+                {
+                    "id": "habit_perfume",
+                    "text": "Strong Perfume"
+                },
+                {
+                    "id": "habit_messy",
+                    "text": "Messy Desk"
+                },
+                {
+                    "id": "habit_snacking",
+                    "text": "Constant Snacking"
+                },
+                {
+                    "id": "habit_calls",
+                    "text": "Phone Calls"
+                },
+                {
+                    "id": "habit_fish",
+                    "text": "Microwave Fish"
+                }
+            ]
+        },
+        {
+            "id": "wrk_011",
+            "text": "What's your biggest career goal?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "goal_ceo",
+                    "text": "Become CEO"
+                },
+                {
+                    "id": "goal_expert",
+                    "text": "Be an Expert"
+                },
+                {
+                    "id": "goal_entrepreneur",
+                    "text": "Start Own Business"
+                },
+                {
+                    "id": "goal_balance",
+                    "text": "Work-Life Balance"
+                },
+                {
+                    "id": "goal_travel",
+                    "text": "Work & Travel"
+                },
+                {
+                    "id": "goal_impact",
+                    "text": "Make an Impact"
+                }
+            ]
+        },
+        {
+            "id": "wrk_012",
+            "text": "Who is most likely to get promoted first?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_013",
+            "text": "Best way to learn new skills?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "learn_online",
+                    "text": "Online Courses"
+                },
+                {
+                    "id": "learn_mentor",
+                    "text": "Mentorship"
+                },
+                {
+                    "id": "learn_practice",
+                    "text": "Hands-on Practice"
+                },
+                {
+                    "id": "learn_books",
+                    "text": "Reading Books"
+                },
+                {
+                    "id": "learn_conference",
+                    "text": "Conferences"
+                },
+                {
+                    "id": "learn_colleagues",
+                    "text": "Ask Colleagues"
+                }
+            ]
+        },
+        {
+            "id": "wrk_014",
+            "text": "Who would be the best mentor?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_015",
+            "text": "How often do you check work emails?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "email_constant",
+                    "text": "All the Time"
+                },
+                {
+                    "id": "email_hourly",
+                    "text": "Every Hour"
+                },
+                {
+                    "id": "email_daily",
+                    "text": "Few Times Daily"
+                },
+                {
+                    "id": "email_workday",
+                    "text": "During Work Only"
+                },
+                {
+                    "id": "email_weekly",
+                    "text": "Once a Day"
+                },
+                {
+                    "id": "email_avoid",
+                    "text": "Avoid When Possible"
+                }
+            ]
+        },
+        {
+            "id": "wrk_016",
+            "text": "Who is most likely to work weekends?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_017",
+            "text": "Worst meeting behavior?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "meeting_late",
+                    "text": "Always Late"
+                },
+                {
+                    "id": "meeting_phone",
+                    "text": "On Phone"
+                },
+                {
+                    "id": "meeting_dominate",
+                    "text": "Dominates Discussion"
+                },
+                {
+                    "id": "meeting_silent",
+                    "text": "Never Speaks"
+                },
+                {
+                    "id": "meeting_interrupt",
+                    "text": "Interrupts Others"
+                },
+                {
+                    "id": "meeting_unprepared",
+                    "text": "Unprepared"
+                }
+            ]
+        },
+        {
+            "id": "wrk_018",
+            "text": "Who would be the most creative problem solver?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_019",
+            "text": "Best motivator at work?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "motivate_money",
+                    "text": "Money"
+                },
+                {
+                    "id": "motivate_recognition",
+                    "text": "Recognition"
+                },
+                {
+                    "id": "motivate_growth",
+                    "text": "Personal Growth"
+                },
+                {
+                    "id": "motivate_challenge",
+                    "text": "New Challenges"
+                },
+                {
+                    "id": "motivate_team",
+                    "text": "Great Team"
+                },
+                {
+                    "id": "motivate_purpose",
+                    "text": "Sense of Purpose"
+                }
+            ]
+        },
+        {
+            "id": "wrk_020",
+            "text": "Who is most likely to quit without notice?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_021",
+            "text": "Best productivity method?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "prod_pomodoro",
+                    "text": "Pomodoro Technique"
+                },
+                {
+                    "id": "prod_lists",
+                    "text": "To-Do Lists"
+                },
+                {
+                    "id": "prod_timeblock",
+                    "text": "Time Blocking"
+                },
+                {
+                    "id": "prod_deadlines",
+                    "text": "Deadline Pressure"
+                },
+                {
+                    "id": "prod_music",
+                    "text": "Background Music"
+                },
+                {
+                    "id": "prod_caffeine",
+                    "text": "Lots of Coffee"
+                }
+            ]
+        },
+        {
+            "id": "wrk_022",
+            "text": "Who would be the most punctual?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_023",
+            "text": "Ideal work schedule?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "schedule_9to5",
+                    "text": "9 to 5"
+                },
+                {
+                    "id": "schedule_early",
+                    "text": "Early Bird"
+                },
+                {
+                    "id": "schedule_night",
+                    "text": "Night Owl"
+                },
+                {
+                    "id": "schedule_flexible",
+                    "text": "Flexible Hours"
+                },
+                {
+                    "id": "schedule_4day",
+                    "text": "4-Day Week"
+                },
+                {
+                    "id": "schedule_compressed",
+                    "text": "Compressed Schedule"
+                }
+            ]
+        },
+        {
+            "id": "wrk_024",
+            "text": "Who is most likely to multitask everything?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_025",
+            "text": "Best way to handle stress?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "stress_exercise",
+                    "text": "Exercise"
+                },
+                {
+                    "id": "stress_break",
+                    "text": "Take Breaks"
+                },
+                {
+                    "id": "stress_organize",
+                    "text": "Get Organized"
+                },
+                {
+                    "id": "stress_delegate",
+                    "text": "Delegate Tasks"
+                },
+                {
+                    "id": "stress_meditation",
+                    "text": "Meditation"
+                },
+                {
+                    "id": "stress_talk",
+                    "text": "Talk to Someone"
+                }
+            ]
+        },
+        {
+            "id": "wrk_026",
+            "text": "Who would be best at handling difficult clients?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_027",
+            "text": "Worst workplace distraction?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "distract_social",
+                    "text": "Social Media"
+                },
+                {
+                    "id": "distract_noise",
+                    "text": "Office Noise"
+                },
+                {
+                    "id": "distract_meetings",
+                    "text": "Too Many Meetings"
+                },
+                {
+                    "id": "distract_colleagues",
+                    "text": "Chatty Colleagues"
+                },
+                {
+                    "id": "distract_phone",
+                    "text": "Personal Phone"
+                },
+                {
+                    "id": "distract_email",
+                    "text": "Constant Emails"
+                }
+            ]
+        },
+        {
+            "id": "wrk_028",
+            "text": "Who is most likely to work from a cafe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_029",
+            "text": "Best communication tool?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "comm_email",
+                    "text": "Email"
+                },
+                {
+                    "id": "comm_slack",
+                    "text": "Slack/Teams"
+                },
+                {
+                    "id": "comm_face",
+                    "text": "Face-to-Face"
+                },
+                {
+                    "id": "comm_video",
+                    "text": "Video Calls"
+                },
+                {
+                    "id": "comm_phone",
+                    "text": "Phone Calls"
+                },
+                {
+                    "id": "comm_written",
+                    "text": "Written Documents"
+                }
+            ]
+        },
+        {
+            "id": "wrk_030",
+            "text": "Who would be the most detail-oriented?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_031",
+            "text": "Most essential work tool?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tool_laptop",
+                    "text": "Good Laptop"
+                },
+                {
+                    "id": "tool_phone",
+                    "text": "Smartphone"
+                },
+                {
+                    "id": "tool_monitor",
+                    "text": "Multiple Monitors"
+                },
+                {
+                    "id": "tool_software",
+                    "text": "Right Software"
+                },
+                {
+                    "id": "tool_internet",
+                    "text": "Fast Internet"
+                },
+                {
+                    "id": "tool_coffee",
+                    "text": "Coffee Machine"
+                }
+            ]
+        },
+        {
+            "id": "wrk_032",
+            "text": "Who is most likely to resist new technology?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_033",
+            "text": "Preferred way to take notes?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "notes_handwrite",
+                    "text": "Handwritten"
+                },
+                {
+                    "id": "notes_laptop",
+                    "text": "Laptop"
+                },
+                {
+                    "id": "notes_tablet",
+                    "text": "Tablet"
+                },
+                {
+                    "id": "notes_phone",
+                    "text": "Phone"
+                },
+                {
+                    "id": "notes_sticky",
+                    "text": "Sticky Notes"
+                },
+                {
+                    "id": "notes_memory",
+                    "text": "Just Remember"
+                }
+            ]
+        },
+        {
+            "id": "wrk_034",
+            "text": "Who would be the best tech support?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_035",
+            "text": "How do you backup important files?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "backup_cloud",
+                    "text": "Cloud Storage"
+                },
+                {
+                    "id": "backup_external",
+                    "text": "External Drive"
+                },
+                {
+                    "id": "backup_multiple",
+                    "text": "Multiple Locations"
+                },
+                {
+                    "id": "backup_server",
+                    "text": "Company Server"
+                },
+                {
+                    "id": "backup_email",
+                    "text": "Email to Self"
+                },
+                {
+                    "id": "backup_none",
+                    "text": "I Don't"
+                }
+            ]
+        },
+        {
+            "id": "wrk_036",
+            "text": "Who is most likely to have the messiest desktop?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_037",
+            "text": "Best video call etiquette?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "video_mute",
+                    "text": "Mute When Not Speaking"
+                },
+                {
+                    "id": "video_camera",
+                    "text": "Camera Always On"
+                },
+                {
+                    "id": "video_background",
+                    "text": "Professional Background"
+                },
+                {
+                    "id": "video_dressed",
+                    "text": "Fully Dressed"
+                },
+                {
+                    "id": "video_quiet",
+                    "text": "Quiet Environment"
+                },
+                {
+                    "id": "video_punctual",
+                    "text": "Join on Time"
+                }
+            ]
+        },
+        {
+            "id": "wrk_038",
+            "text": "Who would be most likely to forget to mute?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_039",
+            "text": "Most annoying email habit?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "email_replyall",
+                    "text": "Reply All"
+                },
+                {
+                    "id": "email_urgent",
+                    "text": "Everything Urgent"
+                },
+                {
+                    "id": "email_long",
+                    "text": "Too Long"
+                },
+                {
+                    "id": "email_short",
+                    "text": "Too Short"
+                },
+                {
+                    "id": "email_late",
+                    "text": "Late Responses"
+                },
+                {
+                    "id": "email_cc",
+                    "text": "Too Many CCs"
+                }
+            ]
+        },
+        {
+            "id": "wrk_040",
+            "text": "Who is most likely to send late-night emails?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_041",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_41_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_41_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_41_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_41_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_41_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_41_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_042",
+            "text": "Who is most likely to become the next CEO?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_043",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_43_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_43_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_43_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_43_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_43_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_43_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_044",
+            "text": "Who is most likely to work the longest hours?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_045",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_45_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_45_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_45_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_45_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_45_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_45_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_046",
+            "text": "Who is most likely to have the cleanest desk?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_047",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_47_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_47_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_47_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_47_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_47_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_47_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_048",
+            "text": "Who is most likely to remember everyone's birthday?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_049",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_49_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_49_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_49_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_49_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_49_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_49_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_050",
+            "text": "Who is most likely to be late to meetings?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_051",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_51_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_51_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_51_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_51_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_51_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_51_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_052",
+            "text": "Who is most likely to eat lunch at their desk?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_053",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_53_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_53_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_53_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_53_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_53_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_53_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_054",
+            "text": "Who is most likely to work from exotic locations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_055",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_55_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_55_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_55_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_55_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_55_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_55_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_056",
+            "text": "Who is most likely to master new software first?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_057",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_57_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_57_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_57_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_57_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_57_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_57_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_058",
+            "text": "Who is most likely to give the best presentations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_059",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_59_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_59_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_59_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_59_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_59_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_59_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_060",
+            "text": "Who is most likely to negotiate the biggest deals?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_061",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_61_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_61_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_61_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_61_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_61_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_61_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_062",
+            "text": "Who is most likely to mentor new employees?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_063",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_63_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_63_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_63_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_63_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_63_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_63_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_064",
+            "text": "Who is most likely to organize team events?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_065",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_65_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_65_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_65_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_65_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_65_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_65_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_066",
+            "text": "Who is most likely to come up with creative solutions?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_067",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_67_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_67_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_67_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_67_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_67_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_67_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_068",
+            "text": "Who is most likely to handle crisis situations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_069",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_69_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_69_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_69_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_69_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_69_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_69_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_070",
+            "text": "Who is most likely to retire early?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_071",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_71_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_71_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_71_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_71_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_71_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_71_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_072",
+            "text": "Who is most likely to start their own company?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_073",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_73_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_73_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_73_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_73_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_73_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_73_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_074",
+            "text": "Who is most likely to get the most certifications?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_075",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_75_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_75_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_75_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_75_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_75_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_75_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_076",
+            "text": "Who is most likely to network the most effectively?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_077",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_77_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_77_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_77_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_77_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_77_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_77_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_078",
+            "text": "Who is most likely to maintain work-life balance?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_079",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_79_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_79_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_79_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_79_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_79_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_79_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_080",
+            "text": "Who is most likely to be promoted fastest?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_081",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_81_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_81_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_81_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_81_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_81_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_81_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_082",
+            "text": "Who is most likely to change careers completely?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_083",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_83_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_83_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_83_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_83_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_83_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_83_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_084",
+            "text": "Who is most likely to work remotely permanently?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_085",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_85_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_85_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_85_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_85_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_85_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_85_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_086",
+            "text": "Who is most likely to lead the biggest projects?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_087",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_87_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_87_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_87_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_87_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_87_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_87_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_088",
+            "text": "Who is most likely to get along with everyone?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_089",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_89_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_89_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_89_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_89_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_89_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_89_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_090",
+            "text": "Who is most likely to automate their job?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_091",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_91_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_91_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_91_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_91_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_91_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_91_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_092",
+            "text": "Who is most likely to become an industry expert?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_093",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_93_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_93_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_93_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_93_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_93_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_93_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_094",
+            "text": "Who is most likely to travel for work most?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_095",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_95_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_95_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_95_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_95_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_95_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_95_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_096",
+            "text": "Who is most likely to win employee of the month?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_097",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_97_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_97_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_97_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_97_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_97_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_97_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_098",
+            "text": "Who is most likely to have the best LinkedIn profile?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_099",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_99_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_99_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_99_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_99_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_99_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_99_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_100",
+            "text": "Who is most likely to get headhunted?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_101",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_101_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_101_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_101_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_101_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_101_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_101_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_102",
+            "text": "Who is most likely to speak at conferences?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_103",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_103_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_103_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_103_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_103_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_103_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_103_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_104",
+            "text": "Who is most likely to write a business book?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_105",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_105_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_105_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_105_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_105_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_105_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_105_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_106",
+            "text": "Who is most likely to become a consultant?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_107",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_107_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_107_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_107_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_107_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_107_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_107_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_108",
+            "text": "Who is most likely to work in multiple countries?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_109",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_109_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_109_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_109_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_109_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_109_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_109_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_110",
+            "text": "Who is most likely to build the strongest team?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_111",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_111_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_111_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_111_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_111_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_111_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_111_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_112",
+            "text": "Who is most likely to innovate processes?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_113",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_113_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_113_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_113_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_113_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_113_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_113_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_114",
+            "text": "Who is most likely to handle difficult clients?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_115",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_115_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_115_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_115_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_115_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_115_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_115_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_116",
+            "text": "Who is most likely to close the most sales?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_117",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_117_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_117_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_117_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_117_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_117_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_117_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_118",
+            "text": "Who is most likely to reduce company costs?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_119",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_119_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_119_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_119_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_119_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_119_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_119_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_120",
+            "text": "Who is most likely to improve company culture?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_121",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_121_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_121_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_121_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_121_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_121_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_121_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_122",
+            "text": "Who is most likely to lead digital transformation?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_123",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_123_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_123_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_123_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_123_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_123_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_123_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_124",
+            "text": "Who is most likely to become department head?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_125",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_125_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_125_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_125_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_125_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_125_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_125_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_126",
+            "text": "Who is most likely to get the biggest raise?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_127",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_127_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_127_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_127_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_127_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_127_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_127_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_128",
+            "text": "Who is most likely to work past retirement age?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_129",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_129_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_129_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_129_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_129_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_129_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_129_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_130",
+            "text": "Who is most likely to switch to freelancing?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_131",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_131_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_131_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_131_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_131_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_131_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_131_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_132",
+            "text": "Who is most likely to become a board member?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_133",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_133_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_133_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_133_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_133_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_133_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_133_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_134",
+            "text": "Who is most likely to mentor executives?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_135",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_135_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_135_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_135_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_135_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_135_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_135_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_136",
+            "text": "Who is most likely to start a nonprofit?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_137",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_137_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_137_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_137_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_137_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_137_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_137_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_138",
+            "text": "Who is most likely to become an angel investor?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_139",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_139_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_139_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_139_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_139_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_139_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_139_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_140",
+            "text": "Who is most likely to teach others their skills?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_141",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_141_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_141_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_141_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_141_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_141_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_141_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_142",
+            "text": "Who is most likely to revolutionize their industry?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_143",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_143_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_143_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_143_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_143_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_143_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_143_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_144",
+            "text": "Who is most likely to become the next CEO?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_145",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_145_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_145_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_145_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_145_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_145_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_145_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_146",
+            "text": "Who is most likely to work the longest hours?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_147",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_147_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_147_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_147_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_147_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_147_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_147_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_148",
+            "text": "Who is most likely to have the cleanest desk?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_149",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_149_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_149_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_149_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_149_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_149_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_149_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_150",
+            "text": "Who is most likely to remember everyone's birthday?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_151",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_151_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_151_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_151_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_151_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_151_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_151_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_152",
+            "text": "Who is most likely to be late to meetings?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_153",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_153_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_153_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_153_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_153_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_153_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_153_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_154",
+            "text": "Who is most likely to eat lunch at their desk?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_155",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_155_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_155_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_155_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_155_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_155_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_155_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_156",
+            "text": "Who is most likely to work from exotic locations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_157",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_157_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_157_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_157_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_157_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_157_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_157_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_158",
+            "text": "Who is most likely to master new software first?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_159",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_159_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_159_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_159_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_159_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_159_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_159_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_160",
+            "text": "Who is most likely to give the best presentations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_161",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_161_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_161_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_161_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_161_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_161_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_161_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_162",
+            "text": "Who is most likely to negotiate the biggest deals?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_163",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_163_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_163_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_163_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_163_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_163_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_163_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_164",
+            "text": "Who is most likely to mentor new employees?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_165",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_165_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_165_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_165_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_165_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_165_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_165_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_166",
+            "text": "Who is most likely to organize team events?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_167",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_167_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_167_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_167_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_167_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_167_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_167_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_168",
+            "text": "Who is most likely to come up with creative solutions?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_169",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_169_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_169_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_169_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_169_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_169_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_169_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_170",
+            "text": "Who is most likely to handle crisis situations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_171",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_171_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_171_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_171_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_171_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_171_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_171_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_172",
+            "text": "Who is most likely to retire early?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_173",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_173_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_173_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_173_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_173_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_173_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_173_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_174",
+            "text": "Who is most likely to start their own company?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_175",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_175_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_175_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_175_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_175_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_175_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_175_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_176",
+            "text": "Who is most likely to get the most certifications?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_177",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_177_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_177_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_177_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_177_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_177_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_177_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_178",
+            "text": "Who is most likely to network the most effectively?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_179",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_179_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_179_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_179_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_179_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_179_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_179_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_180",
+            "text": "Who is most likely to maintain work-life balance?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_181",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_181_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_181_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_181_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_181_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_181_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_181_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_182",
+            "text": "Who is most likely to be promoted fastest?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_183",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_183_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_183_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_183_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_183_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_183_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_183_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_184",
+            "text": "Who is most likely to change careers completely?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_185",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_185_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_185_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_185_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_185_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_185_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_185_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_186",
+            "text": "Who is most likely to work remotely permanently?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_187",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_187_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_187_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_187_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_187_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_187_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_187_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_188",
+            "text": "Who is most likely to lead the biggest projects?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_189",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_189_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_189_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_189_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_189_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_189_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_189_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_190",
+            "text": "Who is most likely to get along with everyone?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_191",
+            "text": "Best leadership approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_191_1",
+                    "text": "Democratic"
+                },
+                {
+                    "id": "opt_191_2",
+                    "text": "Hands-Off"
+                },
+                {
+                    "id": "opt_191_3",
+                    "text": "Supportive"
+                },
+                {
+                    "id": "opt_191_4",
+                    "text": "Visionary"
+                },
+                {
+                    "id": "opt_191_5",
+                    "text": "Coaching"
+                },
+                {
+                    "id": "opt_191_6",
+                    "text": "Direct"
+                }
+            ]
+        },
+        {
+            "id": "wrk_192",
+            "text": "Who is most likely to automate their job?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_193",
+            "text": "Best feedback approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_193_1",
+                    "text": "Direct & Honest"
+                },
+                {
+                    "id": "opt_193_2",
+                    "text": "Sandwich Method"
+                },
+                {
+                    "id": "opt_193_3",
+                    "text": "Written Form"
+                },
+                {
+                    "id": "opt_193_4",
+                    "text": "Private Meeting"
+                },
+                {
+                    "id": "opt_193_5",
+                    "text": "Regular Check-ins"
+                },
+                {
+                    "id": "opt_193_6",
+                    "text": "Public Recognition"
+                }
+            ]
+        },
+        {
+            "id": "wrk_194",
+            "text": "Who is most likely to become an industry expert?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_195",
+            "text": "Best temperature approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_195_1",
+                    "text": "Cool (65-68\u00b0F)"
+                },
+                {
+                    "id": "opt_195_2",
+                    "text": "Moderate (69-72\u00b0F)"
+                },
+                {
+                    "id": "opt_195_3",
+                    "text": "Warm (73-76\u00b0F)"
+                },
+                {
+                    "id": "opt_195_4",
+                    "text": "Hot (77\u00b0F+)"
+                },
+                {
+                    "id": "opt_195_5",
+                    "text": "Variable"
+                },
+                {
+                    "id": "opt_195_6",
+                    "text": "Personal Control"
+                }
+            ]
+        },
+        {
+            "id": "wrk_196",
+            "text": "Who is most likely to travel for work most?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_197",
+            "text": "Best networking approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_197_1",
+                    "text": "Industry Events"
+                },
+                {
+                    "id": "opt_197_2",
+                    "text": "Online Communities"
+                },
+                {
+                    "id": "opt_197_3",
+                    "text": "Through Colleagues"
+                },
+                {
+                    "id": "opt_197_4",
+                    "text": "LinkedIn"
+                },
+                {
+                    "id": "opt_197_5",
+                    "text": "Natural Conversations"
+                },
+                {
+                    "id": "opt_197_6",
+                    "text": "Avoid Networking"
+                }
+            ]
+        },
+        {
+            "id": "wrk_198",
+            "text": "Who is most likely to win employee of the month?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "wrk_199",
+            "text": "Best success approach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "opt_199_1",
+                    "text": "Salary Growth"
+                },
+                {
+                    "id": "opt_199_2",
+                    "text": "Job Title"
+                },
+                {
+                    "id": "opt_199_3",
+                    "text": "Impact Made"
+                },
+                {
+                    "id": "opt_199_4",
+                    "text": "Happiness"
+                },
+                {
+                    "id": "opt_199_5",
+                    "text": "Skills Learned"
+                },
+                {
+                    "id": "opt_199_6",
+                    "text": "Work-Life Balance"
+                }
+            ]
+        },
+        {
+            "id": "wrk_200",
+            "text": "Who is most likely to have the best LinkedIn profile?",
+            "type": "players",
+            "options": []
+        }
+    ]
+}

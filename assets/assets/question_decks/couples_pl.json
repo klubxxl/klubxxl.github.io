@@ -1,0 +1,3708 @@
+{
+    "deck": {
+        "id": "couples",
+        "name": "Edycja dla par",
+        "description": "Romantyczne pytania związane z relacjami dla par lub grup randkowych.",
+        "category": "couples",
+        "version": "1.0.0",
+        "language": "pl"
+    },
+    "questions": [
+        {
+            "id": "cpl_001",
+            "text": "Co jest najważniejsze w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "relationship_trust",
+                    "text": "Zaufanie"
+                },
+                {
+                    "id": "relationship_communication",
+                    "text": "Komunikacja"
+                },
+                {
+                    "id": "relationship_attraction",
+                    "text": "Fizyczna atrakcyjność"
+                },
+                {
+                    "id": "relationship_interests",
+                    "text": "Wspólne zainteresowania"
+                },
+                {
+                    "id": "relationship_humor",
+                    "text": "Poczucie humoru"
+                },
+                {
+                    "id": "relationship_respect",
+                    "text": "Szacunek"
+                }
+            ]
+        },
+        {
+            "id": "cpl_002",
+            "text": "Idealna aktywność na randkę?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "date_dinner",
+                    "text": "Romantyczna kolacja"
+                },
+                {
+                    "id": "date_movie",
+                    "text": "Wieczór filmowy"
+                },
+                {
+                    "id": "date_adventure",
+                    "text": "Aktywność przygodowa"
+                },
+                {
+                    "id": "date_cooking",
+                    "text": "Gotowanie w domu"
+                },
+                {
+                    "id": "date_dancing",
+                    "text": "Taniec"
+                },
+                {
+                    "id": "date_spa",
+                    "text": "Dzień w spa"
+                }
+            ]
+        },
+        {
+            "id": "cpl_003",
+            "text": "Jak okazujesz miłość?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "love_touch",
+                    "text": "Dotyk fizyczny"
+                },
+                {
+                    "id": "love_time",
+                    "text": "Spędzanie czasu"
+                },
+                {
+                    "id": "love_words",
+                    "text": "Słowa wsparcia"
+                },
+                {
+                    "id": "love_service",
+                    "text": "Akty służby"
+                },
+                {
+                    "id": "love_gifts",
+                    "text": "Prezenty"
+                }
+            ]
+        },
+        {
+            "id": "cpl_004",
+            "text": "Co jest dla ciebie niedopuszczalne w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "dealbreaker_dishonesty",
+                    "text": "Nieuczciwość"
+                },
+                {
+                    "id": "dealbreaker_ambition",
+                    "text": "Brak ambicji"
+                },
+                {
+                    "id": "dealbreaker_hygiene",
+                    "text": "Słaba higiena"
+                },
+                {
+                    "id": "dealbreaker_values",
+                    "text": "Różne wartości"
+                },
+                {
+                    "id": "dealbreaker_humor",
+                    "text": "Brak poczucia humoru"
+                },
+                {
+                    "id": "dealbreaker_jealousy",
+                    "text": "Zazdrość"
+                }
+            ]
+        },
+        {
+            "id": "cpl_005",
+            "text": "Kto najprawdopodobniej zaplanuje romantyczne niespodzianki?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_006",
+            "text": "Kto byłby najbardziej wyrozumiałym partnerem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_007",
+            "text": "Kto najprawdopodobniej zapamięta rocznice?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_008",
+            "text": "Gdzie pojechałbyś na miesiąc miodowy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "honeymoon_island",
+                    "text": "Tropikalna wyspa"
+                },
+                {
+                    "id": "honeymoon_europe",
+                    "text": "Europejskie miasta"
+                },
+                {
+                    "id": "honeymoon_mountain",
+                    "text": "Górskie schronisko"
+                },
+                {
+                    "id": "honeymoon_safari",
+                    "text": "Afrykańskie safari"
+                },
+                {
+                    "id": "honeymoon_asia",
+                    "text": "Azjatycka przygoda"
+                },
+                {
+                    "id": "honeymoon_beach",
+                    "text": "Nadmorski kurort"
+                }
+            ]
+        },
+        {
+            "id": "cpl_009",
+            "text": "Kto najlepiej radzi sobie z rozwiązywaniem konfliktów?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_010",
+            "text": "Kto najprawdopodobniej pierwszy powie 'kocham cię'?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_011",
+            "text": "Jaki jest twój idealny harmonogram związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "timeline_slow",
+                    "text": "Bez pośpiechu"
+                },
+                {
+                    "id": "timeline_natural",
+                    "text": "Niech dzieje się naturalnie"
+                },
+                {
+                    "id": "timeline_planned",
+                    "text": "Tradycyjne etapy"
+                },
+                {
+                    "id": "timeline_fast",
+                    "text": "Gdy się wie, to się wie"
+                },
+                {
+                    "id": "timeline_casual",
+                    "text": "Na razie bez zobowiązań"
+                },
+                {
+                    "id": "timeline_serious",
+                    "text": "Szybko na poważnie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_012",
+            "text": "Kto najprawdopodobniej zapomni ważne daty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_013",
+            "text": "Jak wolałbyś spędzić leniwa niedzielę razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "sunday_bed",
+                    "text": "Zostać w łóżku cały dzień"
+                },
+                {
+                    "id": "sunday_brunch",
+                    "text": "Długi brunch"
+                },
+                {
+                    "id": "sunday_nature",
+                    "text": "Spacer na łonie natury"
+                },
+                {
+                    "id": "sunday_movies",
+                    "text": "Maraton filmowy"
+                },
+                {
+                    "id": "sunday_cooking",
+                    "text": "Gotować razem"
+                },
+                {
+                    "id": "sunday_reading",
+                    "text": "Czytać razem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_014",
+            "text": "Kto byłby najbardziej wspierający w trudnych chwilach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_015",
+            "text": "Co jest najważniejsze dla zdrowego związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "healthy_independence",
+                    "text": "Osobista niezależność"
+                },
+                {
+                    "id": "healthy_communication",
+                    "text": "Otwarta komunikacja"
+                },
+                {
+                    "id": "healthy_trust",
+                    "text": "Pełne zaufanie"
+                },
+                {
+                    "id": "healthy_fun",
+                    "text": "Wspólna zabawa"
+                },
+                {
+                    "id": "healthy_growth",
+                    "text": "Wspólny rozwój"
+                },
+                {
+                    "id": "healthy_intimacy",
+                    "text": "Bliskość emocjonalna"
+                }
+            ]
+        },
+        {
+            "id": "cpl_016",
+            "text": "Kto najprawdopodobniej zacznie głębokie rozmowy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_017",
+            "text": "Jak wolisz radzić sobie z nieporozumieniami?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "conflict_discuss",
+                    "text": "Od razu o tym rozmawiać"
+                },
+                {
+                    "id": "conflict_space",
+                    "text": "Najpierw się wyciszyć"
+                },
+                {
+                    "id": "conflict_compromise",
+                    "text": "Znaleźć kompromis"
+                },
+                {
+                    "id": "conflict_avoid",
+                    "text": "Unikać konfrontacji"
+                },
+                {
+                    "id": "conflict_solution",
+                    "text": "Skupić się na rozwiązaniach"
+                },
+                {
+                    "id": "conflict_emotions",
+                    "text": "Najpierw wyrazić uczucia"
+                }
+            ]
+        },
+        {
+            "id": "cpl_018",
+            "text": "Kto najprawdopodobniej zaplanuje niespodziankowe randki?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_019",
+            "text": "Jak wolisz okazywać czułość publicznie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pda_handholding",
+                    "text": "Trzymanie za ręce"
+                },
+                {
+                    "id": "pda_hugs",
+                    "text": "Szybkie uściski"
+                },
+                {
+                    "id": "pda_words",
+                    "text": "Słodkie słowa"
+                },
+                {
+                    "id": "pda_minimal",
+                    "text": "Ograniczyć do minimum"
+                },
+                {
+                    "id": "pda_kisses",
+                    "text": "Delikatne pocałunki"
+                },
+                {
+                    "id": "pda_touch",
+                    "text": "Subtelne dotyki"
+                }
+            ]
+        },
+        {
+            "id": "cpl_020",
+            "text": "Kto byłby najbardziej romantyczny bez wysiłku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_021",
+            "text": "Jak najchętniej świętowałbyś rocznicę?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "anniversary_fancy",
+                    "text": "Elegancka kolacja"
+                },
+                {
+                    "id": "anniversary_travel",
+                    "text": "Weekend wyjazdowy"
+                },
+                {
+                    "id": "anniversary_home",
+                    "text": "Intymny wieczór w domu"
+                },
+                {
+                    "id": "anniversary_recreation",
+                    "text": "Odtworzyć pierwszą randkę"
+                },
+                {
+                    "id": "anniversary_adventure",
+                    "text": "Spróbować czegoś nowego"
+                },
+                {
+                    "id": "anniversary_simple",
+                    "text": "Prosto i ze znaczeniem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_022",
+            "text": "Kto najprawdopodobniej zapamięta drobne szczegóły o partnerze?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_023",
+            "text": "Co jest najbardziej atrakcyjne w potencjalnym partnerze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "attractive_confidence",
+                    "text": "Pewność siebie"
+                },
+                {
+                    "id": "attractive_kindness",
+                    "text": "Życzliwość"
+                },
+                {
+                    "id": "attractive_intelligence",
+                    "text": "Inteligencja"
+                },
+                {
+                    "id": "attractive_humor",
+                    "text": "Poczucie humoru"
+                },
+                {
+                    "id": "attractive_ambition",
+                    "text": "Ambicja"
+                },
+                {
+                    "id": "attractive_authenticity",
+                    "text": "Bycie sobą"
+                }
+            ]
+        },
+        {
+            "id": "cpl_024",
+            "text": "Kto najprawdopodobniej prowadziłby pamiętnik związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_025",
+            "text": "Jak wolisz przyjmować przeprosiny?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "apology_words",
+                    "text": "Szczere słowa"
+                },
+                {
+                    "id": "apology_actions",
+                    "text": "Zmiana zachowania"
+                },
+                {
+                    "id": "apology_time",
+                    "text": "Wspólny czas"
+                },
+                {
+                    "id": "apology_gestures",
+                    "text": "Przemyślane gesty"
+                },
+                {
+                    "id": "apology_space",
+                    "text": "Najpierw odrobina przestrzeni"
+                },
+                {
+                    "id": "apology_discussion",
+                    "text": "Pełna dyskusja"
+                }
+            ]
+        },
+        {
+            "id": "cpl_026",
+            "text": "Kto najprawdopodobniej napisałby listy miłosne?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_027",
+            "text": "Jakie tempo wolisz w nowym związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pace_slow",
+                    "text": "Bardzo powoli i stabilnie"
+                },
+                {
+                    "id": "pace_moderate",
+                    "text": "Umiarkowane tempo"
+                },
+                {
+                    "id": "pace_intuitive",
+                    "text": "Według intuicji"
+                },
+                {
+                    "id": "pace_fast",
+                    "text": "Szybko się angażować"
+                },
+                {
+                    "id": "pace_flexible",
+                    "text": "Dostosować do sytuacji"
+                },
+                {
+                    "id": "pace_careful",
+                    "text": "Ostrożnie i przemyślanie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_028",
+            "text": "Kto najprawdopodobniej udzieliłby najlepszych rad związkowych?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_029",
+            "text": "Co jest najważniejsze przy wyborze miejsca do wspólnego zamieszkania?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "living_career",
+                    "text": "Możliwości kariery"
+                },
+                {
+                    "id": "living_family",
+                    "text": "Bliskość rodziny"
+                },
+                {
+                    "id": "living_lifestyle",
+                    "text": "Preferencje stylu życia"
+                },
+                {
+                    "id": "living_cost",
+                    "text": "Koszt życia"
+                },
+                {
+                    "id": "living_adventure",
+                    "text": "Nowe doświadczenia"
+                },
+                {
+                    "id": "living_comfort",
+                    "text": "Komfort i stabilność"
+                }
+            ]
+        },
+        {
+            "id": "cpl_030",
+            "text": "Kto najprawdopodobniej zasugerowałby terapię par w razie potrzeby?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_031",
+            "text": "Jak najchętniej spędzałbyś wspólny czas?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "quality_talking",
+                    "text": "Głębokie rozmowy"
+                },
+                {
+                    "id": "quality_activities",
+                    "text": "Wspólne aktywności"
+                },
+                {
+                    "id": "quality_quiet",
+                    "text": "Spokojne towarzystwo"
+                },
+                {
+                    "id": "quality_adventures",
+                    "text": "Nowe przygody"
+                },
+                {
+                    "id": "quality_routine",
+                    "text": "Codzienna rutyna"
+                },
+                {
+                    "id": "quality_spontaneous",
+                    "text": "Spontaniczne chwile"
+                }
+            ]
+        },
+        {
+            "id": "cpl_032",
+            "text": "Kto najprawdopodobniej zaskoczyłby partnera śniadaniem do łóżka?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_033",
+            "text": "Jak ważne jest posiadanie wspólnych hobby?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "hobbies_essential",
+                    "text": "Absolutnie niezbędne"
+                },
+                {
+                    "id": "hobbies_nice",
+                    "text": "Miło mieć"
+                },
+                {
+                    "id": "hobbies_some",
+                    "text": "Kilka wspólnych"
+                },
+                {
+                    "id": "hobbies_independent",
+                    "text": "Wolę niezależność"
+                },
+                {
+                    "id": "hobbies_balance",
+                    "text": "Równowaga obu"
+                },
+                {
+                    "id": "hobbies_unimportant",
+                    "text": "Nieważne"
+                }
+            ]
+        },
+        {
+            "id": "cpl_034",
+            "text": "Kto najprawdopodobniej tworzyłby albumy ze wspomnieniami?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_035",
+            "text": "Jakie jest twoje podejście do kamieni milowych w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "milestones_traditional",
+                    "text": "Tradycyjna ścieżka"
+                },
+                {
+                    "id": "milestones_create",
+                    "text": "Tworzyć własne"
+                },
+                {
+                    "id": "milestones_natural",
+                    "text": "Niech dzieją się naturalnie"
+                },
+                {
+                    "id": "milestones_celebrate",
+                    "text": "Świętować wszystko"
+                },
+                {
+                    "id": "milestones_downplay",
+                    "text": "Bagatelizować znaczenie"
+                },
+                {
+                    "id": "milestones_practical",
+                    "text": "Skupić się na praktycznych"
+                }
+            ]
+        },
+        {
+            "id": "cpl_036",
+            "text": "Kto najprawdopodobniej zaplanowałby wyszukane urodziny?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_037",
+            "text": "Co jest najważniejsze dla długoterminowej zgodności?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "compatibility_values",
+                    "text": "Wspólne wartości"
+                },
+                {
+                    "id": "compatibility_goals",
+                    "text": "Podobne cele życiowe"
+                },
+                {
+                    "id": "compatibility_communication",
+                    "text": "Styl komunikacji"
+                },
+                {
+                    "id": "compatibility_lifestyle",
+                    "text": "Preferencje stylu życia"
+                },
+                {
+                    "id": "compatibility_growth",
+                    "text": "Wspólny rozwój"
+                },
+                {
+                    "id": "compatibility_acceptance",
+                    "text": "Akceptacja różnic"
+                }
+            ]
+        },
+        {
+            "id": "cpl_038",
+            "text": "Kto najprawdopodobniej wysyłałby słodkie wiadomości 'dzień dobry'?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_039",
+            "text": "Jak wolisz radzić sobie ze stresem w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "stress_together",
+                    "text": "Stawić czoła razem"
+                },
+                {
+                    "id": "stress_support",
+                    "text": "Wspierać się nawzajem"
+                },
+                {
+                    "id": "stress_individual",
+                    "text": "Najpierw radzić sobie indywidualnie"
+                },
+                {
+                    "id": "stress_professional",
+                    "text": "Szukać profesjonalnej pomocy"
+                },
+                {
+                    "id": "stress_communication",
+                    "text": "Komunikować się otwarcie"
+                },
+                {
+                    "id": "stress_patience",
+                    "text": "Być cierpliwym i wyrozumiałym"
+                }
+            ]
+        },
+        {
+            "id": "cpl_040",
+            "text": "Kto najprawdopodobniej zapamięta ulubione rzeczy partnera?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_041",
+            "text": "Jaka jest twoja idealna równowaga między czasem razem a osobistym?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "balance_mostly_together",
+                    "text": "Głównie razem"
+                },
+                {
+                    "id": "balance_equal",
+                    "text": "Równowaga 50/50"
+                },
+                {
+                    "id": "balance_more_personal",
+                    "text": "Więcej czasu osobistego"
+                },
+                {
+                    "id": "balance_flexible",
+                    "text": "Zależy od nastroju"
+                },
+                {
+                    "id": "balance_quality",
+                    "text": "Jakość ponad ilość"
+                },
+                {
+                    "id": "balance_natural",
+                    "text": "Co wydaje się naturalne"
+                }
+            ]
+        },
+        {
+            "id": "cpl_042",
+            "text": "Kto najprawdopodobniej dawałby przemyślane prezenty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_043",
+            "text": "Co jest najważniejsze przy poznawaniu rodziny partnera?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "family_authentic",
+                    "text": "Bycie autentycznym"
+                },
+                {
+                    "id": "family_respectful",
+                    "text": "Bycie z szacunkiem"
+                },
+                {
+                    "id": "family_interested",
+                    "text": "Okazywanie zainteresowania"
+                },
+                {
+                    "id": "family_supportive",
+                    "text": "Wspieranie partnera"
+                },
+                {
+                    "id": "family_boundaries",
+                    "text": "Ustalenie granic"
+                },
+                {
+                    "id": "family_effort",
+                    "text": "Wkładanie wysiłku"
+                }
+            ]
+        },
+        {
+            "id": "cpl_044",
+            "text": "Kto najprawdopodobniej planowałby weekendowe wypady?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_045",
+            "text": "Jak wolisz świętować osiągnięcia razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "celebrate_dinner",
+                    "text": "Specjalna kolacja"
+                },
+                {
+                    "id": "celebrate_trip",
+                    "text": "Mini wakacje"
+                },
+                {
+                    "id": "celebrate_quiet",
+                    "text": "Spokojne świętowanie"
+                },
+                {
+                    "id": "celebrate_friends",
+                    "text": "Z przyjaciółmi/rodziną"
+                },
+                {
+                    "id": "celebrate_meaningful",
+                    "text": "Coś znaczącego"
+                },
+                {
+                    "id": "celebrate_experience",
+                    "text": "Nowe doświadczenie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_046",
+            "text": "Kto najprawdopodobniej zostawiałby słodkie karteczki dla partnera?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_047",
+            "text": "Jak najchętniej okazujesz troskę?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "care_listen",
+                    "text": "Naprawdę słuchając"
+                },
+                {
+                    "id": "care_help",
+                    "text": "Pomocne działania"
+                },
+                {
+                    "id": "care_surprise",
+                    "text": "Małe niespodzianki"
+                },
+                {
+                    "id": "care_time",
+                    "text": "Poświęcony czas"
+                },
+                {
+                    "id": "care_words",
+                    "text": "Troskliwe słowa"
+                },
+                {
+                    "id": "care_support",
+                    "text": "Wsparcie emocjonalne"
+                }
+            ]
+        },
+        {
+            "id": "cpl_048",
+            "text": "Kto najprawdopodobniej zasugerowałby wypróbowanie nowych restauracji?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_049",
+            "text": "Co jest najważniejsze w komunikacji w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "communication_honesty",
+                    "text": "Pełna szczerość"
+                },
+                {
+                    "id": "communication_kindness",
+                    "text": "Życzliwość w przekazie"
+                },
+                {
+                    "id": "communication_timing",
+                    "text": "Właściwy moment"
+                },
+                {
+                    "id": "communication_listening",
+                    "text": "Aktywne słuchanie"
+                },
+                {
+                    "id": "communication_understanding",
+                    "text": "Dążenie do zrozumienia"
+                },
+                {
+                    "id": "communication_respect",
+                    "text": "Wzajemny szacunek"
+                }
+            ]
+        },
+        {
+            "id": "cpl_050",
+            "text": "Kto najprawdopodobniej tworzyłby tradycje dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_051",
+            "text": "Jak najchętniej spędzilibyście deszczowy dzień razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "rainy_cuddle",
+                    "text": "Przytulanie i rozmowy"
+                },
+                {
+                    "id": "rainy_movies",
+                    "text": "Maraton filmowy"
+                },
+                {
+                    "id": "rainy_games",
+                    "text": "Gry planszowe"
+                },
+                {
+                    "id": "rainy_cooking",
+                    "text": "Gotowanie razem"
+                },
+                {
+                    "id": "rainy_reading",
+                    "text": "Czytanie razem"
+                },
+                {
+                    "id": "rainy_projects",
+                    "text": "Projekty domowe"
+                }
+            ]
+        },
+        {
+            "id": "cpl_052",
+            "text": "Kto najprawdopodobniej pierwszy przeprosiłby po kłótni?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_053",
+            "text": "Co jest najważniejsze przy przedstawianiu partnera przyjaciołom?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "friends_genuine",
+                    "text": "Bycie autentycznym"
+                },
+                {
+                    "id": "friends_inclusive",
+                    "text": "Włączanie wszystkich"
+                },
+                {
+                    "id": "friends_comfort",
+                    "text": "Komfort partnera"
+                },
+                {
+                    "id": "friends_fun",
+                    "text": "Dobra zabawa"
+                },
+                {
+                    "id": "friends_acceptance",
+                    "text": "Zyskanie akceptacji"
+                },
+                {
+                    "id": "friends_natural",
+                    "text": "Naturalny przebieg"
+                }
+            ]
+        },
+        {
+            "id": "cpl_054",
+            "text": "Kto najprawdopodobniej przechowywałby pamiątki ze związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_055",
+            "text": "Jak wolisz podchodzić do finansów w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "finances_separate",
+                    "text": "Wszystko osobno"
+                },
+                {
+                    "id": "finances_shared",
+                    "text": "Wszystko wspólnie"
+                },
+                {
+                    "id": "finances_hybrid",
+                    "text": "Wspólne wydatki, osobne kieszonkowe"
+                },
+                {
+                    "id": "finances_proportional",
+                    "text": "Proporcjonalnie do dochodów"
+                },
+                {
+                    "id": "finances_traditional",
+                    "text": "Tradycyjny układ"
+                },
+                {
+                    "id": "finances_discuss",
+                    "text": "Omawiać w miarę potrzeb"
+                }
+            ]
+        },
+        {
+            "id": "cpl_056",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki urodzinowe dla partnera?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_057",
+            "text": "Jaki typ romantycznego gestu preferujesz?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "romantic_thoughtful",
+                    "text": "Przemyślany i osobisty"
+                },
+                {
+                    "id": "romantic_grand",
+                    "text": "Wielki i imponujący"
+                },
+                {
+                    "id": "romantic_simple",
+                    "text": "Prosty i słodki"
+                },
+                {
+                    "id": "romantic_creative",
+                    "text": "Kreatywny i wyjątkowy"
+                },
+                {
+                    "id": "romantic_traditional",
+                    "text": "Klasyczny i tradycyjny"
+                },
+                {
+                    "id": "romantic_spontaneous",
+                    "text": "Spontaniczny i zabawny"
+                }
+            ]
+        },
+        {
+            "id": "cpl_058",
+            "text": "Kto najprawdopodobniej sugerowałby wspólne aktywności dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_059",
+            "text": "Co jest najważniejsze w związku na odległość?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "distance_communication",
+                    "text": "Stała komunikacja"
+                },
+                {
+                    "id": "distance_trust",
+                    "text": "Pełne zaufanie"
+                },
+                {
+                    "id": "distance_visits",
+                    "text": "Regularne wizyty"
+                },
+                {
+                    "id": "distance_goals",
+                    "text": "Wspólne cele na przyszłość"
+                },
+                {
+                    "id": "distance_independence",
+                    "text": "Zachowanie niezależności"
+                },
+                {
+                    "id": "distance_creativity",
+                    "text": "Kreatywne łączenie się"
+                }
+            ]
+        },
+        {
+            "id": "cpl_060",
+            "text": "Kto najprawdopodobniej pisałby listę marzeń dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_061",
+            "text": "Jak najlepiej radzić sobie z zazdrością?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "jealousy_talk",
+                    "text": "Otwarta dyskusja"
+                },
+                {
+                    "id": "jealousy_reassurance",
+                    "text": "Zapewnienia i czułość"
+                },
+                {
+                    "id": "jealousy_boundaries",
+                    "text": "Jasne granice"
+                },
+                {
+                    "id": "jealousy_trust",
+                    "text": "Budowanie zaufania"
+                },
+                {
+                    "id": "jealousy_understanding",
+                    "text": "Zrozumienie przyczyn"
+                },
+                {
+                    "id": "jealousy_time",
+                    "text": "Czas i cierpliwość"
+                }
+            ]
+        },
+        {
+            "id": "cpl_062",
+            "text": "Kto najprawdopodobniej zaproponowałby naukę czegoś nowego razem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_063",
+            "text": "Jak ważna jest atrakcyjność fizyczna w długoterminowym związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "attraction_very",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "attraction_somewhat",
+                    "text": "Trochę ważna"
+                },
+                {
+                    "id": "attraction_grows",
+                    "text": "Rośnie z bliskością"
+                },
+                {
+                    "id": "attraction_initial",
+                    "text": "Ważna początkowo"
+                },
+                {
+                    "id": "attraction_emotional",
+                    "text": "Atrakcyjność emocjonalna ważniejsza"
+                },
+                {
+                    "id": "attraction_balanced",
+                    "text": "Potrzeba obu rodzajów"
+                }
+            ]
+        },
+        {
+            "id": "cpl_064",
+            "text": "Kto najprawdopodobniej pamiętałby o kamieniach milowych związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_065",
+            "text": "Jakie jest twoje podejście do rozwoju osobistego w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "growth_together",
+                    "text": "Rozwijać się razem"
+                },
+                {
+                    "id": "growth_individual",
+                    "text": "Najpierw rozwój indywidualny"
+                },
+                {
+                    "id": "growth_support",
+                    "text": "Wspierać rozwój nawzajem"
+                },
+                {
+                    "id": "growth_challenge",
+                    "text": "Motywować się nawzajem"
+                },
+                {
+                    "id": "growth_accept",
+                    "text": "Akceptować takimi, jacy są"
+                },
+                {
+                    "id": "growth_balance",
+                    "text": "Równowaga obu podejść"
+                }
+            ]
+        },
+        {
+            "id": "cpl_066",
+            "text": "Kto najprawdopodobniej sugerowałby regularne rozmowy o związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_067",
+            "text": "Jak wolisz podchodzić do mediów społecznościowych w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "social_open",
+                    "text": "Całkowicie otwarto"
+                },
+                {
+                    "id": "social_private",
+                    "text": "Zachować prywatność"
+                },
+                {
+                    "id": "social_occasional",
+                    "text": "Okazjonalne posty"
+                },
+                {
+                    "id": "social_milestones",
+                    "text": "Tylko ważne momenty"
+                },
+                {
+                    "id": "social_individual",
+                    "text": "Indywidualny wybór"
+                },
+                {
+                    "id": "social_boundaries",
+                    "text": "Ustalić jasne granice"
+                }
+            ]
+        },
+        {
+            "id": "cpl_068",
+            "text": "Kto najprawdopodobniej planowałby wyszukane rocznice?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_069",
+            "text": "Co jest najważniejsze przy podejmowaniu ważnych decyzji życiowych razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "decisions_equal",
+                    "text": "Równy udział"
+                },
+                {
+                    "id": "decisions_consensus",
+                    "text": "Pełny konsensus"
+                },
+                {
+                    "id": "decisions_expertise",
+                    "text": "Szanować ekspertyzę"
+                },
+                {
+                    "id": "decisions_discussion",
+                    "text": "Dogłębna dyskusja"
+                },
+                {
+                    "id": "decisions_values",
+                    "text": "Zgodność z wartościami"
+                },
+                {
+                    "id": "decisions_compromise",
+                    "text": "Gotowość do kompromisu"
+                }
+            ]
+        },
+        {
+            "id": "cpl_070",
+            "text": "Kto najprawdopodobniej tworzyłby tablicę wizji związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_071",
+            "text": "Jak wolisz dzielić obowiązki domowe?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "household_equal",
+                    "text": "Dzielić wszystko po równo"
+                },
+                {
+                    "id": "household_preferences",
+                    "text": "Według preferencji"
+                },
+                {
+                    "id": "household_strengths",
+                    "text": "Według umiejętności"
+                },
+                {
+                    "id": "household_schedules",
+                    "text": "Według harmonogramów"
+                },
+                {
+                    "id": "household_traditional",
+                    "text": "Tradycyjne role"
+                },
+                {
+                    "id": "household_flexible",
+                    "text": "Elastyczne układy"
+                }
+            ]
+        },
+        {
+            "id": "cpl_072",
+            "text": "Kto najprawdopodobniej zaskoczyłby partnera jego ulubionym posiłkiem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_073",
+            "text": "Jak najlepiej wspierać marzenia partnera?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "dreams_encourage",
+                    "text": "Ciągłe zachęcanie"
+                },
+                {
+                    "id": "dreams_practical",
+                    "text": "Praktyczne wsparcie"
+                },
+                {
+                    "id": "dreams_sacrifice",
+                    "text": "Ponosić poświęcenia"
+                },
+                {
+                    "id": "dreams_believe",
+                    "text": "Niezachwiana wiara"
+                },
+                {
+                    "id": "dreams_resources",
+                    "text": "Zapewnić zasoby"
+                },
+                {
+                    "id": "dreams_space",
+                    "text": "Dać przestrzeń do realizacji"
+                }
+            ]
+        },
+        {
+            "id": "cpl_074",
+            "text": "Kto najprawdopodobniej sugerowałby gry lub aktywności dla par?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_075",
+            "text": "Co jest najważniejsze przy wyborze partnera życiowego?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "partner_compatibility",
+                    "text": "Ogólna zgodność"
+                },
+                {
+                    "id": "partner_love",
+                    "text": "Głęboka więź miłosna"
+                },
+                {
+                    "id": "partner_friendship",
+                    "text": "Silna przyjaźń"
+                },
+                {
+                    "id": "partner_values",
+                    "text": "Wspólne wartości"
+                },
+                {
+                    "id": "partner_growth",
+                    "text": "Potencjał rozwoju"
+                },
+                {
+                    "id": "partner_stability",
+                    "text": "Stabilność i bezpieczeństwo"
+                }
+            ]
+        },
+        {
+            "id": "cpl_076",
+            "text": "Kto najprawdopodobniej organizowałby niespodzianki randkowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_077",
+            "text": "Jak wolisz radzić sobie z różnymi językami miłości?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "languages_adapt",
+                    "text": "Dostosować się do partnera"
+                },
+                {
+                    "id": "languages_learn",
+                    "text": "Poznać nawzajem"
+                },
+                {
+                    "id": "languages_compromise",
+                    "text": "Znaleźć kompromis"
+                },
+                {
+                    "id": "languages_express",
+                    "text": "Wyrażać swój własny"
+                },
+                {
+                    "id": "languages_variety",
+                    "text": "Używać różnorodności"
+                },
+                {
+                    "id": "languages_communicate",
+                    "text": "Komunikować potrzeby"
+                }
+            ]
+        },
+        {
+            "id": "cpl_078",
+            "text": "Kto najprawdopodobniej planowałby wspólne treningi dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_079",
+            "text": "Jakie jest twoje podejście do granic w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "boundaries_clear",
+                    "text": "Jasne i konkretne"
+                },
+                {
+                    "id": "boundaries_flexible",
+                    "text": "Elastyczne i adaptacyjne"
+                },
+                {
+                    "id": "boundaries_discuss",
+                    "text": "Regularnie omawiane"
+                },
+                {
+                    "id": "boundaries_respect",
+                    "text": "Wzajemnie szanowane"
+                },
+                {
+                    "id": "boundaries_minimal",
+                    "text": "Minimalne granice"
+                },
+                {
+                    "id": "boundaries_trust",
+                    "text": "Oparte na zaufaniu"
+                }
+            ]
+        },
+        {
+            "id": "cpl_080",
+            "text": "Kto najprawdopodobniej zasugerowałby terapię par w razie potrzeby?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_081",
+            "text": "Co jest najważniejsze dla utrzymania bliskości?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "intimacy_communication",
+                    "text": "Otwarta komunikacja"
+                },
+                {
+                    "id": "intimacy_time",
+                    "text": "Wspólny czas"
+                },
+                {
+                    "id": "intimacy_affection",
+                    "text": "Fizyczna czułość"
+                },
+                {
+                    "id": "intimacy_emotional",
+                    "text": "Więź emocjonalna"
+                },
+                {
+                    "id": "intimacy_effort",
+                    "text": "Ciągły wysiłek"
+                },
+                {
+                    "id": "intimacy_spontaneity",
+                    "text": "Spontaniczność"
+                }
+            ]
+        },
+        {
+            "id": "cpl_082",
+            "text": "Kto najprawdopodobniej tworzyłby romantyczne playlisty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_083",
+            "text": "Jak radzisz sobie z różnymi preferencjami społecznymi w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "social_compromise",
+                    "text": "Kompromis w aktywnościach"
+                },
+                {
+                    "id": "social_separate",
+                    "text": "Niektóre rzeczy osobno"
+                },
+                {
+                    "id": "social_adapt",
+                    "text": "Dostosować się nawzajem"
+                },
+                {
+                    "id": "social_balance",
+                    "text": "Równowaga obu preferencji"
+                },
+                {
+                    "id": "social_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "social_explore",
+                    "text": "Odkrywać nowe rzeczy razem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_084",
+            "text": "Kto najprawdopodobniej zasugerowałby wypróbowanie nowych hobby razem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_085",
+            "text": "Jak najchętniej okazujesz wdzięczność partnerowi?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "appreciation_words",
+                    "text": "Słowne podziękowania"
+                },
+                {
+                    "id": "appreciation_actions",
+                    "text": "Przemyślane działania"
+                },
+                {
+                    "id": "appreciation_gifts",
+                    "text": "Znaczące prezenty"
+                },
+                {
+                    "id": "appreciation_time",
+                    "text": "Poświęcony czas"
+                },
+                {
+                    "id": "appreciation_public",
+                    "text": "Publiczne uznanie"
+                },
+                {
+                    "id": "appreciation_private",
+                    "text": "Prywatne chwile"
+                }
+            ]
+        },
+        {
+            "id": "cpl_086",
+            "text": "Kto najprawdopodobniej prowadziłby kalendarz związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_087",
+            "text": "Co jest najważniejsze przy budowaniu zaufania w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "trust_consistency",
+                    "text": "Konsekwentne zachowanie"
+                },
+                {
+                    "id": "trust_honesty",
+                    "text": "Pełna szczerość"
+                },
+                {
+                    "id": "trust_reliability",
+                    "text": "Bycie niezawodnym"
+                },
+                {
+                    "id": "trust_transparency",
+                    "text": "Przejrzystość"
+                },
+                {
+                    "id": "trust_time",
+                    "text": "Czas i cierpliwość"
+                },
+                {
+                    "id": "trust_respect",
+                    "text": "Wzajemny szacunek"
+                }
+            ]
+        },
+        {
+            "id": "cpl_088",
+            "text": "Kto najprawdopodobniej zasugerowałby wyjazdy lub warsztaty dla par?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_089",
+            "text": "Jak wolisz radzić sobie z różnymi priorytetami zawodowymi?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "career_support",
+                    "text": "Wspierać cele nawzajem"
+                },
+                {
+                    "id": "career_balance",
+                    "text": "Równoważyć obie kariery"
+                },
+                {
+                    "id": "career_priority",
+                    "text": "Priorytet na raz"
+                },
+                {
+                    "id": "career_sacrifice",
+                    "text": "Ponosić poświęcenia"
+                },
+                {
+                    "id": "career_flexible",
+                    "text": "Zachować elastyczność"
+                },
+                {
+                    "id": "career_discuss",
+                    "text": "Regularnie omawiać"
+                }
+            ]
+        },
+        {
+            "id": "cpl_090",
+            "text": "Kto najprawdopodobniej planowałby specjalne tradycje świąteczne?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_091",
+            "text": "Jakie jest twoje podejście do zachowania niezależności w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "independence_important",
+                    "text": "Bardzo ważne"
+                },
+                {
+                    "id": "independence_balance",
+                    "text": "Równowaga z bliskością"
+                },
+                {
+                    "id": "independence_gradual",
+                    "text": "Stopniowe łączenie życia"
+                },
+                {
+                    "id": "independence_friends",
+                    "text": "Zachować osobne przyjaźnie"
+                },
+                {
+                    "id": "independence_hobbies",
+                    "text": "Mieć własne hobby"
+                },
+                {
+                    "id": "independence_identity",
+                    "text": "Zachować indywidualność"
+                }
+            ]
+        },
+        {
+            "id": "cpl_092",
+            "text": "Kto najprawdopodobniej zasugerowałby książkowe kluby o związkach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_093",
+            "text": "Jak ważne jest poczucie humoru w idealnym związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "humor_essential",
+                    "text": "Absolutnie niezbędne"
+                },
+                {
+                    "id": "humor_very",
+                    "text": "Bardzo ważne"
+                },
+                {
+                    "id": "humor_nice",
+                    "text": "Miło mieć"
+                },
+                {
+                    "id": "humor_shared",
+                    "text": "Musi być ten sam typ"
+                },
+                {
+                    "id": "humor_different",
+                    "text": "Różny humor w porządku"
+                },
+                {
+                    "id": "humor_timing",
+                    "text": "Dobre wyczucie czasu liczy się"
+                }
+            ]
+        },
+        {
+            "id": "cpl_094",
+            "text": "Kto najprawdopodobniej tworzyłby listy marzeń dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_095",
+            "text": "Jak wolisz podchodzić do oczekiwań w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "expectations_discuss",
+                    "text": "Otwarcie omawiać"
+                },
+                {
+                    "id": "expectations_realistic",
+                    "text": "Zachować realizm"
+                },
+                {
+                    "id": "expectations_flexible",
+                    "text": "Zostać elastycznym"
+                },
+                {
+                    "id": "expectations_written",
+                    "text": "Zapisać je"
+                },
+                {
+                    "id": "expectations_evolve",
+                    "text": "Pozwolić im ewoluować"
+                },
+                {
+                    "id": "expectations_minimal",
+                    "text": "Ograniczyć do minimum"
+                }
+            ]
+        },
+        {
+            "id": "cpl_096",
+            "text": "Kto najprawdopodobniej sugerowałby wyzwania lub cele dla związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_097",
+            "text": "Co jest najważniejsze w pierwszej poważnej rozmowie o związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "first_honest",
+                    "text": "Pełna szczerość"
+                },
+                {
+                    "id": "first_comfortable",
+                    "text": "Stworzenie komfortu"
+                },
+                {
+                    "id": "first_clear",
+                    "text": "Jasność intencji"
+                },
+                {
+                    "id": "first_listening",
+                    "text": "Naprawdę słuchanie"
+                },
+                {
+                    "id": "first_respect",
+                    "text": "Okazywanie szacunku"
+                },
+                {
+                    "id": "first_timing",
+                    "text": "Dobry moment"
+                }
+            ]
+        },
+        {
+            "id": "cpl_098",
+            "text": "Kto najprawdopodobniej pamiętałby o ważnych wydarzeniach zawodowych partnera?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_099",
+            "text": "Jak wolisz radzić sobie z różnymi rytmami snu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "sleep_adapt",
+                    "text": "Dostosować się nawzajem"
+                },
+                {
+                    "id": "sleep_compromise",
+                    "text": "Znaleźć kompromis"
+                },
+                {
+                    "id": "sleep_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "sleep_separate",
+                    "text": "Czasem spać osobno"
+                },
+                {
+                    "id": "sleep_quiet",
+                    "text": "Być bardzo cichym"
+                },
+                {
+                    "id": "sleep_routine",
+                    "text": "Stworzyć wieczorną rutynę"
+                }
+            ]
+        },
+        {
+            "id": "cpl_100",
+            "text": "Kto najprawdopodobniej sugerowałby spontaniczne przygody?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_101",
+            "text": "Jak wolisz podchodzić do tradycji rodzinnych w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "traditions_merge",
+                    "text": "Połączyć obie rodziny"
+                },
+                {
+                    "id": "traditions_create",
+                    "text": "Tworzyć nowe"
+                },
+                {
+                    "id": "traditions_keep",
+                    "text": "Zachować osobno"
+                },
+                {
+                    "id": "traditions_prioritize",
+                    "text": "Priorytet najważniejszych"
+                },
+                {
+                    "id": "traditions_adapt",
+                    "text": "Dostosować z czasem"
+                },
+                {
+                    "id": "traditions_discuss",
+                    "text": "Omawiać każdego roku"
+                }
+            ]
+        },
+        {
+            "id": "cpl_102",
+            "text": "Kto najprawdopodobniej planowałby romantyczne niespodzianki wyjazdowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_103",
+            "text": "Jak wolisz radzić sobie z różnymi stylami wychowania?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "parenting_discuss",
+                    "text": "Dyskutować i dopasować"
+                },
+                {
+                    "id": "parenting_combine",
+                    "text": "Łączyć podejścia"
+                },
+                {
+                    "id": "parenting_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "parenting_professional",
+                    "text": "Szukać profesjonalnych rad"
+                },
+                {
+                    "id": "parenting_compromise",
+                    "text": "Znaleźć środek"
+                },
+                {
+                    "id": "parenting_consistent",
+                    "text": "Być konsekwentnym"
+                }
+            ]
+        },
+        {
+            "id": "cpl_104",
+            "text": "Kto najprawdopodobniej sugerowałby tematyczne wieczory randkowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_105",
+            "text": "Co jest najważniejsze przy wyborze miejsca na wspólne wakacje?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "vacation_relaxation",
+                    "text": "Relaks"
+                },
+                {
+                    "id": "vacation_adventure",
+                    "text": "Przygoda"
+                },
+                {
+                    "id": "vacation_culture",
+                    "text": "Doświadczenia kulturalne"
+                },
+                {
+                    "id": "vacation_budget",
+                    "text": "Względy budżetowe"
+                },
+                {
+                    "id": "vacation_together",
+                    "text": "Wspólny czas"
+                },
+                {
+                    "id": "vacation_compromise",
+                    "text": "Obie preferencje"
+                }
+            ]
+        },
+        {
+            "id": "cpl_106",
+            "text": "Kto najprawdopodobniej prowadziłby dziennik wdzięczności o związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_107",
+            "text": "Jak wolisz świętować małe sukcesy razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "wins_acknowledge",
+                    "text": "Słowne uznanie"
+                },
+                {
+                    "id": "wins_treat",
+                    "text": "Mały prezent"
+                },
+                {
+                    "id": "wins_share",
+                    "text": "Podzielić się z innymi"
+                },
+                {
+                    "id": "wins_moment",
+                    "text": "Specjalny moment razem"
+                },
+                {
+                    "id": "wins_build",
+                    "text": "Budować na sukcesie"
+                },
+                {
+                    "id": "wins_celebrate",
+                    "text": "Zawsze świętować"
+                }
+            ]
+        },
+        {
+            "id": "cpl_108",
+            "text": "Kto najprawdopodobniej zasugerowałby medytację lub mindfulness dla par?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_109",
+            "text": "Jakie jest twoje idealne podejście do relacji z dalszą rodziną?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "family_inclusive",
+                    "text": "Być bardzo włączającym"
+                },
+                {
+                    "id": "family_boundaries",
+                    "text": "Ustalić jasne granice"
+                },
+                {
+                    "id": "family_supportive",
+                    "text": "Wspierać wybory partnera"
+                },
+                {
+                    "id": "family_balance",
+                    "text": "Równoważyć obie rodziny"
+                },
+                {
+                    "id": "family_priority",
+                    "text": "Priorytet dla najbliższej rodziny"
+                },
+                {
+                    "id": "family_respect",
+                    "text": "Szanować ale zachować dystans"
+                }
+            ]
+        },
+        {
+            "id": "cpl_110",
+            "text": "Kto najprawdopodobniej planowałby wyszukane scenariusze oświadczyn?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_111",
+            "text": "Jak ważna jest zgodność duchowa w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "spiritual_essential",
+                    "text": "Absolutnie niezbędna"
+                },
+                {
+                    "id": "spiritual_important",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "spiritual_somewhat",
+                    "text": "Trochę ważna"
+                },
+                {
+                    "id": "spiritual_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "spiritual_explore",
+                    "text": "Odkrywać razem"
+                },
+                {
+                    "id": "spiritual_personal",
+                    "text": "Zachować jako osobiste"
+                }
+            ]
+        },
+        {
+            "id": "cpl_112",
+            "text": "Kto najprawdopodobniej sugerowałby podcasty lub książki o związkach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_113",
+            "text": "Jak wolisz podchodzić do okazji prezentowych?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "gifts_thoughtful",
+                    "text": "Przemyślane i osobiste"
+                },
+                {
+                    "id": "gifts_practical",
+                    "text": "Praktyczne prezenty"
+                },
+                {
+                    "id": "gifts_experience",
+                    "text": "Prezenty doświadczeń"
+                },
+                {
+                    "id": "gifts_simple",
+                    "text": "Proste i znaczące"
+                },
+                {
+                    "id": "gifts_discuss",
+                    "text": "Omawiać preferencje"
+                },
+                {
+                    "id": "gifts_surprise",
+                    "text": "Zachować element niespodzianki"
+                }
+            ]
+        },
+        {
+            "id": "cpl_114",
+            "text": "Kto najprawdopodobniej tworzyłby wyzwania treningowe dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_115",
+            "text": "Jak wolisz podchodzić do technologii i czasu przed ekranami razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tech_limited",
+                    "text": "Ograniczyć podczas wspólnego czasu"
+                },
+                {
+                    "id": "tech_shared",
+                    "text": "Dzielić aktywności"
+                },
+                {
+                    "id": "tech_separate",
+                    "text": "Szanować indywidualne użytkowanie"
+                },
+                {
+                    "id": "tech_balance",
+                    "text": "Znaleźć zdrową równowagę"
+                },
+                {
+                    "id": "tech_discuss",
+                    "text": "Omawiać granice"
+                },
+                {
+                    "id": "tech_unplug",
+                    "text": "Regularny czas bez technologii"
+                }
+            ]
+        },
+        {
+            "id": "cpl_116",
+            "text": "Kto najprawdopodobniej sugerowałby wypróbowanie nowych kuchni razem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_117",
+            "text": "Co jest najważniejsze przy planowaniu wspólnej przyszłości?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "future_goals",
+                    "text": "Wspólne cele"
+                },
+                {
+                    "id": "future_flexibility",
+                    "text": "Zachowanie elastyczności"
+                },
+                {
+                    "id": "future_dreams",
+                    "text": "Indywidualne marzenia"
+                },
+                {
+                    "id": "future_practical",
+                    "text": "Praktyczne planowanie"
+                },
+                {
+                    "id": "future_timeline",
+                    "text": "Realistyczny harmonogram"
+                },
+                {
+                    "id": "future_support",
+                    "text": "Wzajemne wsparcie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_118",
+            "text": "Kto najprawdopodobniej planowałby tematyczne sesje zdjęciowe dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_119",
+            "text": "Jak wolisz podchodzić do planowania emerytury razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "retirement_early",
+                    "text": "Planować wcześnie i dogłębnie"
+                },
+                {
+                    "id": "retirement_enjoy",
+                    "text": "Skupić się na życiu teraz"
+                },
+                {
+                    "id": "retirement_balance",
+                    "text": "Równowaga między oszczędzaniem a życiem"
+                },
+                {
+                    "id": "retirement_professional",
+                    "text": "Skorzystać z profesjonalnej pomocy"
+                },
+                {
+                    "id": "retirement_flexible",
+                    "text": "Zachować elastyczność"
+                },
+                {
+                    "id": "retirement_dreams",
+                    "text": "Planować wymarzoną emeryturę"
+                }
+            ]
+        },
+        {
+            "id": "cpl_120",
+            "text": "Kto najprawdopodobniej sugerowałby wspólne wolontariat?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_121",
+            "text": "Jak najlepiej podejść do przeprowadzki razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "moving_gradual",
+                    "text": "Stopniowe przejście"
+                },
+                {
+                    "id": "moving_planned",
+                    "text": "Dobrze zaplanowana przeprowadzka"
+                },
+                {
+                    "id": "moving_trial",
+                    "text": "Najpierw okres próbny"
+                },
+                {
+                    "id": "moving_discuss",
+                    "text": "Dogłębne dyskusje"
+                },
+                {
+                    "id": "moving_spontaneous",
+                    "text": "Gdy wydaje się właściwe"
+                },
+                {
+                    "id": "moving_milestone",
+                    "text": "Po określonych kamieniach milowych"
+                }
+            ]
+        },
+        {
+            "id": "cpl_122",
+            "text": "Kto najprawdopodobniej sugerowałby kursy gotowania dla par?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_123",
+            "text": "Jak wolisz podchodzić do decyzji o wystroju domu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "decor_together",
+                    "text": "Decydować o wszystkim razem"
+                },
+                {
+                    "id": "decor_areas",
+                    "text": "Podzielić według obszarów"
+                },
+                {
+                    "id": "decor_expertise",
+                    "text": "Zdać się na lepszy gust"
+                },
+                {
+                    "id": "decor_compromise",
+                    "text": "Kompromis we wszystkim"
+                },
+                {
+                    "id": "decor_budget",
+                    "text": "Najpierw ustalić budżet"
+                },
+                {
+                    "id": "decor_evolve",
+                    "text": "Pozwolić rozwijać się naturalnie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_124",
+            "text": "Kto najprawdopodobniej planowałby rocznicowe poszukiwania skarbów?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_125",
+            "text": "Co jest najważniejsze przy omawianiu posiadania dzieci?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "children_timing",
+                    "text": "Właściwy moment"
+                },
+                {
+                    "id": "children_honest",
+                    "text": "Pełna szczerość"
+                },
+                {
+                    "id": "children_readiness",
+                    "text": "Wzajemna gotowość"
+                },
+                {
+                    "id": "children_values",
+                    "text": "Zgodne wartości"
+                },
+                {
+                    "id": "children_support",
+                    "text": "System wsparcia"
+                },
+                {
+                    "id": "children_respect",
+                    "text": "Szanowanie różnic"
+                }
+            ]
+        },
+        {
+            "id": "cpl_126",
+            "text": "Kto najprawdopodobniej sugerowałby tablice wizji związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_127",
+            "text": "Jak wolisz podchodzić do decyzji związanych ze zwierzętami?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pets_together",
+                    "text": "Decydować razem"
+                },
+                {
+                    "id": "pets_responsibility",
+                    "text": "Podzielić obowiązki"
+                },
+                {
+                    "id": "pets_love",
+                    "text": "Oboje muszą kochać zwierzęta"
+                },
+                {
+                    "id": "pets_practical",
+                    "text": "Rozważyć aspekty praktyczne"
+                },
+                {
+                    "id": "pets_trial",
+                    "text": "Najpierw okres próbny"
+                },
+                {
+                    "id": "pets_compromise",
+                    "text": "Kompromis co do rodzaju"
+                }
+            ]
+        },
+        {
+            "id": "cpl_128",
+            "text": "Kto najprawdopodobniej tworzyłby kapsułę czasu dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_129",
+            "text": "Jakie jest twoje podejście do zdrowia i dobrego samopoczucia razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "health_support",
+                    "text": "Wspierać nawzajem cele"
+                },
+                {
+                    "id": "health_together",
+                    "text": "Wspólne aktywności"
+                },
+                {
+                    "id": "health_individual",
+                    "text": "Szanować indywidualne wybory"
+                },
+                {
+                    "id": "health_motivate",
+                    "text": "Motywować się nawzajem"
+                },
+                {
+                    "id": "health_balance",
+                    "text": "Równowaga między zabawą a zdrowiem"
+                },
+                {
+                    "id": "health_professional",
+                    "text": "Szukać profesjonalnych rad"
+                }
+            ]
+        },
+        {
+            "id": "cpl_130",
+            "text": "Kto najprawdopodobniej sugerowałby świętowanie kamieni milowych związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_131",
+            "text": "Jak ważna jest zgodność intelektualna w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "intellectual_essential",
+                    "text": "Absolutnie niezbędna"
+                },
+                {
+                    "id": "intellectual_important",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "intellectual_nice",
+                    "text": "Miło mieć"
+                },
+                {
+                    "id": "intellectual_different",
+                    "text": "Różne mocne strony w porządku"
+                },
+                {
+                    "id": "intellectual_grow",
+                    "text": "Można rozwijać razem"
+                },
+                {
+                    "id": "intellectual_respect",
+                    "text": "Wzajemny szacunek najważniejszy"
+                }
+            ]
+        },
+        {
+            "id": "cpl_132",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki piknikowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_133",
+            "text": "Jak najlepiej podejść do równowagi między pracą a życiem jako para?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worklife_protect",
+                    "text": "Chronić czas dla pary"
+                },
+                {
+                    "id": "worklife_support",
+                    "text": "Wspierać cele zawodowe"
+                },
+                {
+                    "id": "worklife_flexible",
+                    "text": "Zachować elastyczność"
+                },
+                {
+                    "id": "worklife_boundaries",
+                    "text": "Ustalić jasne granice"
+                },
+                {
+                    "id": "worklife_discuss",
+                    "text": "Regularnie omawiać"
+                },
+                {
+                    "id": "worklife_priority",
+                    "text": "Ustalać priorytety razem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_134",
+            "text": "Kto najprawdopodobniej sugerowałby lekcje tańca dla par?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_135",
+            "text": "Jak wolisz radzić sobie z różnymi preferencjami rozrywkowymi?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "entertainment_alternate",
+                    "text": "Na zmianę wybierać"
+                },
+                {
+                    "id": "entertainment_compromise",
+                    "text": "Znajdować kompromisy"
+                },
+                {
+                    "id": "entertainment_separate",
+                    "text": "Niektóre aktywności osobno"
+                },
+                {
+                    "id": "entertainment_explore",
+                    "text": "Odkrywać nowe rzeczy"
+                },
+                {
+                    "id": "entertainment_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "entertainment_share",
+                    "text": "Dzielić się entuzjazmem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_136",
+            "text": "Kto najprawdopodobniej tworzyłby tablice nastrojów związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_137",
+            "text": "Co jest najważniejsze przy radzeniu sobie z niepewnościami w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "insecurity_communicate",
+                    "text": "Otwarta komunikacja"
+                },
+                {
+                    "id": "insecurity_reassurance",
+                    "text": "Stałe zapewnienia"
+                },
+                {
+                    "id": "insecurity_patience",
+                    "text": "Cierpliwość i zrozumienie"
+                },
+                {
+                    "id": "insecurity_work",
+                    "text": "Praca nad samorozwojem"
+                },
+                {
+                    "id": "insecurity_professional",
+                    "text": "Profesjonalna pomoc"
+                },
+                {
+                    "id": "insecurity_trust",
+                    "text": "Stopniowe budowanie zaufania"
+                }
+            ]
+        },
+        {
+            "id": "cpl_138",
+            "text": "Kto najprawdopodobniej sugerowałby wspólne projekty artystyczne lub rękodzielnicze?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_139",
+            "text": "Jak wolisz świętować rocznice związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "anniversary_tradition",
+                    "text": "Tworzyć tradycje"
+                },
+                {
+                    "id": "anniversary_different",
+                    "text": "Coś innego każdego roku"
+                },
+                {
+                    "id": "anniversary_simple",
+                    "text": "Zachować prostotę"
+                },
+                {
+                    "id": "anniversary_elaborate",
+                    "text": "Robić wszystko na bogato"
+                },
+                {
+                    "id": "anniversary_meaningful",
+                    "text": "Skupić się na znaczeniu"
+                },
+                {
+                    "id": "anniversary_surprise",
+                    "text": "Zaskakiwać się nawzajem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_140",
+            "text": "Kto najprawdopodobniej sugerowałby sesje wyznaczania celów dla związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_141",
+            "text": "Jakie jest twoje idealne podejście do radzenia sobie ze stresem finansowym w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "money_communication",
+                    "text": "Otwarta komunikacja"
+                },
+                {
+                    "id": "money_planning",
+                    "text": "Lepsze planowanie"
+                },
+                {
+                    "id": "money_support",
+                    "text": "Wspieranie się nawzajem"
+                },
+                {
+                    "id": "money_professional",
+                    "text": "Profesjonalne porady finansowe"
+                },
+                {
+                    "id": "money_perspective",
+                    "text": "Zachować perspektywę"
+                },
+                {
+                    "id": "money_team",
+                    "text": "Pracować jako zespół"
+                }
+            ]
+        },
+        {
+            "id": "cpl_142",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki koncertowe lub teatralne?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_143",
+            "text": "Jak ważna jest inteligencja emocjonalna w idealnym partnerze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "emotional_essential",
+                    "text": "Absolutnie niezbędna"
+                },
+                {
+                    "id": "emotional_very",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "emotional_develop",
+                    "text": "Można rozwijać"
+                },
+                {
+                    "id": "emotional_balance",
+                    "text": "Równowaga z innymi cechami"
+                },
+                {
+                    "id": "emotional_support",
+                    "text": "Wspierać rozwój"
+                },
+                {
+                    "id": "emotional_priority",
+                    "text": "Najwyższy priorytet"
+                }
+            ]
+        },
+        {
+            "id": "cpl_144",
+            "text": "Kto najprawdopodobniej tworzyłby romantyczne poszukiwania skarbów?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_145",
+            "text": "Jak najlepiej radzić sobie z długimi separacjami służbowymi?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "separation_communication",
+                    "text": "Stała komunikacja"
+                },
+                {
+                    "id": "separation_trust",
+                    "text": "Zaufanie i niezależność"
+                },
+                {
+                    "id": "separation_visits",
+                    "text": "Planować wizyty"
+                },
+                {
+                    "id": "separation_reunion",
+                    "text": "Specjalne pojednania"
+                },
+                {
+                    "id": "separation_support",
+                    "text": "Wsparcie emocjonalne"
+                },
+                {
+                    "id": "separation_growth",
+                    "text": "Wykorzystać czas na rozwój"
+                }
+            ]
+        },
+        {
+            "id": "cpl_146",
+            "text": "Kto najprawdopodobniej sugerowałby randki pod gwiazdami?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_147",
+            "text": "Jak wolisz radzić sobie z różnymi preferencjami tempa życia?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pace_compromise",
+                    "text": "Znaleźć środek"
+                },
+                {
+                    "id": "pace_alternate",
+                    "text": "Na zmianę między tempami"
+                },
+                {
+                    "id": "pace_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "pace_adapt",
+                    "text": "Dostosować do sytuacji"
+                },
+                {
+                    "id": "pace_discuss",
+                    "text": "Omawiać potrzeby"
+                },
+                {
+                    "id": "pace_balance",
+                    "text": "Równoważyć oba style"
+                }
+            ]
+        },
+        {
+            "id": "cpl_148",
+            "text": "Kto najprawdopodobniej sugerowałby wyjazdy medytacyjne dla par?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_149",
+            "text": "Co jest najważniejsze przy wyborze związku na odległość?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "longdistance_commitment",
+                    "text": "Silne zaangażowanie"
+                },
+                {
+                    "id": "longdistance_communication",
+                    "text": "Doskonała komunikacja"
+                },
+                {
+                    "id": "longdistance_trust",
+                    "text": "Pełne zaufanie"
+                },
+                {
+                    "id": "longdistance_plan",
+                    "text": "Jasny plan na przyszłość"
+                },
+                {
+                    "id": "longdistance_visits",
+                    "text": "Regularne wizyty"
+                },
+                {
+                    "id": "longdistance_patience",
+                    "text": "Cierpliwość i zrozumienie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_150",
+            "text": "Kto najprawdopodobniej dokumentowałby wspomnienia związku w albumach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_151",
+            "text": "Jak najlepiej podchodzić do faz rozwoju związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "growth_embrace",
+                    "text": "Przyjmować zmiany razem"
+                },
+                {
+                    "id": "growth_support",
+                    "text": "Wspierać indywidualny rozwój"
+                },
+                {
+                    "id": "growth_discuss",
+                    "text": "Otwarcie omawiać zmiany"
+                },
+                {
+                    "id": "growth_patience",
+                    "text": "Być cierpliwym w procesie"
+                },
+                {
+                    "id": "growth_celebrate",
+                    "text": "Świętować kamienie milowe"
+                },
+                {
+                    "id": "growth_navigate",
+                    "text": "Nawigować razem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_152",
+            "text": "Kto najprawdopodobniej sugerowałby przerwy w związku gdy potrzeba?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_153",
+            "text": "Jak wolisz radzić sobie z różnymi preferencjami poranne vs wieczorne?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "schedule_respect",
+                    "text": "Szanować naturalne rytmy"
+                },
+                {
+                    "id": "schedule_compromise",
+                    "text": "Znaleźć kompromisowe czasy"
+                },
+                {
+                    "id": "schedule_adapt",
+                    "text": "Dostosować harmonogramy"
+                },
+                {
+                    "id": "schedule_overlap",
+                    "text": "Maksymalizować wspólny czas"
+                },
+                {
+                    "id": "schedule_separate",
+                    "text": "Niektóre aktywności osobno"
+                },
+                {
+                    "id": "schedule_creative",
+                    "text": "Być kreatywnym z czasem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_154",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki weekendowe wyjazdy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_155",
+            "text": "Co jest najważniejsze przy łączeniu grup przyjaciół?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "friends_inclusive",
+                    "text": "Być włączającym wobec wszystkich"
+                },
+                {
+                    "id": "friends_natural",
+                    "text": "Pozwolić na naturalne połączenia"
+                },
+                {
+                    "id": "friends_respect",
+                    "text": "Szanować istniejące przyjaźnie"
+                },
+                {
+                    "id": "friends_effort",
+                    "text": "Wkładać wysiłek w łączenie"
+                },
+                {
+                    "id": "friends_separate",
+                    "text": "Zachować niektórych przyjaciół osobno"
+                },
+                {
+                    "id": "friends_patient",
+                    "text": "Być cierpliwym w procesie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_156",
+            "text": "Kto najprawdopodobniej tworzyłby dzienniki wizji dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_157",
+            "text": "Jak ważna jest zgodność w sprawności fizycznej?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "fitness_important",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "fitness_motivate",
+                    "text": "Można motywować się nawzajem"
+                },
+                {
+                    "id": "fitness_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "fitness_support",
+                    "text": "Wspierać indywidualne cele"
+                },
+                {
+                    "id": "fitness_together",
+                    "text": "Znajdować wspólne aktywności"
+                },
+                {
+                    "id": "fitness_balance",
+                    "text": "Równowaga jest kluczowa"
+                }
+            ]
+        },
+        {
+            "id": "cpl_158",
+            "text": "Kto najprawdopodobniej sugerowałby niespodzianki lunchowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_159",
+            "text": "Jakie jest twoje podejście do radzenia sobie ze stresem razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "stress_support",
+                    "text": "Wspierać się nawzajem"
+                },
+                {
+                    "id": "stress_space",
+                    "text": "Dać przestrzeń gdy potrzeba"
+                },
+                {
+                    "id": "stress_together",
+                    "text": "Stawić czoła razem"
+                },
+                {
+                    "id": "stress_solutions",
+                    "text": "Skupić się na rozwiązaniach"
+                },
+                {
+                    "id": "stress_distract",
+                    "text": "Pomagać oderwać się od stresu"
+                },
+                {
+                    "id": "stress_professional",
+                    "text": "Szukać profesjonalnej pomocy"
+                }
+            ]
+        },
+        {
+            "id": "cpl_160",
+            "text": "Kto najprawdopodobniej sugerowałby odkrywanie hobby dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_161",
+            "text": "Jak wolisz radzić sobie z różnymi standardami czystości?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "clean_compromise",
+                    "text": "Znaleźć środek"
+                },
+                {
+                    "id": "clean_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "clean_discuss",
+                    "text": "Omawiać oczekiwania"
+                },
+                {
+                    "id": "clean_divide",
+                    "text": "Podzielić obowiązki"
+                },
+                {
+                    "id": "clean_adapt",
+                    "text": "Jeden dostosowuje się do drugiego"
+                },
+                {
+                    "id": "clean_help",
+                    "text": "Skorzystać z zewnętrznej pomocy"
+                }
+            ]
+        },
+        {
+            "id": "cpl_162",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki śniadaniowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_163",
+            "text": "Co jest najważniejsze przy radzeniu sobie z różnymi preferencjami żywieniowymi?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "food_respect",
+                    "text": "Szanować preferencje"
+                },
+                {
+                    "id": "food_compromise",
+                    "text": "Znajdować kompromisowe dania"
+                },
+                {
+                    "id": "food_explore",
+                    "text": "Odkrywać nowe opcje"
+                },
+                {
+                    "id": "food_separate",
+                    "text": "Czasami gotować osobno"
+                },
+                {
+                    "id": "food_adapt",
+                    "text": "Próbować się przystosować"
+                },
+                {
+                    "id": "food_alternate",
+                    "text": "Na zmianę wybierać"
+                }
+            ]
+        },
+        {
+            "id": "cpl_164",
+            "text": "Kto najprawdopodobniej sugerowałby fotodzienniki związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_165",
+            "text": "Jak ważna jest zgodność twórcza w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "creative_important",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "creative_inspire",
+                    "text": "Można inspirować się nawzajem"
+                },
+                {
+                    "id": "creative_different",
+                    "text": "Różne style w porządku"
+                },
+                {
+                    "id": "creative_support",
+                    "text": "Wspierać kreatywność nawzajem"
+                },
+                {
+                    "id": "creative_explore",
+                    "text": "Odkrywać razem"
+                },
+                {
+                    "id": "creative_respect",
+                    "text": "Szanować indywidualne wyrażanie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_166",
+            "text": "Kto najprawdopodobniej tworzyłby niespodzianki video ze wspomnieniami?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_167",
+            "text": "Jak najlepiej radzić sobie z wyzwalaczami zazdrości w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "triggers_communicate",
+                    "text": "Komunikować o wyzwalaczach"
+                },
+                {
+                    "id": "triggers_avoid",
+                    "text": "Unikać sytuacji wyzwalających"
+                },
+                {
+                    "id": "triggers_work",
+                    "text": "Przepracować razem"
+                },
+                {
+                    "id": "triggers_reassure",
+                    "text": "Stałe zapewnienia"
+                },
+                {
+                    "id": "triggers_therapy",
+                    "text": "Terapia profesjonalna"
+                },
+                {
+                    "id": "triggers_trust",
+                    "text": "Stopniowo budować zaufanie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_168",
+            "text": "Kto najprawdopodobniej sugerowałby losowe dni przygód?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_169",
+            "text": "Jak wolisz radzić sobie z różnymi gustami muzycznymi?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "music_share",
+                    "text": "Dzielić się ulubionymi utworami"
+                },
+                {
+                    "id": "music_explore",
+                    "text": "Odkrywać nowe gatunki razem"
+                },
+                {
+                    "id": "music_alternate",
+                    "text": "Na zmianę wybierać"
+                },
+                {
+                    "id": "music_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "music_compromise",
+                    "text": "Znajdować wspólną płaszczyznę"
+                },
+                {
+                    "id": "music_headphones",
+                    "text": "Używać słuchawek"
+                }
+            ]
+        },
+        {
+            "id": "cpl_170",
+            "text": "Kto najprawdopodobniej planowałby tematyczne miesiące randkowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_171",
+            "text": "Co jest najważniejsze przy radzeniu sobie z przejściami w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "transitions_communication",
+                    "text": "Otwarta komunikacja"
+                },
+                {
+                    "id": "transitions_patience",
+                    "text": "Cierpliwość w procesie"
+                },
+                {
+                    "id": "transitions_support",
+                    "text": "Wzajemne wsparcie"
+                },
+                {
+                    "id": "transitions_flexibility",
+                    "text": "Zachować elastyczność"
+                },
+                {
+                    "id": "transitions_plan",
+                    "text": "Planować razem"
+                },
+                {
+                    "id": "transitions_adapt",
+                    "text": "Dostosować się w razie potrzeby"
+                }
+            ]
+        },
+        {
+            "id": "cpl_172",
+            "text": "Kto najprawdopodobniej sugerowałby praktyki wdzięczności w związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_173",
+            "text": "Jak ważna jest zgodność przygodowa w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "adventure_important",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "adventure_balance",
+                    "text": "Potrzeba równowagi"
+                },
+                {
+                    "id": "adventure_inspire",
+                    "text": "Można inspirować się nawzajem"
+                },
+                {
+                    "id": "adventure_respect",
+                    "text": "Szanować poziomy komfortu"
+                },
+                {
+                    "id": "adventure_grow",
+                    "text": "Rozwijać się razem powoli"
+                },
+                {
+                    "id": "adventure_compromise",
+                    "text": "Znajdować kompromisowe aktywności"
+                }
+            ]
+        },
+        {
+            "id": "cpl_174",
+            "text": "Kto najprawdopodobniej tworzyłby kalendarze kamieni milowych związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_175",
+            "text": "Jak wolisz radzić sobie z różnymi stylami podróżowania?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "travel_plan",
+                    "text": "Planować podróże razem"
+                },
+                {
+                    "id": "travel_alternate",
+                    "text": "Na zmianę style podróży"
+                },
+                {
+                    "id": "travel_compromise",
+                    "text": "Kompromis w aktywnościach"
+                },
+                {
+                    "id": "travel_respect",
+                    "text": "Szanować preferencje"
+                },
+                {
+                    "id": "travel_separate",
+                    "text": "Niektóre podróże osobno"
+                },
+                {
+                    "id": "travel_explore",
+                    "text": "Próbować nowych stylów razem"
+                }
+            ]
+        },
+        {
+            "id": "cpl_176",
+            "text": "Kto najprawdopodobniej sugerowałby wieczory opowiadania historii o związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_177",
+            "text": "Jak wolisz radzić sobie z różnymi nawykami wydawania pieniędzy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "spending_budget",
+                    "text": "Tworzyć budżet razem"
+                },
+                {
+                    "id": "spending_discuss",
+                    "text": "Omawiać większe zakupy"
+                },
+                {
+                    "id": "spending_separate",
+                    "text": "Zachować osobne pieniądze na wydatki"
+                },
+                {
+                    "id": "spending_compromise",
+                    "text": "Znajdować środek"
+                },
+                {
+                    "id": "spending_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "spending_goals",
+                    "text": "Skupić się na wspólnych celach"
+                }
+            ]
+        },
+        {
+            "id": "cpl_178",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki spa w domu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_179",
+            "text": "Co jest najważniejsze przy wyborze stałego zamieszkania razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "permanent_compatibility",
+                    "text": "Ogólna zgodność"
+                },
+                {
+                    "id": "permanent_love",
+                    "text": "Głęboka miłość"
+                },
+                {
+                    "id": "permanent_commitment",
+                    "text": "Silne zaangażowanie"
+                },
+                {
+                    "id": "permanent_goals",
+                    "text": "Wspólne cele życiowe"
+                },
+                {
+                    "id": "permanent_growth",
+                    "text": "Potencjał rozwoju"
+                },
+                {
+                    "id": "permanent_friendship",
+                    "text": "Silna podstawa przyjaźni"
+                }
+            ]
+        },
+        {
+            "id": "cpl_180",
+            "text": "Kto najprawdopodobniej sugerowałby wyzwania edukacyjne dla pary?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_181",
+            "text": "Jak ważna jest dostępność emocjonalna w idealnym partnerze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "availability_essential",
+                    "text": "Absolutnie niezbędna"
+                },
+                {
+                    "id": "availability_very",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "availability_develop",
+                    "text": "Można rozwijać"
+                },
+                {
+                    "id": "availability_patient",
+                    "text": "Być cierpliwym z rozwojem"
+                },
+                {
+                    "id": "availability_support",
+                    "text": "Wspierać rozwój"
+                },
+                {
+                    "id": "availability_communicate",
+                    "text": "Komunikować potrzeby"
+                }
+            ]
+        },
+        {
+            "id": "cpl_182",
+            "text": "Kto najprawdopodobniej tworzyłby niespodzianki pudełka randkowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_183",
+            "text": "Jakie jest twoje idealne podejście do dyskusji o planowaniu rodziny?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "planning_early",
+                    "text": "Omawiać wcześnie w związku"
+                },
+                {
+                    "id": "planning_open",
+                    "text": "Zachować otwarte dyskusje"
+                },
+                {
+                    "id": "planning_respect",
+                    "text": "Szanować różne poglądy"
+                },
+                {
+                    "id": "planning_timing",
+                    "text": "Ostrożnie rozważyć timing"
+                },
+                {
+                    "id": "planning_professional",
+                    "text": "Skorzystać z profesjonalnej pomocy"
+                },
+                {
+                    "id": "planning_evolve",
+                    "text": "Pozwolić poglądom ewoluować"
+                }
+            ]
+        },
+        {
+            "id": "cpl_184",
+            "text": "Kto najprawdopodobniej sugerowałby sesje medytacji dla związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_185",
+            "text": "Jak wolisz radzić sobie z różnymi poziomami energii społecznej?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "social_respect",
+                    "text": "Szanować poziomy energii"
+                },
+                {
+                    "id": "social_compromise",
+                    "text": "Kompromis w aktywnościach"
+                },
+                {
+                    "id": "social_separate",
+                    "text": "Trochę osobnego czasu społecznego"
+                },
+                {
+                    "id": "social_support",
+                    "text": "Wspierać potrzeby nawzajem"
+                },
+                {
+                    "id": "social_balance",
+                    "text": "Znajdować równowagę razem"
+                },
+                {
+                    "id": "social_communicate",
+                    "text": "Jasno komunikować potrzeby"
+                }
+            ]
+        },
+        {
+            "id": "cpl_186",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki przygody na świeżym powietrzu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_187",
+            "text": "Co jest najważniejsze przy radzeniu sobie z wątpliwościami w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "doubts_communicate",
+                    "text": "Komunikować otwarcie"
+                },
+                {
+                    "id": "doubts_explore",
+                    "text": "Odkrywać przyczyny źródłowe"
+                },
+                {
+                    "id": "doubts_professional",
+                    "text": "Szukać profesjonalnej pomocy"
+                },
+                {
+                    "id": "doubts_patience",
+                    "text": "Być cierpliwym w procesie"
+                },
+                {
+                    "id": "doubts_work",
+                    "text": "Przepracować razem"
+                },
+                {
+                    "id": "doubts_honest",
+                    "text": "Być całkowicie szczerym"
+                }
+            ]
+        },
+        {
+            "id": "cpl_188",
+            "text": "Kto najprawdopodobniej sugerowałby wspólne aktywności wolontariackie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_189",
+            "text": "Jak ważna jest zgodność stylu życia dla długoterminowego sukcesu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "lifestyle_essential",
+                    "text": "Absolutnie niezbędna"
+                },
+                {
+                    "id": "lifestyle_important",
+                    "text": "Bardzo ważna"
+                },
+                {
+                    "id": "lifestyle_adapt",
+                    "text": "Można dostosować razem"
+                },
+                {
+                    "id": "lifestyle_compromise",
+                    "text": "Kompromis jest kluczowy"
+                },
+                {
+                    "id": "lifestyle_grow",
+                    "text": "Wyrosnąć do zgodności"
+                },
+                {
+                    "id": "lifestyle_respect",
+                    "text": "Szanować różnice"
+                }
+            ]
+        },
+        {
+            "id": "cpl_190",
+            "text": "Kto najprawdopodobniej tworzyłby roczne kapsułki czasu związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_191",
+            "text": "Jak wolisz podchodzić do osiągania celów związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "goals_celebrate",
+                    "text": "Świętować osiągnięcia"
+                },
+                {
+                    "id": "goals_set",
+                    "text": "Wyznaczać nowe cele"
+                },
+                {
+                    "id": "goals_reflect",
+                    "text": "Reflektować nad podróżą"
+                },
+                {
+                    "id": "goals_share",
+                    "text": "Dzielić się sukcesem z innymi"
+                },
+                {
+                    "id": "goals_grateful",
+                    "text": "Wyrażać wdzięczność"
+                },
+                {
+                    "id": "goals_grow",
+                    "text": "Wykorzystać do dalszego rozwoju"
+                }
+            ]
+        },
+        {
+            "id": "cpl_192",
+            "text": "Kto najprawdopodobniej sugerowałby cotygodniowe rozmowy o związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_193",
+            "text": "Jak wolisz radzić sobie z różnymi doświadczeniami życiowymi?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "background_learn",
+                    "text": "Uczyć się od siebie nawzajem"
+                },
+                {
+                    "id": "background_respect",
+                    "text": "Szanować różnice"
+                },
+                {
+                    "id": "background_share",
+                    "text": "Dzielić się historiami"
+                },
+                {
+                    "id": "background_bridge",
+                    "text": "Budować mosty razem"
+                },
+                {
+                    "id": "background_appreciate",
+                    "text": "Doceniać różnorodność"
+                },
+                {
+                    "id": "background_grow",
+                    "text": "Rosnąć dzięki różnicom"
+                }
+            ]
+        },
+        {
+            "id": "cpl_194",
+            "text": "Kto najprawdopodobniej planowałby niespodzianki kulturalne?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_195",
+            "text": "Co jest najważniejsze dla utrzymania pasji w związku z biegiem czasu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "passion_effort",
+                    "text": "Stały wysiłek"
+                },
+                {
+                    "id": "passion_novelty",
+                    "text": "Nowe doświadczenia"
+                },
+                {
+                    "id": "passion_communication",
+                    "text": "Otwarta komunikacja"
+                },
+                {
+                    "id": "passion_growth",
+                    "text": "Wspólny rozwój"
+                },
+                {
+                    "id": "passion_appreciation",
+                    "text": "Wzajemne docenianie"
+                },
+                {
+                    "id": "passion_intimacy",
+                    "text": "Bliskość emocjonalna"
+                }
+            ]
+        },
+        {
+            "id": "cpl_196",
+            "text": "Kto najprawdopodobniej sugerowałby sesje dzielenia się marzeniami w związku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_197",
+            "text": "Jak ważny jest wzajemny szacunek w idealnym związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "respect_foundation",
+                    "text": "Podstawa wszystkiego"
+                },
+                {
+                    "id": "respect_essential",
+                    "text": "Absolutnie niezbędny"
+                },
+                {
+                    "id": "respect_earned",
+                    "text": "Musi być zasłużony"
+                },
+                {
+                    "id": "respect_shown",
+                    "text": "Pokazywany przez działania"
+                },
+                {
+                    "id": "respect_mutual",
+                    "text": "Musi być wzajemny"
+                },
+                {
+                    "id": "respect_nonnegotiable",
+                    "text": "Nie do negocjacji"
+                }
+            ]
+        },
+        {
+            "id": "cpl_198",
+            "text": "Kto najprawdopodobniej tworzyłby niespodzianki tematyczne kolacje?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_199",
+            "text": "Jak najlepiej podchodzić do ewolucji i zmian w związku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "evolution_embrace",
+                    "text": "Przyjmować zmiany razem"
+                },
+                {
+                    "id": "evolution_communicate",
+                    "text": "Komunikować przez cały proces"
+                },
+                {
+                    "id": "evolution_adapt",
+                    "text": "Dostosować się w razie potrzeby"
+                },
+                {
+                    "id": "evolution_support",
+                    "text": "Wspierać się nawzajem"
+                },
+                {
+                    "id": "evolution_grow",
+                    "text": "Rosnąć w tym samym kierunku"
+                },
+                {
+                    "id": "evolution_patient",
+                    "text": "Być cierpliwym w procesie"
+                }
+            ]
+        },
+        {
+            "id": "cpl_200",
+            "text": "Kto najprawdopodobniej sugerowałby tworzenie projektu dziedzictwa związku?",
+            "type": "players",
+            "options": []
+        }
+    ]
+}

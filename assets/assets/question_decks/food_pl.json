@@ -1,0 +1,4397 @@
+{
+  "deck": {
+    "id": "food",
+    "name": "Jedzenie i Kulinaria - Rozszerzona",
+    "description": "Jeszcze więcej pytań kulinarnych dla całej rodziny.",
+    "category": "food",
+    "version": "2.0.0",
+    "language": "pl"
+  },
+  "questions": [
+    {
+      "id": "food_001",
+      "text": "Jaka jest twoja ulubiona kuchnia?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "cuisine_italian",
+          "text": "Włoska"
+        },
+        {
+          "id": "cuisine_asian",
+          "text": "Azjatycka"
+        },
+        {
+          "id": "cuisine_mexican",
+          "text": "Meksykańska"
+        },
+        {
+          "id": "cuisine_indian",
+          "text": "Indyjska"
+        },
+        {
+          "id": "cuisine_french",
+          "text": "Francuska"
+        },
+        {
+          "id": "cuisine_american",
+          "text": "Amerykańska"
+        }
+      ]
+    },
+    {
+      "id": "food_002",
+      "text": "Kto najprawdopodobniej spali wodę podczas gotowania?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_003",
+      "text": "Jakie jest twoje ulubione jedzenie na pocieszenie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "comfort_pizza",
+          "text": "Pizza"
+        },
+        {
+          "id": "comfort_ice_cream",
+          "text": "Lody"
+        },
+        {
+          "id": "comfort_soup",
+          "text": "Zupa"
+        },
+        {
+          "id": "comfort_chocolate",
+          "text": "Czekolada"
+        },
+        {
+          "id": "comfort_pasta",
+          "text": "Makaron"
+        },
+        {
+          "id": "comfort_cookies",
+          "text": "Ciasteczka"
+        }
+      ]
+    },
+    {
+      "id": "food_004",
+      "text": "Kto byłby najlepszym szefem kuchni wśród nas?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_005",
+      "text": "Preferowane doświadczenie kulinarne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "dining_fine",
+          "text": "Elegancka restauracja"
+        },
+        {
+          "id": "dining_casual",
+          "text": "Zwykła restauracja"
+        },
+        {
+          "id": "dining_fastfood",
+          "text": "Fast food"
+        },
+        {
+          "id": "dining_street",
+          "text": "Street food"
+        },
+        {
+          "id": "dining_home",
+          "text": "Domowe gotowanie"
+        },
+        {
+          "id": "dining_picnic",
+          "text": "Piknik na świeżym powietrzu"
+        }
+      ]
+    },
+    {
+      "id": "food_006",
+      "text": "Kto najprawdopodobniej zje przeterminowane jedzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_007",
+      "text": "Jaka jest najlepsza metoda gotowania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "cooking_grilling",
+          "text": "Grillowanie"
+        },
+        {
+          "id": "cooking_baking",
+          "text": "Pieczenie"
+        },
+        {
+          "id": "cooking_frying",
+          "text": "Smażenie"
+        },
+        {
+          "id": "cooking_steaming",
+          "text": "Gotowanie na parze"
+        },
+        {
+          "id": "cooking_roasting",
+          "text": "Pieczenie w piekarniku"
+        },
+        {
+          "id": "cooking_raw",
+          "text": "Surowe/Świeże"
+        }
+      ]
+    },
+    {
+      "id": "food_008",
+      "text": "Kto spróbowałby najostrzejszego wyzwania kulinarnego?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_009",
+      "text": "Najgorsza kombinacja jedzenia?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "combo_pineapple_pizza",
+          "text": "Ananas na pizzy"
+        },
+        {
+          "id": "combo_ketchup_pasta",
+          "text": "Ketchup do makaronu"
+        },
+        {
+          "id": "combo_milk_cereal",
+          "text": "Płatki z wodą"
+        },
+        {
+          "id": "combo_wellDone_steak",
+          "text": "Dobrze wysmażony stek"
+        },
+        {
+          "id": "combo_orange_toothpaste",
+          "text": "Sok pomarańczowy po myciu zębów"
+        },
+        {
+          "id": "combo_cold_coffee",
+          "text": "Zimna kawa (odgrzewana)"
+        }
+      ]
+    },
+    {
+      "id": "food_010",
+      "text": "Kto najprawdopodobniej zostanie krytykiem kulinarnym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_011",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_011_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_011_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_011_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_011_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_011_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_011_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_012",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_012_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_012_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_012_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_012_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_012_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_012_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_013",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_013_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_013_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_013_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_013_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_013_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_013_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_014",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_014_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_014_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_014_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_014_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_014_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_014_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_015",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_015_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_015_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_015_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_015_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_015_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_015_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_016",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_016_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_016_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_016_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_016_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_016_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_016_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_017",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_017_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_017_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_017_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_017_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_017_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_017_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_018",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_018_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_018_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_018_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_018_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_018_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_018_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_019",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_019_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_019_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_019_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_019_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_019_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_019_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_020",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_020_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_020_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_020_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_020_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_020_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_020_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_021",
+      "text": "Najlepsze śniadanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_021_pancakes",
+          "text": "Pancakes"
+        },
+        {
+          "id": "food_021_eggs",
+          "text": "Eggs"
+        },
+        {
+          "id": "food_021_omelette",
+          "text": "Omelette"
+        },
+        {
+          "id": "food_021_waffles",
+          "text": "Waffles"
+        },
+        {
+          "id": "food_021_croissants",
+          "text": "Croissants"
+        },
+        {
+          "id": "food_021_bagels",
+          "text": "Bagels"
+        }
+      ]
+    },
+    {
+      "id": "food_022",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_022_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_022_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_022_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_022_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_022_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_022_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_023",
+      "text": "Ulubiony rodzaj ciasta?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_023_chocolate_cake",
+          "text": "Chocolate Cake"
+        },
+        {
+          "id": "food_023_cheesecake",
+          "text": "Cheesecake"
+        },
+        {
+          "id": "food_023_carrot_cake",
+          "text": "Carrot Cake"
+        },
+        {
+          "id": "food_023_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_023_sponge_cake",
+          "text": "Sponge Cake"
+        },
+        {
+          "id": "food_023_cupcakes",
+          "text": "Cupcakes"
+        }
+      ]
+    },
+    {
+      "id": "food_024",
+      "text": "Ulubiony rodzaj ciasta?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_024_chocolate_cake",
+          "text": "Chocolate Cake"
+        },
+        {
+          "id": "food_024_cheesecake",
+          "text": "Cheesecake"
+        },
+        {
+          "id": "food_024_carrot_cake",
+          "text": "Carrot Cake"
+        },
+        {
+          "id": "food_024_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_024_sponge_cake",
+          "text": "Sponge Cake"
+        },
+        {
+          "id": "food_024_cupcakes",
+          "text": "Cupcakes"
+        }
+      ]
+    },
+    {
+      "id": "food_025",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_025_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_025_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_025_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_025_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_025_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_025_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_026",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_026_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_026_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_026_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_026_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_026_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_026_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_027",
+      "text": "Ulubiony rodzaj ciasta?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_027_chocolate_cake",
+          "text": "Chocolate Cake"
+        },
+        {
+          "id": "food_027_cheesecake",
+          "text": "Cheesecake"
+        },
+        {
+          "id": "food_027_carrot_cake",
+          "text": "Carrot Cake"
+        },
+        {
+          "id": "food_027_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_027_sponge_cake",
+          "text": "Sponge Cake"
+        },
+        {
+          "id": "food_027_cupcakes",
+          "text": "Cupcakes"
+        }
+      ]
+    },
+    {
+      "id": "food_028",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_028_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_028_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_028_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_028_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_028_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_028_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_029",
+      "text": "Ulubiony rodzaj ciasta?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_029_chocolate_cake",
+          "text": "Chocolate Cake"
+        },
+        {
+          "id": "food_029_cheesecake",
+          "text": "Cheesecake"
+        },
+        {
+          "id": "food_029_carrot_cake",
+          "text": "Carrot Cake"
+        },
+        {
+          "id": "food_029_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_029_sponge_cake",
+          "text": "Sponge Cake"
+        },
+        {
+          "id": "food_029_cupcakes",
+          "text": "Cupcakes"
+        }
+      ]
+    },
+    {
+      "id": "food_030",
+      "text": "Najlepsze śniadanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_030_pancakes",
+          "text": "Pancakes"
+        },
+        {
+          "id": "food_030_eggs",
+          "text": "Eggs"
+        },
+        {
+          "id": "food_030_omelette",
+          "text": "Omelette"
+        },
+        {
+          "id": "food_030_waffles",
+          "text": "Waffles"
+        },
+        {
+          "id": "food_030_croissants",
+          "text": "Croissants"
+        },
+        {
+          "id": "food_030_bagels",
+          "text": "Bagels"
+        }
+      ]
+    },
+    {
+      "id": "food_031",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_031_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_031_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_031_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_031_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_031_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_031_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_032",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_032_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_032_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_032_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_032_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_032_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_032_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_033",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_033_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_033_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_033_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_033_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_033_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_033_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_034",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_034_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_034_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_034_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_034_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_034_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_034_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_035",
+      "text": "Najlepsze danie na świąteczny obiad?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_035_turkey",
+          "text": "Turkey"
+        },
+        {
+          "id": "food_035_ham",
+          "text": "Ham"
+        },
+        {
+          "id": "food_035_roast_beef",
+          "text": "Roast Beef"
+        },
+        {
+          "id": "food_035_pierogi",
+          "text": "Pierogi"
+        },
+        {
+          "id": "food_035_salmon",
+          "text": "Salmon"
+        },
+        {
+          "id": "food_035_stuffed_cabbage",
+          "text": "Stuffed Cabbage"
+        }
+      ]
+    },
+    {
+      "id": "food_036",
+      "text": "Najlepsze jedzenie na wieczór filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_036_popcorn",
+          "text": "Popcorn"
+        },
+        {
+          "id": "food_036_nachos",
+          "text": "Nachos"
+        },
+        {
+          "id": "food_036_pizza",
+          "text": "Pizza"
+        },
+        {
+          "id": "food_036_chips",
+          "text": "Chips"
+        },
+        {
+          "id": "food_036_candy",
+          "text": "Candy"
+        },
+        {
+          "id": "food_036_ice_cream",
+          "text": "Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "food_037",
+      "text": "Najlepsze jedzenie na wieczór filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_037_popcorn",
+          "text": "Popcorn"
+        },
+        {
+          "id": "food_037_nachos",
+          "text": "Nachos"
+        },
+        {
+          "id": "food_037_pizza",
+          "text": "Pizza"
+        },
+        {
+          "id": "food_037_chips",
+          "text": "Chips"
+        },
+        {
+          "id": "food_037_candy",
+          "text": "Candy"
+        },
+        {
+          "id": "food_037_ice_cream",
+          "text": "Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "food_038",
+      "text": "Ulubiony rodzaj ciasta?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_038_chocolate_cake",
+          "text": "Chocolate Cake"
+        },
+        {
+          "id": "food_038_cheesecake",
+          "text": "Cheesecake"
+        },
+        {
+          "id": "food_038_carrot_cake",
+          "text": "Carrot Cake"
+        },
+        {
+          "id": "food_038_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_038_sponge_cake",
+          "text": "Sponge Cake"
+        },
+        {
+          "id": "food_038_cupcakes",
+          "text": "Cupcakes"
+        }
+      ]
+    },
+    {
+      "id": "food_039",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_039_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_039_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_039_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_039_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_039_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_039_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_040",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_040_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_040_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_040_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_040_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_040_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_040_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_041",
+      "text": "Najlepsze jedzenie na wieczór filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_041_popcorn",
+          "text": "Popcorn"
+        },
+        {
+          "id": "food_041_nachos",
+          "text": "Nachos"
+        },
+        {
+          "id": "food_041_pizza",
+          "text": "Pizza"
+        },
+        {
+          "id": "food_041_chips",
+          "text": "Chips"
+        },
+        {
+          "id": "food_041_candy",
+          "text": "Candy"
+        },
+        {
+          "id": "food_041_ice_cream",
+          "text": "Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "food_042",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_042_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_042_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_042_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_042_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_042_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_042_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_043",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_043_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_043_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_043_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_043_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_043_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_043_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_044",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_044_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_044_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_044_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_044_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_044_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_044_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_045",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_045_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_045_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_045_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_045_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_045_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_045_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_046",
+      "text": "Najlepsze śniadanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_046_pancakes",
+          "text": "Pancakes"
+        },
+        {
+          "id": "food_046_eggs",
+          "text": "Eggs"
+        },
+        {
+          "id": "food_046_omelette",
+          "text": "Omelette"
+        },
+        {
+          "id": "food_046_waffles",
+          "text": "Waffles"
+        },
+        {
+          "id": "food_046_croissants",
+          "text": "Croissants"
+        },
+        {
+          "id": "food_046_bagels",
+          "text": "Bagels"
+        }
+      ]
+    },
+    {
+      "id": "food_047",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_047_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_047_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_047_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_047_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_047_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_047_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_048",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_048_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_048_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_048_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_048_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_048_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_048_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_049",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_049_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_049_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_049_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_049_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_049_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_049_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_050",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_050_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_050_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_050_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_050_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_050_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_050_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_051",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_051_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_051_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_051_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_051_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_051_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_051_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_052",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_052_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_052_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_052_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_052_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_052_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_052_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_053",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_053_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_053_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_053_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_053_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_053_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_053_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_054",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_054_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_054_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_054_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_054_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_054_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_054_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_055",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_055_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_055_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_055_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_055_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_055_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_055_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_056",
+      "text": "Najlepsze śniadanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_056_pancakes",
+          "text": "Pancakes"
+        },
+        {
+          "id": "food_056_eggs",
+          "text": "Eggs"
+        },
+        {
+          "id": "food_056_omelette",
+          "text": "Omelette"
+        },
+        {
+          "id": "food_056_waffles",
+          "text": "Waffles"
+        },
+        {
+          "id": "food_056_croissants",
+          "text": "Croissants"
+        },
+        {
+          "id": "food_056_bagels",
+          "text": "Bagels"
+        }
+      ]
+    },
+    {
+      "id": "food_057",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_057_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_057_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_057_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_057_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_057_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_057_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_058",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_058_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_058_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_058_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_058_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_058_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_058_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_059",
+      "text": "Ulubiona kanapka?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_059_blt",
+          "text": "BLT"
+        },
+        {
+          "id": "food_059_club",
+          "text": "Club"
+        },
+        {
+          "id": "food_059_grilled_cheese",
+          "text": "Grilled Cheese"
+        },
+        {
+          "id": "food_059_ham_and_cheese",
+          "text": "Ham & Cheese"
+        },
+        {
+          "id": "food_059_veggie",
+          "text": "Veggie"
+        },
+        {
+          "id": "food_059_tuna",
+          "text": "Tuna"
+        }
+      ]
+    },
+    {
+      "id": "food_060",
+      "text": "Ulubiona kanapka?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_060_blt",
+          "text": "BLT"
+        },
+        {
+          "id": "food_060_club",
+          "text": "Club"
+        },
+        {
+          "id": "food_060_grilled_cheese",
+          "text": "Grilled Cheese"
+        },
+        {
+          "id": "food_060_ham_and_cheese",
+          "text": "Ham & Cheese"
+        },
+        {
+          "id": "food_060_veggie",
+          "text": "Veggie"
+        },
+        {
+          "id": "food_060_tuna",
+          "text": "Tuna"
+        }
+      ]
+    },
+    {
+      "id": "food_061",
+      "text": "Najlepsze jedzenie na wieczór filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_061_popcorn",
+          "text": "Popcorn"
+        },
+        {
+          "id": "food_061_nachos",
+          "text": "Nachos"
+        },
+        {
+          "id": "food_061_pizza",
+          "text": "Pizza"
+        },
+        {
+          "id": "food_061_chips",
+          "text": "Chips"
+        },
+        {
+          "id": "food_061_candy",
+          "text": "Candy"
+        },
+        {
+          "id": "food_061_ice_cream",
+          "text": "Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "food_062",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_062_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_062_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_062_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_062_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_062_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_062_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_063",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_063_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_063_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_063_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_063_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_063_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_063_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_064",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_064_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_064_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_064_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_064_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_064_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_064_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_065",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_065_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_065_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_065_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_065_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_065_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_065_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_066",
+      "text": "Ulubiona kanapka?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_066_blt",
+          "text": "BLT"
+        },
+        {
+          "id": "food_066_club",
+          "text": "Club"
+        },
+        {
+          "id": "food_066_grilled_cheese",
+          "text": "Grilled Cheese"
+        },
+        {
+          "id": "food_066_ham_and_cheese",
+          "text": "Ham & Cheese"
+        },
+        {
+          "id": "food_066_veggie",
+          "text": "Veggie"
+        },
+        {
+          "id": "food_066_tuna",
+          "text": "Tuna"
+        }
+      ]
+    },
+    {
+      "id": "food_067",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_067_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_067_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_067_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_067_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_067_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_067_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_068",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_068_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_068_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_068_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_068_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_068_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_068_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_069",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_069_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_069_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_069_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_069_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_069_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_069_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_070",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_070_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_070_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_070_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_070_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_070_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_070_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_071",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_071_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_071_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_071_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_071_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_071_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_071_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_072",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_072_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_072_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_072_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_072_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_072_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_072_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_073",
+      "text": "Najlepsze danie na świąteczny obiad?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_073_turkey",
+          "text": "Turkey"
+        },
+        {
+          "id": "food_073_ham",
+          "text": "Ham"
+        },
+        {
+          "id": "food_073_roast_beef",
+          "text": "Roast Beef"
+        },
+        {
+          "id": "food_073_pierogi",
+          "text": "Pierogi"
+        },
+        {
+          "id": "food_073_salmon",
+          "text": "Salmon"
+        },
+        {
+          "id": "food_073_stuffed_cabbage",
+          "text": "Stuffed Cabbage"
+        }
+      ]
+    },
+    {
+      "id": "food_074",
+      "text": "Ulubiona kanapka?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_074_blt",
+          "text": "BLT"
+        },
+        {
+          "id": "food_074_club",
+          "text": "Club"
+        },
+        {
+          "id": "food_074_grilled_cheese",
+          "text": "Grilled Cheese"
+        },
+        {
+          "id": "food_074_ham_and_cheese",
+          "text": "Ham & Cheese"
+        },
+        {
+          "id": "food_074_veggie",
+          "text": "Veggie"
+        },
+        {
+          "id": "food_074_tuna",
+          "text": "Tuna"
+        }
+      ]
+    },
+    {
+      "id": "food_075",
+      "text": "Najlepsze danie na świąteczny obiad?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_075_turkey",
+          "text": "Turkey"
+        },
+        {
+          "id": "food_075_ham",
+          "text": "Ham"
+        },
+        {
+          "id": "food_075_roast_beef",
+          "text": "Roast Beef"
+        },
+        {
+          "id": "food_075_pierogi",
+          "text": "Pierogi"
+        },
+        {
+          "id": "food_075_salmon",
+          "text": "Salmon"
+        },
+        {
+          "id": "food_075_stuffed_cabbage",
+          "text": "Stuffed Cabbage"
+        }
+      ]
+    },
+    {
+      "id": "food_076",
+      "text": "Najlepsze danie na świąteczny obiad?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_076_turkey",
+          "text": "Turkey"
+        },
+        {
+          "id": "food_076_ham",
+          "text": "Ham"
+        },
+        {
+          "id": "food_076_roast_beef",
+          "text": "Roast Beef"
+        },
+        {
+          "id": "food_076_pierogi",
+          "text": "Pierogi"
+        },
+        {
+          "id": "food_076_salmon",
+          "text": "Salmon"
+        },
+        {
+          "id": "food_076_stuffed_cabbage",
+          "text": "Stuffed Cabbage"
+        }
+      ]
+    },
+    {
+      "id": "food_077",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_077_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_077_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_077_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_077_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_077_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_077_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_078",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_078_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_078_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_078_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_078_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_078_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_078_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_079",
+      "text": "Ulubiona kanapka?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_079_blt",
+          "text": "BLT"
+        },
+        {
+          "id": "food_079_club",
+          "text": "Club"
+        },
+        {
+          "id": "food_079_grilled_cheese",
+          "text": "Grilled Cheese"
+        },
+        {
+          "id": "food_079_ham_and_cheese",
+          "text": "Ham & Cheese"
+        },
+        {
+          "id": "food_079_veggie",
+          "text": "Veggie"
+        },
+        {
+          "id": "food_079_tuna",
+          "text": "Tuna"
+        }
+      ]
+    },
+    {
+      "id": "food_080",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_080_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_080_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_080_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_080_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_080_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_080_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_081",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_081_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_081_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_081_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_081_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_081_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_081_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_082",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_082_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_082_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_082_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_082_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_082_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_082_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_083",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_083_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_083_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_083_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_083_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_083_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_083_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_084",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_084_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_084_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_084_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_084_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_084_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_084_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_085",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_085_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_085_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_085_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_085_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_085_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_085_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_086",
+      "text": "Najlepsze danie na świąteczny obiad?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_086_turkey",
+          "text": "Turkey"
+        },
+        {
+          "id": "food_086_ham",
+          "text": "Ham"
+        },
+        {
+          "id": "food_086_roast_beef",
+          "text": "Roast Beef"
+        },
+        {
+          "id": "food_086_pierogi",
+          "text": "Pierogi"
+        },
+        {
+          "id": "food_086_salmon",
+          "text": "Salmon"
+        },
+        {
+          "id": "food_086_stuffed_cabbage",
+          "text": "Stuffed Cabbage"
+        }
+      ]
+    },
+    {
+      "id": "food_087",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_087_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_087_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_087_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_087_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_087_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_087_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_088",
+      "text": "Najlepsze jedzenie na wieczór filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_088_popcorn",
+          "text": "Popcorn"
+        },
+        {
+          "id": "food_088_nachos",
+          "text": "Nachos"
+        },
+        {
+          "id": "food_088_pizza",
+          "text": "Pizza"
+        },
+        {
+          "id": "food_088_chips",
+          "text": "Chips"
+        },
+        {
+          "id": "food_088_candy",
+          "text": "Candy"
+        },
+        {
+          "id": "food_088_ice_cream",
+          "text": "Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "food_089",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_089_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_089_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_089_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_089_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_089_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_089_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_090",
+      "text": "Najlepsze śniadanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_090_pancakes",
+          "text": "Pancakes"
+        },
+        {
+          "id": "food_090_eggs",
+          "text": "Eggs"
+        },
+        {
+          "id": "food_090_omelette",
+          "text": "Omelette"
+        },
+        {
+          "id": "food_090_waffles",
+          "text": "Waffles"
+        },
+        {
+          "id": "food_090_croissants",
+          "text": "Croissants"
+        },
+        {
+          "id": "food_090_bagels",
+          "text": "Bagels"
+        }
+      ]
+    },
+    {
+      "id": "food_091",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_091_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_091_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_091_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_091_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_091_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_091_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_092",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_092_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_092_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_092_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_092_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_092_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_092_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_093",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_093_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_093_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_093_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_093_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_093_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_093_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_094",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_094_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_094_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_094_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_094_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_094_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_094_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_095",
+      "text": "Najgorsze jedzenie do wylania na ubranie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_095_spaghetti_sauce",
+          "text": "Spaghetti Sauce"
+        },
+        {
+          "id": "food_095_chocolate_ice_cream",
+          "text": "Chocolate Ice Cream"
+        },
+        {
+          "id": "food_095_curry",
+          "text": "Curry"
+        },
+        {
+          "id": "food_095_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "food_095_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_095_oil",
+          "text": "Oil"
+        }
+      ]
+    },
+    {
+      "id": "food_096",
+      "text": "Najlepsze danie na świąteczny obiad?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_096_turkey",
+          "text": "Turkey"
+        },
+        {
+          "id": "food_096_ham",
+          "text": "Ham"
+        },
+        {
+          "id": "food_096_roast_beef",
+          "text": "Roast Beef"
+        },
+        {
+          "id": "food_096_pierogi",
+          "text": "Pierogi"
+        },
+        {
+          "id": "food_096_salmon",
+          "text": "Salmon"
+        },
+        {
+          "id": "food_096_stuffed_cabbage",
+          "text": "Stuffed Cabbage"
+        }
+      ]
+    },
+    {
+      "id": "food_097",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_097_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_097_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_097_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_097_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_097_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_097_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_098",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_098_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_098_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_098_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_098_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_098_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_098_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_099",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_099_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_099_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_099_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_099_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_099_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_099_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_100",
+      "text": "Najlepsze śniadanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_100_pancakes",
+          "text": "Pancakes"
+        },
+        {
+          "id": "food_100_eggs",
+          "text": "Eggs"
+        },
+        {
+          "id": "food_100_omelette",
+          "text": "Omelette"
+        },
+        {
+          "id": "food_100_waffles",
+          "text": "Waffles"
+        },
+        {
+          "id": "food_100_croissants",
+          "text": "Croissants"
+        },
+        {
+          "id": "food_100_bagels",
+          "text": "Bagels"
+        }
+      ]
+    },
+    {
+      "id": "food_101",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_101_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_101_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_101_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_101_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_101_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_101_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_102",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_102_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_102_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_102_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_102_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_102_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_102_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_103",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_103_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_103_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_103_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_103_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_103_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_103_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_104",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_104_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_104_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_104_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_104_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_104_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_104_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_105",
+      "text": "Najlepsze danie na świąteczny obiad?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_105_turkey",
+          "text": "Turkey"
+        },
+        {
+          "id": "food_105_ham",
+          "text": "Ham"
+        },
+        {
+          "id": "food_105_roast_beef",
+          "text": "Roast Beef"
+        },
+        {
+          "id": "food_105_pierogi",
+          "text": "Pierogi"
+        },
+        {
+          "id": "food_105_salmon",
+          "text": "Salmon"
+        },
+        {
+          "id": "food_105_stuffed_cabbage",
+          "text": "Stuffed Cabbage"
+        }
+      ]
+    },
+    {
+      "id": "food_106",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_106_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_106_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_106_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_106_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_106_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_106_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_107",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_107_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_107_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_107_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_107_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_107_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_107_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_108",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_108_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_108_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_108_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_108_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_108_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_108_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_109",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_109_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_109_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_109_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_109_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_109_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_109_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_110",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_110_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_110_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_110_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_110_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_110_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_110_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_111",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_111_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_111_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_111_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_111_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_111_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_111_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_112",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_112_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_112_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_112_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_112_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_112_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_112_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_113",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_113_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_113_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_113_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_113_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_113_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_113_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_114",
+      "text": "Ulubione jedzenie uliczne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_114_hot_dog",
+          "text": "Hot Dog"
+        },
+        {
+          "id": "food_114_kebab",
+          "text": "Kebab"
+        },
+        {
+          "id": "food_114_tacos",
+          "text": "Tacos"
+        },
+        {
+          "id": "food_114_burrito",
+          "text": "Burrito"
+        },
+        {
+          "id": "food_114_falafel",
+          "text": "Falafel"
+        },
+        {
+          "id": "food_114_crepes",
+          "text": "Crepes"
+        }
+      ]
+    },
+    {
+      "id": "food_115",
+      "text": "Najlepsze śniadanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_115_pancakes",
+          "text": "Pancakes"
+        },
+        {
+          "id": "food_115_eggs",
+          "text": "Eggs"
+        },
+        {
+          "id": "food_115_omelette",
+          "text": "Omelette"
+        },
+        {
+          "id": "food_115_waffles",
+          "text": "Waffles"
+        },
+        {
+          "id": "food_115_croissants",
+          "text": "Croissants"
+        },
+        {
+          "id": "food_115_bagels",
+          "text": "Bagels"
+        }
+      ]
+    },
+    {
+      "id": "food_116",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_116_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_116_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_116_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_116_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_116_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_116_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_117",
+      "text": "Jakie jedzenie zabrałbyś na bezludną wyspę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_117_bread",
+          "text": "Bread"
+        },
+        {
+          "id": "food_117_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_117_canned_beans",
+          "text": "Canned Beans"
+        },
+        {
+          "id": "food_117_chocolate",
+          "text": "Chocolate"
+        },
+        {
+          "id": "food_117_peanut_butter",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "food_117_instant_noodles",
+          "text": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "id": "food_118",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_118_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_118_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_118_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_118_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_118_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_118_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_119",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_119_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_119_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_119_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_119_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_119_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_119_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_120",
+      "text": "Ulubiony rodzaj ciasta?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_120_chocolate_cake",
+          "text": "Chocolate Cake"
+        },
+        {
+          "id": "food_120_cheesecake",
+          "text": "Cheesecake"
+        },
+        {
+          "id": "food_120_carrot_cake",
+          "text": "Carrot Cake"
+        },
+        {
+          "id": "food_120_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_120_sponge_cake",
+          "text": "Sponge Cake"
+        },
+        {
+          "id": "food_120_cupcakes",
+          "text": "Cupcakes"
+        }
+      ]
+    },
+    {
+      "id": "food_121",
+      "text": "Najlepsze jedzenie na wieczór filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_121_popcorn",
+          "text": "Popcorn"
+        },
+        {
+          "id": "food_121_nachos",
+          "text": "Nachos"
+        },
+        {
+          "id": "food_121_pizza",
+          "text": "Pizza"
+        },
+        {
+          "id": "food_121_chips",
+          "text": "Chips"
+        },
+        {
+          "id": "food_121_candy",
+          "text": "Candy"
+        },
+        {
+          "id": "food_121_ice_cream",
+          "text": "Ice Cream"
+        }
+      ]
+    },
+    {
+      "id": "food_122",
+      "text": "Ulubiony rodzaj zupy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_122_tomato",
+          "text": "Tomato"
+        },
+        {
+          "id": "food_122_chicken_noodle",
+          "text": "Chicken Noodle"
+        },
+        {
+          "id": "food_122_pumpkin",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "food_122_mushroom",
+          "text": "Mushroom"
+        },
+        {
+          "id": "food_122_beetroot",
+          "text": "Beetroot"
+        },
+        {
+          "id": "food_122_vegetable",
+          "text": "Vegetable"
+        }
+      ]
+    },
+    {
+      "id": "food_123",
+      "text": "Najbardziej orzeźwiający letni napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_123_lemonade",
+          "text": "Lemonade"
+        },
+        {
+          "id": "food_123_iced_tea",
+          "text": "Iced Tea"
+        },
+        {
+          "id": "food_123_smoothie",
+          "text": "Smoothie"
+        },
+        {
+          "id": "food_123_milkshake",
+          "text": "Milkshake"
+        },
+        {
+          "id": "food_123_fruit_juice",
+          "text": "Fruit Juice"
+        },
+        {
+          "id": "food_123_water_with_mint",
+          "text": "Water with Mint"
+        }
+      ]
+    },
+    {
+      "id": "food_124",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_124_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_124_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_124_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_124_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_124_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_124_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_125",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_125_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_125_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_125_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_125_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_125_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_125_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_126",
+      "text": "Najlepszy dodatek do dania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_126_french_fries",
+          "text": "French Fries"
+        },
+        {
+          "id": "food_126_mashed_potatoes",
+          "text": "Mashed Potatoes"
+        },
+        {
+          "id": "food_126_rice",
+          "text": "Rice"
+        },
+        {
+          "id": "food_126_salad",
+          "text": "Salad"
+        },
+        {
+          "id": "food_126_roasted_veggies",
+          "text": "Roasted Veggies"
+        },
+        {
+          "id": "food_126_garlic_bread",
+          "text": "Garlic Bread"
+        }
+      ]
+    },
+    {
+      "id": "food_127",
+      "text": "Najlepszy deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_127_ice_cream",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "food_127_brownie",
+          "text": "Brownie"
+        },
+        {
+          "id": "food_127_apple_pie",
+          "text": "Apple Pie"
+        },
+        {
+          "id": "food_127_panna_cotta",
+          "text": "Panna Cotta"
+        },
+        {
+          "id": "food_127_tiramisu",
+          "text": "Tiramisu"
+        },
+        {
+          "id": "food_127_pudding",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "food_128",
+      "text": "Ulubiony świąteczny słodycz?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_128_gingerbread",
+          "text": "Gingerbread"
+        },
+        {
+          "id": "food_128_candy_canes",
+          "text": "Candy Canes"
+        },
+        {
+          "id": "food_128_fudge",
+          "text": "Fudge"
+        },
+        {
+          "id": "food_128_fruit_cake",
+          "text": "Fruit Cake"
+        },
+        {
+          "id": "food_128_marzipan",
+          "text": "Marzipan"
+        },
+        {
+          "id": "food_128_caramel",
+          "text": "Caramel"
+        }
+      ]
+    },
+    {
+      "id": "food_129",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_129_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_129_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_129_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_129_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_129_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_129_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_130",
+      "text": "Najlepszy sos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "food_130_ketchup",
+          "text": "Ketchup"
+        },
+        {
+          "id": "food_130_mayonnaise",
+          "text": "Mayonnaise"
+        },
+        {
+          "id": "food_130_barbecue",
+          "text": "Barbecue"
+        },
+        {
+          "id": "food_130_sweet_chili",
+          "text": "Sweet Chili"
+        },
+        {
+          "id": "food_130_mustard",
+          "text": "Mustard"
+        },
+        {
+          "id": "food_130_ranch",
+          "text": "Ranch"
+        }
+      ]
+    },
+    {
+      "id": "food_131",
+      "text": "Kto jest największym niejadkiem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_132",
+      "text": "Kto je najszybciej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_133",
+      "text": "Kto mógłby żyć tylko na pizzy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_134",
+      "text": "Kto zawsze podkrada frytki innym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_135",
+      "text": "Kto je tylko dlatego, że smakuje, a nie z głodu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_136",
+      "text": "Kto najczęściej przypala jedzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_137",
+      "text": "Kto jadłby lody na śniadanie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_138",
+      "text": "Kto najdłużej wybiera danie z menu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_139",
+      "text": "Kto wygrałby konkurs jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_140",
+      "text": "Kto wygrałby konkurs jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_141",
+      "text": "Kto najładniej podaje jedzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_142",
+      "text": "Kto zawsze zamawia deser?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_143",
+      "text": "Kto wygrałby konkurs jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_144",
+      "text": "Kto zawsze prosi o dokładkę?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_145",
+      "text": "Kto najczęściej przypala jedzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_146",
+      "text": "Kto najczęściej przypala jedzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_147",
+      "text": "Kto próbuje najdziwniejszego jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_148",
+      "text": "Kto najczęściej je nocne przekąski?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_149",
+      "text": "Kto mówi 'jestem pełny', ale dalej je?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_150",
+      "text": "Kto je najszybciej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_151",
+      "text": "Kto próbuje najdziwniejszego jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_152",
+      "text": "Kto zawsze pierwszy kończy talerz?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_153",
+      "text": "Kto najlepiej grilluje?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_154",
+      "text": "Kto je tylko dlatego, że smakuje, a nie z głodu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_155",
+      "text": "Kto mógłby żyć tylko na pizzy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_156",
+      "text": "Kto je najszybciej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_157",
+      "text": "Kto je najszybciej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_158",
+      "text": "Kto jadłby lody na śniadanie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_159",
+      "text": "Kto zawsze zamawia deser?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_160",
+      "text": "Kto zostawia największy bałagan w kuchni?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_161",
+      "text": "Kto zawsze prosi o dokładkę?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_162",
+      "text": "Kto najwięcej narzeka na warzywa?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_163",
+      "text": "Kto zjada najwięcej przekąsek?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_164",
+      "text": "Kto uwielbia próbować nowych restauracji?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_165",
+      "text": "Kto zawsze podkrada frytki innym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_166",
+      "text": "Kto najlepiej grilluje?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_167",
+      "text": "Kto najwięcej narzeka na warzywa?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_168",
+      "text": "Kto najczęściej je nocne przekąski?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_169",
+      "text": "Kto zostawia największy bałagan w kuchni?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_170",
+      "text": "Kto najdłużej wytrzymałby bez jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_171",
+      "text": "Kto otworzyłby najlepszą restaurację?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_172",
+      "text": "Kto wygrałby konkurs jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_173",
+      "text": "Kto zawsze podkrada frytki innym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_174",
+      "text": "Kto mógłby żyć tylko na pizzy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_175",
+      "text": "Kto najczęściej je nocne przekąski?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_176",
+      "text": "Kto najlepiej grilluje?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_177",
+      "text": "Kto zawsze podkrada frytki innym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_178",
+      "text": "Kto jest największym niejadkiem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_179",
+      "text": "Kto zawsze pierwszy kończy talerz?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_180",
+      "text": "Kto robi najlepsze kanapki?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_181",
+      "text": "Kto zawsze zamawia deser?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_182",
+      "text": "Kto otworzyłby najlepszą restaurację?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_183",
+      "text": "Kto najczęściej je nocne przekąski?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_184",
+      "text": "Kto zawsze podkrada frytki innym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_185",
+      "text": "Kto najlepiej grilluje?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_186",
+      "text": "Kto otworzyłby najlepszą restaurację?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_187",
+      "text": "Kto jadłby lody na śniadanie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_188",
+      "text": "Kto zawsze zamawia deser?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_189",
+      "text": "Kto je najszybciej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_190",
+      "text": "Kto najdłużej wytrzymałby bez jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_191",
+      "text": "Kto jest największym niejadkiem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_192",
+      "text": "Kto otworzyłby najlepszą restaurację?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_193",
+      "text": "Kto je najszybciej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_194",
+      "text": "Kto jadłby lody na śniadanie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_195",
+      "text": "Kto robi najlepsze kanapki?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_196",
+      "text": "Kto zawsze prosi o dokładkę?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_197",
+      "text": "Kto zostawia największy bałagan w kuchni?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_198",
+      "text": "Kto w ogóle nie potrafi gotować?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_199",
+      "text": "Kto najładniej podaje jedzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_200",
+      "text": "Kto próbuje najdziwniejszego jedzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_201",
+      "text": "Kto w ogóle nie potrafi gotować?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_202",
+      "text": "Kto zna najwięcej przepisów?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_203",
+      "text": "Kto ma najdziwniejsze nawyki żywieniowe?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_204",
+      "text": "Kto najlepiej grilluje?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_205",
+      "text": "Kto najwięcej narzeka na warzywa?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_206",
+      "text": "Kto zna najwięcej przepisów?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_207",
+      "text": "Kto najczęściej przypala jedzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_208",
+      "text": "Kto najlepiej grilluje?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_209",
+      "text": "Kto zawsze podkrada frytki innym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "food_210",
+      "text": "Kto nie może oprzeć się czekoladzie?",
+      "type": "players",
+      "options": []
+    }
+  ]
+}

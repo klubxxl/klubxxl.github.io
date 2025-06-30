@@ -1,0 +1,3708 @@
+{
+    "deck": {
+        "id": "couples",
+        "name": "Couples Edition",
+        "description": "Romantic and relationship-focused questions for couples or dating groups.",
+        "category": "couples",
+        "version": "1.0.0",
+        "language": "en"
+    },
+    "questions": [
+        {
+            "id": "cpl_001",
+            "text": "What's most important in a relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "relationship_trust",
+                    "text": "Trust"
+                },
+                {
+                    "id": "relationship_communication",
+                    "text": "Communication"
+                },
+                {
+                    "id": "relationship_attraction",
+                    "text": "Physical Attraction"
+                },
+                {
+                    "id": "relationship_interests",
+                    "text": "Shared Interests"
+                },
+                {
+                    "id": "relationship_humor",
+                    "text": "Humor"
+                },
+                {
+                    "id": "relationship_respect",
+                    "text": "Respect"
+                }
+            ]
+        },
+        {
+            "id": "cpl_002",
+            "text": "Ideal date night activity?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "date_dinner",
+                    "text": "Romantic Dinner"
+                },
+                {
+                    "id": "date_movie",
+                    "text": "Movie Night"
+                },
+                {
+                    "id": "date_adventure",
+                    "text": "Adventure Activity"
+                },
+                {
+                    "id": "date_cooking",
+                    "text": "Home Cooking"
+                },
+                {
+                    "id": "date_dancing",
+                    "text": "Dancing"
+                },
+                {
+                    "id": "date_spa",
+                    "text": "Spa Day"
+                }
+            ]
+        },
+        {
+            "id": "cpl_003",
+            "text": "How do you show love?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "love_touch",
+                    "text": "Physical Touch"
+                },
+                {
+                    "id": "love_time",
+                    "text": "Quality Time"
+                },
+                {
+                    "id": "love_words",
+                    "text": "Words of Affirmation"
+                },
+                {
+                    "id": "love_service",
+                    "text": "Acts of Service"
+                },
+                {
+                    "id": "love_gifts",
+                    "text": "Gifts"
+                }
+            ]
+        },
+        {
+            "id": "cpl_004",
+            "text": "What's your relationship dealbreaker?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "dealbreaker_dishonesty",
+                    "text": "Dishonesty"
+                },
+                {
+                    "id": "dealbreaker_ambition",
+                    "text": "Lack of Ambition"
+                },
+                {
+                    "id": "dealbreaker_hygiene",
+                    "text": "Poor Hygiene"
+                },
+                {
+                    "id": "dealbreaker_values",
+                    "text": "Different Values"
+                },
+                {
+                    "id": "dealbreaker_humor",
+                    "text": "No Humor"
+                },
+                {
+                    "id": "dealbreaker_jealousy",
+                    "text": "Jealousy"
+                }
+            ]
+        },
+        {
+            "id": "cpl_005",
+            "text": "Who is most likely to plan romantic surprises?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_006",
+            "text": "Who would be the most understanding partner?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_007",
+            "text": "Who is most likely to remember anniversaries?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_008",
+            "text": "Where would you go for a honeymoon?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "honeymoon_island",
+                    "text": "Tropical Island"
+                },
+                {
+                    "id": "honeymoon_europe",
+                    "text": "European Cities"
+                },
+                {
+                    "id": "honeymoon_mountain",
+                    "text": "Mountain Retreat"
+                },
+                {
+                    "id": "honeymoon_safari",
+                    "text": "African Safari"
+                },
+                {
+                    "id": "honeymoon_asia",
+                    "text": "Asian Adventure"
+                },
+                {
+                    "id": "honeymoon_beach",
+                    "text": "Beach Resort"
+                }
+            ]
+        },
+        {
+            "id": "cpl_009",
+            "text": "Who would be best at resolving conflicts?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_010",
+            "text": "Who is most likely to say 'I love you' first?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_011",
+            "text": "What's your ideal relationship timeline?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "timeline_slow",
+                    "text": "Take it slow"
+                },
+                {
+                    "id": "timeline_natural",
+                    "text": "Let it happen naturally"
+                },
+                {
+                    "id": "timeline_planned",
+                    "text": "Follow traditional milestones"
+                },
+                {
+                    "id": "timeline_fast",
+                    "text": "When you know, you know"
+                },
+                {
+                    "id": "timeline_casual",
+                    "text": "Keep it casual for now"
+                },
+                {
+                    "id": "timeline_serious",
+                    "text": "Get serious quickly"
+                }
+            ]
+        },
+        {
+            "id": "cpl_012",
+            "text": "Who would be most likely to forget important dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_013",
+            "text": "What's your preferred way to spend a lazy Sunday together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "sunday_bed",
+                    "text": "Stay in bed all day"
+                },
+                {
+                    "id": "sunday_brunch",
+                    "text": "Long brunch"
+                },
+                {
+                    "id": "sunday_nature",
+                    "text": "Walk in nature"
+                },
+                {
+                    "id": "sunday_movies",
+                    "text": "Movie marathon"
+                },
+                {
+                    "id": "sunday_cooking",
+                    "text": "Cook together"
+                },
+                {
+                    "id": "sunday_reading",
+                    "text": "Read together"
+                }
+            ]
+        },
+        {
+            "id": "cpl_014",
+            "text": "Who would be the most supportive during tough times?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_015",
+            "text": "What's most important for a healthy relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "healthy_independence",
+                    "text": "Personal independence"
+                },
+                {
+                    "id": "healthy_communication",
+                    "text": "Open communication"
+                },
+                {
+                    "id": "healthy_trust",
+                    "text": "Complete trust"
+                },
+                {
+                    "id": "healthy_fun",
+                    "text": "Having fun together"
+                },
+                {
+                    "id": "healthy_growth",
+                    "text": "Growing together"
+                },
+                {
+                    "id": "healthy_intimacy",
+                    "text": "Emotional intimacy"
+                }
+            ]
+        },
+        {
+            "id": "cpl_016",
+            "text": "Who would be most likely to initiate deep conversations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_017",
+            "text": "How do you prefer to handle disagreements?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "conflict_discuss",
+                    "text": "Talk it out immediately"
+                },
+                {
+                    "id": "conflict_space",
+                    "text": "Take space first"
+                },
+                {
+                    "id": "conflict_compromise",
+                    "text": "Find middle ground"
+                },
+                {
+                    "id": "conflict_avoid",
+                    "text": "Avoid confrontation"
+                },
+                {
+                    "id": "conflict_solution",
+                    "text": "Focus on solutions"
+                },
+                {
+                    "id": "conflict_emotions",
+                    "text": "Express feelings first"
+                }
+            ]
+        },
+        {
+            "id": "cpl_018",
+            "text": "Who would be most likely to plan surprise dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_019",
+            "text": "What's your preferred way to show affection in public?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pda_handholding",
+                    "text": "Hand holding"
+                },
+                {
+                    "id": "pda_hugs",
+                    "text": "Quick hugs"
+                },
+                {
+                    "id": "pda_words",
+                    "text": "Sweet words"
+                },
+                {
+                    "id": "pda_minimal",
+                    "text": "Keep it minimal"
+                },
+                {
+                    "id": "pda_kisses",
+                    "text": "Light kisses"
+                },
+                {
+                    "id": "pda_touch",
+                    "text": "Gentle touches"
+                }
+            ]
+        },
+        {
+            "id": "cpl_020",
+            "text": "Who would be most romantic without trying?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_021",
+            "text": "What's your ideal way to celebrate an anniversary?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "anniversary_fancy",
+                    "text": "Fancy dinner"
+                },
+                {
+                    "id": "anniversary_travel",
+                    "text": "Weekend getaway"
+                },
+                {
+                    "id": "anniversary_home",
+                    "text": "Intimate night at home"
+                },
+                {
+                    "id": "anniversary_recreation",
+                    "text": "Recreate first date"
+                },
+                {
+                    "id": "anniversary_adventure",
+                    "text": "Try something new"
+                },
+                {
+                    "id": "anniversary_simple",
+                    "text": "Simple and meaningful"
+                }
+            ]
+        },
+        {
+            "id": "cpl_022",
+            "text": "Who would be most likely to remember small details about their partner?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_023",
+            "text": "What's most attractive in a potential partner?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "attractive_confidence",
+                    "text": "Confidence"
+                },
+                {
+                    "id": "attractive_kindness",
+                    "text": "Kindness"
+                },
+                {
+                    "id": "attractive_intelligence",
+                    "text": "Intelligence"
+                },
+                {
+                    "id": "attractive_humor",
+                    "text": "Sense of humor"
+                },
+                {
+                    "id": "attractive_ambition",
+                    "text": "Ambition"
+                },
+                {
+                    "id": "attractive_authenticity",
+                    "text": "Being genuine"
+                }
+            ]
+        },
+        {
+            "id": "cpl_024",
+            "text": "Who would be most likely to keep a relationship journal?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_025",
+            "text": "How do you prefer to receive apologies?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "apology_words",
+                    "text": "Sincere words"
+                },
+                {
+                    "id": "apology_actions",
+                    "text": "Changed behavior"
+                },
+                {
+                    "id": "apology_time",
+                    "text": "Quality time together"
+                },
+                {
+                    "id": "apology_gestures",
+                    "text": "Thoughtful gestures"
+                },
+                {
+                    "id": "apology_space",
+                    "text": "Some space first"
+                },
+                {
+                    "id": "apology_discussion",
+                    "text": "Full discussion"
+                }
+            ]
+        },
+        {
+            "id": "cpl_026",
+            "text": "Who would be most likely to write love letters?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_027",
+            "text": "What's your preferred pace for a new relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pace_slow",
+                    "text": "Very slow and steady"
+                },
+                {
+                    "id": "pace_moderate",
+                    "text": "Moderate pace"
+                },
+                {
+                    "id": "pace_intuitive",
+                    "text": "Follow intuition"
+                },
+                {
+                    "id": "pace_fast",
+                    "text": "Dive in quickly"
+                },
+                {
+                    "id": "pace_flexible",
+                    "text": "Adapt to situation"
+                },
+                {
+                    "id": "pace_careful",
+                    "text": "Careful and thoughtful"
+                }
+            ]
+        },
+        {
+            "id": "cpl_028",
+            "text": "Who would be most likely to give the best relationship advice?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_029",
+            "text": "What matters most when choosing where to live together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "living_career",
+                    "text": "Career opportunities"
+                },
+                {
+                    "id": "living_family",
+                    "text": "Close to family"
+                },
+                {
+                    "id": "living_lifestyle",
+                    "text": "Lifestyle preferences"
+                },
+                {
+                    "id": "living_cost",
+                    "text": "Cost of living"
+                },
+                {
+                    "id": "living_adventure",
+                    "text": "New experiences"
+                },
+                {
+                    "id": "living_comfort",
+                    "text": "Comfort and stability"
+                }
+            ]
+        },
+        {
+            "id": "cpl_030",
+            "text": "Who would be most likely to suggest couples counseling if needed?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_031",
+            "text": "What's your ideal way to spend quality time together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "quality_talking",
+                    "text": "Deep conversations"
+                },
+                {
+                    "id": "quality_activities",
+                    "text": "Shared activities"
+                },
+                {
+                    "id": "quality_quiet",
+                    "text": "Quiet companionship"
+                },
+                {
+                    "id": "quality_adventures",
+                    "text": "New adventures"
+                },
+                {
+                    "id": "quality_routine",
+                    "text": "Daily routines"
+                },
+                {
+                    "id": "quality_spontaneous",
+                    "text": "Spontaneous moments"
+                }
+            ]
+        },
+        {
+            "id": "cpl_032",
+            "text": "Who would be most likely to surprise their partner with breakfast in bed?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_033",
+            "text": "How important is having shared hobbies?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "hobbies_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "hobbies_nice",
+                    "text": "Nice to have"
+                },
+                {
+                    "id": "hobbies_some",
+                    "text": "A few shared ones"
+                },
+                {
+                    "id": "hobbies_independent",
+                    "text": "Prefer independence"
+                },
+                {
+                    "id": "hobbies_balance",
+                    "text": "Balance of both"
+                },
+                {
+                    "id": "hobbies_unimportant",
+                    "text": "Not important"
+                }
+            ]
+        },
+        {
+            "id": "cpl_034",
+            "text": "Who would be most likely to create photo albums of memories?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_035",
+            "text": "What's your approach to relationship milestones?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "milestones_traditional",
+                    "text": "Follow traditional path"
+                },
+                {
+                    "id": "milestones_create",
+                    "text": "Create our own"
+                },
+                {
+                    "id": "milestones_natural",
+                    "text": "Let them happen naturally"
+                },
+                {
+                    "id": "milestones_celebrate",
+                    "text": "Celebrate everything"
+                },
+                {
+                    "id": "milestones_downplay",
+                    "text": "Downplay importance"
+                },
+                {
+                    "id": "milestones_practical",
+                    "text": "Focus on practical ones"
+                }
+            ]
+        },
+        {
+            "id": "cpl_036",
+            "text": "Who would be most likely to plan elaborate birthday celebrations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_037",
+            "text": "What's most important for long-term compatibility?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "compatibility_values",
+                    "text": "Shared values"
+                },
+                {
+                    "id": "compatibility_goals",
+                    "text": "Similar life goals"
+                },
+                {
+                    "id": "compatibility_communication",
+                    "text": "Communication style"
+                },
+                {
+                    "id": "compatibility_lifestyle",
+                    "text": "Lifestyle preferences"
+                },
+                {
+                    "id": "compatibility_growth",
+                    "text": "Growing together"
+                },
+                {
+                    "id": "compatibility_acceptance",
+                    "text": "Accepting differences"
+                }
+            ]
+        },
+        {
+            "id": "cpl_038",
+            "text": "Who would be most likely to send sweet good morning texts?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_039",
+            "text": "How do you prefer to handle relationship stress?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "stress_together",
+                    "text": "Face it together"
+                },
+                {
+                    "id": "stress_support",
+                    "text": "Support each other"
+                },
+                {
+                    "id": "stress_individual",
+                    "text": "Handle individually first"
+                },
+                {
+                    "id": "stress_professional",
+                    "text": "Seek professional help"
+                },
+                {
+                    "id": "stress_communication",
+                    "text": "Communicate openly"
+                },
+                {
+                    "id": "stress_patience",
+                    "text": "Be patient and understanding"
+                }
+            ]
+        },
+        {
+            "id": "cpl_040",
+            "text": "Who would be most likely to remember their partner's favorite things?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_041",
+            "text": "What's your ideal balance of together time vs. personal time?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "balance_mostly_together",
+                    "text": "Mostly together"
+                },
+                {
+                    "id": "balance_equal",
+                    "text": "50/50 balance"
+                },
+                {
+                    "id": "balance_more_personal",
+                    "text": "More personal time"
+                },
+                {
+                    "id": "balance_flexible",
+                    "text": "Depends on mood"
+                },
+                {
+                    "id": "balance_quality",
+                    "text": "Quality over quantity"
+                },
+                {
+                    "id": "balance_natural",
+                    "text": "Whatever feels natural"
+                }
+            ]
+        },
+        {
+            "id": "cpl_042",
+            "text": "Who would be most likely to give thoughtful gifts?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_043",
+            "text": "What's most important when meeting your partner's family?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "family_authentic",
+                    "text": "Being authentic"
+                },
+                {
+                    "id": "family_respectful",
+                    "text": "Being respectful"
+                },
+                {
+                    "id": "family_interested",
+                    "text": "Showing interest"
+                },
+                {
+                    "id": "family_supportive",
+                    "text": "Supporting partner"
+                },
+                {
+                    "id": "family_boundaries",
+                    "text": "Setting boundaries"
+                },
+                {
+                    "id": "family_effort",
+                    "text": "Making an effort"
+                }
+            ]
+        },
+        {
+            "id": "cpl_044",
+            "text": "Who would be most likely to plan weekend getaways?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_045",
+            "text": "How do you prefer to celebrate achievements together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "celebrate_dinner",
+                    "text": "Special dinner"
+                },
+                {
+                    "id": "celebrate_trip",
+                    "text": "Mini vacation"
+                },
+                {
+                    "id": "celebrate_quiet",
+                    "text": "Quiet celebration"
+                },
+                {
+                    "id": "celebrate_friends",
+                    "text": "With friends/family"
+                },
+                {
+                    "id": "celebrate_meaningful",
+                    "text": "Something meaningful"
+                },
+                {
+                    "id": "celebrate_experience",
+                    "text": "New experience"
+                }
+            ]
+        },
+        {
+            "id": "cpl_046",
+            "text": "Who would be most likely to leave cute notes for their partner?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_047",
+            "text": "What's your preferred way to show you care?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "care_listen",
+                    "text": "Really listening"
+                },
+                {
+                    "id": "care_help",
+                    "text": "Helpful actions"
+                },
+                {
+                    "id": "care_surprise",
+                    "text": "Small surprises"
+                },
+                {
+                    "id": "care_time",
+                    "text": "Dedicated time"
+                },
+                {
+                    "id": "care_words",
+                    "text": "Caring words"
+                },
+                {
+                    "id": "care_support",
+                    "text": "Emotional support"
+                }
+            ]
+        },
+        {
+            "id": "cpl_048",
+            "text": "Who would be most likely to suggest trying new restaurants?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_049",
+            "text": "What matters most in relationship communication?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "communication_honesty",
+                    "text": "Complete honesty"
+                },
+                {
+                    "id": "communication_kindness",
+                    "text": "Kindness in delivery"
+                },
+                {
+                    "id": "communication_timing",
+                    "text": "Right timing"
+                },
+                {
+                    "id": "communication_listening",
+                    "text": "Active listening"
+                },
+                {
+                    "id": "communication_understanding",
+                    "text": "Seeking understanding"
+                },
+                {
+                    "id": "communication_respect",
+                    "text": "Mutual respect"
+                }
+            ]
+        },
+        {
+            "id": "cpl_050",
+            "text": "Who would be most likely to create couple traditions?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_051",
+            "text": "What's your ideal way to spend a rainy day together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "rainy_cuddle",
+                    "text": "Cuddling and talking"
+                },
+                {
+                    "id": "rainy_movies",
+                    "text": "Movie marathon"
+                },
+                {
+                    "id": "rainy_games",
+                    "text": "Board games"
+                },
+                {
+                    "id": "rainy_cooking",
+                    "text": "Cooking together"
+                },
+                {
+                    "id": "rainy_reading",
+                    "text": "Reading together"
+                },
+                {
+                    "id": "rainy_projects",
+                    "text": "Home projects"
+                }
+            ]
+        },
+        {
+            "id": "cpl_052",
+            "text": "Who would be most likely to apologize first after an argument?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_053",
+            "text": "What's most important when introducing your partner to friends?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "friends_genuine",
+                    "text": "Being genuine"
+                },
+                {
+                    "id": "friends_inclusive",
+                    "text": "Including everyone"
+                },
+                {
+                    "id": "friends_comfort",
+                    "text": "Partner's comfort"
+                },
+                {
+                    "id": "friends_fun",
+                    "text": "Having fun"
+                },
+                {
+                    "id": "friends_acceptance",
+                    "text": "Gaining acceptance"
+                },
+                {
+                    "id": "friends_natural",
+                    "text": "Letting it flow naturally"
+                }
+            ]
+        },
+        {
+            "id": "cpl_054",
+            "text": "Who would be most likely to keep relationship mementos?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_055",
+            "text": "How do you prefer to handle finances in a relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "finances_separate",
+                    "text": "Keep everything separate"
+                },
+                {
+                    "id": "finances_shared",
+                    "text": "Share everything"
+                },
+                {
+                    "id": "finances_hybrid",
+                    "text": "Shared expenses, separate fun money"
+                },
+                {
+                    "id": "finances_proportional",
+                    "text": "Proportional to income"
+                },
+                {
+                    "id": "finances_traditional",
+                    "text": "Traditional arrangement"
+                },
+                {
+                    "id": "finances_discuss",
+                    "text": "Discuss as needed"
+                }
+            ]
+        },
+        {
+            "id": "cpl_056",
+            "text": "Who would be most likely to plan surprise parties for their partner?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_057",
+            "text": "What's your preferred type of romantic gesture?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "romantic_thoughtful",
+                    "text": "Thoughtful and personal"
+                },
+                {
+                    "id": "romantic_grand",
+                    "text": "Grand and impressive"
+                },
+                {
+                    "id": "romantic_simple",
+                    "text": "Simple and sweet"
+                },
+                {
+                    "id": "romantic_creative",
+                    "text": "Creative and unique"
+                },
+                {
+                    "id": "romantic_traditional",
+                    "text": "Classic and traditional"
+                },
+                {
+                    "id": "romantic_spontaneous",
+                    "text": "Spontaneous and fun"
+                }
+            ]
+        },
+        {
+            "id": "cpl_058",
+            "text": "Who would be most likely to suggest couples activities?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_059",
+            "text": "What's most important for maintaining long-distance relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "distance_communication",
+                    "text": "Constant communication"
+                },
+                {
+                    "id": "distance_trust",
+                    "text": "Complete trust"
+                },
+                {
+                    "id": "distance_visits",
+                    "text": "Regular visits"
+                },
+                {
+                    "id": "distance_goals",
+                    "text": "Shared future goals"
+                },
+                {
+                    "id": "distance_independence",
+                    "text": "Maintaining independence"
+                },
+                {
+                    "id": "distance_creativity",
+                    "text": "Creative connection"
+                }
+            ]
+        },
+        {
+            "id": "cpl_060",
+            "text": "Who would be most likely to write in a couple's bucket list?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_061",
+            "text": "What's your ideal way to resolve jealousy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "jealousy_talk",
+                    "text": "Open discussion"
+                },
+                {
+                    "id": "jealousy_reassurance",
+                    "text": "Reassurance and affection"
+                },
+                {
+                    "id": "jealousy_boundaries",
+                    "text": "Clear boundaries"
+                },
+                {
+                    "id": "jealousy_trust",
+                    "text": "Building trust"
+                },
+                {
+                    "id": "jealousy_understanding",
+                    "text": "Understanding root causes"
+                },
+                {
+                    "id": "jealousy_time",
+                    "text": "Time and patience"
+                }
+            ]
+        },
+        {
+            "id": "cpl_062",
+            "text": "Who would be most likely to suggest learning something new together?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_063",
+            "text": "How important is physical attraction in a long-term relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "attraction_very",
+                    "text": "Very important"
+                },
+                {
+                    "id": "attraction_somewhat",
+                    "text": "Somewhat important"
+                },
+                {
+                    "id": "attraction_grows",
+                    "text": "Grows with connection"
+                },
+                {
+                    "id": "attraction_initial",
+                    "text": "Important initially"
+                },
+                {
+                    "id": "attraction_emotional",
+                    "text": "Emotional attraction matters more"
+                },
+                {
+                    "id": "attraction_balanced",
+                    "text": "Need both physical and emotional"
+                }
+            ]
+        },
+        {
+            "id": "cpl_064",
+            "text": "Who would be most likely to remember relationship milestones?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_065",
+            "text": "What's your approach to personal growth in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "growth_together",
+                    "text": "Grow together"
+                },
+                {
+                    "id": "growth_individual",
+                    "text": "Individual growth first"
+                },
+                {
+                    "id": "growth_support",
+                    "text": "Support each other's growth"
+                },
+                {
+                    "id": "growth_challenge",
+                    "text": "Challenge each other"
+                },
+                {
+                    "id": "growth_accept",
+                    "text": "Accept as you are"
+                },
+                {
+                    "id": "growth_balance",
+                    "text": "Balance both approaches"
+                }
+            ]
+        },
+        {
+            "id": "cpl_066",
+            "text": "Who would be most likely to suggest relationship check-ins?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_067",
+            "text": "What's your preferred way to handle social media in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "social_open",
+                    "text": "Completely open"
+                },
+                {
+                    "id": "social_private",
+                    "text": "Keep relationship private"
+                },
+                {
+                    "id": "social_occasional",
+                    "text": "Occasional posts"
+                },
+                {
+                    "id": "social_milestones",
+                    "text": "Share milestones only"
+                },
+                {
+                    "id": "social_individual",
+                    "text": "Individual choice"
+                },
+                {
+                    "id": "social_boundaries",
+                    "text": "Set clear boundaries"
+                }
+            ]
+        },
+        {
+            "id": "cpl_068",
+            "text": "Who would be most likely to plan elaborate anniversary celebrations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_069",
+            "text": "What's most important when making major life decisions together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "decisions_equal",
+                    "text": "Equal input"
+                },
+                {
+                    "id": "decisions_consensus",
+                    "text": "Full consensus"
+                },
+                {
+                    "id": "decisions_expertise",
+                    "text": "Defer to expertise"
+                },
+                {
+                    "id": "decisions_discussion",
+                    "text": "Thorough discussion"
+                },
+                {
+                    "id": "decisions_values",
+                    "text": "Align with values"
+                },
+                {
+                    "id": "decisions_compromise",
+                    "text": "Willingness to compromise"
+                }
+            ]
+        },
+        {
+            "id": "cpl_070",
+            "text": "Who would be most likely to create a relationship vision board?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_071",
+            "text": "How do you prefer to handle household responsibilities?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "household_equal",
+                    "text": "Split everything equally"
+                },
+                {
+                    "id": "household_preferences",
+                    "text": "Based on preferences"
+                },
+                {
+                    "id": "household_strengths",
+                    "text": "Based on strengths"
+                },
+                {
+                    "id": "household_schedules",
+                    "text": "Based on schedules"
+                },
+                {
+                    "id": "household_traditional",
+                    "text": "Traditional roles"
+                },
+                {
+                    "id": "household_flexible",
+                    "text": "Flexible arrangement"
+                }
+            ]
+        },
+        {
+            "id": "cpl_072",
+            "text": "Who would be most likely to surprise their partner with their favorite meal?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_073",
+            "text": "What's your ideal way to support your partner's dreams?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "dreams_encourage",
+                    "text": "Constant encouragement"
+                },
+                {
+                    "id": "dreams_practical",
+                    "text": "Practical support"
+                },
+                {
+                    "id": "dreams_sacrifice",
+                    "text": "Make sacrifices"
+                },
+                {
+                    "id": "dreams_believe",
+                    "text": "Unwavering belief"
+                },
+                {
+                    "id": "dreams_resources",
+                    "text": "Provide resources"
+                },
+                {
+                    "id": "dreams_space",
+                    "text": "Give space to pursue"
+                }
+            ]
+        },
+        {
+            "id": "cpl_074",
+            "text": "Who would be most likely to suggest relationship games or activities?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_075",
+            "text": "What's most important when choosing a life partner?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "partner_compatibility",
+                    "text": "Overall compatibility"
+                },
+                {
+                    "id": "partner_love",
+                    "text": "Deep love connection"
+                },
+                {
+                    "id": "partner_friendship",
+                    "text": "Strong friendship"
+                },
+                {
+                    "id": "partner_values",
+                    "text": "Shared values"
+                },
+                {
+                    "id": "partner_growth",
+                    "text": "Growth potential"
+                },
+                {
+                    "id": "partner_stability",
+                    "text": "Stability and security"
+                }
+            ]
+        },
+        {
+            "id": "cpl_076",
+            "text": "Who would be most likely to organize surprise date nights?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_077",
+            "text": "How do you prefer to handle different love languages?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "languages_adapt",
+                    "text": "Adapt to partner's"
+                },
+                {
+                    "id": "languages_learn",
+                    "text": "Learn each other's"
+                },
+                {
+                    "id": "languages_compromise",
+                    "text": "Find compromise"
+                },
+                {
+                    "id": "languages_express",
+                    "text": "Express your own"
+                },
+                {
+                    "id": "languages_variety",
+                    "text": "Use variety"
+                },
+                {
+                    "id": "languages_communicate",
+                    "text": "Communicate needs"
+                }
+            ]
+        },
+        {
+            "id": "cpl_078",
+            "text": "Who would be most likely to plan couple's workout routines?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_079",
+            "text": "What's your preferred approach to relationship boundaries?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "boundaries_clear",
+                    "text": "Clear and explicit"
+                },
+                {
+                    "id": "boundaries_flexible",
+                    "text": "Flexible and adaptive"
+                },
+                {
+                    "id": "boundaries_discuss",
+                    "text": "Regularly discussed"
+                },
+                {
+                    "id": "boundaries_respect",
+                    "text": "Mutually respected"
+                },
+                {
+                    "id": "boundaries_minimal",
+                    "text": "Minimal boundaries"
+                },
+                {
+                    "id": "boundaries_trust",
+                    "text": "Based on trust"
+                }
+            ]
+        },
+        {
+            "id": "cpl_080",
+            "text": "Who would be most likely to suggest couples therapy if needed?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_081",
+            "text": "What's most important for maintaining intimacy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "intimacy_communication",
+                    "text": "Open communication"
+                },
+                {
+                    "id": "intimacy_time",
+                    "text": "Quality time"
+                },
+                {
+                    "id": "intimacy_affection",
+                    "text": "Physical affection"
+                },
+                {
+                    "id": "intimacy_emotional",
+                    "text": "Emotional connection"
+                },
+                {
+                    "id": "intimacy_effort",
+                    "text": "Consistent effort"
+                },
+                {
+                    "id": "intimacy_spontaneity",
+                    "text": "Spontaneity"
+                }
+            ]
+        },
+        {
+            "id": "cpl_082",
+            "text": "Who would be most likely to create romantic playlists?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_083",
+            "text": "How do you handle different social preferences in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "social_compromise",
+                    "text": "Compromise on activities"
+                },
+                {
+                    "id": "social_separate",
+                    "text": "Do some things separately"
+                },
+                {
+                    "id": "social_adapt",
+                    "text": "Adapt to each other"
+                },
+                {
+                    "id": "social_balance",
+                    "text": "Balance both preferences"
+                },
+                {
+                    "id": "social_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "social_explore",
+                    "text": "Explore new things together"
+                }
+            ]
+        },
+        {
+            "id": "cpl_084",
+            "text": "Who would be most likely to suggest trying new hobbies together?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_085",
+            "text": "What's your ideal way to show appreciation for your partner?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "appreciation_words",
+                    "text": "Verbal appreciation"
+                },
+                {
+                    "id": "appreciation_actions",
+                    "text": "Thoughtful actions"
+                },
+                {
+                    "id": "appreciation_gifts",
+                    "text": "Meaningful gifts"
+                },
+                {
+                    "id": "appreciation_time",
+                    "text": "Dedicated time"
+                },
+                {
+                    "id": "appreciation_public",
+                    "text": "Public recognition"
+                },
+                {
+                    "id": "appreciation_private",
+                    "text": "Private moments"
+                }
+            ]
+        },
+        {
+            "id": "cpl_086",
+            "text": "Who would be most likely to keep a relationship calendar?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_087",
+            "text": "What's most important when building trust in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "trust_consistency",
+                    "text": "Consistent behavior"
+                },
+                {
+                    "id": "trust_honesty",
+                    "text": "Complete honesty"
+                },
+                {
+                    "id": "trust_reliability",
+                    "text": "Being reliable"
+                },
+                {
+                    "id": "trust_transparency",
+                    "text": "Transparency"
+                },
+                {
+                    "id": "trust_time",
+                    "text": "Time and patience"
+                },
+                {
+                    "id": "trust_respect",
+                    "text": "Mutual respect"
+                }
+            ]
+        },
+        {
+            "id": "cpl_088",
+            "text": "Who would be most likely to suggest couples retreats or workshops?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_089",
+            "text": "How do you prefer to handle different career priorities?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "career_support",
+                    "text": "Support each other's goals"
+                },
+                {
+                    "id": "career_balance",
+                    "text": "Balance both careers"
+                },
+                {
+                    "id": "career_priority",
+                    "text": "Prioritize one at a time"
+                },
+                {
+                    "id": "career_sacrifice",
+                    "text": "Make sacrifices"
+                },
+                {
+                    "id": "career_flexible",
+                    "text": "Stay flexible"
+                },
+                {
+                    "id": "career_discuss",
+                    "text": "Regularly discuss"
+                }
+            ]
+        },
+        {
+            "id": "cpl_090",
+            "text": "Who would be most likely to plan special holiday traditions?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_091",
+            "text": "What's your approach to maintaining independence in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "independence_important",
+                    "text": "Very important"
+                },
+                {
+                    "id": "independence_balance",
+                    "text": "Balance with togetherness"
+                },
+                {
+                    "id": "independence_gradual",
+                    "text": "Gradually merge lives"
+                },
+                {
+                    "id": "independence_friends",
+                    "text": "Maintain separate friendships"
+                },
+                {
+                    "id": "independence_hobbies",
+                    "text": "Keep individual hobbies"
+                },
+                {
+                    "id": "independence_identity",
+                    "text": "Preserve individual identity"
+                }
+            ]
+        },
+        {
+            "id": "cpl_092",
+            "text": "Who would be most likely to suggest relationship book clubs?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_093",
+            "text": "How important is humor in your ideal relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "humor_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "humor_very",
+                    "text": "Very important"
+                },
+                {
+                    "id": "humor_nice",
+                    "text": "Nice to have"
+                },
+                {
+                    "id": "humor_shared",
+                    "text": "Must share same type"
+                },
+                {
+                    "id": "humor_different",
+                    "text": "Different humor is okay"
+                },
+                {
+                    "id": "humor_timing",
+                    "text": "Good timing matters"
+                }
+            ]
+        },
+        {
+            "id": "cpl_094",
+            "text": "Who would be most likely to create couple's bucket lists?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_095",
+            "text": "What's your preferred way to handle relationship expectations?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "expectations_discuss",
+                    "text": "Discuss openly"
+                },
+                {
+                    "id": "expectations_realistic",
+                    "text": "Keep realistic"
+                },
+                {
+                    "id": "expectations_flexible",
+                    "text": "Stay flexible"
+                },
+                {
+                    "id": "expectations_written",
+                    "text": "Write them down"
+                },
+                {
+                    "id": "expectations_evolve",
+                    "text": "Let them evolve"
+                },
+                {
+                    "id": "expectations_minimal",
+                    "text": "Keep minimal"
+                }
+            ]
+        },
+        {
+            "id": "cpl_096",
+            "text": "Who would be most likely to suggest relationship challenges or goals?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_097",
+            "text": "What's most important for a successful first relationship conversation?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "first_honest",
+                    "text": "Complete honesty"
+                },
+                {
+                    "id": "first_comfortable",
+                    "text": "Making it comfortable"
+                },
+                {
+                    "id": "first_clear",
+                    "text": "Being clear about intentions"
+                },
+                {
+                    "id": "first_listening",
+                    "text": "Really listening"
+                },
+                {
+                    "id": "first_respect",
+                    "text": "Showing respect"
+                },
+                {
+                    "id": "first_timing",
+                    "text": "Good timing"
+                }
+            ]
+        },
+        {
+            "id": "cpl_098",
+            "text": "Who would be most likely to remember their partner's important work events?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_099",
+            "text": "How do you prefer to handle different sleep schedules?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "sleep_adapt",
+                    "text": "Adapt to each other"
+                },
+                {
+                    "id": "sleep_compromise",
+                    "text": "Find compromise"
+                },
+                {
+                    "id": "sleep_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "sleep_separate",
+                    "text": "Sometimes sleep separately"
+                },
+                {
+                    "id": "sleep_quiet",
+                    "text": "Be extra quiet"
+                },
+                {
+                    "id": "sleep_routine",
+                    "text": "Create bedtime routine"
+                }
+            ]
+        },
+        {
+            "id": "cpl_100",
+            "text": "Who would be most likely to suggest spontaneous adventures?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_101",
+            "text": "What's your preferred way to handle family traditions in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "traditions_merge",
+                    "text": "Merge both families'"
+                },
+                {
+                    "id": "traditions_create",
+                    "text": "Create new ones"
+                },
+                {
+                    "id": "traditions_keep",
+                    "text": "Keep them separate"
+                },
+                {
+                    "id": "traditions_prioritize",
+                    "text": "Prioritize most important"
+                },
+                {
+                    "id": "traditions_adapt",
+                    "text": "Adapt over time"
+                },
+                {
+                    "id": "traditions_discuss",
+                    "text": "Discuss each year"
+                }
+            ]
+        },
+        {
+            "id": "cpl_102",
+            "text": "Who would be most likely to plan surprise romantic getaways?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_103",
+            "text": "How do you prefer to handle different parenting styles?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "parenting_discuss",
+                    "text": "Discuss and align"
+                },
+                {
+                    "id": "parenting_combine",
+                    "text": "Combine approaches"
+                },
+                {
+                    "id": "parenting_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "parenting_professional",
+                    "text": "Seek professional guidance"
+                },
+                {
+                    "id": "parenting_compromise",
+                    "text": "Find middle ground"
+                },
+                {
+                    "id": "parenting_consistent",
+                    "text": "Stay consistent"
+                }
+            ]
+        },
+        {
+            "id": "cpl_104",
+            "text": "Who would be most likely to suggest date night themes?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_105",
+            "text": "What's most important when choosing where to vacation together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "vacation_relaxation",
+                    "text": "Relaxation"
+                },
+                {
+                    "id": "vacation_adventure",
+                    "text": "Adventure"
+                },
+                {
+                    "id": "vacation_culture",
+                    "text": "Cultural experiences"
+                },
+                {
+                    "id": "vacation_budget",
+                    "text": "Budget considerations"
+                },
+                {
+                    "id": "vacation_together",
+                    "text": "Quality time together"
+                },
+                {
+                    "id": "vacation_compromise",
+                    "text": "Both preferences"
+                }
+            ]
+        },
+        {
+            "id": "cpl_106",
+            "text": "Who would be most likely to keep a gratitude journal about their relationship?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_107",
+            "text": "How do you prefer to celebrate small wins together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "wins_acknowledge",
+                    "text": "Verbal acknowledgment"
+                },
+                {
+                    "id": "wins_treat",
+                    "text": "Small treat"
+                },
+                {
+                    "id": "wins_share",
+                    "text": "Share with others"
+                },
+                {
+                    "id": "wins_moment",
+                    "text": "Special moment together"
+                },
+                {
+                    "id": "wins_build",
+                    "text": "Build on success"
+                },
+                {
+                    "id": "wins_celebrate",
+                    "text": "Always celebrate"
+                }
+            ]
+        },
+        {
+            "id": "cpl_108",
+            "text": "Who would be most likely to suggest couples meditation or mindfulness?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_109",
+            "text": "What's your ideal approach to handling extended family relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "family_inclusive",
+                    "text": "Be very inclusive"
+                },
+                {
+                    "id": "family_boundaries",
+                    "text": "Set clear boundaries"
+                },
+                {
+                    "id": "family_supportive",
+                    "text": "Support partner's choices"
+                },
+                {
+                    "id": "family_balance",
+                    "text": "Balance both families"
+                },
+                {
+                    "id": "family_priority",
+                    "text": "Prioritize immediate family"
+                },
+                {
+                    "id": "family_respect",
+                    "text": "Respect but maintain distance"
+                }
+            ]
+        },
+        {
+            "id": "cpl_110",
+            "text": "Who would be most likely to plan elaborate proposal scenarios?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_111",
+            "text": "How important is spiritual compatibility in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "spiritual_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "spiritual_important",
+                    "text": "Very important"
+                },
+                {
+                    "id": "spiritual_somewhat",
+                    "text": "Somewhat important"
+                },
+                {
+                    "id": "spiritual_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "spiritual_explore",
+                    "text": "Explore together"
+                },
+                {
+                    "id": "spiritual_personal",
+                    "text": "Keep it personal"
+                }
+            ]
+        },
+        {
+            "id": "cpl_112",
+            "text": "Who would be most likely to suggest relationship podcasts or books?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_113",
+            "text": "What's your preferred way to handle gift-giving occasions?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "gifts_thoughtful",
+                    "text": "Thoughtful and personal"
+                },
+                {
+                    "id": "gifts_practical",
+                    "text": "Practical gifts"
+                },
+                {
+                    "id": "gifts_experience",
+                    "text": "Experience gifts"
+                },
+                {
+                    "id": "gifts_simple",
+                    "text": "Simple and meaningful"
+                },
+                {
+                    "id": "gifts_discuss",
+                    "text": "Discuss preferences"
+                },
+                {
+                    "id": "gifts_surprise",
+                    "text": "Keep it surprising"
+                }
+            ]
+        },
+        {
+            "id": "cpl_114",
+            "text": "Who would be most likely to create couple workout challenges?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_115",
+            "text": "How do you prefer to handle technology and screen time together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "tech_limited",
+                    "text": "Limited during together time"
+                },
+                {
+                    "id": "tech_shared",
+                    "text": "Share activities"
+                },
+                {
+                    "id": "tech_separate",
+                    "text": "Respect individual use"
+                },
+                {
+                    "id": "tech_balance",
+                    "text": "Find healthy balance"
+                },
+                {
+                    "id": "tech_discuss",
+                    "text": "Discuss boundaries"
+                },
+                {
+                    "id": "tech_unplug",
+                    "text": "Regular unplugged time"
+                }
+            ]
+        },
+        {
+            "id": "cpl_116",
+            "text": "Who would be most likely to suggest trying new cuisines together?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_117",
+            "text": "What's most important when planning your future together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "future_goals",
+                    "text": "Shared goals"
+                },
+                {
+                    "id": "future_flexibility",
+                    "text": "Staying flexible"
+                },
+                {
+                    "id": "future_dreams",
+                    "text": "Individual dreams"
+                },
+                {
+                    "id": "future_practical",
+                    "text": "Practical planning"
+                },
+                {
+                    "id": "future_timeline",
+                    "text": "Realistic timeline"
+                },
+                {
+                    "id": "future_support",
+                    "text": "Mutual support"
+                }
+            ]
+        },
+        {
+            "id": "cpl_118",
+            "text": "Who would be most likely to plan themed couple photoshoots?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_119",
+            "text": "How do you prefer to handle retirement planning together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "retirement_early",
+                    "text": "Plan early and thoroughly"
+                },
+                {
+                    "id": "retirement_enjoy",
+                    "text": "Focus on enjoying now"
+                },
+                {
+                    "id": "retirement_balance",
+                    "text": "Balance saving and living"
+                },
+                {
+                    "id": "retirement_professional",
+                    "text": "Get professional help"
+                },
+                {
+                    "id": "retirement_flexible",
+                    "text": "Stay flexible"
+                },
+                {
+                    "id": "retirement_dreams",
+                    "text": "Plan dream retirement"
+                }
+            ]
+        },
+        {
+            "id": "cpl_120",
+            "text": "Who would be most likely to suggest volunteer work together?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_121",
+            "text": "What's your ideal way to handle moving in together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "moving_gradual",
+                    "text": "Gradual transition"
+                },
+                {
+                    "id": "moving_planned",
+                    "text": "Well-planned move"
+                },
+                {
+                    "id": "moving_trial",
+                    "text": "Trial period first"
+                },
+                {
+                    "id": "moving_discuss",
+                    "text": "Thorough discussions"
+                },
+                {
+                    "id": "moving_spontaneous",
+                    "text": "When it feels right"
+                },
+                {
+                    "id": "moving_milestone",
+                    "text": "After certain milestones"
+                }
+            ]
+        },
+        {
+            "id": "cpl_122",
+            "text": "Who would be most likely to suggest couples cooking classes?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_123",
+            "text": "How do you prefer to handle home decorating decisions?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "decor_together",
+                    "text": "Decide everything together"
+                },
+                {
+                    "id": "decor_areas",
+                    "text": "Divide by areas"
+                },
+                {
+                    "id": "decor_expertise",
+                    "text": "Defer to better taste"
+                },
+                {
+                    "id": "decor_compromise",
+                    "text": "Compromise on everything"
+                },
+                {
+                    "id": "decor_budget",
+                    "text": "Set budget first"
+                },
+                {
+                    "id": "decor_evolve",
+                    "text": "Let it evolve naturally"
+                }
+            ]
+        },
+        {
+            "id": "cpl_124",
+            "text": "Who would be most likely to plan anniversary scavenger hunts?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_125",
+            "text": "What's most important when discussing having children?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "children_timing",
+                    "text": "Right timing"
+                },
+                {
+                    "id": "children_honest",
+                    "text": "Complete honesty"
+                },
+                {
+                    "id": "children_readiness",
+                    "text": "Mutual readiness"
+                },
+                {
+                    "id": "children_values",
+                    "text": "Aligned values"
+                },
+                {
+                    "id": "children_support",
+                    "text": "Support system"
+                },
+                {
+                    "id": "children_respect",
+                    "text": "Respect differences"
+                }
+            ]
+        },
+        {
+            "id": "cpl_126",
+            "text": "Who would be most likely to suggest relationship vision boards?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_127",
+            "text": "How do you prefer to handle pet-related decisions?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pets_together",
+                    "text": "Decide together"
+                },
+                {
+                    "id": "pets_responsibility",
+                    "text": "Divide responsibilities"
+                },
+                {
+                    "id": "pets_love",
+                    "text": "Both must love pets"
+                },
+                {
+                    "id": "pets_practical",
+                    "text": "Consider practical aspects"
+                },
+                {
+                    "id": "pets_trial",
+                    "text": "Trial period first"
+                },
+                {
+                    "id": "pets_compromise",
+                    "text": "Compromise on type"
+                }
+            ]
+        },
+        {
+            "id": "cpl_128",
+            "text": "Who would be most likely to create couple time capsules?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_129",
+            "text": "What's your preferred approach to handling health and wellness together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "health_support",
+                    "text": "Support each other's goals"
+                },
+                {
+                    "id": "health_together",
+                    "text": "Do activities together"
+                },
+                {
+                    "id": "health_individual",
+                    "text": "Respect individual choices"
+                },
+                {
+                    "id": "health_motivate",
+                    "text": "Motivate each other"
+                },
+                {
+                    "id": "health_balance",
+                    "text": "Balance fun and health"
+                },
+                {
+                    "id": "health_professional",
+                    "text": "Seek professional guidance"
+                }
+            ]
+        },
+        {
+            "id": "cpl_130",
+            "text": "Who would be most likely to suggest relationship milestone celebrations?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_131",
+            "text": "How important is intellectual compatibility in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "intellectual_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "intellectual_important",
+                    "text": "Very important"
+                },
+                {
+                    "id": "intellectual_nice",
+                    "text": "Nice to have"
+                },
+                {
+                    "id": "intellectual_different",
+                    "text": "Different strengths okay"
+                },
+                {
+                    "id": "intellectual_grow",
+                    "text": "Can grow together"
+                },
+                {
+                    "id": "intellectual_respect",
+                    "text": "Mutual respect matters most"
+                }
+            ]
+        },
+        {
+            "id": "cpl_132",
+            "text": "Who would be most likely to plan surprise picnic dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_133",
+            "text": "What's your ideal way to handle work-life balance as a couple?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worklife_protect",
+                    "text": "Protect couple time"
+                },
+                {
+                    "id": "worklife_support",
+                    "text": "Support career goals"
+                },
+                {
+                    "id": "worklife_flexible",
+                    "text": "Stay flexible"
+                },
+                {
+                    "id": "worklife_boundaries",
+                    "text": "Set clear boundaries"
+                },
+                {
+                    "id": "worklife_discuss",
+                    "text": "Regularly discuss"
+                },
+                {
+                    "id": "worklife_priority",
+                    "text": "Prioritize together"
+                }
+            ]
+        },
+        {
+            "id": "cpl_134",
+            "text": "Who would be most likely to suggest couples dance lessons?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_135",
+            "text": "How do you prefer to handle different entertainment preferences?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "entertainment_alternate",
+                    "text": "Take turns choosing"
+                },
+                {
+                    "id": "entertainment_compromise",
+                    "text": "Find compromises"
+                },
+                {
+                    "id": "entertainment_separate",
+                    "text": "Some separate activities"
+                },
+                {
+                    "id": "entertainment_explore",
+                    "text": "Explore new things"
+                },
+                {
+                    "id": "entertainment_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "entertainment_share",
+                    "text": "Share enthusiasm"
+                }
+            ]
+        },
+        {
+            "id": "cpl_136",
+            "text": "Who would be most likely to create relationship mood boards?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_137",
+            "text": "What's most important when handling relationship insecurities?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "insecurity_communicate",
+                    "text": "Open communication"
+                },
+                {
+                    "id": "insecurity_reassurance",
+                    "text": "Constant reassurance"
+                },
+                {
+                    "id": "insecurity_patience",
+                    "text": "Patience and understanding"
+                },
+                {
+                    "id": "insecurity_work",
+                    "text": "Work on self-improvement"
+                },
+                {
+                    "id": "insecurity_professional",
+                    "text": "Professional help"
+                },
+                {
+                    "id": "insecurity_trust",
+                    "text": "Build trust gradually"
+                }
+            ]
+        },
+        {
+            "id": "cpl_138",
+            "text": "Who would be most likely to suggest couples art or craft projects?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_139",
+            "text": "How do you prefer to celebrate relationship anniversaries?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "anniversary_tradition",
+                    "text": "Create traditions"
+                },
+                {
+                    "id": "anniversary_different",
+                    "text": "Something different each year"
+                },
+                {
+                    "id": "anniversary_simple",
+                    "text": "Keep it simple"
+                },
+                {
+                    "id": "anniversary_elaborate",
+                    "text": "Go all out"
+                },
+                {
+                    "id": "anniversary_meaningful",
+                    "text": "Focus on meaning"
+                },
+                {
+                    "id": "anniversary_surprise",
+                    "text": "Surprise each other"
+                }
+            ]
+        },
+        {
+            "id": "cpl_140",
+            "text": "Who would be most likely to suggest relationship goal-setting sessions?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_141",
+            "text": "What's your ideal approach to handling money stress in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "money_communication",
+                    "text": "Open communication"
+                },
+                {
+                    "id": "money_planning",
+                    "text": "Better planning"
+                },
+                {
+                    "id": "money_support",
+                    "text": "Support each other"
+                },
+                {
+                    "id": "money_professional",
+                    "text": "Professional financial advice"
+                },
+                {
+                    "id": "money_perspective",
+                    "text": "Keep perspective"
+                },
+                {
+                    "id": "money_team",
+                    "text": "Work as a team"
+                }
+            ]
+        },
+        {
+            "id": "cpl_142",
+            "text": "Who would be most likely to plan surprise concert or show dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_143",
+            "text": "How important is emotional intelligence in your ideal partner?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "emotional_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "emotional_very",
+                    "text": "Very important"
+                },
+                {
+                    "id": "emotional_develop",
+                    "text": "Can be developed"
+                },
+                {
+                    "id": "emotional_balance",
+                    "text": "Balance with other traits"
+                },
+                {
+                    "id": "emotional_support",
+                    "text": "Support growth"
+                },
+                {
+                    "id": "emotional_priority",
+                    "text": "Top priority"
+                }
+            ]
+        },
+        {
+            "id": "cpl_144",
+            "text": "Who would be most likely to create romantic treasure hunts?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_145",
+            "text": "What's your preferred way to handle long work separations?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "separation_communication",
+                    "text": "Constant communication"
+                },
+                {
+                    "id": "separation_trust",
+                    "text": "Trust and independence"
+                },
+                {
+                    "id": "separation_visits",
+                    "text": "Plan visits"
+                },
+                {
+                    "id": "separation_reunion",
+                    "text": "Special reunions"
+                },
+                {
+                    "id": "separation_support",
+                    "text": "Emotional support"
+                },
+                {
+                    "id": "separation_growth",
+                    "text": "Use time for growth"
+                }
+            ]
+        },
+        {
+            "id": "cpl_146",
+            "text": "Who would be most likely to suggest stargazing dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_147",
+            "text": "How do you prefer to handle different life pace preferences?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "pace_compromise",
+                    "text": "Find middle ground"
+                },
+                {
+                    "id": "pace_alternate",
+                    "text": "Alternate between paces"
+                },
+                {
+                    "id": "pace_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "pace_adapt",
+                    "text": "Adapt to situation"
+                },
+                {
+                    "id": "pace_discuss",
+                    "text": "Discuss needs"
+                },
+                {
+                    "id": "pace_balance",
+                    "text": "Balance both styles"
+                }
+            ]
+        },
+        {
+            "id": "cpl_148",
+            "text": "Who would be most likely to suggest couple's meditation retreats?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_149",
+            "text": "What's most important when choosing to have a long-distance relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "longdistance_commitment",
+                    "text": "Strong commitment"
+                },
+                {
+                    "id": "longdistance_communication",
+                    "text": "Excellent communication"
+                },
+                {
+                    "id": "longdistance_trust",
+                    "text": "Complete trust"
+                },
+                {
+                    "id": "longdistance_plan",
+                    "text": "Clear future plan"
+                },
+                {
+                    "id": "longdistance_visits",
+                    "text": "Regular visits"
+                },
+                {
+                    "id": "longdistance_patience",
+                    "text": "Patience and understanding"
+                }
+            ]
+        },
+        {
+            "id": "cpl_150",
+            "text": "Who would be most likely to document relationship memories in scrapbooks?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_151",
+            "text": "What's your ideal way to handle relationship growth phases?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "growth_embrace",
+                    "text": "Embrace change together"
+                },
+                {
+                    "id": "growth_support",
+                    "text": "Support individual growth"
+                },
+                {
+                    "id": "growth_discuss",
+                    "text": "Discuss changes openly"
+                },
+                {
+                    "id": "growth_patience",
+                    "text": "Be patient with process"
+                },
+                {
+                    "id": "growth_celebrate",
+                    "text": "Celebrate milestones"
+                },
+                {
+                    "id": "growth_navigate",
+                    "text": "Navigate together"
+                }
+            ]
+        },
+        {
+            "id": "cpl_152",
+            "text": "Who would be most likely to suggest relationship time-outs when needed?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_153",
+            "text": "How do you prefer to handle different morning vs. night person preferences?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "schedule_respect",
+                    "text": "Respect natural rhythms"
+                },
+                {
+                    "id": "schedule_compromise",
+                    "text": "Find compromise times"
+                },
+                {
+                    "id": "schedule_adapt",
+                    "text": "Adapt schedules"
+                },
+                {
+                    "id": "schedule_overlap",
+                    "text": "Maximize overlap time"
+                },
+                {
+                    "id": "schedule_separate",
+                    "text": "Some separate activities"
+                },
+                {
+                    "id": "schedule_creative",
+                    "text": "Get creative with timing"
+                }
+            ]
+        },
+        {
+            "id": "cpl_154",
+            "text": "Who would be most likely to plan surprise weekend trips?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_155",
+            "text": "What's most important when blending friend groups?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "friends_inclusive",
+                    "text": "Be inclusive of everyone"
+                },
+                {
+                    "id": "friends_natural",
+                    "text": "Let connections happen naturally"
+                },
+                {
+                    "id": "friends_respect",
+                    "text": "Respect existing friendships"
+                },
+                {
+                    "id": "friends_effort",
+                    "text": "Make effort to connect"
+                },
+                {
+                    "id": "friends_separate",
+                    "text": "Keep some friends separate"
+                },
+                {
+                    "id": "friends_patient",
+                    "text": "Be patient with process"
+                }
+            ]
+        },
+        {
+            "id": "cpl_156",
+            "text": "Who would be most likely to create couple vision journals?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_157",
+            "text": "How important is physical fitness compatibility?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "fitness_important",
+                    "text": "Very important"
+                },
+                {
+                    "id": "fitness_motivate",
+                    "text": "Can motivate each other"
+                },
+                {
+                    "id": "fitness_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "fitness_support",
+                    "text": "Support individual goals"
+                },
+                {
+                    "id": "fitness_together",
+                    "text": "Find activities together"
+                },
+                {
+                    "id": "fitness_balance",
+                    "text": "Balance is key"
+                }
+            ]
+        },
+        {
+            "id": "cpl_158",
+            "text": "Who would be most likely to suggest surprise lunch dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_159",
+            "text": "What's your preferred approach to handling stress together?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "stress_support",
+                    "text": "Support each other"
+                },
+                {
+                    "id": "stress_space",
+                    "text": "Give space when needed"
+                },
+                {
+                    "id": "stress_together",
+                    "text": "Face it together"
+                },
+                {
+                    "id": "stress_solutions",
+                    "text": "Focus on solutions"
+                },
+                {
+                    "id": "stress_distract",
+                    "text": "Help distract from stress"
+                },
+                {
+                    "id": "stress_professional",
+                    "text": "Seek professional help"
+                }
+            ]
+        },
+        {
+            "id": "cpl_160",
+            "text": "Who would be most likely to suggest couple's hobby exploration?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_161",
+            "text": "How do you prefer to handle different cleanliness standards?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "clean_compromise",
+                    "text": "Find middle ground"
+                },
+                {
+                    "id": "clean_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "clean_discuss",
+                    "text": "Discuss expectations"
+                },
+                {
+                    "id": "clean_divide",
+                    "text": "Divide responsibilities"
+                },
+                {
+                    "id": "clean_adapt",
+                    "text": "One adapts to other"
+                },
+                {
+                    "id": "clean_help",
+                    "text": "Get outside help"
+                }
+            ]
+        },
+        {
+            "id": "cpl_162",
+            "text": "Who would be most likely to plan surprise breakfast dates?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_163",
+            "text": "What's most important when handling different food preferences?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "food_respect",
+                    "text": "Respect preferences"
+                },
+                {
+                    "id": "food_compromise",
+                    "text": "Find compromise dishes"
+                },
+                {
+                    "id": "food_explore",
+                    "text": "Explore new options"
+                },
+                {
+                    "id": "food_separate",
+                    "text": "Cook separately sometimes"
+                },
+                {
+                    "id": "food_adapt",
+                    "text": "Try to adapt"
+                },
+                {
+                    "id": "food_alternate",
+                    "text": "Take turns choosing"
+                }
+            ]
+        },
+        {
+            "id": "cpl_164",
+            "text": "Who would be most likely to suggest relationship photojournaling?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_165",
+            "text": "How important is creative compatibility in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "creative_important",
+                    "text": "Very important"
+                },
+                {
+                    "id": "creative_inspire",
+                    "text": "Can inspire each other"
+                },
+                {
+                    "id": "creative_different",
+                    "text": "Different styles okay"
+                },
+                {
+                    "id": "creative_support",
+                    "text": "Support each other's creativity"
+                },
+                {
+                    "id": "creative_explore",
+                    "text": "Explore together"
+                },
+                {
+                    "id": "creative_respect",
+                    "text": "Respect individual expression"
+                }
+            ]
+        },
+        {
+            "id": "cpl_166",
+            "text": "Who would be most likely to create surprise memory videos?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_167",
+            "text": "What's your ideal way to handle relationship jealousy triggers?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "triggers_communicate",
+                    "text": "Communicate about triggers"
+                },
+                {
+                    "id": "triggers_avoid",
+                    "text": "Avoid trigger situations"
+                },
+                {
+                    "id": "triggers_work",
+                    "text": "Work through together"
+                },
+                {
+                    "id": "triggers_reassure",
+                    "text": "Constant reassurance"
+                },
+                {
+                    "id": "triggers_therapy",
+                    "text": "Professional therapy"
+                },
+                {
+                    "id": "triggers_trust",
+                    "text": "Build trust gradually"
+                }
+            ]
+        },
+        {
+            "id": "cpl_168",
+            "text": "Who would be most likely to suggest random adventure days?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_169",
+            "text": "How do you prefer to handle different music tastes?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "music_share",
+                    "text": "Share favorite songs"
+                },
+                {
+                    "id": "music_explore",
+                    "text": "Explore new genres together"
+                },
+                {
+                    "id": "music_alternate",
+                    "text": "Take turns choosing"
+                },
+                {
+                    "id": "music_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "music_compromise",
+                    "text": "Find common ground"
+                },
+                {
+                    "id": "music_headphones",
+                    "text": "Use headphones"
+                }
+            ]
+        },
+        {
+            "id": "cpl_170",
+            "text": "Who would be most likely to plan themed date months?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_171",
+            "text": "What's most important when handling relationship transitions?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "transitions_communication",
+                    "text": "Open communication"
+                },
+                {
+                    "id": "transitions_patience",
+                    "text": "Patience with process"
+                },
+                {
+                    "id": "transitions_support",
+                    "text": "Mutual support"
+                },
+                {
+                    "id": "transitions_flexibility",
+                    "text": "Stay flexible"
+                },
+                {
+                    "id": "transitions_plan",
+                    "text": "Plan together"
+                },
+                {
+                    "id": "transitions_adapt",
+                    "text": "Adapt as needed"
+                }
+            ]
+        },
+        {
+            "id": "cpl_172",
+            "text": "Who would be most likely to suggest relationship gratitude practices?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_173",
+            "text": "How important is adventure compatibility in relationships?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "adventure_important",
+                    "text": "Very important"
+                },
+                {
+                    "id": "adventure_balance",
+                    "text": "Need balance"
+                },
+                {
+                    "id": "adventure_inspire",
+                    "text": "Can inspire each other"
+                },
+                {
+                    "id": "adventure_respect",
+                    "text": "Respect comfort levels"
+                },
+                {
+                    "id": "adventure_grow",
+                    "text": "Grow together slowly"
+                },
+                {
+                    "id": "adventure_compromise",
+                    "text": "Find compromise activities"
+                }
+            ]
+        },
+        {
+            "id": "cpl_174",
+            "text": "Who would be most likely to create relationship milestone calendars?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_175",
+            "text": "What's your preferred way to handle different travel styles?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "travel_plan",
+                    "text": "Plan trips together"
+                },
+                {
+                    "id": "travel_alternate",
+                    "text": "Alternate trip styles"
+                },
+                {
+                    "id": "travel_compromise",
+                    "text": "Compromise on activities"
+                },
+                {
+                    "id": "travel_respect",
+                    "text": "Respect preferences"
+                },
+                {
+                    "id": "travel_separate",
+                    "text": "Some separate trips"
+                },
+                {
+                    "id": "travel_explore",
+                    "text": "Try new styles together"
+                }
+            ]
+        },
+        {
+            "id": "cpl_176",
+            "text": "Who would be most likely to suggest relationship storytelling nights?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_177",
+            "text": "How do you prefer to handle different spending habits?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "spending_budget",
+                    "text": "Create budget together"
+                },
+                {
+                    "id": "spending_discuss",
+                    "text": "Discuss major purchases"
+                },
+                {
+                    "id": "spending_separate",
+                    "text": "Keep personal spending money"
+                },
+                {
+                    "id": "spending_compromise",
+                    "text": "Find middle ground"
+                },
+                {
+                    "id": "spending_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "spending_goals",
+                    "text": "Focus on shared goals"
+                }
+            ]
+        },
+        {
+            "id": "cpl_178",
+            "text": "Who would be most likely to plan surprise spa days at home?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_179",
+            "text": "What's most important when choosing to live together permanently?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "permanent_compatibility",
+                    "text": "Overall compatibility"
+                },
+                {
+                    "id": "permanent_love",
+                    "text": "Deep love"
+                },
+                {
+                    "id": "permanent_commitment",
+                    "text": "Strong commitment"
+                },
+                {
+                    "id": "permanent_goals",
+                    "text": "Shared life goals"
+                },
+                {
+                    "id": "permanent_growth",
+                    "text": "Growth potential"
+                },
+                {
+                    "id": "permanent_friendship",
+                    "text": "Strong friendship foundation"
+                }
+            ]
+        },
+        {
+            "id": "cpl_180",
+            "text": "Who would be most likely to suggest couple's learning challenges?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_181",
+            "text": "How important is emotional availability in your ideal partner?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "availability_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "availability_very",
+                    "text": "Very important"
+                },
+                {
+                    "id": "availability_develop",
+                    "text": "Can be developed"
+                },
+                {
+                    "id": "availability_patient",
+                    "text": "Be patient with growth"
+                },
+                {
+                    "id": "availability_support",
+                    "text": "Support development"
+                },
+                {
+                    "id": "availability_communicate",
+                    "text": "Communicate needs"
+                }
+            ]
+        },
+        {
+            "id": "cpl_182",
+            "text": "Who would be most likely to create surprise date night boxes?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_183",
+            "text": "What's your ideal approach to handling family planning discussions?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "planning_early",
+                    "text": "Discuss early in relationship"
+                },
+                {
+                    "id": "planning_open",
+                    "text": "Keep discussions open"
+                },
+                {
+                    "id": "planning_respect",
+                    "text": "Respect different views"
+                },
+                {
+                    "id": "planning_timing",
+                    "text": "Consider timing carefully"
+                },
+                {
+                    "id": "planning_professional",
+                    "text": "Get professional guidance"
+                },
+                {
+                    "id": "planning_evolve",
+                    "text": "Let views evolve"
+                }
+            ]
+        },
+        {
+            "id": "cpl_184",
+            "text": "Who would be most likely to suggest relationship meditation sessions?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_185",
+            "text": "How do you prefer to handle different social energy levels?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "social_respect",
+                    "text": "Respect energy levels"
+                },
+                {
+                    "id": "social_compromise",
+                    "text": "Compromise on activities"
+                },
+                {
+                    "id": "social_separate",
+                    "text": "Some separate social time"
+                },
+                {
+                    "id": "social_support",
+                    "text": "Support each other's needs"
+                },
+                {
+                    "id": "social_balance",
+                    "text": "Find balance together"
+                },
+                {
+                    "id": "social_communicate",
+                    "text": "Communicate needs clearly"
+                }
+            ]
+        },
+        {
+            "id": "cpl_186",
+            "text": "Who would be most likely to plan surprise outdoor adventures?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_187",
+            "text": "What's most important when handling relationship doubts?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "doubts_communicate",
+                    "text": "Communicate openly"
+                },
+                {
+                    "id": "doubts_explore",
+                    "text": "Explore root causes"
+                },
+                {
+                    "id": "doubts_professional",
+                    "text": "Seek professional help"
+                },
+                {
+                    "id": "doubts_patience",
+                    "text": "Be patient with process"
+                },
+                {
+                    "id": "doubts_work",
+                    "text": "Work through together"
+                },
+                {
+                    "id": "doubts_honest",
+                    "text": "Be completely honest"
+                }
+            ]
+        },
+        {
+            "id": "cpl_188",
+            "text": "Who would be most likely to suggest couple's volunteer activities?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_189",
+            "text": "How important is lifestyle compatibility for long-term success?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "lifestyle_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "lifestyle_important",
+                    "text": "Very important"
+                },
+                {
+                    "id": "lifestyle_adapt",
+                    "text": "Can adapt together"
+                },
+                {
+                    "id": "lifestyle_compromise",
+                    "text": "Compromise is key"
+                },
+                {
+                    "id": "lifestyle_grow",
+                    "text": "Grow into compatibility"
+                },
+                {
+                    "id": "lifestyle_respect",
+                    "text": "Respect differences"
+                }
+            ]
+        },
+        {
+            "id": "cpl_190",
+            "text": "Who would be most likely to create relationship time capsules annually?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_191",
+            "text": "What's your preferred way to handle relationship goal achievement?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "goals_celebrate",
+                    "text": "Celebrate achievements"
+                },
+                {
+                    "id": "goals_set",
+                    "text": "Set new goals"
+                },
+                {
+                    "id": "goals_reflect",
+                    "text": "Reflect on journey"
+                },
+                {
+                    "id": "goals_share",
+                    "text": "Share success with others"
+                },
+                {
+                    "id": "goals_grateful",
+                    "text": "Express gratitude"
+                },
+                {
+                    "id": "goals_grow",
+                    "text": "Use for further growth"
+                }
+            ]
+        },
+        {
+            "id": "cpl_192",
+            "text": "Who would be most likely to suggest weekly relationship check-ins?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_193",
+            "text": "How do you prefer to handle different life experience backgrounds?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "background_learn",
+                    "text": "Learn from each other"
+                },
+                {
+                    "id": "background_respect",
+                    "text": "Respect differences"
+                },
+                {
+                    "id": "background_share",
+                    "text": "Share stories"
+                },
+                {
+                    "id": "background_bridge",
+                    "text": "Bridge gaps together"
+                },
+                {
+                    "id": "background_appreciate",
+                    "text": "Appreciate diversity"
+                },
+                {
+                    "id": "background_grow",
+                    "text": "Grow from differences"
+                }
+            ]
+        },
+        {
+            "id": "cpl_194",
+            "text": "Who would be most likely to plan surprise cultural date experiences?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_195",
+            "text": "What's most important for maintaining relationship passion over time?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "passion_effort",
+                    "text": "Consistent effort"
+                },
+                {
+                    "id": "passion_novelty",
+                    "text": "New experiences"
+                },
+                {
+                    "id": "passion_communication",
+                    "text": "Open communication"
+                },
+                {
+                    "id": "passion_growth",
+                    "text": "Growing together"
+                },
+                {
+                    "id": "passion_appreciation",
+                    "text": "Mutual appreciation"
+                },
+                {
+                    "id": "passion_intimacy",
+                    "text": "Emotional intimacy"
+                }
+            ]
+        },
+        {
+            "id": "cpl_196",
+            "text": "Who would be most likely to suggest relationship dream-sharing sessions?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_197",
+            "text": "How important is mutual respect in your ideal relationship?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "respect_foundation",
+                    "text": "Foundation of everything"
+                },
+                {
+                    "id": "respect_essential",
+                    "text": "Absolutely essential"
+                },
+                {
+                    "id": "respect_earned",
+                    "text": "Must be earned"
+                },
+                {
+                    "id": "respect_shown",
+                    "text": "Shown through actions"
+                },
+                {
+                    "id": "respect_mutual",
+                    "text": "Must be mutual"
+                },
+                {
+                    "id": "respect_nonnegotiable",
+                    "text": "Non-negotiable"
+                }
+            ]
+        },
+        {
+            "id": "cpl_198",
+            "text": "Who would be most likely to create surprise themed dinner nights?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "cpl_199",
+            "text": "What's your ideal way to handle relationship evolution and change?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "evolution_embrace",
+                    "text": "Embrace change together"
+                },
+                {
+                    "id": "evolution_communicate",
+                    "text": "Communicate throughout"
+                },
+                {
+                    "id": "evolution_adapt",
+                    "text": "Adapt as needed"
+                },
+                {
+                    "id": "evolution_support",
+                    "text": "Support each other"
+                },
+                {
+                    "id": "evolution_grow",
+                    "text": "Grow in same direction"
+                },
+                {
+                    "id": "evolution_patient",
+                    "text": "Be patient with process"
+                }
+            ]
+        },
+        {
+            "id": "cpl_200",
+            "text": "Who would be most likely to suggest creating a relationship legacy project?",
+            "type": "players",
+            "options": []
+        }
+    ]
+}

@@ -1,0 +1,2952 @@
+{
+  "deck": {
+    "id": "erotic",
+    "name": "Erotic Questions",
+    "description": "Erotic questions for Guess Pick",
+    "category": "erotic",
+    "version": "2.0.0",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "id": "ero_001",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_001_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_001_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_001_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_001_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_001_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_001_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_002",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_002_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_002_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_002_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_002_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_002_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_002_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_003",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_003_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_003_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_003_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_003_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_003_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_003_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_004",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_004_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_004_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_004_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_004_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_004_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_004_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_005",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_005_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_005_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_005_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_005_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_005_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_005_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_006",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_006_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_006_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_006_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_006_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_006_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_006_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_007",
+      "text": "Sexiest lingerie color?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_007_black",
+          "text": "Black"
+        },
+        {
+          "id": "ero_007_red",
+          "text": "Red"
+        },
+        {
+          "id": "ero_007_white",
+          "text": "White"
+        },
+        {
+          "id": "ero_007_blue",
+          "text": "Blue"
+        },
+        {
+          "id": "ero_007_purple",
+          "text": "Purple"
+        },
+        {
+          "id": "ero_007_pink",
+          "text": "Pink"
+        }
+      ]
+    },
+    {
+      "id": "ero_008",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_008_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_008_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_008_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_008_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_008_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_008_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_009",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_009_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_009_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_009_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_009_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_009_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_009_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_010",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_010_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_010_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_010_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_010_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_010_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_010_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_011",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_011_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_011_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_011_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_011_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_011_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_011_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_012",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_012_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_012_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_012_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_012_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_012_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_012_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_013",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_013_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_013_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_013_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_013_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_013_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_013_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_014",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_014_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_014_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_014_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_014_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_014_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_014_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_015",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_015_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_015_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_015_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_015_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_015_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_015_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_016",
+      "text": "Sexiest lingerie color?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_016_black",
+          "text": "Black"
+        },
+        {
+          "id": "ero_016_red",
+          "text": "Red"
+        },
+        {
+          "id": "ero_016_white",
+          "text": "White"
+        },
+        {
+          "id": "ero_016_blue",
+          "text": "Blue"
+        },
+        {
+          "id": "ero_016_purple",
+          "text": "Purple"
+        },
+        {
+          "id": "ero_016_pink",
+          "text": "Pink"
+        }
+      ]
+    },
+    {
+      "id": "ero_017",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_017_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_017_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_017_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_017_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_017_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_017_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_018",
+      "text": "Best aphrodisiac food?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_018_dark_chocolate",
+          "text": "Dark Chocolate"
+        },
+        {
+          "id": "ero_018_strawberries",
+          "text": "Strawberries"
+        },
+        {
+          "id": "ero_018_oysters",
+          "text": "Oysters"
+        },
+        {
+          "id": "ero_018_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "ero_018_champagne",
+          "text": "Champagne"
+        },
+        {
+          "id": "ero_018_honey",
+          "text": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "ero_019",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_019_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_019_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_019_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_019_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_019_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_019_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_020",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_020_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_020_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_020_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_020_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_020_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_020_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_021",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_021_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_021_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_021_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_021_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_021_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_021_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_022",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_022_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_022_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_022_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_022_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_022_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_022_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_023",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_023_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_023_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_023_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_023_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_023_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_023_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_024",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_024_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_024_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_024_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_024_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_024_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_024_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_025",
+      "text": "Best aphrodisiac food?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_025_dark_chocolate",
+          "text": "Dark Chocolate"
+        },
+        {
+          "id": "ero_025_strawberries",
+          "text": "Strawberries"
+        },
+        {
+          "id": "ero_025_oysters",
+          "text": "Oysters"
+        },
+        {
+          "id": "ero_025_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "ero_025_champagne",
+          "text": "Champagne"
+        },
+        {
+          "id": "ero_025_honey",
+          "text": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "ero_026",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_026_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_026_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_026_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_026_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_026_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_026_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_027",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_027_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_027_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_027_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_027_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_027_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_027_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_028",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_028_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_028_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_028_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_028_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_028_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_028_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_029",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_029_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_029_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_029_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_029_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_029_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_029_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_030",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_030_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_030_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_030_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_030_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_030_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_030_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_031",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_031_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_031_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_031_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_031_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_031_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_031_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_032",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_032_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_032_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_032_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_032_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_032_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_032_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_033",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_033_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_033_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_033_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_033_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_033_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_033_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_034",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_034_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_034_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_034_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_034_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_034_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_034_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_035",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_035_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_035_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_035_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_035_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_035_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_035_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_036",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_036_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_036_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_036_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_036_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_036_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_036_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_037",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_037_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_037_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_037_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_037_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_037_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_037_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_038",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_038_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_038_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_038_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_038_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_038_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_038_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_039",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_039_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_039_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_039_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_039_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_039_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_039_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_040",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_040_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_040_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_040_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_040_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_040_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_040_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_041",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_041_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_041_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_041_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_041_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_041_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_041_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_042",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_042_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_042_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_042_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_042_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_042_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_042_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_043",
+      "text": "Best aphrodisiac food?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_043_dark_chocolate",
+          "text": "Dark Chocolate"
+        },
+        {
+          "id": "ero_043_strawberries",
+          "text": "Strawberries"
+        },
+        {
+          "id": "ero_043_oysters",
+          "text": "Oysters"
+        },
+        {
+          "id": "ero_043_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "ero_043_champagne",
+          "text": "Champagne"
+        },
+        {
+          "id": "ero_043_honey",
+          "text": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "ero_044",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_044_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_044_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_044_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_044_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_044_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_044_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_045",
+      "text": "Sexiest lingerie color?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_045_black",
+          "text": "Black"
+        },
+        {
+          "id": "ero_045_red",
+          "text": "Red"
+        },
+        {
+          "id": "ero_045_white",
+          "text": "White"
+        },
+        {
+          "id": "ero_045_blue",
+          "text": "Blue"
+        },
+        {
+          "id": "ero_045_purple",
+          "text": "Purple"
+        },
+        {
+          "id": "ero_045_pink",
+          "text": "Pink"
+        }
+      ]
+    },
+    {
+      "id": "ero_046",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_046_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_046_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_046_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_046_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_046_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_046_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_047",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_047_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_047_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_047_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_047_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_047_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_047_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_048",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_048_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_048_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_048_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_048_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_048_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_048_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_049",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_049_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_049_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_049_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_049_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_049_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_049_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_050",
+      "text": "Best aphrodisiac food?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_050_dark_chocolate",
+          "text": "Dark Chocolate"
+        },
+        {
+          "id": "ero_050_strawberries",
+          "text": "Strawberries"
+        },
+        {
+          "id": "ero_050_oysters",
+          "text": "Oysters"
+        },
+        {
+          "id": "ero_050_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "ero_050_champagne",
+          "text": "Champagne"
+        },
+        {
+          "id": "ero_050_honey",
+          "text": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "ero_051",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_051_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_051_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_051_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_051_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_051_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_051_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_052",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_052_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_052_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_052_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_052_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_052_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_052_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_053",
+      "text": "Sexiest lingerie color?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_053_black",
+          "text": "Black"
+        },
+        {
+          "id": "ero_053_red",
+          "text": "Red"
+        },
+        {
+          "id": "ero_053_white",
+          "text": "White"
+        },
+        {
+          "id": "ero_053_blue",
+          "text": "Blue"
+        },
+        {
+          "id": "ero_053_purple",
+          "text": "Purple"
+        },
+        {
+          "id": "ero_053_pink",
+          "text": "Pink"
+        }
+      ]
+    },
+    {
+      "id": "ero_054",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_054_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_054_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_054_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_054_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_054_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_054_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_055",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_055_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_055_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_055_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_055_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_055_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_055_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_056",
+      "text": "Sexiest lingerie color?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_056_black",
+          "text": "Black"
+        },
+        {
+          "id": "ero_056_red",
+          "text": "Red"
+        },
+        {
+          "id": "ero_056_white",
+          "text": "White"
+        },
+        {
+          "id": "ero_056_blue",
+          "text": "Blue"
+        },
+        {
+          "id": "ero_056_purple",
+          "text": "Purple"
+        },
+        {
+          "id": "ero_056_pink",
+          "text": "Pink"
+        }
+      ]
+    },
+    {
+      "id": "ero_057",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_057_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_057_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_057_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_057_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_057_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_057_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_058",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_058_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_058_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_058_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_058_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_058_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_058_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_059",
+      "text": "Sexiest body part?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_059_eyes",
+          "text": "Eyes"
+        },
+        {
+          "id": "ero_059_lips",
+          "text": "Lips"
+        },
+        {
+          "id": "ero_059_chest",
+          "text": "Chest"
+        },
+        {
+          "id": "ero_059_butt",
+          "text": "Butt"
+        },
+        {
+          "id": "ero_059_legs",
+          "text": "Legs"
+        },
+        {
+          "id": "ero_059_hands",
+          "text": "Hands"
+        }
+      ]
+    },
+    {
+      "id": "ero_060",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_060_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_060_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_060_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_060_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_060_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_060_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_061",
+      "text": "Best aphrodisiac food?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_061_dark_chocolate",
+          "text": "Dark Chocolate"
+        },
+        {
+          "id": "ero_061_strawberries",
+          "text": "Strawberries"
+        },
+        {
+          "id": "ero_061_oysters",
+          "text": "Oysters"
+        },
+        {
+          "id": "ero_061_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "ero_061_champagne",
+          "text": "Champagne"
+        },
+        {
+          "id": "ero_061_honey",
+          "text": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "ero_062",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_062_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_062_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_062_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_062_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_062_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_062_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_063",
+      "text": "Best aphrodisiac food?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_063_dark_chocolate",
+          "text": "Dark Chocolate"
+        },
+        {
+          "id": "ero_063_strawberries",
+          "text": "Strawberries"
+        },
+        {
+          "id": "ero_063_oysters",
+          "text": "Oysters"
+        },
+        {
+          "id": "ero_063_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "ero_063_champagne",
+          "text": "Champagne"
+        },
+        {
+          "id": "ero_063_honey",
+          "text": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "ero_064",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_064_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_064_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_064_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_064_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_064_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_064_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_065",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_065_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_065_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_065_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_065_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_065_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_065_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_066",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_066_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_066_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_066_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_066_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_066_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_066_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_067",
+      "text": "Best aphrodisiac food?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_067_dark_chocolate",
+          "text": "Dark Chocolate"
+        },
+        {
+          "id": "ero_067_strawberries",
+          "text": "Strawberries"
+        },
+        {
+          "id": "ero_067_oysters",
+          "text": "Oysters"
+        },
+        {
+          "id": "ero_067_red_wine",
+          "text": "Red Wine"
+        },
+        {
+          "id": "ero_067_champagne",
+          "text": "Champagne"
+        },
+        {
+          "id": "ero_067_honey",
+          "text": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "ero_068",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_068_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_068_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_068_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_068_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_068_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_068_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_069",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_069_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_069_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_069_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_069_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_069_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_069_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_070",
+      "text": "Sexiest lingerie color?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_070_black",
+          "text": "Black"
+        },
+        {
+          "id": "ero_070_red",
+          "text": "Red"
+        },
+        {
+          "id": "ero_070_white",
+          "text": "White"
+        },
+        {
+          "id": "ero_070_blue",
+          "text": "Blue"
+        },
+        {
+          "id": "ero_070_purple",
+          "text": "Purple"
+        },
+        {
+          "id": "ero_070_pink",
+          "text": "Pink"
+        }
+      ]
+    },
+    {
+      "id": "ero_071",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_071_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_071_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_071_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_071_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_071_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_071_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_072",
+      "text": "Best music genre for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_072_randb",
+          "text": "R&B"
+        },
+        {
+          "id": "ero_072_jazz",
+          "text": "Jazz"
+        },
+        {
+          "id": "ero_072_classical",
+          "text": "Classical"
+        },
+        {
+          "id": "ero_072_rock",
+          "text": "Rock"
+        },
+        {
+          "id": "ero_072_electronic",
+          "text": "Electronic"
+        },
+        {
+          "id": "ero_072_no_music",
+          "text": "No music"
+        }
+      ]
+    },
+    {
+      "id": "ero_073",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_073_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_073_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_073_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_073_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_073_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_073_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_074",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_074_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_074_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_074_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_074_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_074_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_074_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_075",
+      "text": "Favorite time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_075_morning",
+          "text": "Morning"
+        },
+        {
+          "id": "ero_075_afternoon",
+          "text": "Afternoon"
+        },
+        {
+          "id": "ero_075_evening",
+          "text": "Evening"
+        },
+        {
+          "id": "ero_075_midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "ero_075_after_a_party",
+          "text": "After a party"
+        },
+        {
+          "id": "ero_075_whenever",
+          "text": "Whenever"
+        }
+      ]
+    },
+    {
+      "id": "ero_076",
+      "text": "Most erotic location?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_076_beach",
+          "text": "Beach"
+        },
+        {
+          "id": "ero_076_forest",
+          "text": "Forest"
+        },
+        {
+          "id": "ero_076_rooftop",
+          "text": "Rooftop"
+        },
+        {
+          "id": "ero_076_hot_tub",
+          "text": "Hot Tub"
+        },
+        {
+          "id": "ero_076_hotel_room",
+          "text": "Hotel Room"
+        },
+        {
+          "id": "ero_076_tent_in_the_wild",
+          "text": "Tent in the wild"
+        }
+      ]
+    },
+    {
+      "id": "ero_077",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_077_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_077_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_077_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_077_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_077_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_077_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_078",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_078_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_078_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_078_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_078_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_078_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_078_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_079",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_079_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_079_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_079_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_079_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_079_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_079_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_080",
+      "text": "Ultimate turn-on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_080_dirty_talk",
+          "text": "Dirty Talk"
+        },
+        {
+          "id": "ero_080_whispers",
+          "text": "Whispers"
+        },
+        {
+          "id": "ero_080_slow_kisses",
+          "text": "Slow Kisses"
+        },
+        {
+          "id": "ero_080_light_biting",
+          "text": "Light Biting"
+        },
+        {
+          "id": "ero_080_massages",
+          "text": "Massages"
+        },
+        {
+          "id": "ero_080_teasing_looks",
+          "text": "Teasing Looks"
+        }
+      ]
+    },
+    {
+      "id": "ero_081",
+      "text": "Best place for a quickie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_081_bathroom",
+          "text": "Bathroom"
+        },
+        {
+          "id": "ero_081_elevator",
+          "text": "Elevator"
+        },
+        {
+          "id": "ero_081_car",
+          "text": "Car"
+        },
+        {
+          "id": "ero_081_office",
+          "text": "Office"
+        },
+        {
+          "id": "ero_081_balcony",
+          "text": "Balcony"
+        },
+        {
+          "id": "ero_081_forest",
+          "text": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "ero_082",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_082_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_082_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_082_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_082_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_082_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_082_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_083",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_083_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_083_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_083_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_083_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_083_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_083_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_084",
+      "text": "Most exciting roleplay scenario?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ero_084_doctor_and_patient",
+          "text": "Doctor & Patient"
+        },
+        {
+          "id": "ero_084_boss_and_secretary",
+          "text": "Boss & Secretary"
+        },
+        {
+          "id": "ero_084_police_and_suspect",
+          "text": "Police & Suspect"
+        },
+        {
+          "id": "ero_084_teacher_and_student",
+          "text": "Teacher & Student"
+        },
+        {
+          "id": "ero_084_strangers_at_a_bar",
+          "text": "Strangers at a Bar"
+        },
+        {
+          "id": "ero_084_masseuse_and_client",
+          "text": "Masseuse & Client"
+        }
+      ]
+    },
+    {
+      "id": "ero_085",
+      "text": "Who would most likely try public sex?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_086",
+      "text": "Who is most likely to try bondage?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_087",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_088",
+      "text": "Who would be most into toys?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_089",
+      "text": "Who probably watches the most adult content?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_090",
+      "text": "Who would most likely try public sex?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_091",
+      "text": "Who here would you most like to have a one-night stand with?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_092",
+      "text": "Who would most likely try public sex?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_093",
+      "text": "Who would you trust to blindfold you?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_094",
+      "text": "Who do you think has tried the most positions?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_095",
+      "text": "Who probably watches the most adult content?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_096",
+      "text": "Who is most likely to be best in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_097",
+      "text": "Who here would you most like to have a one-night stand with?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_098",
+      "text": "Who would most enjoy roleplay?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_099",
+      "text": "Who here would you most like to have a one-night stand with?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_100",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_101",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_102",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_103",
+      "text": "Who would most enjoy roleplay?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_104",
+      "text": "Who would be the most adventurous lover?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_105",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_106",
+      "text": "Who here would you most like to have a one-night stand with?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_107",
+      "text": "Who is most likely to try bondage?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_108",
+      "text": "Who would be the most adventurous lover?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_109",
+      "text": "Who would be the most adventurous lover?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_110",
+      "text": "Who is most likely to be best in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_111",
+      "text": "Who would be the most adventurous lover?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_112",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_113",
+      "text": "Who is best at foreplay?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_114",
+      "text": "Who is most likely to try bondage?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_115",
+      "text": "Who is best at foreplay?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_116",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_117",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_118",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_119",
+      "text": "Who here would you most like to have a one-night stand with?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_120",
+      "text": "Who would most likely try public sex?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_121",
+      "text": "Who is secretly the kinkiest?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_122",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_123",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_124",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_125",
+      "text": "Who would be the most adventurous lover?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_126",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_127",
+      "text": "Who is secretly the kinkiest?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_128",
+      "text": "Who would surprise their partner the most in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_129",
+      "text": "Who is most likely to try bondage?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_130",
+      "text": "Who would be most into toys?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_131",
+      "text": "Who probably watches the most adult content?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_132",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_133",
+      "text": "Who is most likely to be best in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_134",
+      "text": "Who is most likely to try bondage?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_135",
+      "text": "Who probably watches the most adult content?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_136",
+      "text": "Who is most likely to try bondage?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_137",
+      "text": "Who is most likely to be best in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_138",
+      "text": "Who here would be best at a striptease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_139",
+      "text": "Who is secretly the kinkiest?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "ero_140",
+      "text": "Who probably watches the most adult content?",
+      "type": "players",
+      "options": []
+    }
+  ]
+}

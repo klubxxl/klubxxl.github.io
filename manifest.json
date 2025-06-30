@@ -1,11 +1,11 @@
 {
-    "name": "drunk_ludo",
-    "short_name": "drunk_ludo",
+    "name": "Guess Pick",
+    "short_name": "Guess Pick",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#3f1d69",
+    "theme_color": "#971f67",
+    "description": "A multiplayer party game where players guess each other's answers.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
