@@ -1,0 +1,1455 @@
+{
+  "deck": {
+    "id": "general",
+    "name": "Ogólna zabawa",
+    "description": "Szeroki wybór zabawnych pytań ogólnych.",
+    "category": "general",
+    "version": "3.0.0",
+    "language": "pl"
+  },
+  "questions": [
+    {
+      "id": "general_p_001",
+      "text": "Kto najdłużej przetrwałby apokalipsę zombie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_002",
+      "text": "Kto najczęściej śpiewa pod prysznicem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_003",
+      "text": "Kto opowiada najlepsze dowcipy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_004",
+      "text": "Kto zgubiłby się w drodze do lokalnego sklepu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_005",
+      "text": "Kto jest największym marzycielem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_006",
+      "text": "Kto zawsze zna przypadkowe ciekawostki?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_007",
+      "text": "Kto nagle zacząłby imprezę taneczną znikąd?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_008",
+      "text": "Kto najprawdopodobniej płacze na smutnym filmie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_009",
+      "text": "Kto zawsze ma bałagan w pokoju?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_010",
+      "text": "Kto pierwszy zgłosiłby się do karaoke?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_011",
+      "text": "Kto jest najbardziej uzależniony od telefonu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_012",
+      "text": "Kto zaprzyjaźniłby się z duchem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_013",
+      "text": "Kto adoptowałby 10 kotów?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_014",
+      "text": "Kto byłby najlepszym stand-uperem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_015",
+      "text": "Kto zachowałby spokój w kryzysie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_016",
+      "text": "Kto najdłużej szykuje się do wyjścia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_017",
+      "text": "Kto przypadkowo włączyłby alarm przeciwpożarowy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_018",
+      "text": "Kto byłby najlepszym detektywem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_019",
+      "text": "Kto najprędzej wystąpiłby w reality show?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_020",
+      "text": "Kto ma najbardziej kompromitującą historię z dzieciństwa?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_021",
+      "text": "Kto zjadłby coś z podłogi?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_022",
+      "text": "Kto zbudowałby najlepszy fort z koców?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_023",
+      "text": "Kto najprawdopodobniej przeprowadziłby się do innego kraju?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_024",
+      "text": "Kto daje najlepsze komplementy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_025",
+      "text": "Kto zapomniałby, po co wszedł do pokoju?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_026",
+      "text": "Kto byłby najlepszym prowadzącym teleturniej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_027",
+      "text": "Kto najdłużej przetrwałby na bezludnej wyspie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_028",
+      "text": "Kto przypadkiem zdradziłby sekret?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_029",
+      "text": "Kto zaplanowałby szaloną przygodę?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_030",
+      "text": "Kto robi najwięcej selfie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_031",
+      "text": "Kto zawsze nuci jakąś melodię?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_032",
+      "text": "Kto zaprzyjaźniłby się z kosmitą?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_033",
+      "text": "Kto zamknąłby się przypadkiem poza domem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_034",
+      "text": "Kto najprawdopodobniej zostałby milionerem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_035",
+      "text": "Kto napisałby bestseller?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_036",
+      "text": "Kto byłby najlepszym mówcą motywacyjnym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_037",
+      "text": "Kto najdłużej wytrzymałby bez internetu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_038",
+      "text": "Kto zapomniałby zabrać paszportu na lotnisko?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_039",
+      "text": "Kto zaśmiałby się w kompletnie niewłaściwym momencie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_d_001",
+      "text": "Ulubiona pora roku?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorites_1",
+          "text": "Wiosna"
+        },
+        {
+          "id": "favorites_2",
+          "text": "Lato"
+        },
+        {
+          "id": "favorites_3",
+          "text": "Jesień"
+        },
+        {
+          "id": "favorites_4",
+          "text": "Zima"
+        },
+        {
+          "id": "favorites_5",
+          "text": "Wszystkie"
+        },
+        {
+          "id": "favorites_6",
+          "text": "Nie obchodzi mnie"
+        }
+      ]
+    },
+    {
+      "id": "general_d_002",
+      "text": "Ulubiona pora dnia?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Poranek"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Południe"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Popołudnie"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Wieczór"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Noc"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Późna noc"
+        }
+      ]
+    },
+    {
+      "id": "general_d_003",
+      "text": "Czego boisz się najbardziej?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatscare_1",
+          "text": "Wysokości"
+        },
+        {
+          "id": "whatscare_2",
+          "text": "Pająków"
+        },
+        {
+          "id": "whatscare_3",
+          "text": "Ciemności"
+        },
+        {
+          "id": "whatscare_4",
+          "text": "Przemawiania publicznego"
+        },
+        {
+          "id": "whatscare_5",
+          "text": "Igły"
+        },
+        {
+          "id": "whatscare_6",
+          "text": "Samotności"
+        }
+      ]
+    },
+    {
+      "id": "general_d_004",
+      "text": "Idealna aktywność na weekend?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "idealweek_1",
+          "text": "Netflix"
+        },
+        {
+          "id": "idealweek_2",
+          "text": "Przygoda"
+        },
+        {
+          "id": "idealweek_3",
+          "text": "Spotkania towarzyskie"
+        },
+        {
+          "id": "idealweek_4",
+          "text": "Coś kreatywnego"
+        },
+        {
+          "id": "idealweek_5",
+          "text": "Sport"
+        },
+        {
+          "id": "idealweek_6",
+          "text": "Czytanie"
+        }
+      ]
+    },
+    {
+      "id": "general_d_005",
+      "text": "Ulubiona supermoc?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorites_1",
+          "text": "Latanie"
+        },
+        {
+          "id": "favorites_2",
+          "text": "Niewidzialność"
+        },
+        {
+          "id": "favorites_3",
+          "text": "Siła"
+        },
+        {
+          "id": "favorites_4",
+          "text": "Czytanie w myślach"
+        },
+        {
+          "id": "favorites_5",
+          "text": "Podróże w czasie"
+        },
+        {
+          "id": "favorites_6",
+          "text": "Teleportacja"
+        }
+      ]
+    },
+    {
+      "id": "general_d_006",
+      "text": "Najlepszy sposób na spędzenie niedzieli?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Długo spać"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Obiad rodzinny"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Park"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Nic nie robić"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Czytać"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Sprzątać"
+        }
+      ]
+    },
+    {
+      "id": "general_d_007",
+      "text": "Najlepsze święto?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestholid_1",
+          "text": "Boże Narodzenie"
+        },
+        {
+          "id": "bestholid_2",
+          "text": "Halloween"
+        },
+        {
+          "id": "bestholid_3",
+          "text": "Nowy Rok"
+        },
+        {
+          "id": "bestholid_4",
+          "text": "Wielkanoc"
+        },
+        {
+          "id": "bestholid_5",
+          "text": "Walentynki"
+        },
+        {
+          "id": "bestholid_6",
+          "text": "Dzień Dziękczynienia"
+        }
+      ]
+    },
+    {
+      "id": "general_d_008",
+      "text": "Ulubiony gatunek filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritem_1",
+          "text": "Akcja"
+        },
+        {
+          "id": "favoritem_2",
+          "text": "Komedia"
+        },
+        {
+          "id": "favoritem_3",
+          "text": "Dramat"
+        },
+        {
+          "id": "favoritem_4",
+          "text": "Horror"
+        },
+        {
+          "id": "favoritem_5",
+          "text": "Romans"
+        },
+        {
+          "id": "favoritem_6",
+          "text": "Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": "general_d_009",
+      "text": "Wymarzony zawód?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "dreamprof_1",
+          "text": "Pilot"
+        },
+        {
+          "id": "dreamprof_2",
+          "text": "Naukowiec"
+        },
+        {
+          "id": "dreamprof_3",
+          "text": "Artysta"
+        },
+        {
+          "id": "dreamprof_4",
+          "text": "Lekarz"
+        },
+        {
+          "id": "dreamprof_5",
+          "text": "Szef kuchni"
+        },
+        {
+          "id": "dreamprof_6",
+          "text": "Sportowiec"
+        }
+      ]
+    },
+    {
+      "id": "general_d_010",
+      "text": "Najlepszy sposób na relaks?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Czytanie"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Ogrodnictwo"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Malowanie"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Gotowanie"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Wędkowanie"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Rękodzieło"
+        }
+      ]
+    },
+    {
+      "id": "general_d_011",
+      "text": "Jakim zwierzęciem jesteś?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whichanim_1",
+          "text": "Lew"
+        },
+        {
+          "id": "whichanim_2",
+          "text": "Delfin"
+        },
+        {
+          "id": "whichanim_3",
+          "text": "Sowa"
+        },
+        {
+          "id": "whichanim_4",
+          "text": "Słoń"
+        },
+        {
+          "id": "whichanim_5",
+          "text": "Kot"
+        },
+        {
+          "id": "whichanim_6",
+          "text": "Pies"
+        }
+      ]
+    },
+    {
+      "id": "general_d_012",
+      "text": "Najlepszy sposób na świętowanie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Impreza"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Kolacja"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Wycieczka"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Prezent"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Czas z rodziną"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Spokojny wieczór"
+        }
+      ]
+    },
+    {
+      "id": "general_d_013",
+      "text": "Ulubiona pogoda?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Słoneczna"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Deszczowa"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Śnieżna"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Pochmurna"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Wietrzna"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Burzowa"
+        }
+      ]
+    },
+    {
+      "id": "general_d_014",
+      "text": "Najlepszy numer w talent show?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttalen_1",
+          "text": "Śpiew"
+        },
+        {
+          "id": "besttalen_2",
+          "text": "Taniec"
+        },
+        {
+          "id": "besttalen_3",
+          "text": "Magia"
+        },
+        {
+          "id": "besttalen_4",
+          "text": "Komedia"
+        },
+        {
+          "id": "besttalen_5",
+          "text": "Sztuka"
+        },
+        {
+          "id": "besttalen_6",
+          "text": "Gotowanie"
+        }
+      ]
+    },
+    {
+      "id": "general_d_015",
+      "text": "Najlepsze hobby?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besthobby_1",
+          "text": "Muzyka"
+        },
+        {
+          "id": "besthobby_2",
+          "text": "Sport"
+        },
+        {
+          "id": "besthobby_3",
+          "text": "Sztuka"
+        },
+        {
+          "id": "besthobby_4",
+          "text": "Gry"
+        },
+        {
+          "id": "besthobby_5",
+          "text": "Pisanie"
+        },
+        {
+          "id": "besthobby_6",
+          "text": "Gotowanie"
+        }
+      ]
+    },
+    {
+      "id": "general_d_016",
+      "text": "Najbardziej irytujący nawyk?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostannoy_1",
+          "text": "Obgryzanie paznokci"
+        },
+        {
+          "id": "mostannoy_2",
+          "text": "Przerywanie"
+        },
+        {
+          "id": "mostannoy_3",
+          "text": "Spóźnianie się"
+        },
+        {
+          "id": "mostannoy_4",
+          "text": "Głośne jedzenie"
+        },
+        {
+          "id": "mostannoy_5",
+          "text": "Bałaganiarstwo"
+        },
+        {
+          "id": "mostannoy_6",
+          "text": "Zbytnie tłumaczenie"
+        }
+      ]
+    },
+    {
+      "id": "general_d_017",
+      "text": "Najlepsze zwierzątko?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestpet?_1",
+          "text": "Pies"
+        },
+        {
+          "id": "bestpet?_2",
+          "text": "Kot"
+        },
+        {
+          "id": "bestpet?_3",
+          "text": "Ryba"
+        },
+        {
+          "id": "bestpet?_4",
+          "text": "Ptak"
+        },
+        {
+          "id": "bestpet?_5",
+          "text": "Królik"
+        },
+        {
+          "id": "bestpet?_6",
+          "text": "Żadne"
+        }
+      ]
+    },
+    {
+      "id": "general_d_018",
+      "text": "Największe marzenie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestdr_1",
+          "text": "Podróż dookoła świata"
+        },
+        {
+          "id": "biggestdr_2",
+          "text": "Być bogatym"
+        },
+        {
+          "id": "biggestdr_3",
+          "text": "Sława"
+        },
+        {
+          "id": "biggestdr_4",
+          "text": "Rodzina"
+        },
+        {
+          "id": "biggestdr_5",
+          "text": "Przygoda"
+        },
+        {
+          "id": "biggestdr_6",
+          "text": "Pomaganie innym"
+        }
+      ]
+    },
+    {
+      "id": "general_d_019",
+      "text": "Ulubiony deser?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorited_1",
+          "text": "Lody"
+        },
+        {
+          "id": "favorited_2",
+          "text": "Ciasto"
+        },
+        {
+          "id": "favorited_3",
+          "text": "Ciasteczka"
+        },
+        {
+          "id": "favorited_4",
+          "text": "Brownie"
+        },
+        {
+          "id": "favorited_5",
+          "text": "Tarta"
+        },
+        {
+          "id": "favorited_6",
+          "text": "Budyniowy"
+        }
+      ]
+    },
+    {
+      "id": "general_d_020",
+      "text": "Ulubiona gra planszowa?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriteb_1",
+          "text": "Szachy"
+        },
+        {
+          "id": "favoriteb_2",
+          "text": "Monopoly"
+        },
+        {
+          "id": "favoriteb_3",
+          "text": "Scrabble"
+        },
+        {
+          "id": "favoriteb_4",
+          "text": "Catan"
+        },
+        {
+          "id": "favoriteb_5",
+          "text": "Uno"
+        },
+        {
+          "id": "favoriteb_6",
+          "text": "Jenga"
+        }
+      ]
+    },
+    {
+      "id": "general_d_021",
+      "text": "Najgorszy obowiązek domowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstchor_1",
+          "text": "Zmywanie naczyń"
+        },
+        {
+          "id": "worstchor_2",
+          "text": "Pranie"
+        },
+        {
+          "id": "worstchor_3",
+          "text": "Odkurzanie"
+        },
+        {
+          "id": "worstchor_4",
+          "text": "Ścieranie kurzu"
+        },
+        {
+          "id": "worstchor_5",
+          "text": "Sprzątanie łazienki"
+        },
+        {
+          "id": "worstchor_6",
+          "text": "Mycie okien"
+        }
+      ]
+    },
+    {
+      "id": "general_d_022",
+      "text": "Ulubiony napój?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorited_1",
+          "text": "Woda"
+        },
+        {
+          "id": "favorited_2",
+          "text": "Sok"
+        },
+        {
+          "id": "favorited_3",
+          "text": "Napój gazowany"
+        },
+        {
+          "id": "favorited_4",
+          "text": "Herbata"
+        },
+        {
+          "id": "favorited_5",
+          "text": "Kawa"
+        },
+        {
+          "id": "favorited_6",
+          "text": "Shake mleczny"
+        }
+      ]
+    },
+    {
+      "id": "general_d_023",
+      "text": "Ulubiony dźwięk?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorites_1",
+          "text": "Deszcz"
+        },
+        {
+          "id": "favorites_2",
+          "text": "Ocean"
+        },
+        {
+          "id": "favorites_3",
+          "text": "Kominek"
+        },
+        {
+          "id": "favorites_4",
+          "text": "Ptaki"
+        },
+        {
+          "id": "favorites_5",
+          "text": "Muzyka"
+        },
+        {
+          "id": "favorites_6",
+          "text": "Cisza"
+        }
+      ]
+    },
+    {
+      "id": "general_d_024",
+      "text": "Najlepszy prezent do otrzymania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestgift_1",
+          "text": "Pieniądze"
+        },
+        {
+          "id": "bestgift_2",
+          "text": "Gadżet"
+        },
+        {
+          "id": "bestgift_3",
+          "text": "Biżuteria"
+        },
+        {
+          "id": "bestgift_4",
+          "text": "Podróż"
+        },
+        {
+          "id": "bestgift_5",
+          "text": "Książka"
+        },
+        {
+          "id": "bestgift_6",
+          "text": "Ubrania"
+        }
+      ]
+    },
+    {
+      "id": "general_d_025",
+      "text": "Co byś zrobił z milionem?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatwould_1",
+          "text": "Podróże"
+        },
+        {
+          "id": "whatwould_2",
+          "text": "Kupno domu"
+        },
+        {
+          "id": "whatwould_3",
+          "text": "Darowizna"
+        },
+        {
+          "id": "whatwould_4",
+          "text": "Inwestycja"
+        },
+        {
+          "id": "whatwould_5",
+          "text": "Rzucił pracę"
+        },
+        {
+          "id": "whatwould_6",
+          "text": "Założył firmę"
+        }
+      ]
+    },
+    {
+      "id": "general_d_026",
+      "text": "Najlepszy rodzaj imprezy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttype_1",
+          "text": "Przebierana"
+        },
+        {
+          "id": "besttype_2",
+          "text": "Taneczna"
+        },
+        {
+          "id": "besttype_3",
+          "text": "Kolacja"
+        },
+        {
+          "id": "besttype_4",
+          "text": "Karaoke"
+        },
+        {
+          "id": "besttype_5",
+          "text": "Basenowa"
+        },
+        {
+          "id": "besttype_6",
+          "text": "Wieczór gier"
+        }
+      ]
+    },
+    {
+      "id": "general_d_027",
+      "text": "Co Cię motywuje?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatmotiv_1",
+          "text": "Pieniądze"
+        },
+        {
+          "id": "whatmotiv_2",
+          "text": "Uznanie"
+        },
+        {
+          "id": "whatmotiv_3",
+          "text": "Rozwój"
+        },
+        {
+          "id": "whatmotiv_4",
+          "text": "Wyzwanie"
+        },
+        {
+          "id": "whatmotiv_5",
+          "text": "Zespół"
+        },
+        {
+          "id": "whatmotiv_6",
+          "text": "Cel"
+        }
+      ]
+    },
+    {
+      "id": "general_d_028",
+      "text": "Najgorszy koszmar?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstnigh_1",
+          "text": "Spadanie"
+        },
+        {
+          "id": "worstnigh_2",
+          "text": "Bycie ściganym"
+        },
+        {
+          "id": "worstnigh_3",
+          "text": "Wypadanie zębów"
+        },
+        {
+          "id": "worstnigh_4",
+          "text": "Topienie się"
+        },
+        {
+          "id": "worstnigh_5",
+          "text": "Nago wśród ludzi"
+        },
+        {
+          "id": "worstnigh_6",
+          "text": "Potwory"
+        }
+      ]
+    },
+    {
+      "id": "general_d_029",
+      "text": "Ulubiona muzyka?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritem_1",
+          "text": "Pop"
+        },
+        {
+          "id": "favoritem_2",
+          "text": "Rock"
+        },
+        {
+          "id": "favoritem_3",
+          "text": "Hip-Hop"
+        },
+        {
+          "id": "favoritem_4",
+          "text": "Jazz"
+        },
+        {
+          "id": "favoritem_5",
+          "text": "Klasyczna"
+        },
+        {
+          "id": "favoritem_6",
+          "text": "EDM"
+        }
+      ]
+    },
+    {
+      "id": "general_d_030",
+      "text": "Ulubione lody?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritei_1",
+          "text": "Waniliowe"
+        },
+        {
+          "id": "favoritei_2",
+          "text": "Czekoladowe"
+        },
+        {
+          "id": "favoritei_3",
+          "text": "Truskawkowe"
+        },
+        {
+          "id": "favoritei_4",
+          "text": "Miętowe"
+        },
+        {
+          "id": "favoritei_5",
+          "text": "Karmelowe"
+        },
+        {
+          "id": "favoritei_6",
+          "text": "Z kawałkami ciasta"
+        }
+      ]
+    },
+    {
+      "id": "general_d_031",
+      "text": "Ulubiony owoc?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritef_1",
+          "text": "Jabłko"
+        },
+        {
+          "id": "favoritef_2",
+          "text": "Banan"
+        },
+        {
+          "id": "favoritef_3",
+          "text": "Pomarańcza"
+        },
+        {
+          "id": "favoritef_4",
+          "text": "Jagody"
+        },
+        {
+          "id": "favoritef_5",
+          "text": "Mango"
+        },
+        {
+          "id": "favoritef_6",
+          "text": "Winogrona"
+        }
+      ]
+    },
+    {
+      "id": "general_d_032",
+      "text": "Ulubione warzywo?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritev_1",
+          "text": "Marchewka"
+        },
+        {
+          "id": "favoritev_2",
+          "text": "Brokuł"
+        },
+        {
+          "id": "favoritev_3",
+          "text": "Groszek"
+        },
+        {
+          "id": "favoritev_4",
+          "text": "Kukurydza"
+        },
+        {
+          "id": "favoritev_5",
+          "text": "Szpinak"
+        },
+        {
+          "id": "favoritev_6",
+          "text": "Ziemniak"
+        }
+      ]
+    },
+    {
+      "id": "general_d_033",
+      "text": "Ulubiony typ zakończenia filmu?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Szczęśliwe"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Smutne"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Zaskakujące"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Otwarte"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Bohaterskie"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Zwrot akcji"
+        }
+      ]
+    },
+    {
+      "id": "general_d_034",
+      "text": "Najlepszy powód by zostać w domu?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestreaso_1",
+          "text": "Zła pogoda"
+        },
+        {
+          "id": "bestreaso_2",
+          "text": "Seriale"
+        },
+        {
+          "id": "bestreaso_3",
+          "text": "Oszczędzanie pieniędzy"
+        },
+        {
+          "id": "bestreaso_4",
+          "text": "Odpoczynek"
+        },
+        {
+          "id": "bestreaso_5",
+          "text": "Unikanie ludzi"
+        },
+        {
+          "id": "bestreaso_6",
+          "text": "Porządki"
+        }
+      ]
+    },
+    {
+      "id": "general_d_035",
+      "text": "Ulubione ciasteczko?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritec_1",
+          "text": "Z kawałkami czekolady"
+        },
+        {
+          "id": "favoritec_2",
+          "text": "Owsiane"
+        },
+        {
+          "id": "favoritec_3",
+          "text": "Z masłem orzechowym"
+        },
+        {
+          "id": "favoritec_4",
+          "text": "Cukrowe"
+        },
+        {
+          "id": "favoritec_5",
+          "text": "Cynamonowe"
+        },
+        {
+          "id": "favoritec_6",
+          "text": "Makaronik"
+        }
+      ]
+    },
+    {
+      "id": "general_d_036",
+      "text": "Ulubione ciasto?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritec_1",
+          "text": "Czekoladowe"
+        },
+        {
+          "id": "favoritec_2",
+          "text": "Waniliowe"
+        },
+        {
+          "id": "favoritec_3",
+          "text": "Red velvet"
+        },
+        {
+          "id": "favoritec_4",
+          "text": "Marchewkowe"
+        },
+        {
+          "id": "favoritec_5",
+          "text": "Sernik"
+        },
+        {
+          "id": "favoritec_6",
+          "text": "Cytrynowe"
+        }
+      ]
+    },
+    {
+      "id": "general_d_037",
+      "text": "Najlepszy czas na podróże?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttime_1",
+          "text": "Wiosna"
+        },
+        {
+          "id": "besttime_2",
+          "text": "Lato"
+        },
+        {
+          "id": "besttime_3",
+          "text": "Jesień"
+        },
+        {
+          "id": "besttime_4",
+          "text": "Zima"
+        },
+        {
+          "id": "besttime_5",
+          "text": "Poza sezonem"
+        },
+        {
+          "id": "besttime_6",
+          "text": "Zawsze"
+        }
+      ]
+    },
+    {
+      "id": "general_d_038",
+      "text": "Najciekawszy przedmiot?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostinter_1",
+          "text": "Historia"
+        },
+        {
+          "id": "mostinter_2",
+          "text": "Nauka"
+        },
+        {
+          "id": "mostinter_3",
+          "text": "Sztuka"
+        },
+        {
+          "id": "mostinter_4",
+          "text": "Matematyka"
+        },
+        {
+          "id": "mostinter_5",
+          "text": "Literatura"
+        },
+        {
+          "id": "mostinter_6",
+          "text": "Technologia"
+        }
+      ]
+    },
+    {
+      "id": "general_d_039",
+      "text": "Najlepszy sposób na przywitanie znajomych?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Przytulenie"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Uścisk dłoni"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Przybicie piątki"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Machanie"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Uśmiech"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Przybicie żółwika"
+        }
+      ]
+    }
+  ]
+}

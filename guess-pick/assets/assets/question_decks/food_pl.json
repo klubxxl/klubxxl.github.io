@@ -1,0 +1,937 @@
+{
+    "deck": {
+        "id": "food",
+        "name": "Jedzenie i Gotowanie Rozszerzone",
+        "description": "Zabawne i smaczne pytania dla miłośników jedzenia.",
+        "category": "food",
+        "version": "3.0.0",
+        "language": "pl"
+    },
+    "questions": [
+        {
+            "id": "food_p_001",
+            "text": "Kto je najszybciej?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_002",
+            "text": "Kto najchętniej spróbowałby dziwnej kombinacji smaków?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_003",
+            "text": "Kto najczęściej przypala jedzenie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_004",
+            "text": "Kto najdłużej wytrzymałby bez czekolady?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_005",
+            "text": "Kto jest najbardziej wybredny?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_006",
+            "text": "Kto zamówiłby deser nawet jeśli jest pełny?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_007",
+            "text": "Kto zawsze coś rozlewa?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_008",
+            "text": "Kto najchętniej zjadłby ostatni kawałek pizzy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_009",
+            "text": "Kto nie znosi ostrego jedzenia?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_010",
+            "text": "Kto robi najlepsze kanapki?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_011",
+            "text": "Kto wygrałby konkurs jedzenia hot dogów?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_012",
+            "text": "Kto nigdy nie kończy swojego talerza?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_013",
+            "text": "Kto pije najwięcej kawy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_014",
+            "text": "Kto najwięcej podjada w ciągu dnia?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_015",
+            "text": "Kto najdłużej zastanawia się co zamówić?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_016",
+            "text": "Kto byłby najlepszym krytykiem kulinarnym?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_017",
+            "text": "Kto je najwięcej warzyw?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_018",
+            "text": "Kto najchętniej spróbowałby ugotować coś wykwintnego?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_019",
+            "text": "Kto dodaje najwięcej soli do jedzenia?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_020",
+            "text": "Kto zawsze ma ochotę na nocne przekąski?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_021",
+            "text": "Kto ugotowałby najlepszy obiad dla rodziny?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_022",
+            "text": "Kto najwięcej narzeka na jedzenie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_023",
+            "text": "Kto najlepiej nakrywa do stołu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_024",
+            "text": "Kto najprawdopodobniej zostałby szefem kuchni?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_p_025",
+            "text": "Kto nie wyobraża sobie filmu bez przekąsek?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "food_d_001",
+            "text": "Najlepszy dodatek do pizzy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestpizza_1",
+                    "text": "Pepperoni"
+                },
+                {
+                    "id": "bestpizza_2",
+                    "text": "Ser"
+                },
+                {
+                    "id": "bestpizza_3",
+                    "text": "Pieczarki"
+                },
+                {
+                    "id": "bestpizza_4",
+                    "text": "Ananas"
+                },
+                {
+                    "id": "bestpizza_5",
+                    "text": "Szynka"
+                },
+                {
+                    "id": "bestpizza_6",
+                    "text": "Oliwki"
+                }
+            ]
+        },
+        {
+            "id": "food_d_002",
+            "text": "Ulubiony rodzaj makaronu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritet_1",
+                    "text": "Spaghetti"
+                },
+                {
+                    "id": "favoritet_2",
+                    "text": "Penne"
+                },
+                {
+                    "id": "favoritet_3",
+                    "text": "Fettuccine"
+                },
+                {
+                    "id": "favoritet_4",
+                    "text": "Ravioli"
+                },
+                {
+                    "id": "favoritet_5",
+                    "text": "Makaron muszelki"
+                },
+                {
+                    "id": "favoritet_6",
+                    "text": "Lasagne"
+                }
+            ]
+        },
+        {
+            "id": "food_d_003",
+            "text": "Najlepsza kuchnia świata?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestcuisi_1",
+                    "text": "Włoska"
+                },
+                {
+                    "id": "bestcuisi_2",
+                    "text": "Meksykańska"
+                },
+                {
+                    "id": "bestcuisi_3",
+                    "text": "Chińska"
+                },
+                {
+                    "id": "bestcuisi_4",
+                    "text": "Indyjska"
+                },
+                {
+                    "id": "bestcuisi_5",
+                    "text": "Francuska"
+                },
+                {
+                    "id": "bestcuisi_6",
+                    "text": "Amerykańska"
+                }
+            ]
+        },
+        {
+            "id": "food_d_004",
+            "text": "Ulubione śniadanie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoriteb_1",
+                    "text": "Naleśniki"
+                },
+                {
+                    "id": "favoriteb_2",
+                    "text": "Jajka i bekon"
+                },
+                {
+                    "id": "favoriteb_3",
+                    "text": "Płatki"
+                },
+                {
+                    "id": "favoriteb_4",
+                    "text": "Tosty"
+                },
+                {
+                    "id": "favoriteb_5",
+                    "text": "Gofry"
+                },
+                {
+                    "id": "favoriteb_6",
+                    "text": "Owoce"
+                }
+            ]
+        },
+        {
+            "id": "food_d_005",
+            "text": "Najlepsza przekąska?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestsnack_1",
+                    "text": "Chipsy"
+                },
+                {
+                    "id": "bestsnack_2",
+                    "text": "Ciastka"
+                },
+                {
+                    "id": "bestsnack_3",
+                    "text": "Owoce"
+                },
+                {
+                    "id": "bestsnack_4",
+                    "text": "Orzechy"
+                },
+                {
+                    "id": "bestsnack_5",
+                    "text": "Popcorn"
+                },
+                {
+                    "id": "bestsnack_6",
+                    "text": "Czekolada"
+                }
+            ]
+        },
+        {
+            "id": "food_d_006",
+            "text": "Najlepszy smak lodów?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "besticec_1",
+                    "text": "Waniliowe"
+                },
+                {
+                    "id": "besticec_2",
+                    "text": "Czekoladowe"
+                },
+                {
+                    "id": "besticec_3",
+                    "text": "Truskawkowe"
+                },
+                {
+                    "id": "besticec_4",
+                    "text": "Miętowe"
+                },
+                {
+                    "id": "besticec_5",
+                    "text": "Cookie Dough"
+                },
+                {
+                    "id": "besticec_6",
+                    "text": "Karmelowe"
+                }
+            ]
+        },
+        {
+            "id": "food_d_007",
+            "text": "Najlepszy napój do obiadu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestdrink_1",
+                    "text": "Woda"
+                },
+                {
+                    "id": "bestdrink_2",
+                    "text": "Sok"
+                },
+                {
+                    "id": "bestdrink_3",
+                    "text": "Napój gazowany"
+                },
+                {
+                    "id": "bestdrink_4",
+                    "text": "Mleko"
+                },
+                {
+                    "id": "bestdrink_5",
+                    "text": "Wino"
+                },
+                {
+                    "id": "bestdrink_6",
+                    "text": "Piwo"
+                }
+            ]
+        },
+        {
+            "id": "food_d_008",
+            "text": "Ulubione jedzenie na pocieszenie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritec_1",
+                    "text": "Makaron z serem"
+                },
+                {
+                    "id": "favoritec_2",
+                    "text": "Zupa"
+                },
+                {
+                    "id": "favoritec_3",
+                    "text": "Pizza"
+                },
+                {
+                    "id": "favoritec_4",
+                    "text": "Puree ziemniaczane"
+                },
+                {
+                    "id": "favoritec_5",
+                    "text": "Burgery"
+                },
+                {
+                    "id": "favoritec_6",
+                    "text": "Czekoladowe ciasto"
+                }
+            ]
+        },
+        {
+            "id": "food_d_009",
+            "text": "Najlepszy dodatek do dania?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestside_1",
+                    "text": "Frytki"
+                },
+                {
+                    "id": "bestside_2",
+                    "text": "Sałatka"
+                },
+                {
+                    "id": "bestside_3",
+                    "text": "Ryż"
+                },
+                {
+                    "id": "bestside_4",
+                    "text": "Chleb czosnkowy"
+                },
+                {
+                    "id": "bestside_5",
+                    "text": "Puree ziemniaczane"
+                },
+                {
+                    "id": "bestside_6",
+                    "text": "Gotowane warzywa"
+                }
+            ]
+        },
+        {
+            "id": "food_d_010",
+            "text": "Ulubiona zupa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favorites_1",
+                    "text": "Pomidorowa"
+                },
+                {
+                    "id": "favorites_2",
+                    "text": "Rosół z kurczaka"
+                },
+                {
+                    "id": "favorites_3",
+                    "text": "Dynia"
+                },
+                {
+                    "id": "favorites_4",
+                    "text": "Pieczarkowa"
+                },
+                {
+                    "id": "favorites_5",
+                    "text": "Minestrone"
+                },
+                {
+                    "id": "favorites_6",
+                    "text": "Gulasz"
+                }
+            ]
+        },
+        {
+            "id": "food_d_011",
+            "text": "Najgorsze jedzenie do wylania na ubranie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worstfood_1",
+                    "text": "Sos pomidorowy"
+                },
+                {
+                    "id": "worstfood_2",
+                    "text": "Curry"
+                },
+                {
+                    "id": "worstfood_3",
+                    "text": "Czerwone wino"
+                },
+                {
+                    "id": "worstfood_4",
+                    "text": "Olej"
+                },
+                {
+                    "id": "worstfood_5",
+                    "text": "Ketchup"
+                },
+                {
+                    "id": "worstfood_6",
+                    "text": "Czekolada"
+                }
+            ]
+        },
+        {
+            "id": "food_d_012",
+            "text": "Ulubione jedzenie uliczne?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favorites_1",
+                    "text": "Hot Dog"
+                },
+                {
+                    "id": "favorites_2",
+                    "text": "Kebab"
+                },
+                {
+                    "id": "favorites_3",
+                    "text": "Tacos"
+                },
+                {
+                    "id": "favorites_4",
+                    "text": "Burrito"
+                },
+                {
+                    "id": "favorites_5",
+                    "text": "Falafel"
+                },
+                {
+                    "id": "favorites_6",
+                    "text": "Naleśniki"
+                }
+            ]
+        },
+        {
+            "id": "food_d_013",
+            "text": "Najbardziej orzeźwiający letni napój?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "mostrefre_1",
+                    "text": "Lemoniada"
+                },
+                {
+                    "id": "mostrefre_2",
+                    "text": "Herbata mrożona"
+                },
+                {
+                    "id": "mostrefre_3",
+                    "text": "Smoothie"
+                },
+                {
+                    "id": "mostrefre_4",
+                    "text": "Shake mleczny"
+                },
+                {
+                    "id": "mostrefre_5",
+                    "text": "Sok owocowy"
+                },
+                {
+                    "id": "mostrefre_6",
+                    "text": "Woda"
+                }
+            ]
+        },
+        {
+            "id": "food_d_014",
+            "text": "Najlepszy deser?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestdesse_1",
+                    "text": "Lody"
+                },
+                {
+                    "id": "bestdesse_2",
+                    "text": "Brownie"
+                },
+                {
+                    "id": "bestdesse_3",
+                    "text": "Szarlotka"
+                },
+                {
+                    "id": "bestdesse_4",
+                    "text": "Tiramisu"
+                },
+                {
+                    "id": "bestdesse_5",
+                    "text": "Pudding"
+                },
+                {
+                    "id": "bestdesse_6",
+                    "text": "Sernik"
+                }
+            ]
+        },
+        {
+            "id": "food_d_015",
+            "text": "Najgorsze połączenie smaków?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worstfood_1",
+                    "text": "Ananas na pizzy"
+                },
+                {
+                    "id": "worstfood_2",
+                    "text": "Ketchup do makaronu"
+                },
+                {
+                    "id": "worstfood_3",
+                    "text": "Płatki z wodą"
+                },
+                {
+                    "id": "worstfood_4",
+                    "text": "Ogrzana zimna kawa"
+                },
+                {
+                    "id": "worstfood_5",
+                    "text": "Sok pomarańczowy po myciu zębów"
+                },
+                {
+                    "id": "worstfood_6",
+                    "text": "Stek well done"
+                }
+            ]
+        },
+        {
+            "id": "food_d_016",
+            "text": "Ulubiony świąteczny smakołyk?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoriteh_1",
+                    "text": "Pierniczki"
+                },
+                {
+                    "id": "favoriteh_2",
+                    "text": "Laski cukrowe"
+                },
+                {
+                    "id": "favoriteh_3",
+                    "text": "Krówki"
+                },
+                {
+                    "id": "favoriteh_4",
+                    "text": "Keks"
+                },
+                {
+                    "id": "favoriteh_5",
+                    "text": "Marcepan"
+                },
+                {
+                    "id": "favoriteh_6",
+                    "text": "Trufle czekoladowe"
+                }
+            ]
+        },
+        {
+            "id": "food_d_017",
+            "text": "Najlepszy napój do śniadania?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestbreak_1",
+                    "text": "Kawa"
+                },
+                {
+                    "id": "bestbreak_2",
+                    "text": "Herbata"
+                },
+                {
+                    "id": "bestbreak_3",
+                    "text": "Sok"
+                },
+                {
+                    "id": "bestbreak_4",
+                    "text": "Mleko"
+                },
+                {
+                    "id": "bestbreak_5",
+                    "text": "Smoothie"
+                },
+                {
+                    "id": "bestbreak_6",
+                    "text": "Gorąca czekolada"
+                }
+            ]
+        },
+        {
+            "id": "food_d_018",
+            "text": "Ulubiony rodzaj sera?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritet_1",
+                    "text": "Cheddar"
+                },
+                {
+                    "id": "favoritet_2",
+                    "text": "Mozzarella"
+                },
+                {
+                    "id": "favoritet_3",
+                    "text": "Brie"
+                },
+                {
+                    "id": "favoritet_4",
+                    "text": "Parmezan"
+                },
+                {
+                    "id": "favoritet_5",
+                    "text": "Kozi ser"
+                },
+                {
+                    "id": "favoritet_6",
+                    "text": "Ser pleśniowy"
+                }
+            ]
+        },
+        {
+            "id": "food_d_019",
+            "text": "Najlepszy smak tortu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestcake_1",
+                    "text": "Czekoladowy"
+                },
+                {
+                    "id": "bestcake_2",
+                    "text": "Waniliowy"
+                },
+                {
+                    "id": "bestcake_3",
+                    "text": "Marchewkowy"
+                },
+                {
+                    "id": "bestcake_4",
+                    "text": "Red Velvet"
+                },
+                {
+                    "id": "bestcake_5",
+                    "text": "Sernikowy"
+                },
+                {
+                    "id": "bestcake_6",
+                    "text": "Cytrynowy"
+                }
+            ]
+        },
+        {
+            "id": "food_d_020",
+            "text": "Najlepszy dodatek do naleśników?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "besttoppi_1",
+                    "text": "Syrop klonowy"
+                },
+                {
+                    "id": "besttoppi_2",
+                    "text": "Sos czekoladowy"
+                },
+                {
+                    "id": "besttoppi_3",
+                    "text": "Jagody"
+                },
+                {
+                    "id": "besttoppi_4",
+                    "text": "Banany"
+                },
+                {
+                    "id": "besttoppi_5",
+                    "text": "Bita śmietana"
+                },
+                {
+                    "id": "besttoppi_6",
+                    "text": "Miód"
+                }
+            ]
+        },
+        {
+            "id": "food_d_021",
+            "text": "Najlepszy dodatek do burgera?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestburge_1",
+                    "text": "Sałata"
+                },
+                {
+                    "id": "bestburge_2",
+                    "text": "Pomidor"
+                },
+                {
+                    "id": "bestburge_3",
+                    "text": "Ser"
+                },
+                {
+                    "id": "bestburge_4",
+                    "text": "Boczek"
+                },
+                {
+                    "id": "bestburge_5",
+                    "text": "Ogórki"
+                },
+                {
+                    "id": "bestburge_6",
+                    "text": "Cebula"
+                }
+            ]
+        },
+        {
+            "id": "food_d_022",
+            "text": "Ulubiony składnik sałatki?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favorites_1",
+                    "text": "Pomidor"
+                },
+                {
+                    "id": "favorites_2",
+                    "text": "Ogórek"
+                },
+                {
+                    "id": "favorites_3",
+                    "text": "Marchewka"
+                },
+                {
+                    "id": "favorites_4",
+                    "text": "Oliwki"
+                },
+                {
+                    "id": "favorites_5",
+                    "text": "Feta"
+                },
+                {
+                    "id": "favorites_6",
+                    "text": "Awokado"
+                }
+            ]
+        },
+        {
+            "id": "food_d_023",
+            "text": "Najlepsze jedzenie do dzielenia się?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestfood_1",
+                    "text": "Pizza"
+                },
+                {
+                    "id": "bestfood_2",
+                    "text": "Nachosy"
+                },
+                {
+                    "id": "bestfood_3",
+                    "text": "Skrzydełka"
+                },
+                {
+                    "id": "bestfood_4",
+                    "text": "Tapas"
+                },
+                {
+                    "id": "bestfood_5",
+                    "text": "Fondue"
+                },
+                {
+                    "id": "bestfood_6",
+                    "text": "Sushi"
+                }
+            ]
+        },
+        {
+            "id": "food_d_024",
+            "text": "Najlepszy dodatek do tostów?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "besttoppi_1",
+                    "text": "Masło"
+                },
+                {
+                    "id": "besttoppi_2",
+                    "text": "Dżem"
+                },
+                {
+                    "id": "besttoppi_3",
+                    "text": "Miód"
+                },
+                {
+                    "id": "besttoppi_4",
+                    "text": "Awokado"
+                },
+                {
+                    "id": "besttoppi_5",
+                    "text": "Masło orzechowe"
+                },
+                {
+                    "id": "besttoppi_6",
+                    "text": "Nutella"
+                }
+            ]
+        },
+        {
+            "id": "food_d_025",
+            "text": "Najlepsza przekąska o północy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestmidni_1",
+                    "text": "Pizza z lodówki"
+                },
+                {
+                    "id": "bestmidni_2",
+                    "text": "Chipsy"
+                },
+                {
+                    "id": "bestmidni_3",
+                    "text": "Lody"
+                },
+                {
+                    "id": "bestmidni_4",
+                    "text": "Ciastka"
+                },
+                {
+                    "id": "bestmidni_5",
+                    "text": "Popcorn"
+                },
+                {
+                    "id": "bestmidni_6",
+                    "text": "Kanapka"
+                }
+            ]
+        }
+    ]
+}

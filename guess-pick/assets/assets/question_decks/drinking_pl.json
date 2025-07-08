@@ -1,0 +1,737 @@
+{
+    "deck": {
+        "id": "drinking",
+        "name": "Imprezy i Picie",
+        "description": "Zabawne pytania o imprezach, piciu i wspólnych zabawach towarzyskich.",
+        "category": "drinking",
+        "version": "3.0.0",
+        "language": "pl"
+    },
+    "questions": [
+        {
+            "id": "drinking_p_001",
+            "text": "Kto najczęściej zaczyna imprezę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_002",
+            "text": "Kto najszybciej się upija?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_003",
+            "text": "Kto pierwszy zatańczy na stole?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_004",
+            "text": "Kto opowiada najzabawniejsze pijackie historie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_005",
+            "text": "Kto najczęściej zapomina co się wydarzyło?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_006",
+            "text": "Kto zawsze chce grać w gry alkoholowe?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_007",
+            "text": "Kogo trzeba odprowadzać do domu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_008",
+            "text": "Kto zostaje DJ-em na imprezach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_009",
+            "text": "Kto najprawdopodobniej wskoczyłby nago do wody?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_010",
+            "text": "Kto najgłośniej śpiewa po alkoholu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_011",
+            "text": "Kto próbuje flirtować z obcymi?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_012",
+            "text": "Kto najlepiej gra w beer ponga?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_013",
+            "text": "Kto zgłosiłby się do konkursu na shoty?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_014",
+            "text": "Kto zawsze robi imprezowe selfie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_015",
+            "text": "Kto kończy płacząc po zbyt dużej ilości alkoholu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_016",
+            "text": "Kto jest najlepszym skrzydłowym (wingman/wingwoman)?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_017",
+            "text": "Kto zaczyna głębokie rozmowy, będąc podpitym?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_018",
+            "text": "Kto robi się super hojny po alkoholu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_019",
+            "text": "Kto zawsze gubi telefon na imprezach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_020",
+            "text": "Kto rozpocząłby korowód (conga)?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_021",
+            "text": "Kto najgorzej znosi kaca?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_022",
+            "text": "Kto zamówiłby najbardziej dziwacznego drinka?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_023",
+            "text": "Kto chciałby dalej imprezować nawet po zamknięciu klubu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_024",
+            "text": "Kto próbuje organizować następną imprezę zanim ta się skończy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_p_025",
+            "text": "Kto daje najlepsze pijane przytulasy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "drinking_d_001",
+            "text": "Ulubiony imprezowy napój?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritep_1",
+                    "text": "Piwo"
+                },
+                {
+                    "id": "favoritep_2",
+                    "text": "Wino"
+                },
+                {
+                    "id": "favoritep_3",
+                    "text": "Koktajl"
+                },
+                {
+                    "id": "favoritep_4",
+                    "text": "Shoty"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_002",
+            "text": "Jak często pijesz alkohol?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "howoften_1",
+                    "text": "W każdy weekend"
+                },
+                {
+                    "id": "howoften_2",
+                    "text": "Czasami"
+                },
+                {
+                    "id": "howoften_3",
+                    "text": "Rzadko"
+                },
+                {
+                    "id": "howoften_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_003",
+            "text": "Czy kiedykolwiek miałeś/miałaś urwany film?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everblack_1",
+                    "text": "Tak, wiele razy"
+                },
+                {
+                    "id": "everblack_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "everblack_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everblack_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_004",
+            "text": "Najlepsza gra alkoholowa?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestdrink_1",
+                    "text": "Nigdy przenigdy"
+                },
+                {
+                    "id": "bestdrink_2",
+                    "text": "Beer Pong"
+                },
+                {
+                    "id": "bestdrink_3",
+                    "text": "Flip Cup"
+                },
+                {
+                    "id": "bestdrink_4",
+                    "text": "Kings"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_005",
+            "text": "Najgorsza rzecz po piciu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worstthin_1",
+                    "text": "Kac"
+                },
+                {
+                    "id": "worstthin_2",
+                    "text": "Pijane SMS-y"
+                },
+                {
+                    "id": "worstthin_3",
+                    "text": "Wstyd"
+                },
+                {
+                    "id": "worstthin_4",
+                    "text": "Gubienie rzeczy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_006",
+            "text": "Twoje ulubione jedzenie na kaca?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "go-todrun_1",
+                    "text": "Pizza"
+                },
+                {
+                    "id": "go-todrun_2",
+                    "text": "Frytki"
+                },
+                {
+                    "id": "go-todrun_3",
+                    "text": "Burger"
+                },
+                {
+                    "id": "go-todrun_4",
+                    "text": "Tacos"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_007",
+            "text": "Jaki jesteś, gdy jesteś pijany?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "whatkind_1",
+                    "text": "Szczęśliwy/a"
+                },
+                {
+                    "id": "whatkind_2",
+                    "text": "Wzruszony/a"
+                },
+                {
+                    "id": "whatkind_3",
+                    "text": "Flirtujący/a"
+                },
+                {
+                    "id": "whatkind_4",
+                    "text": "Śpiący/a"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_008",
+            "text": "Czy kiedykolwiek kąpałeś/aś się nago na imprezie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everskinn_1",
+                    "text": "Tak, uwielbiam"
+                },
+                {
+                    "id": "everskinn_2",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everskinn_3",
+                    "text": "Myślałem/am o tym"
+                },
+                {
+                    "id": "everskinn_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_009",
+            "text": "Najlepsze miejsce na imprezę?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestplace_1",
+                    "text": "Klub"
+                },
+                {
+                    "id": "bestplace_2",
+                    "text": "Dom"
+                },
+                {
+                    "id": "bestplace_3",
+                    "text": "Plaża"
+                },
+                {
+                    "id": "bestplace_4",
+                    "text": "Festiwal"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_010",
+            "text": "Najgorszy sposób na leczenie kaca?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worsthang_1",
+                    "text": "Klin klinem"
+                },
+                {
+                    "id": "worsthang_2",
+                    "text": "Tłuste jedzenie"
+                },
+                {
+                    "id": "worsthang_3",
+                    "text": "Więcej snu"
+                },
+                {
+                    "id": "worsthang_4",
+                    "text": "Zimny prysznic"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_011",
+            "text": "Ile shotów to za dużo?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "howmanys_1",
+                    "text": "5+"
+                },
+                {
+                    "id": "howmanys_2",
+                    "text": "3-4"
+                },
+                {
+                    "id": "howmanys_3",
+                    "text": "1-2"
+                },
+                {
+                    "id": "howmanys_4",
+                    "text": "W ogóle"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_012",
+            "text": "Ulubiony toast przy piciu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favorited_1",
+                    "text": "Na zdrowie!"
+                },
+                {
+                    "id": "favorited_2",
+                    "text": "Za nas!"
+                },
+                {
+                    "id": "favorited_3",
+                    "text": "Do dna!"
+                },
+                {
+                    "id": "favorited_4",
+                    "text": "YOLO!"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_013",
+            "text": "Czy kiedykolwiek coś zniszczyłeś/aś będąc pijanym?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everbroke_1",
+                    "text": "Tak, wiele razy"
+                },
+                {
+                    "id": "everbroke_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "everbroke_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everbroke_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_014",
+            "text": "Ulubiona przekąska w barze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoriteb_1",
+                    "text": "Orzeszki"
+                },
+                {
+                    "id": "favoriteb_2",
+                    "text": "Chipsy"
+                },
+                {
+                    "id": "favoriteb_3",
+                    "text": "Skrzydełka"
+                },
+                {
+                    "id": "favoriteb_4",
+                    "text": "Popcorn"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_015",
+            "text": "Najlepsza pora na rozpoczęcie picia?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "besttime_1",
+                    "text": "Rano"
+                },
+                {
+                    "id": "besttime_2",
+                    "text": "Po południu"
+                },
+                {
+                    "id": "besttime_3",
+                    "text": "Wieczorem"
+                },
+                {
+                    "id": "besttime_4",
+                    "text": "Późno w nocy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_016",
+            "text": "Czy dzwoniłeś/aś kiedyś do byłego/błej po alkoholu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "evercalle_1",
+                    "text": "Tak, ups"
+                },
+                {
+                    "id": "evercalle_2",
+                    "text": "Prawie"
+                },
+                {
+                    "id": "evercalle_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "evercalle_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_017",
+            "text": "Najgorszy zakup pod wpływem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worstdrun_1",
+                    "text": "Ubrania"
+                },
+                {
+                    "id": "worstdrun_2",
+                    "text": "Jedzenie"
+                },
+                {
+                    "id": "worstdrun_3",
+                    "text": "Bilety"
+                },
+                {
+                    "id": "worstdrun_4",
+                    "text": "Losowe rzeczy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_018",
+            "text": "Najlepszy motyw imprezy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestparty_1",
+                    "text": "Kostiumowa"
+                },
+                {
+                    "id": "bestparty_2",
+                    "text": "Czarno-biała"
+                },
+                {
+                    "id": "bestparty_3",
+                    "text": "Plażowa"
+                },
+                {
+                    "id": "bestparty_4",
+                    "text": "Lata 80."
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_019",
+            "text": "Czy tańczyłeś/aś kiedyś na meblach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everdance_1",
+                    "text": "Tak, wiele razy"
+                },
+                {
+                    "id": "everdance_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "everdance_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everdance_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_020",
+            "text": "Ulubiony koktajl?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritec_1",
+                    "text": "Margarita"
+                },
+                {
+                    "id": "favoritec_2",
+                    "text": "Mojito"
+                },
+                {
+                    "id": "favoritec_3",
+                    "text": "Cosmopolitan"
+                },
+                {
+                    "id": "favoritec_4",
+                    "text": "Old Fashioned"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_021",
+            "text": "Kto płaci za drinki?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "whopaysf_1",
+                    "text": "Dzielimy się"
+                },
+                {
+                    "id": "whopaysf_2",
+                    "text": "Kto zaprasza"
+                },
+                {
+                    "id": "whopaysf_3",
+                    "text": "Na zmianę"
+                },
+                {
+                    "id": "whopaysf_4",
+                    "text": "Zawsze ja"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_022",
+            "text": "Ulubiony shot?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favorites_1",
+                    "text": "Tequila"
+                },
+                {
+                    "id": "favorites_2",
+                    "text": "Wódka"
+                },
+                {
+                    "id": "favorites_3",
+                    "text": "Whiskey"
+                },
+                {
+                    "id": "favorites_4",
+                    "text": "Jäger"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_023",
+            "text": "Najlepsza część imprezy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestpart_1",
+                    "text": "Muzyka"
+                },
+                {
+                    "id": "bestpart_2",
+                    "text": "Drinki"
+                },
+                {
+                    "id": "bestpart_3",
+                    "text": "Przyjaciele"
+                },
+                {
+                    "id": "bestpart_4",
+                    "text": "Taniec"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_024",
+            "text": "Czy kiedykolwiek skłamałeś/aś, by ukryć, że jesteś pijany?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everlied_1",
+                    "text": "Tak, często"
+                },
+                {
+                    "id": "everlied_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "everlied_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everlied_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "drinking_d_025",
+            "text": "Co sprawia, że przestajesz pić?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "whatmakes_1",
+                    "text": "Źle się czuję"
+                },
+                {
+                    "id": "whatmakes_2",
+                    "text": "Brak pieniędzy"
+                },
+                {
+                    "id": "whatmakes_3",
+                    "text": "Przestają znajomi"
+                },
+                {
+                    "id": "whatmakes_4",
+                    "text": "Nigdy nie przestaję"
+                }
+            ]
+        }
+    ]
+}

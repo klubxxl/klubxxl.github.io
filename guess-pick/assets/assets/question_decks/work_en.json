@@ -1,0 +1,937 @@
+{
+  "deck": {
+    "id": "work",
+    "name": "Work & Career",
+    "description": "Fun and thought-provoking work-related questions.",
+    "category": "work",
+    "version": "3.0.0",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "id": "work_p_001",
+      "text": "Who is most likely to become the boss?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_002",
+      "text": "Who is always early to work?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_003",
+      "text": "Who is most likely to work through lunch?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_004",
+      "text": "Who is most organized at work?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_005",
+      "text": "Who is most likely to forget a meeting?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_006",
+      "text": "Who would plan the best office party?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_007",
+      "text": "Who is always multitasking?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_008",
+      "text": "Who is best at presentations?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_009",
+      "text": "Who would quit without notice?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_010",
+      "text": "Who keeps the office plants alive?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_011",
+      "text": "Who would handle a crisis best?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_012",
+      "text": "Who is the biggest coffee addict?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_013",
+      "text": "Who makes the best team leader?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_014",
+      "text": "Who would win employee of the month?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_015",
+      "text": "Who would accidentally send an embarrassing email?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_016",
+      "text": "Who has the messiest desk?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_017",
+      "text": "Who is the best at motivating others?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_018",
+      "text": "Who would sneak out early on a Friday?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_019",
+      "text": "Who takes the longest breaks?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_020",
+      "text": "Who gives the best pep talks?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_021",
+      "text": "Who is most likely to start their own business?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_022",
+      "text": "Who is most likely to work overtime?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_023",
+      "text": "Who would become a mentor?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_024",
+      "text": "Who is always helping colleagues?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_p_025",
+      "text": "Who is most likely to get promoted first?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "work_d_001",
+      "text": "Most important in a job?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostimpor_1",
+          "text": "Salary"
+        },
+        {
+          "id": "mostimpor_2",
+          "text": "Work-Life Balance"
+        },
+        {
+          "id": "mostimpor_3",
+          "text": "Growth"
+        },
+        {
+          "id": "mostimpor_4",
+          "text": "Colleagues"
+        },
+        {
+          "id": "mostimpor_5",
+          "text": "Security"
+        },
+        {
+          "id": "mostimpor_6",
+          "text": "Meaningful Work"
+        }
+      ]
+    },
+    {
+      "id": "work_d_002",
+      "text": "Best office perk?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestoffic_1",
+          "text": "Free Food"
+        },
+        {
+          "id": "bestoffic_2",
+          "text": "Flexible Hours"
+        },
+        {
+          "id": "bestoffic_3",
+          "text": "Gym"
+        },
+        {
+          "id": "bestoffic_4",
+          "text": "Travel"
+        },
+        {
+          "id": "bestoffic_5",
+          "text": "Learning Budget"
+        },
+        {
+          "id": "bestoffic_6",
+          "text": "WFH"
+        }
+      ]
+    },
+    {
+      "id": "work_d_003",
+      "text": "Ideal work environment?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "idealwork_1",
+          "text": "Open Office"
+        },
+        {
+          "id": "idealwork_2",
+          "text": "Private Office"
+        },
+        {
+          "id": "idealwork_3",
+          "text": "Remote"
+        },
+        {
+          "id": "idealwork_4",
+          "text": "Co-working"
+        },
+        {
+          "id": "idealwork_5",
+          "text": "Outdoor"
+        },
+        {
+          "id": "idealwork_6",
+          "text": "Cafe"
+        }
+      ]
+    },
+    {
+      "id": "work_d_004",
+      "text": "Worst office habit?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstoffi_1",
+          "text": "Loud Typing"
+        },
+        {
+          "id": "worstoffi_2",
+          "text": "Strong Perfume"
+        },
+        {
+          "id": "worstoffi_3",
+          "text": "Messy Desk"
+        },
+        {
+          "id": "worstoffi_4",
+          "text": "Snacking"
+        },
+        {
+          "id": "worstoffi_5",
+          "text": "Phone Calls"
+        },
+        {
+          "id": "worstoffi_6",
+          "text": "Microwave Fish"
+        }
+      ]
+    },
+    {
+      "id": "work_d_005",
+      "text": "Best way to learn new skills?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Online Courses"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Mentorship"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Practice"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Books"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Conferences"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Ask Colleagues"
+        }
+      ]
+    },
+    {
+      "id": "work_d_006",
+      "text": "How often check work emails?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howoften_1",
+          "text": "Always"
+        },
+        {
+          "id": "howoften_2",
+          "text": "Hourly"
+        },
+        {
+          "id": "howoften_3",
+          "text": "Few Times Daily"
+        },
+        {
+          "id": "howoften_4",
+          "text": "During Work"
+        },
+        {
+          "id": "howoften_5",
+          "text": "Once a Day"
+        },
+        {
+          "id": "howoften_6",
+          "text": "Avoid It"
+        }
+      ]
+    },
+    {
+      "id": "work_d_007",
+      "text": "Worst meeting behavior?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstmeet_1",
+          "text": "Late"
+        },
+        {
+          "id": "worstmeet_2",
+          "text": "On Phone"
+        },
+        {
+          "id": "worstmeet_3",
+          "text": "Dominates"
+        },
+        {
+          "id": "worstmeet_4",
+          "text": "Silent"
+        },
+        {
+          "id": "worstmeet_5",
+          "text": "Interrupts"
+        },
+        {
+          "id": "worstmeet_6",
+          "text": "Unprepared"
+        }
+      ]
+    },
+    {
+      "id": "work_d_008",
+      "text": "Best work motivator?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwork_1",
+          "text": "Money"
+        },
+        {
+          "id": "bestwork_2",
+          "text": "Recognition"
+        },
+        {
+          "id": "bestwork_3",
+          "text": "Growth"
+        },
+        {
+          "id": "bestwork_4",
+          "text": "Challenges"
+        },
+        {
+          "id": "bestwork_5",
+          "text": "Team"
+        },
+        {
+          "id": "bestwork_6",
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "work_d_009",
+      "text": "Best productivity method?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestprodu_1",
+          "text": "Pomodoro"
+        },
+        {
+          "id": "bestprodu_2",
+          "text": "To-Do Lists"
+        },
+        {
+          "id": "bestprodu_3",
+          "text": "Time Blocking"
+        },
+        {
+          "id": "bestprodu_4",
+          "text": "Deadlines"
+        },
+        {
+          "id": "bestprodu_5",
+          "text": "Music"
+        },
+        {
+          "id": "bestprodu_6",
+          "text": "Caffeine"
+        }
+      ]
+    },
+    {
+      "id": "work_d_010",
+      "text": "Ideal work schedule?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "idealwork_1",
+          "text": "9 to 5"
+        },
+        {
+          "id": "idealwork_2",
+          "text": "Early Bird"
+        },
+        {
+          "id": "idealwork_3",
+          "text": "Night Owl"
+        },
+        {
+          "id": "idealwork_4",
+          "text": "Flexible"
+        },
+        {
+          "id": "idealwork_5",
+          "text": "4-Day Week"
+        },
+        {
+          "id": "idealwork_6",
+          "text": "Compressed"
+        }
+      ]
+    },
+    {
+      "id": "work_d_011",
+      "text": "Best way to handle stress?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Exercise"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Breaks"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Organize"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Delegate"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Meditate"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Talk"
+        }
+      ]
+    },
+    {
+      "id": "work_d_012",
+      "text": "Worst workplace distraction?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstwork_1",
+          "text": "Social Media"
+        },
+        {
+          "id": "worstwork_2",
+          "text": "Chatty Colleagues"
+        },
+        {
+          "id": "worstwork_3",
+          "text": "Emails"
+        },
+        {
+          "id": "worstwork_4",
+          "text": "Noise"
+        },
+        {
+          "id": "worstwork_5",
+          "text": "Phone"
+        },
+        {
+          "id": "worstwork_6",
+          "text": "Food Smells"
+        }
+      ]
+    },
+    {
+      "id": "work_d_013",
+      "text": "Most important meeting?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostimpor_1",
+          "text": "Weekly Check-in"
+        },
+        {
+          "id": "mostimpor_2",
+          "text": "Project Kickoff"
+        },
+        {
+          "id": "mostimpor_3",
+          "text": "Brainstorming"
+        },
+        {
+          "id": "mostimpor_4",
+          "text": "1-on-1"
+        },
+        {
+          "id": "mostimpor_5",
+          "text": "Client Call"
+        },
+        {
+          "id": "mostimpor_6",
+          "text": "Training"
+        }
+      ]
+    },
+    {
+      "id": "work_d_014",
+      "text": "Best office celebration?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestoffic_1",
+          "text": "Birthday"
+        },
+        {
+          "id": "bestoffic_2",
+          "text": "Promotion"
+        },
+        {
+          "id": "bestoffic_3",
+          "text": "New Hire"
+        },
+        {
+          "id": "bestoffic_4",
+          "text": "Holiday"
+        },
+        {
+          "id": "bestoffic_5",
+          "text": "Farewell"
+        },
+        {
+          "id": "bestoffic_6",
+          "text": "Team Win"
+        }
+      ]
+    },
+    {
+      "id": "work_d_015",
+      "text": "Favorite break activity?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriteb_1",
+          "text": "Walk"
+        },
+        {
+          "id": "favoriteb_2",
+          "text": "Coffee"
+        },
+        {
+          "id": "favoriteb_3",
+          "text": "Snack"
+        },
+        {
+          "id": "favoriteb_4",
+          "text": "Chat"
+        },
+        {
+          "id": "favoriteb_5",
+          "text": "Phone"
+        },
+        {
+          "id": "favoriteb_6",
+          "text": "Read"
+        }
+      ]
+    },
+    {
+      "id": "work_d_016",
+      "text": "What inspires you most at work?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatinspi_1",
+          "text": "Success Stories"
+        },
+        {
+          "id": "whatinspi_2",
+          "text": "Team Support"
+        },
+        {
+          "id": "whatinspi_3",
+          "text": "Challenging Projects"
+        },
+        {
+          "id": "whatinspi_4",
+          "text": "Learning"
+        },
+        {
+          "id": "whatinspi_5",
+          "text": "Feedback"
+        },
+        {
+          "id": "whatinspi_6",
+          "text": "Company Vision"
+        }
+      ]
+    },
+    {
+      "id": "work_d_017",
+      "text": "Best lunch option?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestlunch_1",
+          "text": "Salad"
+        },
+        {
+          "id": "bestlunch_2",
+          "text": "Sandwich"
+        },
+        {
+          "id": "bestlunch_3",
+          "text": "Leftovers"
+        },
+        {
+          "id": "bestlunch_4",
+          "text": "Takeout"
+        },
+        {
+          "id": "bestlunch_5",
+          "text": "Fruit"
+        },
+        {
+          "id": "bestlunch_6",
+          "text": "Nothing"
+        }
+      ]
+    },
+    {
+      "id": "work_d_018",
+      "text": "Best reason to work remotely?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestreaso_1",
+          "text": "No Commute"
+        },
+        {
+          "id": "bestreaso_2",
+          "text": "Comfort"
+        },
+        {
+          "id": "bestreaso_3",
+          "text": "Focus"
+        },
+        {
+          "id": "bestreaso_4",
+          "text": "Flexibility"
+        },
+        {
+          "id": "bestreaso_5",
+          "text": "More Sleep"
+        },
+        {
+          "id": "bestreaso_6",
+          "text": "Save Money"
+        }
+      ]
+    },
+    {
+      "id": "work_d_019",
+      "text": "Biggest office gossip topic?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestof_1",
+          "text": "Raises"
+        },
+        {
+          "id": "biggestof_2",
+          "text": "Romance"
+        },
+        {
+          "id": "biggestof_3",
+          "text": "Fired People"
+        },
+        {
+          "id": "biggestof_4",
+          "text": "New Hires"
+        },
+        {
+          "id": "biggestof_5",
+          "text": "Managers"
+        },
+        {
+          "id": "biggestof_6",
+          "text": "Who’s Leaving"
+        }
+      ]
+    },
+    {
+      "id": "work_d_020",
+      "text": "Most satisfying work task?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostsatis_1",
+          "text": "Inbox Zero"
+        },
+        {
+          "id": "mostsatis_2",
+          "text": "Finish Project"
+        },
+        {
+          "id": "mostsatis_3",
+          "text": "Help Colleague"
+        },
+        {
+          "id": "mostsatis_4",
+          "text": "Learn Something"
+        },
+        {
+          "id": "mostsatis_5",
+          "text": "Positive Feedback"
+        },
+        {
+          "id": "mostsatis_6",
+          "text": "Leave on Time"
+        }
+      ]
+    },
+    {
+      "id": "work_d_021",
+      "text": "Best office wall decor?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestoffic_1",
+          "text": "Plants"
+        },
+        {
+          "id": "bestoffic_2",
+          "text": "Quotes"
+        },
+        {
+          "id": "bestoffic_3",
+          "text": "Photos"
+        },
+        {
+          "id": "bestoffic_4",
+          "text": "Art"
+        },
+        {
+          "id": "bestoffic_5",
+          "text": "Calendar"
+        },
+        {
+          "id": "bestoffic_6",
+          "text": "Nothing"
+        }
+      ]
+    },
+    {
+      "id": "work_d_022",
+      "text": "Best part of team meetings?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestpart_1",
+          "text": "Sharing Wins"
+        },
+        {
+          "id": "bestpart_2",
+          "text": "New Ideas"
+        },
+        {
+          "id": "bestpart_3",
+          "text": "Funny Stories"
+        },
+        {
+          "id": "bestpart_4",
+          "text": "Snacks"
+        },
+        {
+          "id": "bestpart_5",
+          "text": "Wrap-Up"
+        },
+        {
+          "id": "bestpart_6",
+          "text": "Nothing"
+        }
+      ]
+    },
+    {
+      "id": "work_d_023",
+      "text": "What would you celebrate first?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatwould_1",
+          "text": "New Project"
+        },
+        {
+          "id": "whatwould_2",
+          "text": "Promotion"
+        },
+        {
+          "id": "whatwould_3",
+          "text": "Team Goal"
+        },
+        {
+          "id": "whatwould_4",
+          "text": "Work Anniversary"
+        },
+        {
+          "id": "whatwould_5",
+          "text": "New Hire"
+        },
+        {
+          "id": "whatwould_6",
+          "text": "Surprise Bonus"
+        }
+      ]
+    },
+    {
+      "id": "work_d_024",
+      "text": "Best after-work plan?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestafter_1",
+          "text": "Drinks"
+        },
+        {
+          "id": "bestafter_2",
+          "text": "Gym"
+        },
+        {
+          "id": "bestafter_3",
+          "text": "Dinner Out"
+        },
+        {
+          "id": "bestafter_4",
+          "text": "Netflix"
+        },
+        {
+          "id": "bestafter_5",
+          "text": "Reading"
+        },
+        {
+          "id": "bestafter_6",
+          "text": "Sleep"
+        }
+      ]
+    },
+    {
+      "id": "work_d_025",
+      "text": "Biggest office time waster?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestof_1",
+          "text": "Emails"
+        },
+        {
+          "id": "biggestof_2",
+          "text": "Meetings"
+        },
+        {
+          "id": "biggestof_3",
+          "text": "Social Media"
+        },
+        {
+          "id": "biggestof_4",
+          "text": "Long Breaks"
+        },
+        {
+          "id": "biggestof_5",
+          "text": "Office Gossip"
+        },
+        {
+          "id": "biggestof_6",
+          "text": "Searching Files"
+        }
+      ]
+    }
+  ]
+}

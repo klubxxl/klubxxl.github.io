@@ -1,0 +1,737 @@
+{
+  "deck": {
+    "id": "erotic",
+    "name": "Erotic & Intimacy",
+    "description": "Spicy questions about sex, fantasies and intimate confessions.",
+    "category": "erotic",
+    "version": "3.0.0",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "id": "erotic_p_001",
+      "text": "Who here has probably had the most one-night stands?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_002",
+      "text": "Who is most likely to try something kinky?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_003",
+      "text": "Who would enjoy a striptease the most?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_004",
+      "text": "Who is most likely to have sex in public?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_005",
+      "text": "Who probably has the wildest fantasies?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_006",
+      "text": "Who would be open to a threesome?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_007",
+      "text": "Who is the biggest tease?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_008",
+      "text": "Who here is most dominant in bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_009",
+      "text": "Who would most likely try toys?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_010",
+      "text": "Who would roleplay without hesitation?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_011",
+      "text": "Who moans the loudest?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_012",
+      "text": "Who is best at dirty talk?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_013",
+      "text": "Who would watch adult movies with their partner?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_014",
+      "text": "Who has had sex in the weirdest place?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_015",
+      "text": "Who here might have a secret fetish?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_016",
+      "text": "Who would send the naughtiest pics?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_017",
+      "text": "Who would be the best at giving a lap dance?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_018",
+      "text": "Who enjoys talking about their sex life?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_019",
+      "text": "Who would try blindfolds first?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_020",
+      "text": "Who is most adventurous under the sheets?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_021",
+      "text": "Who might own lingerie just for fun?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_022",
+      "text": "Who would laugh during sex?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_023",
+      "text": "Who is most likely to break the bed?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_024",
+      "text": "Who is most open about masturbation?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_p_025",
+      "text": "Who could write erotic stories?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "erotic_d_001",
+      "text": "Ever had sex in a risky place?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "everhads_1",
+          "text": "Yes, often"
+        },
+        {
+          "id": "everhads_2",
+          "text": "A few times"
+        },
+        {
+          "id": "everhads_3",
+          "text": "Once"
+        },
+        {
+          "id": "everhads_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_002",
+      "text": "Preferred position?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "preferred_1",
+          "text": "On top"
+        },
+        {
+          "id": "preferred_2",
+          "text": "Underneath"
+        },
+        {
+          "id": "preferred_3",
+          "text": "Standing"
+        },
+        {
+          "id": "preferred_4",
+          "text": "From behind"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_003",
+      "text": "Have you ever filmed yourself?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "haveyoue_1",
+          "text": "Yes, many times"
+        },
+        {
+          "id": "haveyoue_2",
+          "text": "Once or twice"
+        },
+        {
+          "id": "haveyoue_3",
+          "text": "Thought about it"
+        },
+        {
+          "id": "haveyoue_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_004",
+      "text": "Biggest turn on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggesttu_1",
+          "text": "Kissing neck"
+        },
+        {
+          "id": "biggesttu_2",
+          "text": "Whispers"
+        },
+        {
+          "id": "biggesttu_3",
+          "text": "Biting lips"
+        },
+        {
+          "id": "biggesttu_4",
+          "text": "Grabbing hips"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_005",
+      "text": "Ever tried bondage or being tied up?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "evertried_1",
+          "text": "Yes, love it"
+        },
+        {
+          "id": "evertried_2",
+          "text": "A few times"
+        },
+        {
+          "id": "evertried_3",
+          "text": "Curious"
+        },
+        {
+          "id": "evertried_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_006",
+      "text": "What makes you climax faster?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatmakes_1",
+          "text": "Dirty talk"
+        },
+        {
+          "id": "whatmakes_2",
+          "text": "Watching"
+        },
+        {
+          "id": "whatmakes_3",
+          "text": "Toys"
+        },
+        {
+          "id": "whatmakes_4",
+          "text": "Slow build-up"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_007",
+      "text": "Ever had sex on the first date?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "everhads_1",
+          "text": "Yes, often"
+        },
+        {
+          "id": "everhads_2",
+          "text": "Sometimes"
+        },
+        {
+          "id": "everhads_3",
+          "text": "Once"
+        },
+        {
+          "id": "everhads_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_008",
+      "text": "Favorite kind of foreplay?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritek_1",
+          "text": "Oral"
+        },
+        {
+          "id": "favoritek_2",
+          "text": "Massages"
+        },
+        {
+          "id": "favoritek_3",
+          "text": "Kissing"
+        },
+        {
+          "id": "favoritek_4",
+          "text": "Dirty talk"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_009",
+      "text": "Ever been caught having sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "everbeen_1",
+          "text": "Yes"
+        },
+        {
+          "id": "everbeen_2",
+          "text": "Almost"
+        },
+        {
+          "id": "everbeen_3",
+          "text": "No, close call"
+        },
+        {
+          "id": "everbeen_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_010",
+      "text": "How vocal are you in bed?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howvocal_1",
+          "text": "Very loud"
+        },
+        {
+          "id": "howvocal_2",
+          "text": "Some moans"
+        },
+        {
+          "id": "howvocal_3",
+          "text": "Quiet"
+        },
+        {
+          "id": "howvocal_4",
+          "text": "Silent"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_011",
+      "text": "Biggest sexual fantasy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestse_1",
+          "text": "Public place"
+        },
+        {
+          "id": "biggestse_2",
+          "text": "With strangers"
+        },
+        {
+          "id": "biggestse_3",
+          "text": "Roleplay"
+        },
+        {
+          "id": "biggestse_4",
+          "text": "Power play"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_012",
+      "text": "Most sensitive spot?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostsensi_1",
+          "text": "Neck"
+        },
+        {
+          "id": "mostsensi_2",
+          "text": "Inner thighs"
+        },
+        {
+          "id": "mostsensi_3",
+          "text": "Ears"
+        },
+        {
+          "id": "mostsensi_4",
+          "text": "Lower back"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_013",
+      "text": "Ever used food in the bedroom?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "everused_1",
+          "text": "Yes, messy"
+        },
+        {
+          "id": "everused_2",
+          "text": "A little"
+        },
+        {
+          "id": "everused_3",
+          "text": "Curious"
+        },
+        {
+          "id": "everused_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_014",
+      "text": "Would you watch your partner with someone else?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "wouldyou_1",
+          "text": "Yes"
+        },
+        {
+          "id": "wouldyou_2",
+          "text": "Maybe"
+        },
+        {
+          "id": "wouldyou_3",
+          "text": "Not sure"
+        },
+        {
+          "id": "wouldyou_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_015",
+      "text": "Favorite after-sex activity?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritea_1",
+          "text": "Cuddling"
+        },
+        {
+          "id": "favoritea_2",
+          "text": "Talking"
+        },
+        {
+          "id": "favoritea_3",
+          "text": "Sleep"
+        },
+        {
+          "id": "favoritea_4",
+          "text": "Round two"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_016",
+      "text": "How do you feel about quickies?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howdoyou_1",
+          "text": "Love them"
+        },
+        {
+          "id": "howdoyou_2",
+          "text": "Sometimes"
+        },
+        {
+          "id": "howdoyou_3",
+          "text": "Rarely"
+        },
+        {
+          "id": "howdoyou_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_017",
+      "text": "Ever sent explicit photos?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "eversent_1",
+          "text": "Yes, often"
+        },
+        {
+          "id": "eversent_2",
+          "text": "A few times"
+        },
+        {
+          "id": "eversent_3",
+          "text": "Once"
+        },
+        {
+          "id": "eversent_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_018",
+      "text": "Biggest mood killer?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestmo_1",
+          "text": "Bad breath"
+        },
+        {
+          "id": "biggestmo_2",
+          "text": "Phone buzzing"
+        },
+        {
+          "id": "biggestmo_3",
+          "text": "Awkward silence"
+        },
+        {
+          "id": "biggestmo_4",
+          "text": "Pets watching"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_019",
+      "text": "Ever tried watching together?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "evertried_1",
+          "text": "Yes, hot"
+        },
+        {
+          "id": "evertried_2",
+          "text": "Once"
+        },
+        {
+          "id": "evertried_3",
+          "text": "Curious"
+        },
+        {
+          "id": "evertried_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_020",
+      "text": "Best time for sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttime_1",
+          "text": "Morning"
+        },
+        {
+          "id": "besttime_2",
+          "text": "Afternoon"
+        },
+        {
+          "id": "besttime_3",
+          "text": "Evening"
+        },
+        {
+          "id": "besttime_4",
+          "text": "Late night"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_021",
+      "text": "Longest you’ve gone without sex?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "longestyo_1",
+          "text": "Years"
+        },
+        {
+          "id": "longestyo_2",
+          "text": "Months"
+        },
+        {
+          "id": "longestyo_3",
+          "text": "Weeks"
+        },
+        {
+          "id": "longestyo_4",
+          "text": "Days"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_022",
+      "text": "Ever hooked up with someone you just met?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "everhooke_1",
+          "text": "Yes"
+        },
+        {
+          "id": "everhooke_2",
+          "text": "A few times"
+        },
+        {
+          "id": "everhooke_3",
+          "text": "Once"
+        },
+        {
+          "id": "everhooke_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_023",
+      "text": "What would you try next?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatwould_1",
+          "text": "New positions"
+        },
+        {
+          "id": "whatwould_2",
+          "text": "Outdoor sex"
+        },
+        {
+          "id": "whatwould_3",
+          "text": "Roleplay"
+        },
+        {
+          "id": "whatwould_4",
+          "text": "Toys"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_024",
+      "text": "How spontaneous are you?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howsponta_1",
+          "text": "Very"
+        },
+        {
+          "id": "howsponta_2",
+          "text": "Sometimes"
+        },
+        {
+          "id": "howsponta_3",
+          "text": "Rarely"
+        },
+        {
+          "id": "howsponta_4",
+          "text": "Not at all"
+        }
+      ]
+    },
+    {
+      "id": "erotic_d_025",
+      "text": "Favorite part of a partner’s body?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritep_1",
+          "text": "Eyes"
+        },
+        {
+          "id": "favoritep_2",
+          "text": "Chest"
+        },
+        {
+          "id": "favoritep_3",
+          "text": "Ass"
+        },
+        {
+          "id": "favoritep_4",
+          "text": "Legs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+{
+    "deck": {
+        "id": "work",
+        "name": "Praca i Kariera",
+        "description": "Zabawne i skłaniające do myślenia pytania o pracę.",
+        "category": "work",
+        "version": "3.0.0",
+        "language": "pl"
+    },
+    "questions": [
+        {
+            "id": "work_p_001",
+            "text": "Kto najprawdopodobniej zostanie szefem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_002",
+            "text": "Kto zawsze przychodzi wcześniej do pracy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_003",
+            "text": "Kto najczęściej pracuje w czasie lunchu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_004",
+            "text": "Kto jest najbardziej zorganizowany w pracy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_005",
+            "text": "Kto najprawdopodobniej zapomni o spotkaniu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_006",
+            "text": "Kto zorganizowałby najlepszą imprezę firmową?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_007",
+            "text": "Kto zawsze robi kilka rzeczy na raz?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_008",
+            "text": "Kto najlepiej prowadzi prezentacje?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_009",
+            "text": "Kto rzuciłby pracę bez uprzedzenia?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_010",
+            "text": "Kto dba o rośliny w biurze?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_011",
+            "text": "Kto najlepiej poradziłby sobie w kryzysie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_012",
+            "text": "Kto jest największym kawoszem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_013",
+            "text": "Kto byłby najlepszym liderem zespołu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_014",
+            "text": "Kto wygrałby pracownika miesiąca?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_015",
+            "text": "Kto przez pomyłkę wysłałby kompromitującego maila?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_016",
+            "text": "Kto ma najbardziej zabałaganione biurko?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_017",
+            "text": "Kto najlepiej motywuje innych?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_018",
+            "text": "Kto wymknąłby się wcześniej w piątek?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_019",
+            "text": "Kto robi najdłuższe przerwy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_020",
+            "text": "Kto daje najlepsze mowy motywacyjne?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_021",
+            "text": "Kto najprawdopodobniej założy własną firmę?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_022",
+            "text": "Kto najczęściej zostaje po godzinach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_023",
+            "text": "Kto zostałby mentorem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_024",
+            "text": "Kto zawsze pomaga współpracownikom?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_p_025",
+            "text": "Kto najszybciej awansuje?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "work_d_001",
+            "text": "Co najważniejsze w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "mostimpor_1",
+                    "text": "Wynagrodzenie"
+                },
+                {
+                    "id": "mostimpor_2",
+                    "text": "Równowaga życie-praca"
+                },
+                {
+                    "id": "mostimpor_3",
+                    "text": "Rozwój"
+                },
+                {
+                    "id": "mostimpor_4",
+                    "text": "Zespół"
+                },
+                {
+                    "id": "mostimpor_5",
+                    "text": "Stabilność"
+                },
+                {
+                    "id": "mostimpor_6",
+                    "text": "Sens pracy"
+                }
+            ]
+        },
+        {
+            "id": "work_d_002",
+            "text": "Najlepszy benefit w biurze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestoffic_1",
+                    "text": "Darmowe jedzenie"
+                },
+                {
+                    "id": "bestoffic_2",
+                    "text": "Elastyczne godziny"
+                },
+                {
+                    "id": "bestoffic_3",
+                    "text": "Siłownia"
+                },
+                {
+                    "id": "bestoffic_4",
+                    "text": "Podróże"
+                },
+                {
+                    "id": "bestoffic_5",
+                    "text": "Budżet na rozwój"
+                },
+                {
+                    "id": "bestoffic_6",
+                    "text": "Praca zdalna"
+                }
+            ]
+        },
+        {
+            "id": "work_d_003",
+            "text": "Idealne miejsce pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "idealwork_1",
+                    "text": "Open space"
+                },
+                {
+                    "id": "idealwork_2",
+                    "text": "Własne biuro"
+                },
+                {
+                    "id": "idealwork_3",
+                    "text": "Praca zdalna"
+                },
+                {
+                    "id": "idealwork_4",
+                    "text": "Co-working"
+                },
+                {
+                    "id": "idealwork_5",
+                    "text": "Na świeżym powietrzu"
+                },
+                {
+                    "id": "idealwork_6",
+                    "text": "Kawiarnia"
+                }
+            ]
+        },
+        {
+            "id": "work_d_004",
+            "text": "Najgorszy nawyk w biurze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worstoffi_1",
+                    "text": "Głośne pisanie"
+                },
+                {
+                    "id": "worstoffi_2",
+                    "text": "Mocne perfumy"
+                },
+                {
+                    "id": "worstoffi_3",
+                    "text": "Bałagan na biurku"
+                },
+                {
+                    "id": "worstoffi_4",
+                    "text": "Podjadanie"
+                },
+                {
+                    "id": "worstoffi_5",
+                    "text": "Rozmowy telefoniczne"
+                },
+                {
+                    "id": "worstoffi_6",
+                    "text": "Ryba w mikrofalówce"
+                }
+            ]
+        },
+        {
+            "id": "work_d_005",
+            "text": "Najlepszy sposób nauki nowych umiejętności?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestwayt_1",
+                    "text": "Kursy online"
+                },
+                {
+                    "id": "bestwayt_2",
+                    "text": "Mentoring"
+                },
+                {
+                    "id": "bestwayt_3",
+                    "text": "Praktyka"
+                },
+                {
+                    "id": "bestwayt_4",
+                    "text": "Książki"
+                },
+                {
+                    "id": "bestwayt_5",
+                    "text": "Konferencje"
+                },
+                {
+                    "id": "bestwayt_6",
+                    "text": "Pytanie kolegów"
+                }
+            ]
+        },
+        {
+            "id": "work_d_006",
+            "text": "Jak często sprawdzasz maile służbowe?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "howoften_1",
+                    "text": "Cały czas"
+                },
+                {
+                    "id": "howoften_2",
+                    "text": "Co godzinę"
+                },
+                {
+                    "id": "howoften_3",
+                    "text": "Kilka razy dziennie"
+                },
+                {
+                    "id": "howoften_4",
+                    "text": "Tylko w pracy"
+                },
+                {
+                    "id": "howoften_5",
+                    "text": "Raz dziennie"
+                },
+                {
+                    "id": "howoften_6",
+                    "text": "Unikam tego"
+                }
+            ]
+        },
+        {
+            "id": "work_d_007",
+            "text": "Najgorsze zachowanie na spotkaniu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worstmeet_1",
+                    "text": "Spóźnianie się"
+                },
+                {
+                    "id": "worstmeet_2",
+                    "text": "Siedzenie w telefonie"
+                },
+                {
+                    "id": "worstmeet_3",
+                    "text": "Dominowanie dyskusji"
+                },
+                {
+                    "id": "worstmeet_4",
+                    "text": "Milczenie"
+                },
+                {
+                    "id": "worstmeet_5",
+                    "text": "Przerywanie"
+                },
+                {
+                    "id": "worstmeet_6",
+                    "text": "Brak przygotowania"
+                }
+            ]
+        },
+        {
+            "id": "work_d_008",
+            "text": "Najlepszy motywator do pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestwork_1",
+                    "text": "Pieniądze"
+                },
+                {
+                    "id": "bestwork_2",
+                    "text": "Docenienie"
+                },
+                {
+                    "id": "bestwork_3",
+                    "text": "Rozwój"
+                },
+                {
+                    "id": "bestwork_4",
+                    "text": "Wyzwania"
+                },
+                {
+                    "id": "bestwork_5",
+                    "text": "Zespół"
+                },
+                {
+                    "id": "bestwork_6",
+                    "text": "Poczucie misji"
+                }
+            ]
+        },
+        {
+            "id": "work_d_009",
+            "text": "Najlepsza metoda produktywności?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestprodu_1",
+                    "text": "Pomodoro"
+                },
+                {
+                    "id": "bestprodu_2",
+                    "text": "Listy zadań"
+                },
+                {
+                    "id": "bestprodu_3",
+                    "text": "Blokowanie czasu"
+                },
+                {
+                    "id": "bestprodu_4",
+                    "text": "Terminy"
+                },
+                {
+                    "id": "bestprodu_5",
+                    "text": "Muzyka"
+                },
+                {
+                    "id": "bestprodu_6",
+                    "text": "Kofeina"
+                }
+            ]
+        },
+        {
+            "id": "work_d_010",
+            "text": "Idealny harmonogram pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "idealwork_1",
+                    "text": "9-17"
+                },
+                {
+                    "id": "idealwork_2",
+                    "text": "Poranny ptaszek"
+                },
+                {
+                    "id": "idealwork_3",
+                    "text": "Nocny marek"
+                },
+                {
+                    "id": "idealwork_4",
+                    "text": "Elastyczny"
+                },
+                {
+                    "id": "idealwork_5",
+                    "text": "4 dni w tygodniu"
+                },
+                {
+                    "id": "idealwork_6",
+                    "text": "Skompresowany"
+                }
+            ]
+        },
+        {
+            "id": "work_d_011",
+            "text": "Najlepszy sposób radzenia sobie ze stresem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestwayt_1",
+                    "text": "Ćwiczenia"
+                },
+                {
+                    "id": "bestwayt_2",
+                    "text": "Przerwy"
+                },
+                {
+                    "id": "bestwayt_3",
+                    "text": "Organizacja"
+                },
+                {
+                    "id": "bestwayt_4",
+                    "text": "Delegowanie"
+                },
+                {
+                    "id": "bestwayt_5",
+                    "text": "Medytacja"
+                },
+                {
+                    "id": "bestwayt_6",
+                    "text": "Rozmowa"
+                }
+            ]
+        },
+        {
+            "id": "work_d_012",
+            "text": "Najgorsze rozpraszacze w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "worstwork_1",
+                    "text": "Social Media"
+                },
+                {
+                    "id": "worstwork_2",
+                    "text": "Gadatliwi koledzy"
+                },
+                {
+                    "id": "worstwork_3",
+                    "text": "Maile"
+                },
+                {
+                    "id": "worstwork_4",
+                    "text": "Hałas"
+                },
+                {
+                    "id": "worstwork_5",
+                    "text": "Telefon"
+                },
+                {
+                    "id": "worstwork_6",
+                    "text": "Zapachy jedzenia"
+                }
+            ]
+        },
+        {
+            "id": "work_d_013",
+            "text": "Najważniejsze spotkanie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "mostimpor_1",
+                    "text": "Cotygodniowe podsumowanie"
+                },
+                {
+                    "id": "mostimpor_2",
+                    "text": "Start projektu"
+                },
+                {
+                    "id": "mostimpor_3",
+                    "text": "Burza mózgów"
+                },
+                {
+                    "id": "mostimpor_4",
+                    "text": "1 na 1"
+                },
+                {
+                    "id": "mostimpor_5",
+                    "text": "Rozmowa z klientem"
+                },
+                {
+                    "id": "mostimpor_6",
+                    "text": "Szkolenie"
+                }
+            ]
+        },
+        {
+            "id": "work_d_014",
+            "text": "Najlepsza okazja do świętowania w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestoffic_1",
+                    "text": "Urodziny"
+                },
+                {
+                    "id": "bestoffic_2",
+                    "text": "Awans"
+                },
+                {
+                    "id": "bestoffic_3",
+                    "text": "Nowy pracownik"
+                },
+                {
+                    "id": "bestoffic_4",
+                    "text": "Święta"
+                },
+                {
+                    "id": "bestoffic_5",
+                    "text": "Pożegnanie"
+                },
+                {
+                    "id": "bestoffic_6",
+                    "text": "Wygrana zespołu"
+                }
+            ]
+        },
+        {
+            "id": "work_d_015",
+            "text": "Ulubiona aktywność na przerwie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoriteb_1",
+                    "text": "Spacer"
+                },
+                {
+                    "id": "favoriteb_2",
+                    "text": "Kawa"
+                },
+                {
+                    "id": "favoriteb_3",
+                    "text": "Przekąska"
+                },
+                {
+                    "id": "favoriteb_4",
+                    "text": "Rozmowa"
+                },
+                {
+                    "id": "favoriteb_5",
+                    "text": "Telefon"
+                },
+                {
+                    "id": "favoriteb_6",
+                    "text": "Czytanie"
+                }
+            ]
+        },
+        {
+            "id": "work_d_016",
+            "text": "Co najbardziej Cię inspiruje w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "whatinspi_1",
+                    "text": "Historie sukcesu"
+                },
+                {
+                    "id": "whatinspi_2",
+                    "text": "Wsparcie zespołu"
+                },
+                {
+                    "id": "whatinspi_3",
+                    "text": "Trudne projekty"
+                },
+                {
+                    "id": "whatinspi_4",
+                    "text": "Nauka"
+                },
+                {
+                    "id": "whatinspi_5",
+                    "text": "Feedback"
+                },
+                {
+                    "id": "whatinspi_6",
+                    "text": "Wizja firmy"
+                }
+            ]
+        },
+        {
+            "id": "work_d_017",
+            "text": "Najlepsza opcja na lunch?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestlunch_1",
+                    "text": "Sałatka"
+                },
+                {
+                    "id": "bestlunch_2",
+                    "text": "Kanapka"
+                },
+                {
+                    "id": "bestlunch_3",
+                    "text": "Resztki"
+                },
+                {
+                    "id": "bestlunch_4",
+                    "text": "Na wynos"
+                },
+                {
+                    "id": "bestlunch_5",
+                    "text": "Owoce"
+                },
+                {
+                    "id": "bestlunch_6",
+                    "text": "Nic"
+                }
+            ]
+        },
+        {
+            "id": "work_d_018",
+            "text": "Najlepszy powód, by pracować zdalnie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestreaso_1",
+                    "text": "Brak dojazdów"
+                },
+                {
+                    "id": "bestreaso_2",
+                    "text": "Wygoda"
+                },
+                {
+                    "id": "bestreaso_3",
+                    "text": "Skupienie"
+                },
+                {
+                    "id": "bestreaso_4",
+                    "text": "Elastyczność"
+                },
+                {
+                    "id": "bestreaso_5",
+                    "text": "Więcej snu"
+                },
+                {
+                    "id": "bestreaso_6",
+                    "text": "Oszczędność"
+                }
+            ]
+        },
+        {
+            "id": "work_d_019",
+            "text": "Największy temat plotek w biurze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "biggestof_1",
+                    "text": "Podwyżki"
+                },
+                {
+                    "id": "biggestof_2",
+                    "text": "Romanse"
+                },
+                {
+                    "id": "biggestof_3",
+                    "text": "Kto został zwolniony"
+                },
+                {
+                    "id": "biggestof_4",
+                    "text": "Nowi pracownicy"
+                },
+                {
+                    "id": "biggestof_5",
+                    "text": "Kierownictwo"
+                },
+                {
+                    "id": "biggestof_6",
+                    "text": "Kto odchodzi"
+                }
+            ]
+        },
+        {
+            "id": "work_d_020",
+            "text": "Najbardziej satysfakcjonujące zadanie w pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "mostsatis_1",
+                    "text": "Pusta skrzynka mailowa"
+                },
+                {
+                    "id": "mostsatis_2",
+                    "text": "Zakończony projekt"
+                },
+                {
+                    "id": "mostsatis_3",
+                    "text": "Pomoc koledze"
+                },
+                {
+                    "id": "mostsatis_4",
+                    "text": "Nauczyć się czegoś"
+                },
+                {
+                    "id": "mostsatis_5",
+                    "text": "Pozytywny feedback"
+                },
+                {
+                    "id": "mostsatis_6",
+                    "text": "Wyjść punktualnie"
+                }
+            ]
+        },
+        {
+            "id": "work_d_021",
+            "text": "Najlepsza dekoracja ściany w biurze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestoffic_1",
+                    "text": "Rośliny"
+                },
+                {
+                    "id": "bestoffic_2",
+                    "text": "Motywacyjne cytaty"
+                },
+                {
+                    "id": "bestoffic_3",
+                    "text": "Zdjęcia"
+                },
+                {
+                    "id": "bestoffic_4",
+                    "text": "Sztuka"
+                },
+                {
+                    "id": "bestoffic_5",
+                    "text": "Kalendarz"
+                },
+                {
+                    "id": "bestoffic_6",
+                    "text": "Nic"
+                }
+            ]
+        },
+        {
+            "id": "work_d_022",
+            "text": "Najlepsza część spotkań zespołu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestpart_1",
+                    "text": "Dzielimy się sukcesami"
+                },
+                {
+                    "id": "bestpart_2",
+                    "text": "Nowe pomysły"
+                },
+                {
+                    "id": "bestpart_3",
+                    "text": "Śmieszne historie"
+                },
+                {
+                    "id": "bestpart_4",
+                    "text": "Przekąski"
+                },
+                {
+                    "id": "bestpart_5",
+                    "text": "Podsumowanie"
+                },
+                {
+                    "id": "bestpart_6",
+                    "text": "Nic"
+                }
+            ]
+        },
+        {
+            "id": "work_d_023",
+            "text": "Co świętowałbyś w pracy w pierwszej kolejności?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "whatwould_1",
+                    "text": "Nowy projekt"
+                },
+                {
+                    "id": "whatwould_2",
+                    "text": "Awans"
+                },
+                {
+                    "id": "whatwould_3",
+                    "text": "Cel zespołu"
+                },
+                {
+                    "id": "whatwould_4",
+                    "text": "Rocznica pracy"
+                },
+                {
+                    "id": "whatwould_5",
+                    "text": "Nowy pracownik"
+                },
+                {
+                    "id": "whatwould_6",
+                    "text": "Niespodziewany bonus"
+                }
+            ]
+        },
+        {
+            "id": "work_d_024",
+            "text": "Najlepszy plan po pracy?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "bestafter_1",
+                    "text": "Na drinka"
+                },
+                {
+                    "id": "bestafter_2",
+                    "text": "Siłownia"
+                },
+                {
+                    "id": "bestafter_3",
+                    "text": "Kolacja na mieście"
+                },
+                {
+                    "id": "bestafter_4",
+                    "text": "Netflix"
+                },
+                {
+                    "id": "bestafter_5",
+                    "text": "Czytanie"
+                },
+                {
+                    "id": "bestafter_6",
+                    "text": "Sen"
+                }
+            ]
+        },
+        {
+            "id": "work_d_025",
+            "text": "Największy złodziej czasu w biurze?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "biggestof_1",
+                    "text": "Maile"
+                },
+                {
+                    "id": "biggestof_2",
+                    "text": "Spotkania"
+                },
+                {
+                    "id": "biggestof_3",
+                    "text": "Social Media"
+                },
+                {
+                    "id": "biggestof_4",
+                    "text": "Długie przerwy"
+                },
+                {
+                    "id": "biggestof_5",
+                    "text": "Plotki w biurze"
+                },
+                {
+                    "id": "biggestof_6",
+                    "text": "Szukanie plików"
+                }
+            ]
+        }
+    ]
+}

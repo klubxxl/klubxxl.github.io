@@ -1,0 +1,937 @@
+{
+  "deck": {
+    "id": "gaming",
+    "name": "Gaming & Esports Fun",
+    "description": "Fun gaming questions for players.",
+    "category": "gaming",
+    "version": "3.0.0",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "id": "gaming_p_001",
+      "text": "Who is most likely to rage quit?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_002",
+      "text": "Who would forget to save the game?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_003",
+      "text": "Who gets most competitive?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_004",
+      "text": "Who is best at solving puzzles?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_005",
+      "text": "Who would play the villain in a game?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_006",
+      "text": "Who is most likely to stay up all night gaming?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_007",
+      "text": "Who shouts at the screen the most?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_008",
+      "text": "Who would build the coolest base?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_009",
+      "text": "Who needs the most help with controls?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_010",
+      "text": "Who is the best sniper?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_011",
+      "text": "Who would rage after losing a simple level?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_012",
+      "text": "Who spends the most on skins?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_013",
+      "text": "Who is always the team medic?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_014",
+      "text": "Who discovers the most glitches?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_015",
+      "text": "Who would camp the longest?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_016",
+      "text": "Who laughs the loudest when winning?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_017",
+      "text": "Who would win a racing game?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_018",
+      "text": "Who dies first in battle royale?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_019",
+      "text": "Who remembers all the cheat codes?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_020",
+      "text": "Who plays the most horror games?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_021",
+      "text": "Who gets scared the easiest?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_022",
+      "text": "Who would make the best eSports player?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_023",
+      "text": "Who has the weirdest game library?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_024",
+      "text": "Who takes forever customizing characters?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_p_025",
+      "text": "Who always forgets the objective?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "gaming_d_001",
+      "text": "Favorite game genre?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriteg_1",
+          "text": "FPS"
+        },
+        {
+          "id": "favoriteg_2",
+          "text": "RPG"
+        },
+        {
+          "id": "favoriteg_3",
+          "text": "Strategy"
+        },
+        {
+          "id": "favoriteg_4",
+          "text": "Simulation"
+        },
+        {
+          "id": "favoriteg_5",
+          "text": "Horror"
+        },
+        {
+          "id": "favoriteg_6",
+          "text": "Adventure"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_002",
+      "text": "Best gaming platform?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestgamin_1",
+          "text": "PC"
+        },
+        {
+          "id": "bestgamin_2",
+          "text": "Xbox"
+        },
+        {
+          "id": "bestgamin_3",
+          "text": "PlayStation"
+        },
+        {
+          "id": "bestgamin_4",
+          "text": "Nintendo"
+        },
+        {
+          "id": "bestgamin_5",
+          "text": "Mobile"
+        },
+        {
+          "id": "bestgamin_6",
+          "text": "VR"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_003",
+      "text": "Most important feature in a game?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostimpor_1",
+          "text": "Graphics"
+        },
+        {
+          "id": "mostimpor_2",
+          "text": "Story"
+        },
+        {
+          "id": "mostimpor_3",
+          "text": "Multiplayer"
+        },
+        {
+          "id": "mostimpor_4",
+          "text": "Replayability"
+        },
+        {
+          "id": "mostimpor_5",
+          "text": "Soundtrack"
+        },
+        {
+          "id": "mostimpor_6",
+          "text": "Customization"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_004",
+      "text": "Favorite in-game activity?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritei_1",
+          "text": "Exploring"
+        },
+        {
+          "id": "favoritei_2",
+          "text": "Fighting"
+        },
+        {
+          "id": "favoritei_3",
+          "text": "Building"
+        },
+        {
+          "id": "favoritei_4",
+          "text": "Trading"
+        },
+        {
+          "id": "favoritei_5",
+          "text": "Fishing"
+        },
+        {
+          "id": "favoritei_6",
+          "text": "Stealth"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_005",
+      "text": "Best gaming snack?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestgamin_1",
+          "text": "Chips"
+        },
+        {
+          "id": "bestgamin_2",
+          "text": "Pizza"
+        },
+        {
+          "id": "bestgamin_3",
+          "text": "Candy"
+        },
+        {
+          "id": "bestgamin_4",
+          "text": "Popcorn"
+        },
+        {
+          "id": "bestgamin_5",
+          "text": "Nuts"
+        },
+        {
+          "id": "bestgamin_6",
+          "text": "No snack"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_006",
+      "text": "Favorite type of weapon?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Sword"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Gun"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Bow"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Magic"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Fists"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Explosives"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_007",
+      "text": "Best celebration after a win?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestceleb_1",
+          "text": "Dance"
+        },
+        {
+          "id": "bestceleb_2",
+          "text": "Screenshot"
+        },
+        {
+          "id": "bestceleb_3",
+          "text": "Trash Talk"
+        },
+        {
+          "id": "bestceleb_4",
+          "text": "Victory Food"
+        },
+        {
+          "id": "bestceleb_5",
+          "text": "Share Clip"
+        },
+        {
+          "id": "bestceleb_6",
+          "text": "Silent Smile"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_008",
+      "text": "Favorite video game character type?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritev_1",
+          "text": "Hero"
+        },
+        {
+          "id": "favoritev_2",
+          "text": "Villain"
+        },
+        {
+          "id": "favoritev_3",
+          "text": "Sidekick"
+        },
+        {
+          "id": "favoritev_4",
+          "text": "Mystery"
+        },
+        {
+          "id": "favoritev_5",
+          "text": "Comic Relief"
+        },
+        {
+          "id": "favoritev_6",
+          "text": "Antihero"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_009",
+      "text": "Best place to play?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestplace_1",
+          "text": "Desk"
+        },
+        {
+          "id": "bestplace_2",
+          "text": "Couch"
+        },
+        {
+          "id": "bestplace_3",
+          "text": "Bed"
+        },
+        {
+          "id": "bestplace_4",
+          "text": "On the floor"
+        },
+        {
+          "id": "bestplace_5",
+          "text": "With friends"
+        },
+        {
+          "id": "bestplace_6",
+          "text": "At a LAN party"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_010",
+      "text": "Favorite game setting?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriteg_1",
+          "text": "Post-Apocalyptic"
+        },
+        {
+          "id": "favoriteg_2",
+          "text": "Fantasy"
+        },
+        {
+          "id": "favoriteg_3",
+          "text": "Sci-Fi"
+        },
+        {
+          "id": "favoriteg_4",
+          "text": "Modern"
+        },
+        {
+          "id": "favoriteg_5",
+          "text": "Historical"
+        },
+        {
+          "id": "favoriteg_6",
+          "text": "Horror"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_011",
+      "text": "Most addictive game element?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostaddic_1",
+          "text": "Leveling Up"
+        },
+        {
+          "id": "mostaddic_2",
+          "text": "Loot Boxes"
+        },
+        {
+          "id": "mostaddic_3",
+          "text": "Achievements"
+        },
+        {
+          "id": "mostaddic_4",
+          "text": "Skins"
+        },
+        {
+          "id": "mostaddic_5",
+          "text": "Crafting"
+        },
+        {
+          "id": "mostaddic_6",
+          "text": "Ranked Mode"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_012",
+      "text": "Best power-up?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestpower_1",
+          "text": "Speed Boost"
+        },
+        {
+          "id": "bestpower_2",
+          "text": "Shield"
+        },
+        {
+          "id": "bestpower_3",
+          "text": "Double Damage"
+        },
+        {
+          "id": "bestpower_4",
+          "text": "Invisibility"
+        },
+        {
+          "id": "bestpower_5",
+          "text": "Health Regen"
+        },
+        {
+          "id": "bestpower_6",
+          "text": "Random Buff"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_013",
+      "text": "Who is your favorite type of teammate?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whoisyou_1",
+          "text": "Strategist"
+        },
+        {
+          "id": "whoisyou_2",
+          "text": "Medic"
+        },
+        {
+          "id": "whoisyou_3",
+          "text": "Sniper"
+        },
+        {
+          "id": "whoisyou_4",
+          "text": "Tank"
+        },
+        {
+          "id": "whoisyou_5",
+          "text": "Support"
+        },
+        {
+          "id": "whoisyou_6",
+          "text": "Wildcard"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_014",
+      "text": "Worst gaming enemy type?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstgami_1",
+          "text": "Zombie"
+        },
+        {
+          "id": "worstgami_2",
+          "text": "Alien"
+        },
+        {
+          "id": "worstgami_3",
+          "text": "Robot"
+        },
+        {
+          "id": "worstgami_4",
+          "text": "Ghost"
+        },
+        {
+          "id": "worstgami_5",
+          "text": "Monster"
+        },
+        {
+          "id": "worstgami_6",
+          "text": "Bandit"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_015",
+      "text": "Best game world to live in?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestgame_1",
+          "text": "Minecraft"
+        },
+        {
+          "id": "bestgame_2",
+          "text": "Zelda"
+        },
+        {
+          "id": "bestgame_3",
+          "text": "GTA"
+        },
+        {
+          "id": "bestgame_4",
+          "text": "Pokémon"
+        },
+        {
+          "id": "bestgame_5",
+          "text": "Stardew Valley"
+        },
+        {
+          "id": "bestgame_6",
+          "text": "Elder Scrolls"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_016",
+      "text": "Best way to win?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Skill"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Luck"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Strategy"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Cheating"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Teamwork"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Trash Talk"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_017",
+      "text": "Favorite retro console?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriter_1",
+          "text": "NES"
+        },
+        {
+          "id": "favoriter_2",
+          "text": "SNES"
+        },
+        {
+          "id": "favoriter_3",
+          "text": "Sega"
+        },
+        {
+          "id": "favoriter_4",
+          "text": "Game Boy"
+        },
+        {
+          "id": "favoriter_5",
+          "text": "Atari"
+        },
+        {
+          "id": "favoriter_6",
+          "text": "Dreamcast"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_018",
+      "text": "Best multiplayer mode?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestmulti_1",
+          "text": "Battle Royale"
+        },
+        {
+          "id": "bestmulti_2",
+          "text": "Co-Op"
+        },
+        {
+          "id": "bestmulti_3",
+          "text": "Deathmatch"
+        },
+        {
+          "id": "bestmulti_4",
+          "text": "Capture the Flag"
+        },
+        {
+          "id": "bestmulti_5",
+          "text": "Team Battles"
+        },
+        {
+          "id": "bestmulti_6",
+          "text": "Survival"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_019",
+      "text": "Best soundtrack type?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestsound_1",
+          "text": "Epic Orchestral"
+        },
+        {
+          "id": "bestsound_2",
+          "text": "Rock"
+        },
+        {
+          "id": "bestsound_3",
+          "text": "Chiptune"
+        },
+        {
+          "id": "bestsound_4",
+          "text": "Ambient"
+        },
+        {
+          "id": "bestsound_5",
+          "text": "Electronic"
+        },
+        {
+          "id": "bestsound_6",
+          "text": "Hip-Hop"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_020",
+      "text": "Favorite boss fight style?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriteb_1",
+          "text": "Huge Monster"
+        },
+        {
+          "id": "favoriteb_2",
+          "text": "Fast Duel"
+        },
+        {
+          "id": "favoriteb_3",
+          "text": "Puzzle Boss"
+        },
+        {
+          "id": "favoriteb_4",
+          "text": "Wave Fights"
+        },
+        {
+          "id": "favoriteb_5",
+          "text": "Timed Battle"
+        },
+        {
+          "id": "favoriteb_6",
+          "text": "Multiple Phases"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_021",
+      "text": "Worst gaming fail?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstgami_1",
+          "text": "Falling Off Map"
+        },
+        {
+          "id": "worstgami_2",
+          "text": "Friendly Fire"
+        },
+        {
+          "id": "worstgami_3",
+          "text": "Forgetting to Save"
+        },
+        {
+          "id": "worstgami_4",
+          "text": "Lag Death"
+        },
+        {
+          "id": "worstgami_5",
+          "text": "Wrong Button"
+        },
+        {
+          "id": "worstgami_6",
+          "text": "Mic On"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_022",
+      "text": "Best hidden feature?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besthidde_1",
+          "text": "Easter Egg"
+        },
+        {
+          "id": "besthidde_2",
+          "text": "Secret Level"
+        },
+        {
+          "id": "besthidde_3",
+          "text": "Hidden Character"
+        },
+        {
+          "id": "besthidde_4",
+          "text": "Bonus Loot"
+        },
+        {
+          "id": "besthidde_5",
+          "text": "Developer Room"
+        },
+        {
+          "id": "besthidde_6",
+          "text": "Glitch"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_023",
+      "text": "Favorite esports to watch?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritee_1",
+          "text": "LoL"
+        },
+        {
+          "id": "favoritee_2",
+          "text": "CS:GO"
+        },
+        {
+          "id": "favoritee_3",
+          "text": "Dota 2"
+        },
+        {
+          "id": "favoritee_4",
+          "text": "Fortnite"
+        },
+        {
+          "id": "favoritee_5",
+          "text": "Valorant"
+        },
+        {
+          "id": "favoritee_6",
+          "text": "Rocket League"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_024",
+      "text": "Most hated game mechanic?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mosthated_1",
+          "text": "Pay to Win"
+        },
+        {
+          "id": "mosthated_2",
+          "text": "Time Limits"
+        },
+        {
+          "id": "mosthated_3",
+          "text": "Escort Missions"
+        },
+        {
+          "id": "mosthated_4",
+          "text": "Quick Time Events"
+        },
+        {
+          "id": "mosthated_5",
+          "text": "Grind"
+        },
+        {
+          "id": "mosthated_6",
+          "text": "Permadeath"
+        }
+      ]
+    },
+    {
+      "id": "gaming_d_025",
+      "text": "Best gaming pet/companion?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestgamin_1",
+          "text": "Dog"
+        },
+        {
+          "id": "bestgamin_2",
+          "text": "Dragon"
+        },
+        {
+          "id": "bestgamin_3",
+          "text": "Robot"
+        },
+        {
+          "id": "bestgamin_4",
+          "text": "Fairy"
+        },
+        {
+          "id": "bestgamin_5",
+          "text": "Horse"
+        },
+        {
+          "id": "bestgamin_6",
+          "text": "Talking Weapon"
+        }
+      ]
+    }
+  ]
+}

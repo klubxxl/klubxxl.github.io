@@ -1,0 +1,739 @@
+{
+  "deck": {
+    "id": "couples",
+    "name": "Pary i Związki",
+    "description": "Zabawne pytania o romansie, zauroczeniach i drobnych wyznaniach.",
+    "category": "couples",
+    "version": "3.0.0",
+    "language": "pl"
+  },
+  "questions": [
+    {
+      "id": "couples_p_001",
+      "text": "Kto tutaj byłby najlepszym chłopakiem lub dziewczyną?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_002",
+      "text": "Kto najczęściej zakochuje się od pierwszego wejrzenia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_003",
+      "text": "Kto daje najlepsze przytulasy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_004",
+      "text": "Komu powierzył(a)byś romantyczny sekret?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_005",
+      "text": "Kto najczęściej flirtuje, nawet o tym nie wiedząc?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_006",
+      "text": "Kto jest największym beznadziejnym romantykiem?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_007",
+      "text": "Kto tutaj ma najbardziej czarujący uśmiech?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_008",
+      "text": "Kto zaplanowałby najsłodszą randkę?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_009",
+      "text": "Kto najczęściej wysyłałby kiczowate miłosne wiadomości?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_010",
+      "text": "Kto tutaj miał prawdopodobnie najwięcej zauroczeń?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_011",
+      "text": "Kto pisałby miłosne wiersze?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_012",
+      "text": "Kto oświadczyłby się w najbardziej zaskakujący sposób?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_013",
+      "text": "Kto najprawdopodobniej zaśpiewałby komuś miłosną piosenkę?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_014",
+      "text": "Do kogo zadzwonił(a)byś jako pierwszego po rozstaniu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_015",
+      "text": "Kto tutaj najlepiej udziela rad dotyczących związków?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_016",
+      "text": "Kto by się zaczerwienił, gdyby go skomplementować?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_017",
+      "text": "Kto jest najbardziej opiekuńczy wobec osób, które kocha?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_018",
+      "text": "Kto jest najbardziej delikatny?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_019",
+      "text": "Kto zrobiłby wszystko dla osoby, która mu się podoba?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_020",
+      "text": "Kto zatańczyłby powoli w salonie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_021",
+      "text": "Kto najłatwiej wybacza?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_022",
+      "text": "Kto tutaj byłby najbardziej zazdrosny?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_023",
+      "text": "Kto najpierw zacznie rozmawiać o małżeństwie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_024",
+      "text": "Kto zakochuje się w czyichś oczach?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_025",
+      "text": "Kto najczęściej trzymałby się za ręce publicznie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_d_001",
+      "text": "Czy kiedykolwiek pocałowałeś/pocałowałaś osobę tej samej płci?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "haveyoue_1",
+          "text": "Tak, często"
+        },
+        {
+          "id": "haveyoue_2",
+          "text": "Kilka razy"
+        },
+        {
+          "id": "haveyoue_3",
+          "text": "Tylko raz"
+        },
+        {
+          "id": "haveyoue_4",
+          "text": "Nigdy"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_002",
+      "text": "Co jest najbardziej atrakcyjne?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "what’smos_1",
+          "text": "Oczy"
+        },
+        {
+          "id": "what’smos_2",
+          "text": "Uśmiech"
+        },
+        {
+          "id": "what’smos_3",
+          "text": "Głos"
+        },
+        {
+          "id": "what’smos_4",
+          "text": "Osobowość"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_003",
+      "text": "Jak szybko zaczynasz coś czuć?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howquickl_1",
+          "text": "Bardzo szybko"
+        },
+        {
+          "id": "howquickl_2",
+          "text": "Dość szybko"
+        },
+        {
+          "id": "howquickl_3",
+          "text": "Powoli"
+        },
+        {
+          "id": "howquickl_4",
+          "text": "Rzadko"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_004",
+      "text": "Dokąd poszedłbyś/poszłabyś na wymarzoną randkę?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "wherewoul_1",
+          "text": "Plaża"
+        },
+        {
+          "id": "wherewoul_2",
+          "text": "Przytulna kawiarnia"
+        },
+        {
+          "id": "wherewoul_3",
+          "text": "Park rozrywki"
+        },
+        {
+          "id": "wherewoul_4",
+          "text": "Domowy seans filmowy"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_005",
+      "text": "Kto płaci na pierwszej randce?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whopayso_1",
+          "text": "Ja"
+        },
+        {
+          "id": "whopayso_2",
+          "text": "Druga osoba"
+        },
+        {
+          "id": "whopayso_3",
+          "text": "Na pół"
+        },
+        {
+          "id": "whopayso_4",
+          "text": "Kto pierwszy złapie rachunek"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_006",
+      "text": "Najlepszy sposób okazywania uczuć?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Przytulanie"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Pocałunki"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Słowa"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Małe prezenty"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_007",
+      "text": "Jak czujesz się wobec okazywania uczuć publicznie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howdoyou_1",
+          "text": "Uwielbiam"
+        },
+        {
+          "id": "howdoyou_2",
+          "text": "Małe gesty są okej"
+        },
+        {
+          "id": "howdoyou_3",
+          "text": "Wolę prywatnie"
+        },
+        {
+          "id": "howdoyou_4",
+          "text": "Nie znoszę tego"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_008",
+      "text": "Jak długo byłeś/byłaś bez randkowania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "longestyo_1",
+          "text": "Lata"
+        },
+        {
+          "id": "longestyo_2",
+          "text": "Rok"
+        },
+        {
+          "id": "longestyo_3",
+          "text": "Miesiące"
+        },
+        {
+          "id": "longestyo_4",
+          "text": "Tygodnie"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_009",
+      "text": "Ulubiony etap związku?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriter_1",
+          "text": "Flirtowanie"
+        },
+        {
+          "id": "favoriter_2",
+          "text": "Nowa miłość"
+        },
+        {
+          "id": "favoriter_3",
+          "text": "Stabilizacja"
+        },
+        {
+          "id": "favoriter_4",
+          "text": "Planowanie przyszłości"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_010",
+      "text": "Najbardziej romantyczny gatunek filmowy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostroman_1",
+          "text": "Komedia romantyczna"
+        },
+        {
+          "id": "mostroman_2",
+          "text": "Dramat"
+        },
+        {
+          "id": "mostroman_3",
+          "text": "Fantastyka"
+        },
+        {
+          "id": "mostroman_4",
+          "text": "Animacja"
+        }
+      ]
+    },
+    [
+      {
+        "id": "couples_d_011",
+        "text": "Co niszczy związek?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "whatruins_1",
+            "text": "Zazdrość"
+          },
+          {
+            "id": "whatruins_2",
+            "text": "Kłamstwa"
+          },
+          {
+            "id": "whatruins_3",
+            "text": "Zaniedbanie"
+          },
+          {
+            "id": "whatruins_4",
+            "text": "Różne cele"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_012",
+        "text": "Najlepszy sposób na rozpoczęcie flirtu?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "bestwayt_1",
+            "text": "Komplementy"
+          },
+          {
+            "id": "bestwayt_2",
+            "text": "Zabawne wiadomości"
+          },
+          {
+            "id": "bestwayt_3",
+            "text": "Delikatne droczenie się"
+          },
+          {
+            "id": "bestwayt_4",
+            "text": "Bezpośredniość"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_013",
+        "text": "Czy kiedykolwiek miałeś/miałaś sekretną sympatię do przyjaciela?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "haveyoue_1",
+            "text": "Tak, zawsze"
+          },
+          {
+            "id": "haveyoue_2",
+            "text": "Kilka razy"
+          },
+          {
+            "id": "haveyoue_3",
+            "text": "Raz"
+          },
+          {
+            "id": "haveyoue_4",
+            "text": "Nigdy"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_014",
+        "text": "Co najprawdopodobniej cię zauroczy?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "mostlikel_1",
+            "text": "Niespodziewane wizyty"
+          },
+          {
+            "id": "mostlikel_2",
+            "text": "Romantyczne wiadomości"
+          },
+          {
+            "id": "mostlikel_3",
+            "text": "Małe prezenty"
+          },
+          {
+            "id": "mostlikel_4",
+            "text": "Domowy posiłek"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_015",
+        "text": "Najlepsza aktywność dla pary?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "bestcoupl_1",
+            "text": "Gotowanie razem"
+          },
+          {
+            "id": "bestcoupl_2",
+            "text": "Wieczór filmowy"
+          },
+          {
+            "id": "bestcoupl_3",
+            "text": "Podróżowanie"
+          },
+          {
+            "id": "bestcoupl_4",
+            "text": "Po prostu rozmowa"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_016",
+        "text": "Największy lęk w związku?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "biggestre_1",
+            "text": "Zdrada"
+          },
+          {
+            "id": "biggestre_2",
+            "text": "Oddalenie się od siebie"
+          },
+          {
+            "id": "biggestre_3",
+            "text": "Kłótnie"
+          },
+          {
+            "id": "biggestre_4",
+            "text": "Nuda"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_017",
+        "text": "Jak długo zanim powiesz „Kocham cię”?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "howlongb_1",
+            "text": "Tygodnie"
+          },
+          {
+            "id": "howlongb_2",
+            "text": "Miesiące"
+          },
+          {
+            "id": "howlongb_3",
+            "text": "Rok"
+          },
+          {
+            "id": "howlongb_4",
+            "text": "Dłużej"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_018",
+        "text": "Idealny sposób, by ktoś ci się oświadczył?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "idealway_1",
+            "text": "Na osobności"
+          },
+          {
+            "id": "idealway_2",
+            "text": "Publicznie"
+          },
+          {
+            "id": "idealway_3",
+            "text": "W trakcie podróży"
+          },
+          {
+            "id": "idealway_4",
+            "text": "Po prostu w domu"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_019",
+        "text": "Czy umawiał(a)byś się z kimś dużo starszym?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "wouldyou_1",
+            "text": "Tak, zdecydowanie"
+          },
+          {
+            "id": "wouldyou_2",
+            "text": "Może"
+          },
+          {
+            "id": "wouldyou_3",
+            "text": "Raczej nie"
+          },
+          {
+            "id": "wouldyou_4",
+            "text": "Nigdy"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_020",
+        "text": "Najważniejsza cecha w partnerze?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "mostimpor_1",
+            "text": "Godny zaufania"
+          },
+          {
+            "id": "mostimpor_2",
+            "text": "Zabawny"
+          },
+          {
+            "id": "mostimpor_3",
+            "text": "Ambitny"
+          },
+          {
+            "id": "mostimpor_4",
+            "text": "Troskliwy"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_021",
+        "text": "Najlepsze miejsce na pierwszy pocałunek?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "bestplace_1",
+            "text": "Pod gwiazdami"
+          },
+          {
+            "id": "bestplace_2",
+            "text": "Wieczór filmowy"
+          },
+          {
+            "id": "bestplace_3",
+            "text": "Na imprezie"
+          },
+          {
+            "id": "bestplace_4",
+            "text": "Podczas spaceru"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_022",
+        "text": "Kto pierwszy przeprasza po kłótni?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "whosayss_1",
+            "text": "Ja"
+          },
+          {
+            "id": "whosayss_2",
+            "text": "Oni"
+          },
+          {
+            "id": "whosayss_3",
+            "text": "Oboje"
+          },
+          {
+            "id": "whosayss_4",
+            "text": "Zwykle nikt"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_023",
+        "text": "Co jest bardziej romantyczne?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "what'smor_1",
+            "text": "Listy miłosne"
+          },
+          {
+            "id": "what'smor_2",
+            "text": "Niespodziewane randki"
+          },
+          {
+            "id": "what'smor_3",
+            "text": "Przytulanie"
+          },
+          {
+            "id": "what'smor_4",
+            "text": "Nocne rozmowy"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_024",
+        "text": "Czy przeprowadził(a)byś się dla miłości?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "wouldyou_1",
+            "text": "Tak, gdziekolwiek"
+          },
+          {
+            "id": "wouldyou_2",
+            "text": "Zależy jak daleko"
+          },
+          {
+            "id": "wouldyou_3",
+            "text": "Może"
+          },
+          {
+            "id": "wouldyou_4",
+            "text": "Nie"
+          }
+        ]
+      },
+      {
+        "id": "couples_d_025",
+        "text": "Najlepszy sposób na świętowanie rocznicy?",
+        "type": "predefined",
+        "options": [
+          {
+            "id": "bestwayt_1",
+            "text": "Podróż"
+          },
+          {
+            "id": "bestwayt_2",
+            "text": "Kolacja"
+          },
+          {
+            "id": "bestwayt_3",
+            "text": "Dom z prezentami"
+          },
+          {
+            "id": "bestwayt_4",
+            "text": "Po prostu wspólny czas"
+          }
+        ]
+      }
+    ]
+  ]
+}

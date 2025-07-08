@@ -1,0 +1,737 @@
+{
+  "deck": {
+    "id": "couples",
+    "name": "Couples & Relationships",
+    "description": "Fun questions about romance, crushes and mild confessions.",
+    "category": "couples",
+    "version": "3.0.0",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "id": "couples_p_001",
+      "text": "Who here would make the best boyfriend or girlfriend?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_002",
+      "text": "Who is most likely to fall in love at first sight?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_003",
+      "text": "Who gives the best hugs?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_004",
+      "text": "Who would you trust to keep a romantic secret?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_005",
+      "text": "Who is most likely to flirt without realizing it?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_006",
+      "text": "Who is the biggest hopeless romantic?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_007",
+      "text": "Who here has the most charming smile?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_008",
+      "text": "Who would plan the cutest date?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_009",
+      "text": "Who is most likely to send a cheesy love text?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_010",
+      "text": "Who here has probably had the most crushes?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_011",
+      "text": "Who would write love poems?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_012",
+      "text": "Who would propose in the most surprising way?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_013",
+      "text": "Who is most likely to sing a love song for someone?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_014",
+      "text": "Who would you call first after a breakup?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_015",
+      "text": "Who here is best at giving relationship advice?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_016",
+      "text": "Who would blush if complimented?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_017",
+      "text": "Who is most protective of people they love?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_018",
+      "text": "Who is the most gentle?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_019",
+      "text": "Who would go out of their way for someone they like?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_020",
+      "text": "Who would slow dance in the living room?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_021",
+      "text": "Who is most likely to forgive easily?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_022",
+      "text": "Who here would be the most jealous?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_023",
+      "text": "Who is most likely to talk about marriage first?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_024",
+      "text": "Who falls for people’s eyes?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_p_025",
+      "text": "Who is most likely to hold hands in public?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "couples_d_001",
+      "text": "Have you ever kissed someone of the same gender?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "haveyoue_1",
+          "text": "Yes, often"
+        },
+        {
+          "id": "haveyoue_2",
+          "text": "A few times"
+        },
+        {
+          "id": "haveyoue_3",
+          "text": "Only once"
+        },
+        {
+          "id": "haveyoue_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_002",
+      "text": "What’s most attractive?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "what’smos_1",
+          "text": "Eyes"
+        },
+        {
+          "id": "what’smos_2",
+          "text": "Smile"
+        },
+        {
+          "id": "what’smos_3",
+          "text": "Voice"
+        },
+        {
+          "id": "what’smos_4",
+          "text": "Personality"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_003",
+      "text": "How quickly do you catch feelings?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howquickl_1",
+          "text": "Very fast"
+        },
+        {
+          "id": "howquickl_2",
+          "text": "Pretty quickly"
+        },
+        {
+          "id": "howquickl_3",
+          "text": "Slowly"
+        },
+        {
+          "id": "howquickl_4",
+          "text": "Rarely"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_004",
+      "text": "Where would you go for a dream date?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "wherewoul_1",
+          "text": "Beach"
+        },
+        {
+          "id": "wherewoul_2",
+          "text": "Cozy Cafe"
+        },
+        {
+          "id": "wherewoul_3",
+          "text": "Theme Park"
+        },
+        {
+          "id": "wherewoul_4",
+          "text": "Home Movie Night"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_005",
+      "text": "Who pays on the first date?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whopayso_1",
+          "text": "I do"
+        },
+        {
+          "id": "whopayso_2",
+          "text": "They do"
+        },
+        {
+          "id": "whopayso_3",
+          "text": "Split"
+        },
+        {
+          "id": "whopayso_4",
+          "text": "Whoever grabs the check first"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_006",
+      "text": "Best way to show affection?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Hugs"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Kisses"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Words"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Little Gifts"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_007",
+      "text": "How do you feel about public displays of affection?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howdoyou_1",
+          "text": "Love it"
+        },
+        {
+          "id": "howdoyou_2",
+          "text": "Small is fine"
+        },
+        {
+          "id": "howdoyou_3",
+          "text": "Prefer private"
+        },
+        {
+          "id": "howdoyou_4",
+          "text": "Hate it"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_008",
+      "text": "Longest you’ve gone without dating?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "longestyo_1",
+          "text": "Years"
+        },
+        {
+          "id": "longestyo_2",
+          "text": "A year"
+        },
+        {
+          "id": "longestyo_3",
+          "text": "Months"
+        },
+        {
+          "id": "longestyo_4",
+          "text": "Weeks"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_009",
+      "text": "Favorite relationship stage?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriter_1",
+          "text": "Flirting"
+        },
+        {
+          "id": "favoriter_2",
+          "text": "New Love"
+        },
+        {
+          "id": "favoriter_3",
+          "text": "Settled"
+        },
+        {
+          "id": "favoriter_4",
+          "text": "Planning Future"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_010",
+      "text": "Most romantic movie genre?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostroman_1",
+          "text": "Rom-Com"
+        },
+        {
+          "id": "mostroman_2",
+          "text": "Drama"
+        },
+        {
+          "id": "mostroman_3",
+          "text": "Fantasy"
+        },
+        {
+          "id": "mostroman_4",
+          "text": "Animated"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_011",
+      "text": "What ruins a relationship?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatruins_1",
+          "text": "Jealousy"
+        },
+        {
+          "id": "whatruins_2",
+          "text": "Lies"
+        },
+        {
+          "id": "whatruins_3",
+          "text": "Neglect"
+        },
+        {
+          "id": "whatruins_4",
+          "text": "Different goals"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_012",
+      "text": "Best way to start flirting?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Compliments"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Funny texts"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Light teasing"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Being direct"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_013",
+      "text": "Have you ever had a secret crush on a friend?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "haveyoue_1",
+          "text": "Yes, always"
+        },
+        {
+          "id": "haveyoue_2",
+          "text": "A few times"
+        },
+        {
+          "id": "haveyoue_3",
+          "text": "Once"
+        },
+        {
+          "id": "haveyoue_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_014",
+      "text": "Most likely to make you swoon?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostlikel_1",
+          "text": "Surprise visits"
+        },
+        {
+          "id": "mostlikel_2",
+          "text": "Romantic texts"
+        },
+        {
+          "id": "mostlikel_3",
+          "text": "Little gifts"
+        },
+        {
+          "id": "mostlikel_4",
+          "text": "Home-cooked meal"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_015",
+      "text": "Best couple activity?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestcoupl_1",
+          "text": "Cooking together"
+        },
+        {
+          "id": "bestcoupl_2",
+          "text": "Movie night"
+        },
+        {
+          "id": "bestcoupl_3",
+          "text": "Traveling"
+        },
+        {
+          "id": "bestcoupl_4",
+          "text": "Just talking"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_016",
+      "text": "Biggest relationship fear?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestre_1",
+          "text": "Cheating"
+        },
+        {
+          "id": "biggestre_2",
+          "text": "Growing apart"
+        },
+        {
+          "id": "biggestre_3",
+          "text": "Arguments"
+        },
+        {
+          "id": "biggestre_4",
+          "text": "Boredom"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_017",
+      "text": "How long before saying 'I love you'?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "howlongb_1",
+          "text": "Weeks"
+        },
+        {
+          "id": "howlongb_2",
+          "text": "Months"
+        },
+        {
+          "id": "howlongb_3",
+          "text": "A year"
+        },
+        {
+          "id": "howlongb_4",
+          "text": "Longer"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_018",
+      "text": "Ideal way to be proposed to?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "idealway_1",
+          "text": "Private"
+        },
+        {
+          "id": "idealway_2",
+          "text": "Public"
+        },
+        {
+          "id": "idealway_3",
+          "text": "During trip"
+        },
+        {
+          "id": "idealway_4",
+          "text": "Simple at home"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_019",
+      "text": "Would you date someone much older?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "wouldyou_1",
+          "text": "Yes, definitely"
+        },
+        {
+          "id": "wouldyou_2",
+          "text": "Maybe"
+        },
+        {
+          "id": "wouldyou_3",
+          "text": "Unlikely"
+        },
+        {
+          "id": "wouldyou_4",
+          "text": "Never"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_020",
+      "text": "Most important trait in a partner?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostimpor_1",
+          "text": "Trustworthy"
+        },
+        {
+          "id": "mostimpor_2",
+          "text": "Funny"
+        },
+        {
+          "id": "mostimpor_3",
+          "text": "Ambitious"
+        },
+        {
+          "id": "mostimpor_4",
+          "text": "Caring"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_021",
+      "text": "Best place for first kiss?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestplace_1",
+          "text": "Under stars"
+        },
+        {
+          "id": "bestplace_2",
+          "text": "Movie night"
+        },
+        {
+          "id": "bestplace_3",
+          "text": "At a party"
+        },
+        {
+          "id": "bestplace_4",
+          "text": "On a walk"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_022",
+      "text": "Who says sorry first after a fight?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whosayss_1",
+          "text": "I do"
+        },
+        {
+          "id": "whosayss_2",
+          "text": "They do"
+        },
+        {
+          "id": "whosayss_3",
+          "text": "We both do"
+        },
+        {
+          "id": "whosayss_4",
+          "text": "Neither usually"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_023",
+      "text": "What's more romantic?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "what'smor_1",
+          "text": "Love letters"
+        },
+        {
+          "id": "what'smor_2",
+          "text": "Surprise dates"
+        },
+        {
+          "id": "what'smor_3",
+          "text": "Cuddling"
+        },
+        {
+          "id": "what'smor_4",
+          "text": "Late night talks"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_024",
+      "text": "Would you move for love?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "wouldyou_1",
+          "text": "Yes, anywhere"
+        },
+        {
+          "id": "wouldyou_2",
+          "text": "Depends how far"
+        },
+        {
+          "id": "wouldyou_3",
+          "text": "Maybe"
+        },
+        {
+          "id": "wouldyou_4",
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": "couples_d_025",
+      "text": "Best way to celebrate an anniversary?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Trip"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Dinner"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Home with gifts"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Just quality time"
+        }
+      ]
+    }
+  ]
+}

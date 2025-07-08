@@ -1,0 +1,937 @@
+{
+  "deck": {
+    "id": "friends",
+    "name": "Friend Squad Expanded",
+    "description": "Fun questions to test friendships.",
+    "category": "friends",
+    "version": "3.0.0",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "id": "friends_p_001",
+      "text": "Who is most likely to plan a surprise party?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_002",
+      "text": "Who remembers the weirdest details about others?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_003",
+      "text": "Who is the worst at replying to messages?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_004",
+      "text": "Who is most likely to lose their phone?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_005",
+      "text": "Who is always late to meetups?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_006",
+      "text": "Who gives the best advice?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_007",
+      "text": "Who is the biggest drama magnet?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_008",
+      "text": "Who is most likely to start a group trip?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_009",
+      "text": "Who eats the most during hangouts?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_010",
+      "text": "Who would survive longest on a deserted island?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_011",
+      "text": "Who would laugh at the wrong moment?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_012",
+      "text": "Who is most likely to keep a secret?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_013",
+      "text": "Who is always taking selfies?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_014",
+      "text": "Who would become famous first?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_015",
+      "text": "Who cries most during movies?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_016",
+      "text": "Who is most likely to forget their wallet?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_017",
+      "text": "Who has the most contagious laugh?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_018",
+      "text": "Who would win a dance-off?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_019",
+      "text": "Who is most likely to binge-watch a whole season in a day?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_020",
+      "text": "Who has the most inside jokes?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_021",
+      "text": "Who is the best at cheering people up?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_022",
+      "text": "Who is most competitive in games?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_023",
+      "text": "Who would book a random flight on impulse?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_024",
+      "text": "Who would start karaoke without being asked?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_p_025",
+      "text": "Who would give the best toast at a wedding?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "friends_d_001",
+      "text": "Best way to spend a weekend with friends?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Road Trip"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "House Party"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Movie Marathon"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Camping"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Gaming Night"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Dinner Out"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_002",
+      "text": "Best friend trait?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestfrien_1",
+          "text": "Loyalty"
+        },
+        {
+          "id": "bestfrien_2",
+          "text": "Humor"
+        },
+        {
+          "id": "bestfrien_3",
+          "text": "Honesty"
+        },
+        {
+          "id": "bestfrien_4",
+          "text": "Adventurous"
+        },
+        {
+          "id": "bestfrien_5",
+          "text": "Supportive"
+        },
+        {
+          "id": "bestfrien_6",
+          "text": "Listener"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_003",
+      "text": "What would you borrow first from a friend?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatwould_1",
+          "text": "Money"
+        },
+        {
+          "id": "whatwould_2",
+          "text": "Phone Charger"
+        },
+        {
+          "id": "whatwould_3",
+          "text": "Clothes"
+        },
+        {
+          "id": "whatwould_4",
+          "text": "Car"
+        },
+        {
+          "id": "whatwould_5",
+          "text": "Umbrella"
+        },
+        {
+          "id": "whatwould_6",
+          "text": "Headphones"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_004",
+      "text": "Favorite group game?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriteg_1",
+          "text": "Charades"
+        },
+        {
+          "id": "favoriteg_2",
+          "text": "Pictionary"
+        },
+        {
+          "id": "favoriteg_3",
+          "text": "Cards Against Humanity"
+        },
+        {
+          "id": "favoriteg_4",
+          "text": "Uno"
+        },
+        {
+          "id": "favoriteg_5",
+          "text": "Board Games"
+        },
+        {
+          "id": "favoriteg_6",
+          "text": "Video Games"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_005",
+      "text": "Best reason to call a friend at 2 AM?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestreaso_1",
+          "text": "Breakup"
+        },
+        {
+          "id": "bestreaso_2",
+          "text": "Funny Story"
+        },
+        {
+          "id": "bestreaso_3",
+          "text": "Emergency"
+        },
+        {
+          "id": "bestreaso_4",
+          "text": "Can't Sleep"
+        },
+        {
+          "id": "bestreaso_5",
+          "text": "Celebration"
+        },
+        {
+          "id": "bestreaso_6",
+          "text": "Need Advice"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_006",
+      "text": "Favorite thing to share with a friend?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Secrets"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Food"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Memes"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Photos"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Playlists"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Clothes"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_007",
+      "text": "Best friend vacation?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestfrien_1",
+          "text": "Beach Resort"
+        },
+        {
+          "id": "bestfrien_2",
+          "text": "Camping Trip"
+        },
+        {
+          "id": "bestfrien_3",
+          "text": "City Weekend"
+        },
+        {
+          "id": "bestfrien_4",
+          "text": "Road Trip"
+        },
+        {
+          "id": "bestfrien_5",
+          "text": "Festival"
+        },
+        {
+          "id": "bestfrien_6",
+          "text": "Cruise"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_008",
+      "text": "Favorite movie genre to watch together?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritem_1",
+          "text": "Comedy"
+        },
+        {
+          "id": "favoritem_2",
+          "text": "Horror"
+        },
+        {
+          "id": "favoritem_3",
+          "text": "Romance"
+        },
+        {
+          "id": "favoritem_4",
+          "text": "Action"
+        },
+        {
+          "id": "favoritem_5",
+          "text": "Sci-Fi"
+        },
+        {
+          "id": "favoritem_6",
+          "text": "Animated"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_009",
+      "text": "Best snack for friend gatherings?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestsnack_1",
+          "text": "Chips & Dip"
+        },
+        {
+          "id": "bestsnack_2",
+          "text": "Pizza"
+        },
+        {
+          "id": "bestsnack_3",
+          "text": "Popcorn"
+        },
+        {
+          "id": "bestsnack_4",
+          "text": "Candy"
+        },
+        {
+          "id": "bestsnack_5",
+          "text": "Nachos"
+        },
+        {
+          "id": "bestsnack_6",
+          "text": "Cookies"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_010",
+      "text": "Best reason to start a group chat?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestreaso_1",
+          "text": "Trip Planning"
+        },
+        {
+          "id": "bestreaso_2",
+          "text": "Random Memes"
+        },
+        {
+          "id": "bestreaso_3",
+          "text": "Secret Gossip"
+        },
+        {
+          "id": "bestreaso_4",
+          "text": "Birthday Plans"
+        },
+        {
+          "id": "bestreaso_5",
+          "text": "Game Night"
+        },
+        {
+          "id": "bestreaso_6",
+          "text": "Share Photos"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_011",
+      "text": "If you started a band, what genre?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "ifyousta_1",
+          "text": "Rock"
+        },
+        {
+          "id": "ifyousta_2",
+          "text": "Pop"
+        },
+        {
+          "id": "ifyousta_3",
+          "text": "Hip-Hop"
+        },
+        {
+          "id": "ifyousta_4",
+          "text": "Jazz"
+        },
+        {
+          "id": "ifyousta_5",
+          "text": "Metal"
+        },
+        {
+          "id": "ifyousta_6",
+          "text": "Electronic"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_012",
+      "text": "Best drink for hanging out?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestdrink_1",
+          "text": "Soda"
+        },
+        {
+          "id": "bestdrink_2",
+          "text": "Juice"
+        },
+        {
+          "id": "bestdrink_3",
+          "text": "Mocktail"
+        },
+        {
+          "id": "bestdrink_4",
+          "text": "Beer"
+        },
+        {
+          "id": "bestdrink_5",
+          "text": "Wine"
+        },
+        {
+          "id": "bestdrink_6",
+          "text": "Cocktail"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_013",
+      "text": "Favorite way to communicate?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritew_1",
+          "text": "Texting"
+        },
+        {
+          "id": "favoritew_2",
+          "text": "Phone Calls"
+        },
+        {
+          "id": "favoritew_3",
+          "text": "Video Calls"
+        },
+        {
+          "id": "favoritew_4",
+          "text": "In Person"
+        },
+        {
+          "id": "favoritew_5",
+          "text": "Social Media"
+        },
+        {
+          "id": "favoritew_6",
+          "text": "Emails"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_014",
+      "text": "Favorite type of party?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Costume"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Pool"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Dinner"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Karaoke"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Dance"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Game Night"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_015",
+      "text": "Biggest test of friendship?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestte_1",
+          "text": "Traveling Together"
+        },
+        {
+          "id": "biggestte_2",
+          "text": "Moving In"
+        },
+        {
+          "id": "biggestte_3",
+          "text": "Starting a Business"
+        },
+        {
+          "id": "biggestte_4",
+          "text": "Borrowing Money"
+        },
+        {
+          "id": "biggestte_5",
+          "text": "Keeping Secrets"
+        },
+        {
+          "id": "biggestte_6",
+          "text": "Group Projects"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_016",
+      "text": "Favorite type of inside joke?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Made-up Words"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Funny Memories"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Shared Fails"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Nicknames"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Random Objects"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Weird Phrases"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_017",
+      "text": "Best music to listen together?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestmusic_1",
+          "text": "Pop"
+        },
+        {
+          "id": "bestmusic_2",
+          "text": "Rock"
+        },
+        {
+          "id": "bestmusic_3",
+          "text": "Hip-Hop"
+        },
+        {
+          "id": "bestmusic_4",
+          "text": "EDM"
+        },
+        {
+          "id": "bestmusic_5",
+          "text": "Indie"
+        },
+        {
+          "id": "bestmusic_6",
+          "text": "Throwbacks"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_018",
+      "text": "Best outfit to match with friends?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestoutfi_1",
+          "text": "T-Shirts"
+        },
+        {
+          "id": "bestoutfi_2",
+          "text": "Hats"
+        },
+        {
+          "id": "bestoutfi_3",
+          "text": "Costumes"
+        },
+        {
+          "id": "bestoutfi_4",
+          "text": "Jackets"
+        },
+        {
+          "id": "bestoutfi_5",
+          "text": "Sneakers"
+        },
+        {
+          "id": "bestoutfi_6",
+          "text": "Accessories"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_019",
+      "text": "Best reason to take a selfie together?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestreaso_1",
+          "text": "Vacation"
+        },
+        {
+          "id": "bestreaso_2",
+          "text": "Funny Moment"
+        },
+        {
+          "id": "bestreaso_3",
+          "text": "Random Day"
+        },
+        {
+          "id": "bestreaso_4",
+          "text": "Special Event"
+        },
+        {
+          "id": "bestreaso_5",
+          "text": "Food Pics"
+        },
+        {
+          "id": "bestreaso_6",
+          "text": "Matching Outfits"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_020",
+      "text": "Best app to share stuff on?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestappt_1",
+          "text": "Instagram"
+        },
+        {
+          "id": "bestappt_2",
+          "text": "Snapchat"
+        },
+        {
+          "id": "bestappt_3",
+          "text": "WhatsApp"
+        },
+        {
+          "id": "bestappt_4",
+          "text": "Messenger"
+        },
+        {
+          "id": "bestappt_5",
+          "text": "TikTok"
+        },
+        {
+          "id": "bestappt_6",
+          "text": "Discord"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_021",
+      "text": "Most fun holiday to celebrate with friends?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostfunh_1",
+          "text": "New Year's Eve"
+        },
+        {
+          "id": "mostfunh_2",
+          "text": "Halloween"
+        },
+        {
+          "id": "mostfunh_3",
+          "text": "Christmas"
+        },
+        {
+          "id": "mostfunh_4",
+          "text": "Valentine's (Anti-Valentine)"
+        },
+        {
+          "id": "mostfunh_5",
+          "text": "Easter"
+        },
+        {
+          "id": "mostfunh_6",
+          "text": "Thanksgiving"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_022",
+      "text": "Best way to prank a friend?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Whoopee Cushion"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Fake Call"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Jump Scare"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Surprise Party"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Fake News"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Hidden Alarm"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_023",
+      "text": "Favorite late night activity?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritel_1",
+          "text": "Movie"
+        },
+        {
+          "id": "favoritel_2",
+          "text": "Gaming"
+        },
+        {
+          "id": "favoritel_3",
+          "text": "Talking"
+        },
+        {
+          "id": "favoritel_4",
+          "text": "Walking"
+        },
+        {
+          "id": "favoritel_5",
+          "text": "Eating"
+        },
+        {
+          "id": "favoritel_6",
+          "text": "Playing Cards"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_024",
+      "text": "Best icebreaker question?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besticebr_1",
+          "text": "Dream Job?"
+        },
+        {
+          "id": "besticebr_2",
+          "text": "Biggest Fear?"
+        },
+        {
+          "id": "besticebr_3",
+          "text": "Hidden Talent?"
+        },
+        {
+          "id": "besticebr_4",
+          "text": "Favorite Food?"
+        },
+        {
+          "id": "besticebr_5",
+          "text": "Most Embarrassing Moment?"
+        },
+        {
+          "id": "besticebr_6",
+          "text": "Secret Crush?"
+        }
+      ]
+    },
+    {
+      "id": "friends_d_025",
+      "text": "Best celebration after good news?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestceleb_1",
+          "text": "Dinner Out"
+        },
+        {
+          "id": "bestceleb_2",
+          "text": "Drinks"
+        },
+        {
+          "id": "bestceleb_3",
+          "text": "Movie Night"
+        },
+        {
+          "id": "bestceleb_4",
+          "text": "Dance Party"
+        },
+        {
+          "id": "bestceleb_5",
+          "text": "Shopping"
+        },
+        {
+          "id": "bestceleb_6",
+          "text": "Surprise Gift"
+        }
+      ]
+    }
+  ]
+}

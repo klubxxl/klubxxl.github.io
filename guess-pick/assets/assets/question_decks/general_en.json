@@ -1,0 +1,1455 @@
+{
+  "deck": {
+    "id": "general",
+    "name": "General Fun",
+    "description": "Wide variety of fun general questions.",
+    "category": "general",
+    "version": "3.0.0",
+    "language": "en"
+  },
+  "questions": [
+    {
+      "id": "general_p_001",
+      "text": "Who would survive longest in a zombie apocalypse?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_002",
+      "text": "Who is most likely to sing in the shower?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_003",
+      "text": "Who tells the best jokes?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_004",
+      "text": "Who would get lost on the way to a local shop?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_005",
+      "text": "Who is the biggest daydreamer?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_006",
+      "text": "Who always knows random trivia?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_007",
+      "text": "Who would start a dance party out of nowhere?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_008",
+      "text": "Who is most likely to cry at a sad movie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_009",
+      "text": "Who always has a messy room?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_010",
+      "text": "Who would volunteer first for karaoke?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_011",
+      "text": "Who is most addicted to their phone?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_012",
+      "text": "Who would befriend a ghost?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_013",
+      "text": "Who would adopt 10 cats?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_014",
+      "text": "Who would be the best stand-up comedian?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_015",
+      "text": "Who would stay calm during a crisis?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_016",
+      "text": "Who spends the longest getting ready?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_017",
+      "text": "Who is most likely to accidentally set off the fire alarm?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_018",
+      "text": "Who would make the best detective?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_019",
+      "text": "Who is most likely to join a reality TV show?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_020",
+      "text": "Who has the most embarrassing childhood story?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_021",
+      "text": "Who would eat something off the floor?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_022",
+      "text": "Who would build the best blanket fort?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_023",
+      "text": "Who is most likely to move to another country?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_024",
+      "text": "Who gives the best compliments?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_025",
+      "text": "Who would forget why they walked into a room?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_026",
+      "text": "Who would be the best game show host?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_027",
+      "text": "Who is most likely to survive on a deserted island?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_028",
+      "text": "Who would accidentally reveal a secret?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_029",
+      "text": "Who would plan a crazy adventure?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_030",
+      "text": "Who takes the most selfies?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_031",
+      "text": "Who is always humming a tune?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_032",
+      "text": "Who would befriend an alien?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_033",
+      "text": "Who would get locked out of their house?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_034",
+      "text": "Who is most likely to become a millionaire?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_035",
+      "text": "Who would write a best-selling book?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_036",
+      "text": "Who would make the best motivational speaker?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_037",
+      "text": "Who would survive longest without the internet?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_038",
+      "text": "Who would forget to bring their passport to the airport?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_p_039",
+      "text": "Who would laugh at a completely inappropriate time?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "general_d_001",
+      "text": "Favorite season?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorites_1",
+          "text": "Spring"
+        },
+        {
+          "id": "favorites_2",
+          "text": "Summer"
+        },
+        {
+          "id": "favorites_3",
+          "text": "Autumn"
+        },
+        {
+          "id": "favorites_4",
+          "text": "Winter"
+        },
+        {
+          "id": "favorites_5",
+          "text": "All Seasons"
+        },
+        {
+          "id": "favorites_6",
+          "text": "Don't care"
+        }
+      ]
+    },
+    {
+      "id": "general_d_002",
+      "text": "Favorite time of day?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Morning"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Noon"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Afternoon"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Evening"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Night"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Late Night"
+        }
+      ]
+    },
+    {
+      "id": "general_d_003",
+      "text": "What scares you the most?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatscare_1",
+          "text": "Heights"
+        },
+        {
+          "id": "whatscare_2",
+          "text": "Spiders"
+        },
+        {
+          "id": "whatscare_3",
+          "text": "Darkness"
+        },
+        {
+          "id": "whatscare_4",
+          "text": "Public Speaking"
+        },
+        {
+          "id": "whatscare_5",
+          "text": "Needles"
+        },
+        {
+          "id": "whatscare_6",
+          "text": "Being Alone"
+        }
+      ]
+    },
+    {
+      "id": "general_d_004",
+      "text": "Ideal weekend activity?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "idealweek_1",
+          "text": "Netflix"
+        },
+        {
+          "id": "idealweek_2",
+          "text": "Adventure"
+        },
+        {
+          "id": "idealweek_3",
+          "text": "Social"
+        },
+        {
+          "id": "idealweek_4",
+          "text": "Creative"
+        },
+        {
+          "id": "idealweek_5",
+          "text": "Sports"
+        },
+        {
+          "id": "idealweek_6",
+          "text": "Reading"
+        }
+      ]
+    },
+    {
+      "id": "general_d_005",
+      "text": "Favorite superpower?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorites_1",
+          "text": "Flying"
+        },
+        {
+          "id": "favorites_2",
+          "text": "Invisibility"
+        },
+        {
+          "id": "favorites_3",
+          "text": "Strength"
+        },
+        {
+          "id": "favorites_4",
+          "text": "Mind Reading"
+        },
+        {
+          "id": "favorites_5",
+          "text": "Time Travel"
+        },
+        {
+          "id": "favorites_6",
+          "text": "Teleportation"
+        }
+      ]
+    },
+    {
+      "id": "general_d_006",
+      "text": "Best way to spend a Sunday?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Sleep In"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Family Lunch"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Park"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Do Nothing"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Read"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Clean"
+        }
+      ]
+    },
+    {
+      "id": "general_d_007",
+      "text": "Best holiday?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestholid_1",
+          "text": "Christmas"
+        },
+        {
+          "id": "bestholid_2",
+          "text": "Halloween"
+        },
+        {
+          "id": "bestholid_3",
+          "text": "New Year"
+        },
+        {
+          "id": "bestholid_4",
+          "text": "Easter"
+        },
+        {
+          "id": "bestholid_5",
+          "text": "Valentine's"
+        },
+        {
+          "id": "bestholid_6",
+          "text": "Thanksgiving"
+        }
+      ]
+    },
+    {
+      "id": "general_d_008",
+      "text": "Favorite movie genre?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritem_1",
+          "text": "Action"
+        },
+        {
+          "id": "favoritem_2",
+          "text": "Comedy"
+        },
+        {
+          "id": "favoritem_3",
+          "text": "Drama"
+        },
+        {
+          "id": "favoritem_4",
+          "text": "Horror"
+        },
+        {
+          "id": "favoritem_5",
+          "text": "Romance"
+        },
+        {
+          "id": "favoritem_6",
+          "text": "Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": "general_d_009",
+      "text": "Dream profession?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "dreamprof_1",
+          "text": "Pilot"
+        },
+        {
+          "id": "dreamprof_2",
+          "text": "Scientist"
+        },
+        {
+          "id": "dreamprof_3",
+          "text": "Artist"
+        },
+        {
+          "id": "dreamprof_4",
+          "text": "Doctor"
+        },
+        {
+          "id": "dreamprof_5",
+          "text": "Chef"
+        },
+        {
+          "id": "dreamprof_6",
+          "text": "Athlete"
+        }
+      ]
+    },
+    {
+      "id": "general_d_010",
+      "text": "Best way to relax?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Reading"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Gardening"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Painting"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Cooking"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Fishing"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Crafting"
+        }
+      ]
+    },
+    {
+      "id": "general_d_011",
+      "text": "Which animal are you?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whichanim_1",
+          "text": "Lion"
+        },
+        {
+          "id": "whichanim_2",
+          "text": "Dolphin"
+        },
+        {
+          "id": "whichanim_3",
+          "text": "Owl"
+        },
+        {
+          "id": "whichanim_4",
+          "text": "Elephant"
+        },
+        {
+          "id": "whichanim_5",
+          "text": "Cat"
+        },
+        {
+          "id": "whichanim_6",
+          "text": "Dog"
+        }
+      ]
+    },
+    {
+      "id": "general_d_012",
+      "text": "Best way to celebrate?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Party"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Dinner"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Trip"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Gift"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Family Time"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Quiet Night"
+        }
+      ]
+    },
+    {
+      "id": "general_d_013",
+      "text": "Favorite type of weather?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Sunny"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Rainy"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Snowy"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Cloudy"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Windy"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Stormy"
+        }
+      ]
+    },
+    {
+      "id": "general_d_014",
+      "text": "Best talent show act?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttalen_1",
+          "text": "Singing"
+        },
+        {
+          "id": "besttalen_2",
+          "text": "Dancing"
+        },
+        {
+          "id": "besttalen_3",
+          "text": "Magic"
+        },
+        {
+          "id": "besttalen_4",
+          "text": "Comedy"
+        },
+        {
+          "id": "besttalen_5",
+          "text": "Art"
+        },
+        {
+          "id": "besttalen_6",
+          "text": "Cooking"
+        }
+      ]
+    },
+    {
+      "id": "general_d_015",
+      "text": "Best hobby?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besthobby_1",
+          "text": "Music"
+        },
+        {
+          "id": "besthobby_2",
+          "text": "Sports"
+        },
+        {
+          "id": "besthobby_3",
+          "text": "Art"
+        },
+        {
+          "id": "besthobby_4",
+          "text": "Gaming"
+        },
+        {
+          "id": "besthobby_5",
+          "text": "Writing"
+        },
+        {
+          "id": "besthobby_6",
+          "text": "Cooking"
+        }
+      ]
+    },
+    {
+      "id": "general_d_016",
+      "text": "Most annoying habit?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostannoy_1",
+          "text": "Nail Biting"
+        },
+        {
+          "id": "mostannoy_2",
+          "text": "Interrupting"
+        },
+        {
+          "id": "mostannoy_3",
+          "text": "Being Late"
+        },
+        {
+          "id": "mostannoy_4",
+          "text": "Loud Eating"
+        },
+        {
+          "id": "mostannoy_5",
+          "text": "Messy"
+        },
+        {
+          "id": "mostannoy_6",
+          "text": "Over Explaining"
+        }
+      ]
+    },
+    {
+      "id": "general_d_017",
+      "text": "Best pet?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestpet?_1",
+          "text": "Dog"
+        },
+        {
+          "id": "bestpet?_2",
+          "text": "Cat"
+        },
+        {
+          "id": "bestpet?_3",
+          "text": "Fish"
+        },
+        {
+          "id": "bestpet?_4",
+          "text": "Bird"
+        },
+        {
+          "id": "bestpet?_5",
+          "text": "Rabbit"
+        },
+        {
+          "id": "bestpet?_6",
+          "text": "No Pet"
+        }
+      ]
+    },
+    {
+      "id": "general_d_018",
+      "text": "Biggest dream?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "biggestdr_1",
+          "text": "Travel World"
+        },
+        {
+          "id": "biggestdr_2",
+          "text": "Become Rich"
+        },
+        {
+          "id": "biggestdr_3",
+          "text": "Famous"
+        },
+        {
+          "id": "biggestdr_4",
+          "text": "Family"
+        },
+        {
+          "id": "biggestdr_5",
+          "text": "Adventure"
+        },
+        {
+          "id": "biggestdr_6",
+          "text": "Help Others"
+        }
+      ]
+    },
+    {
+      "id": "general_d_019",
+      "text": "Favorite dessert?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorited_1",
+          "text": "Ice Cream"
+        },
+        {
+          "id": "favorited_2",
+          "text": "Cake"
+        },
+        {
+          "id": "favorited_3",
+          "text": "Cookies"
+        },
+        {
+          "id": "favorited_4",
+          "text": "Brownie"
+        },
+        {
+          "id": "favorited_5",
+          "text": "Pie"
+        },
+        {
+          "id": "favorited_6",
+          "text": "Pudding"
+        }
+      ]
+    },
+    {
+      "id": "general_d_020",
+      "text": "Favorite board game?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoriteb_1",
+          "text": "Chess"
+        },
+        {
+          "id": "favoriteb_2",
+          "text": "Monopoly"
+        },
+        {
+          "id": "favoriteb_3",
+          "text": "Scrabble"
+        },
+        {
+          "id": "favoriteb_4",
+          "text": "Catan"
+        },
+        {
+          "id": "favoriteb_5",
+          "text": "Uno"
+        },
+        {
+          "id": "favoriteb_6",
+          "text": "Jenga"
+        }
+      ]
+    },
+    {
+      "id": "general_d_021",
+      "text": "Worst chore?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstchor_1",
+          "text": "Dishes"
+        },
+        {
+          "id": "worstchor_2",
+          "text": "Laundry"
+        },
+        {
+          "id": "worstchor_3",
+          "text": "Vacuuming"
+        },
+        {
+          "id": "worstchor_4",
+          "text": "Dusting"
+        },
+        {
+          "id": "worstchor_5",
+          "text": "Bathroom"
+        },
+        {
+          "id": "worstchor_6",
+          "text": "Windows"
+        }
+      ]
+    },
+    {
+      "id": "general_d_022",
+      "text": "Favorite drink?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorited_1",
+          "text": "Water"
+        },
+        {
+          "id": "favorited_2",
+          "text": "Juice"
+        },
+        {
+          "id": "favorited_3",
+          "text": "Soda"
+        },
+        {
+          "id": "favorited_4",
+          "text": "Tea"
+        },
+        {
+          "id": "favorited_5",
+          "text": "Coffee"
+        },
+        {
+          "id": "favorited_6",
+          "text": "Milkshake"
+        }
+      ]
+    },
+    {
+      "id": "general_d_023",
+      "text": "Favorite sound?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorites_1",
+          "text": "Rain"
+        },
+        {
+          "id": "favorites_2",
+          "text": "Ocean"
+        },
+        {
+          "id": "favorites_3",
+          "text": "Fireplace"
+        },
+        {
+          "id": "favorites_4",
+          "text": "Birds"
+        },
+        {
+          "id": "favorites_5",
+          "text": "Music"
+        },
+        {
+          "id": "favorites_6",
+          "text": "Silence"
+        }
+      ]
+    },
+    {
+      "id": "general_d_024",
+      "text": "Best gift to receive?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestgift_1",
+          "text": "Money"
+        },
+        {
+          "id": "bestgift_2",
+          "text": "Gadget"
+        },
+        {
+          "id": "bestgift_3",
+          "text": "Jewelry"
+        },
+        {
+          "id": "bestgift_4",
+          "text": "Trip"
+        },
+        {
+          "id": "bestgift_5",
+          "text": "Book"
+        },
+        {
+          "id": "bestgift_6",
+          "text": "Clothes"
+        }
+      ]
+    },
+    {
+      "id": "general_d_025",
+      "text": "What would you do with a million?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatwould_1",
+          "text": "Travel"
+        },
+        {
+          "id": "whatwould_2",
+          "text": "Buy House"
+        },
+        {
+          "id": "whatwould_3",
+          "text": "Donate"
+        },
+        {
+          "id": "whatwould_4",
+          "text": "Invest"
+        },
+        {
+          "id": "whatwould_5",
+          "text": "Quit Job"
+        },
+        {
+          "id": "whatwould_6",
+          "text": "Start Business"
+        }
+      ]
+    },
+    {
+      "id": "general_d_026",
+      "text": "Best type of party?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttype_1",
+          "text": "Costume"
+        },
+        {
+          "id": "besttype_2",
+          "text": "Dance"
+        },
+        {
+          "id": "besttype_3",
+          "text": "Dinner"
+        },
+        {
+          "id": "besttype_4",
+          "text": "Karaoke"
+        },
+        {
+          "id": "besttype_5",
+          "text": "Pool"
+        },
+        {
+          "id": "besttype_6",
+          "text": "Game Night"
+        }
+      ]
+    },
+    {
+      "id": "general_d_027",
+      "text": "What motivates you?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatmotiv_1",
+          "text": "Money"
+        },
+        {
+          "id": "whatmotiv_2",
+          "text": "Recognition"
+        },
+        {
+          "id": "whatmotiv_3",
+          "text": "Growth"
+        },
+        {
+          "id": "whatmotiv_4",
+          "text": "Challenge"
+        },
+        {
+          "id": "whatmotiv_5",
+          "text": "Team"
+        },
+        {
+          "id": "whatmotiv_6",
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "id": "general_d_028",
+      "text": "Worst nightmare?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstnigh_1",
+          "text": "Falling"
+        },
+        {
+          "id": "worstnigh_2",
+          "text": "Being Chased"
+        },
+        {
+          "id": "worstnigh_3",
+          "text": "Losing Teeth"
+        },
+        {
+          "id": "worstnigh_4",
+          "text": "Drowning"
+        },
+        {
+          "id": "worstnigh_5",
+          "text": "Naked Public"
+        },
+        {
+          "id": "worstnigh_6",
+          "text": "Monsters"
+        }
+      ]
+    },
+    {
+      "id": "general_d_029",
+      "text": "Favorite music?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritem_1",
+          "text": "Pop"
+        },
+        {
+          "id": "favoritem_2",
+          "text": "Rock"
+        },
+        {
+          "id": "favoritem_3",
+          "text": "Hip-Hop"
+        },
+        {
+          "id": "favoritem_4",
+          "text": "Jazz"
+        },
+        {
+          "id": "favoritem_5",
+          "text": "Classical"
+        },
+        {
+          "id": "favoritem_6",
+          "text": "EDM"
+        }
+      ]
+    },
+    {
+      "id": "general_d_030",
+      "text": "Favorite ice cream?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritei_1",
+          "text": "Vanilla"
+        },
+        {
+          "id": "favoritei_2",
+          "text": "Chocolate"
+        },
+        {
+          "id": "favoritei_3",
+          "text": "Strawberry"
+        },
+        {
+          "id": "favoritei_4",
+          "text": "Mint"
+        },
+        {
+          "id": "favoritei_5",
+          "text": "Caramel"
+        },
+        {
+          "id": "favoritei_6",
+          "text": "Cookie Dough"
+        }
+      ]
+    },
+    {
+      "id": "general_d_031",
+      "text": "Favorite fruit?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritef_1",
+          "text": "Apple"
+        },
+        {
+          "id": "favoritef_2",
+          "text": "Banana"
+        },
+        {
+          "id": "favoritef_3",
+          "text": "Orange"
+        },
+        {
+          "id": "favoritef_4",
+          "text": "Berries"
+        },
+        {
+          "id": "favoritef_5",
+          "text": "Mango"
+        },
+        {
+          "id": "favoritef_6",
+          "text": "Grapes"
+        }
+      ]
+    },
+    {
+      "id": "general_d_032",
+      "text": "Favorite vegetable?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritev_1",
+          "text": "Carrot"
+        },
+        {
+          "id": "favoritev_2",
+          "text": "Broccoli"
+        },
+        {
+          "id": "favoritev_3",
+          "text": "Peas"
+        },
+        {
+          "id": "favoritev_4",
+          "text": "Corn"
+        },
+        {
+          "id": "favoritev_5",
+          "text": "Spinach"
+        },
+        {
+          "id": "favoritev_6",
+          "text": "Potato"
+        }
+      ]
+    },
+    {
+      "id": "general_d_033",
+      "text": "Favorite type of movie ending?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Happy"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Sad"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Surprise"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Open"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Heroic"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Twist"
+        }
+      ]
+    },
+    {
+      "id": "general_d_034",
+      "text": "Best reason to stay home?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestreaso_1",
+          "text": "Bad Weather"
+        },
+        {
+          "id": "bestreaso_2",
+          "text": "Binge Shows"
+        },
+        {
+          "id": "bestreaso_3",
+          "text": "Save Money"
+        },
+        {
+          "id": "bestreaso_4",
+          "text": "Rest"
+        },
+        {
+          "id": "bestreaso_5",
+          "text": "Avoid People"
+        },
+        {
+          "id": "bestreaso_6",
+          "text": "Do Chores"
+        }
+      ]
+    },
+    {
+      "id": "general_d_035",
+      "text": "Favorite cookie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritec_1",
+          "text": "Chocolate Chip"
+        },
+        {
+          "id": "favoritec_2",
+          "text": "Oatmeal"
+        },
+        {
+          "id": "favoritec_3",
+          "text": "Peanut Butter"
+        },
+        {
+          "id": "favoritec_4",
+          "text": "Sugar"
+        },
+        {
+          "id": "favoritec_5",
+          "text": "Snickerdoodle"
+        },
+        {
+          "id": "favoritec_6",
+          "text": "Macaron"
+        }
+      ]
+    },
+    {
+      "id": "general_d_036",
+      "text": "Favorite cake?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritec_1",
+          "text": "Chocolate"
+        },
+        {
+          "id": "favoritec_2",
+          "text": "Vanilla"
+        },
+        {
+          "id": "favoritec_3",
+          "text": "Red Velvet"
+        },
+        {
+          "id": "favoritec_4",
+          "text": "Carrot"
+        },
+        {
+          "id": "favoritec_5",
+          "text": "Cheesecake"
+        },
+        {
+          "id": "favoritec_6",
+          "text": "Lemon"
+        }
+      ]
+    },
+    {
+      "id": "general_d_037",
+      "text": "Best time to travel?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttime_1",
+          "text": "Spring"
+        },
+        {
+          "id": "besttime_2",
+          "text": "Summer"
+        },
+        {
+          "id": "besttime_3",
+          "text": "Autumn"
+        },
+        {
+          "id": "besttime_4",
+          "text": "Winter"
+        },
+        {
+          "id": "besttime_5",
+          "text": "Off Season"
+        },
+        {
+          "id": "besttime_6",
+          "text": "Anytime"
+        }
+      ]
+    },
+    {
+      "id": "general_d_038",
+      "text": "Most interesting subject?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostinter_1",
+          "text": "History"
+        },
+        {
+          "id": "mostinter_2",
+          "text": "Science"
+        },
+        {
+          "id": "mostinter_3",
+          "text": "Art"
+        },
+        {
+          "id": "mostinter_4",
+          "text": "Math"
+        },
+        {
+          "id": "mostinter_5",
+          "text": "Literature"
+        },
+        {
+          "id": "mostinter_6",
+          "text": "Technology"
+        }
+      ]
+    },
+    {
+      "id": "general_d_039",
+      "text": "Best way to greet friends?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Hug"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Handshake"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "High Five"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Wave"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Smile"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Fist Bump"
+        }
+      ]
+    }
+  ]
+}

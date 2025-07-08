@@ -1,0 +1,937 @@
+{
+  "deck": {
+    "id": "travel",
+    "name": "Podróże i Przygody",
+    "description": "Zabawne pytania o podróże i odkrywanie świata.",
+    "category": "travel",
+    "version": "3.0.0",
+    "language": "pl"
+  },
+  "questions": [
+    {
+      "id": "travel_p_001",
+      "text": "Kto najprawdopodobniej spóźni się na samolot?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_002",
+      "text": "Kto pakuje się najlżej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_003",
+      "text": "Kto spróbowałby najdziwniejszego jedzenia z ulicy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_004",
+      "text": "Kto zapomniałby paszportu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_005",
+      "text": "Kto zawsze spóźnia się na wyjazd?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_006",
+      "text": "Kto planuje najbardziej szczegółowe trasy?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_007",
+      "text": "Kto najczęściej się spali na słońcu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_008",
+      "text": "Kto natychmiast zaprzyjaźniłby się z lokalnymi?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_009",
+      "text": "Kto przypadkiem zarezerwowałby złe daty?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_010",
+      "text": "Kto zgubiłby się nawet z mapą?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_011",
+      "text": "Kto najbardziej ekscytuje się robieniem zdjęć?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_012",
+      "text": "Kto przespałby ogłoszenie na lotnisku?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_013",
+      "text": "Kto kupiłby najwięcej pamiątek?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_014",
+      "text": "Kto próbowałby mówić w lokalnym języku?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_015",
+      "text": "Kto najbardziej narzeka na chodzenie?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_016",
+      "text": "Kto najbardziej boi się latania?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_017",
+      "text": "Kto miałby problemy na odprawie celnej?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_018",
+      "text": "Kto wolałby zostać w luksusowym hotelu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_019",
+      "text": "Kto wolałby pojechać pod namiot?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_020",
+      "text": "Kto pierwszy wskoczyłby do oceanu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_021",
+      "text": "Kto spontanicznie zarezerwowałby wyjazd?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_022",
+      "text": "Kto próbowałby wszystkich lokalnych trunków?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_023",
+      "text": "Kto zasnąłby w autobusie wycieczkowym?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_024",
+      "text": "Kto najbardziej lubi lotniska?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_p_025",
+      "text": "Kto wybrałby podróż samochodem zamiast samolotu?",
+      "type": "players",
+      "options": []
+    },
+    {
+      "id": "travel_d_001",
+      "text": "Wymarzone wakacje?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "dreamvaca_1",
+          "text": "Plaża"
+        },
+        {
+          "id": "dreamvaca_2",
+          "text": "Góry"
+        },
+        {
+          "id": "dreamvaca_3",
+          "text": "Miasto"
+        },
+        {
+          "id": "dreamvaca_4",
+          "text": "Safari"
+        },
+        {
+          "id": "dreamvaca_5",
+          "text": "Rejs"
+        },
+        {
+          "id": "dreamvaca_6",
+          "text": "Nieznana przygoda"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_002",
+      "text": "Preferowany styl podróżowania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "preferred_1",
+          "text": "Luksusowo"
+        },
+        {
+          "id": "preferred_2",
+          "text": "Z plecakiem"
+        },
+        {
+          "id": "preferred_3",
+          "text": "Samochodem"
+        },
+        {
+          "id": "preferred_4",
+          "text": "Rejs"
+        },
+        {
+          "id": "preferred_5",
+          "text": "All-inclusive"
+        },
+        {
+          "id": "preferred_6",
+          "text": "Spontanicznie"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_003",
+      "text": "Ulubione miasto do odwiedzenia?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritec_1",
+          "text": "Nowy Jork"
+        },
+        {
+          "id": "favoritec_2",
+          "text": "Paryż"
+        },
+        {
+          "id": "favoritec_3",
+          "text": "Tokio"
+        },
+        {
+          "id": "favoritec_4",
+          "text": "Rzym"
+        },
+        {
+          "id": "favoritec_5",
+          "text": "Londyn"
+        },
+        {
+          "id": "favoritec_6",
+          "text": "Sydney"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_004",
+      "text": "Najlepszy towarzysz podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttrave_1",
+          "text": "Rodzina"
+        },
+        {
+          "id": "besttrave_2",
+          "text": "Przyjaciele"
+        },
+        {
+          "id": "besttrave_3",
+          "text": "Partner"
+        },
+        {
+          "id": "besttrave_4",
+          "text": "Samemu"
+        },
+        {
+          "id": "besttrave_5",
+          "text": "Grupa wycieczkowa"
+        },
+        {
+          "id": "besttrave_6",
+          "text": "Zwierzak"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_005",
+      "text": "Najgorszy koszmar podróżniczy?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worsttrav_1",
+          "text": "Zagubiony bagaż"
+        },
+        {
+          "id": "worsttrav_2",
+          "text": "Choroba"
+        },
+        {
+          "id": "worsttrav_3",
+          "text": "Bariera językowa"
+        },
+        {
+          "id": "worsttrav_4",
+          "text": "Brak pieniędzy"
+        },
+        {
+          "id": "worsttrav_5",
+          "text": "Zła pogoda"
+        },
+        {
+          "id": "worsttrav_6",
+          "text": "Oszustwa"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_006",
+      "text": "Najlepsze jedzenie za granicą?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestfood_1",
+          "text": "Pizza we Włoszech"
+        },
+        {
+          "id": "bestfood_2",
+          "text": "Sushi w Japonii"
+        },
+        {
+          "id": "bestfood_3",
+          "text": "Tacos w Meksyku"
+        },
+        {
+          "id": "bestfood_4",
+          "text": "Curry w Indiach"
+        },
+        {
+          "id": "bestfood_5",
+          "text": "Croissant we Francji"
+        },
+        {
+          "id": "bestfood_6",
+          "text": "BBQ w USA"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_007",
+      "text": "Najlepsza przekąska w podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttrave_1",
+          "text": "Chipsy"
+        },
+        {
+          "id": "besttrave_2",
+          "text": "Owoce"
+        },
+        {
+          "id": "besttrave_3",
+          "text": "Kanapka"
+        },
+        {
+          "id": "besttrave_4",
+          "text": "Czekolada"
+        },
+        {
+          "id": "besttrave_5",
+          "text": "Orzechy"
+        },
+        {
+          "id": "besttrave_6",
+          "text": "Baton energetyczny"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_008",
+      "text": "Ulubiona pora roku na podróże?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Wiosna"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Lato"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Jesień"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Zima"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Poza sezonem"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Kiedykolwiek"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_009",
+      "text": "Ulubiony rodzaj noclegu?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritea_1",
+          "text": "Hotel"
+        },
+        {
+          "id": "favoritea_2",
+          "text": "Hostel"
+        },
+        {
+          "id": "favoritea_3",
+          "text": "Airbnb"
+        },
+        {
+          "id": "favoritea_4",
+          "text": "Kemping"
+        },
+        {
+          "id": "favoritea_5",
+          "text": "Resort"
+        },
+        {
+          "id": "favoritea_6",
+          "text": "Couchsurfing"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_010",
+      "text": "Najlepszy środek transportu w podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttrave_1",
+          "text": "Samochód"
+        },
+        {
+          "id": "besttrave_2",
+          "text": "Pociąg"
+        },
+        {
+          "id": "besttrave_3",
+          "text": "Samolot"
+        },
+        {
+          "id": "besttrave_4",
+          "text": "Łódź"
+        },
+        {
+          "id": "besttrave_5",
+          "text": "Motocykl"
+        },
+        {
+          "id": "besttrave_6",
+          "text": "Kamper"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_011",
+      "text": "Najlepszy sposób na dokumentowanie podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Zdjęcia"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Filmy"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Dziennik"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Media społecznościowe"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Album"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Tylko w pamięci"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_012",
+      "text": "Co najważniejsze do spakowania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostimpor_1",
+          "text": "Paszport"
+        },
+        {
+          "id": "mostimpor_2",
+          "text": "Telefon"
+        },
+        {
+          "id": "mostimpor_3",
+          "text": "Aparat"
+        },
+        {
+          "id": "mostimpor_4",
+          "text": "Przekąski"
+        },
+        {
+          "id": "mostimpor_5",
+          "text": "Leki"
+        },
+        {
+          "id": "mostimpor_6",
+          "text": "Książki"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_013",
+      "text": "Najlepszy lokalny sposób spędzenia czasu?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttype_1",
+          "text": "Lekcja gotowania"
+        },
+        {
+          "id": "besttype_2",
+          "text": "Wycieczka kulinarna"
+        },
+        {
+          "id": "besttype_3",
+          "text": "Muzeum"
+        },
+        {
+          "id": "besttype_4",
+          "text": "Wędrówka"
+        },
+        {
+          "id": "besttype_5",
+          "text": "Targ"
+        },
+        {
+          "id": "besttype_6",
+          "text": "Festiwal"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_014",
+      "text": "Najlepsza aktywność na plaży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestbeach_1",
+          "text": "Pływanie"
+        },
+        {
+          "id": "bestbeach_2",
+          "text": "Opalanie się"
+        },
+        {
+          "id": "bestbeach_3",
+          "text": "Snorkeling"
+        },
+        {
+          "id": "bestbeach_4",
+          "text": "Siatkówka plażowa"
+        },
+        {
+          "id": "bestbeach_5",
+          "text": "Czytanie"
+        },
+        {
+          "id": "bestbeach_6",
+          "text": "Budowanie zamków z piasku"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_015",
+      "text": "Najgorsza rzecz, którą można zapomnieć?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "worstthin_1",
+          "text": "Paszport"
+        },
+        {
+          "id": "worstthin_2",
+          "text": "Portfel"
+        },
+        {
+          "id": "worstthin_3",
+          "text": "Ładowarka"
+        },
+        {
+          "id": "worstthin_4",
+          "text": "Szczoteczka do zębów"
+        },
+        {
+          "id": "worstthin_5",
+          "text": "Krem z filtrem"
+        },
+        {
+          "id": "worstthin_6",
+          "text": "Bilety"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_016",
+      "text": "Ulubiona pamiątka?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favorites_1",
+          "text": "Pocztówki"
+        },
+        {
+          "id": "favorites_2",
+          "text": "Magnesy"
+        },
+        {
+          "id": "favorites_3",
+          "text": "Lokalne przekąski"
+        },
+        {
+          "id": "favorites_4",
+          "text": "Ubrania"
+        },
+        {
+          "id": "favorites_5",
+          "text": "Rękodzieło"
+        },
+        {
+          "id": "favorites_6",
+          "text": "Zdjęcia"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_017",
+      "text": "Ulubione miejsce w samolocie?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "preferred_1",
+          "text": "Przy oknie"
+        },
+        {
+          "id": "preferred_2",
+          "text": "Przy przejściu"
+        },
+        {
+          "id": "preferred_3",
+          "text": "Środkowe"
+        },
+        {
+          "id": "preferred_4",
+          "text": "Przy wyjściu ewakuacyjnym"
+        },
+        {
+          "id": "preferred_5",
+          "text": "Pierwszy rząd"
+        },
+        {
+          "id": "preferred_6",
+          "text": "Klasa biznes"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_018",
+      "text": "Najlepszy napój w podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttrave_1",
+          "text": "Woda"
+        },
+        {
+          "id": "besttrave_2",
+          "text": "Piwo"
+        },
+        {
+          "id": "besttrave_3",
+          "text": "Wino"
+        },
+        {
+          "id": "besttrave_4",
+          "text": "Sok"
+        },
+        {
+          "id": "besttrave_5",
+          "text": "Drink"
+        },
+        {
+          "id": "besttrave_6",
+          "text": "Kawa"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_019",
+      "text": "Co robisz najpierw po dotarciu na miejsce?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "whatdoyo_1",
+          "text": "Jesz"
+        },
+        {
+          "id": "whatdoyo_2",
+          "text": "Zwiedzasz"
+        },
+        {
+          "id": "whatdoyo_3",
+          "text": "Odpoczywasz"
+        },
+        {
+          "id": "whatdoyo_4",
+          "text": "Zakupy"
+        },
+        {
+          "id": "whatdoyo_5",
+          "text": "Robisz zdjęcia"
+        },
+        {
+          "id": "whatdoyo_6",
+          "text": "Szukasz Wi-Fi"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_020",
+      "text": "Najlepsza pogoda na wakacje?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "besttype_1",
+          "text": "Słoneczna"
+        },
+        {
+          "id": "besttype_2",
+          "text": "Z lekkim wiatrem"
+        },
+        {
+          "id": "besttype_3",
+          "text": "Śnieżna"
+        },
+        {
+          "id": "besttype_4",
+          "text": "Deszczowa"
+        },
+        {
+          "id": "besttype_5",
+          "text": "Pochmurna"
+        },
+        {
+          "id": "besttype_6",
+          "text": "Ciepłe wieczory"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_021",
+      "text": "Jak długo najchętniej byś podróżował?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "longesttr_1",
+          "text": "Weekend"
+        },
+        {
+          "id": "longesttr_2",
+          "text": "1 tydzień"
+        },
+        {
+          "id": "longesttr_3",
+          "text": "2 tygodnie"
+        },
+        {
+          "id": "longesttr_4",
+          "text": "1 miesiąc"
+        },
+        {
+          "id": "longesttr_5",
+          "text": "Kilka miesięcy"
+        },
+        {
+          "id": "longesttr_6",
+          "text": "Bez ograniczeń"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_022",
+      "text": "Ulubiona muzyka w podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "favoritet_1",
+          "text": "Pop"
+        },
+        {
+          "id": "favoritet_2",
+          "text": "Rock"
+        },
+        {
+          "id": "favoritet_3",
+          "text": "Country"
+        },
+        {
+          "id": "favoritet_4",
+          "text": "Klasyczna"
+        },
+        {
+          "id": "favoritet_5",
+          "text": "Indie"
+        },
+        {
+          "id": "favoritet_6",
+          "text": "Elektroniczna"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_023",
+      "text": "Najlepszy ekologiczny sposób podróżowania?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "bestwayt_1",
+          "text": "Rower"
+        },
+        {
+          "id": "bestwayt_2",
+          "text": "Spacer"
+        },
+        {
+          "id": "bestwayt_3",
+          "text": "Komunikacja miejska"
+        },
+        {
+          "id": "bestwayt_4",
+          "text": "Wspólne przejazdy"
+        },
+        {
+          "id": "bestwayt_5",
+          "text": "Butelka wielokrotnego użytku"
+        },
+        {
+          "id": "bestwayt_6",
+          "text": "Unikać latania"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_024",
+      "text": "Najfajniejsza aktywność w podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "mostfunt_1",
+          "text": "Zakupy"
+        },
+        {
+          "id": "mostfunt_2",
+          "text": "Zwiedzanie ruin"
+        },
+        {
+          "id": "mostfunt_3",
+          "text": "Wycieczka kulinarna"
+        },
+        {
+          "id": "mostfunt_4",
+          "text": "Sporty ekstremalne"
+        },
+        {
+          "id": "mostfunt_5",
+          "text": "Rejs łódką"
+        },
+        {
+          "id": "mostfunt_6",
+          "text": "Obserwowanie ludzi"
+        }
+      ]
+    },
+    {
+      "id": "travel_d_025",
+      "text": "Najbardziej stresująca część podróży?",
+      "type": "predefined",
+      "options": [
+        {
+          "id": "moststres_1",
+          "text": "Pakowanie"
+        },
+        {
+          "id": "moststres_2",
+          "text": "Kontrola bezpieczeństwa"
+        },
+        {
+          "id": "moststres_3",
+          "text": "Opóźnienia"
+        },
+        {
+          "id": "moststres_4",
+          "text": "Bariery językowe"
+        },
+        {
+          "id": "moststres_5",
+          "text": "Odprawa celna"
+        },
+        {
+          "id": "moststres_6",
+          "text": "Szukania noclegu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Guess Pick",
+    "short_name": "Guess Pick",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#3f1d69",
+    "theme_color": "#971f67",
+    "description": "A multiplayer party game where players guess each other's answers.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

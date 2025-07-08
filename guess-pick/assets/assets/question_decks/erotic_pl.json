@@ -1,0 +1,737 @@
+{
+    "deck": {
+        "id": "erotic",
+        "name": "Erotyka i Intymność",
+        "description": "Pikantne pytania o seksie, fantazjach i intymnych wyznaniach.",
+        "category": "erotic",
+        "version": "3.0.0",
+        "language": "pl"
+    },
+    "questions": [
+        {
+            "id": "erotic_p_001",
+            "text": "Kto tutaj miał prawdopodobnie najwięcej przygód na jedną noc?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_002",
+            "text": "Kto najchętniej spróbowałby czegoś perwersyjnego?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_003",
+            "text": "Kto najbardziej cieszyłby się ze striptizu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_004",
+            "text": "Kto najprawdopodobniej uprawiałby seks w miejscu publicznym?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_005",
+            "text": "Kto ma zapewne najdziksze fantazje?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_006",
+            "text": "Kto byłby otwarty na trójkąt?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_007",
+            "text": "Kto jest największym kusicielem/kusicielką?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_008",
+            "text": "Kto tutaj jest najbardziej dominujący w łóżku?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_009",
+            "text": "Kto najchętniej spróbowałby zabawek erotycznych?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_010",
+            "text": "Kto odegrałby rolę bez wahania?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_011",
+            "text": "Kto najgłośniej jęczy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_012",
+            "text": "Kto najlepiej mówi sprośnie?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_013",
+            "text": "Kto oglądałby filmy dla dorosłych ze swoim partnerem?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_014",
+            "text": "Kto uprawiał seks w najdziwniejszym miejscu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_015",
+            "text": "Kto tutaj może mieć sekretny fetysz?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_016",
+            "text": "Kto wysłałby najbardziej niegrzeczne zdjęcia?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_017",
+            "text": "Kto najlepiej wykonałby taniec na kolanach?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_018",
+            "text": "Kto lubi rozmawiać o swoim życiu seksualnym?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_019",
+            "text": "Kto pierwszy spróbowałby opaski na oczy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_020",
+            "text": "Kto jest najbardziej odważny pod kołdrą?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_021",
+            "text": "Kto może mieć bieliznę tylko dla zabawy?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_022",
+            "text": "Kto śmiałby się podczas seksu?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_023",
+            "text": "Kto najprawdopodobniej złamałby łóżko?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_024",
+            "text": "Kto jest najbardziej otwarty w temacie masturbacji?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_p_025",
+            "text": "Kto mógłby pisać opowiadania erotyczne?",
+            "type": "players",
+            "options": []
+        },
+        {
+            "id": "erotic_d_001",
+            "text": "Czy uprawiałeś/aś seks w ryzykownym miejscu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everhads_1",
+                    "text": "Tak, często"
+                },
+                {
+                    "id": "everhads_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "everhads_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everhads_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_002",
+            "text": "Ulubiona pozycja?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "preferred_1",
+                    "text": "Na górze"
+                },
+                {
+                    "id": "preferred_2",
+                    "text": "Na dole"
+                },
+                {
+                    "id": "preferred_3",
+                    "text": "Na stojąco"
+                },
+                {
+                    "id": "preferred_4",
+                    "text": "Od tyłu"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_003",
+            "text": "Czy kiedykolwiek nagrywałeś/aś się?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "haveyoue_1",
+                    "text": "Tak, wiele razy"
+                },
+                {
+                    "id": "haveyoue_2",
+                    "text": "Raz czy dwa"
+                },
+                {
+                    "id": "haveyoue_3",
+                    "text": "Myślałem/am o tym"
+                },
+                {
+                    "id": "haveyoue_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_004",
+            "text": "Co najbardziej Cię podnieca?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "biggesttu_1",
+                    "text": "Całowanie szyi"
+                },
+                {
+                    "id": "biggesttu_2",
+                    "text": "Szeptanie"
+                },
+                {
+                    "id": "biggesttu_3",
+                    "text": "Przygryzanie warg"
+                },
+                {
+                    "id": "biggesttu_4",
+                    "text": "Chwytanie za biodra"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_005",
+            "text": "Czy próbowałeś/aś bondage albo bycia związanym/ą?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "evertried_1",
+                    "text": "Tak, uwielbiam"
+                },
+                {
+                    "id": "evertried_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "evertried_3",
+                    "text": "Ciekawi mnie to"
+                },
+                {
+                    "id": "evertried_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_006",
+            "text": "Co sprawia, że szybciej dochodzisz?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "whatmakes_1",
+                    "text": "Brudne gadki"
+                },
+                {
+                    "id": "whatmakes_2",
+                    "text": "Patrzenie"
+                },
+                {
+                    "id": "whatmakes_3",
+                    "text": "Zabawki"
+                },
+                {
+                    "id": "whatmakes_4",
+                    "text": "Powolne budowanie napięcia"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_007",
+            "text": "Czy uprawiałeś/aś seks na pierwszej randce?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everhads_1",
+                    "text": "Tak, często"
+                },
+                {
+                    "id": "everhads_2",
+                    "text": "Czasami"
+                },
+                {
+                    "id": "everhads_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everhads_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_008",
+            "text": "Ulubiony rodzaj gry wstępnej?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritek_1",
+                    "text": "Oral"
+                },
+                {
+                    "id": "favoritek_2",
+                    "text": "Masaże"
+                },
+                {
+                    "id": "favoritek_3",
+                    "text": "Całowanie"
+                },
+                {
+                    "id": "favoritek_4",
+                    "text": "Brudne gadki"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_009",
+            "text": "Czy ktoś kiedyś Cię przyłapał na seksie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everbeen_1",
+                    "text": "Tak"
+                },
+                {
+                    "id": "everbeen_2",
+                    "text": "Prawie"
+                },
+                {
+                    "id": "everbeen_3",
+                    "text": "Nie, było blisko"
+                },
+                {
+                    "id": "everbeen_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_010",
+            "text": "Jak głośny/a jesteś w łóżku?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "howvocal_1",
+                    "text": "Bardzo głośny/a"
+                },
+                {
+                    "id": "howvocal_2",
+                    "text": "Trochę jęków"
+                },
+                {
+                    "id": "howvocal_3",
+                    "text": "Cichy/a"
+                },
+                {
+                    "id": "howvocal_4",
+                    "text": "Całkiem cichy/a"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_011",
+            "text": "Największa fantazja seksualna?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "biggestse_1",
+                    "text": "Miejsce publiczne"
+                },
+                {
+                    "id": "biggestse_2",
+                    "text": "Ze nieznajomymi"
+                },
+                {
+                    "id": "biggestse_3",
+                    "text": "Odegranie ról"
+                },
+                {
+                    "id": "biggestse_4",
+                    "text": "Gra o dominację"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_012",
+            "text": "Najbardziej wrażliwe miejsce?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "mostsensi_1",
+                    "text": "Szyja"
+                },
+                {
+                    "id": "mostsensi_2",
+                    "text": "Wewnętrzna strona ud"
+                },
+                {
+                    "id": "mostsensi_3",
+                    "text": "Uszy"
+                },
+                {
+                    "id": "mostsensi_4",
+                    "text": "Dolna część pleców"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_013",
+            "text": "Czy używałeś/aś jedzenia w sypialni?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everused_1",
+                    "text": "Tak, bałagan"
+                },
+                {
+                    "id": "everused_2",
+                    "text": "Trochę"
+                },
+                {
+                    "id": "everused_3",
+                    "text": "Ciekawi mnie to"
+                },
+                {
+                    "id": "everused_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_014",
+            "text": "Czy obejrzał(a)byś swojego partnera z kimś innym?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "wouldyou_1",
+                    "text": "Tak"
+                },
+                {
+                    "id": "wouldyou_2",
+                    "text": "Może"
+                },
+                {
+                    "id": "wouldyou_3",
+                    "text": "Nie wiem"
+                },
+                {
+                    "id": "wouldyou_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_015",
+            "text": "Ulubione zajęcie po seksie?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritea_1",
+                    "text": "Przytulanie"
+                },
+                {
+                    "id": "favoritea_2",
+                    "text": "Rozmowa"
+                },
+                {
+                    "id": "favoritea_3",
+                    "text": "Sen"
+                },
+                {
+                    "id": "favoritea_4",
+                    "text": "Druga runda"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_016",
+            "text": "Co sądzisz o szybkich numerkach?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "howdoyou_1",
+                    "text": "Uwielbiam"
+                },
+                {
+                    "id": "howdoyou_2",
+                    "text": "Czasami"
+                },
+                {
+                    "id": "howdoyou_3",
+                    "text": "Rzadko"
+                },
+                {
+                    "id": "howdoyou_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_017",
+            "text": "Czy wysyłałeś/aś kiedyś nagie zdjęcia?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "eversent_1",
+                    "text": "Tak, często"
+                },
+                {
+                    "id": "eversent_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "eversent_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "eversent_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_018",
+            "text": "Co najbardziej psuje nastrój?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "biggestmo_1",
+                    "text": "Brzydki oddech"
+                },
+                {
+                    "id": "biggestmo_2",
+                    "text": "Dzwoniący telefon"
+                },
+                {
+                    "id": "biggestmo_3",
+                    "text": "Niezręczna cisza"
+                },
+                {
+                    "id": "biggestmo_4",
+                    "text": "Patrzące zwierzaki"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_019",
+            "text": "Czy oglądaliście kiedyś razem filmy dla dorosłych?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "evertried_1",
+                    "text": "Tak, gorące"
+                },
+                {
+                    "id": "evertried_2",
+                    "text": "Raz"
+                },
+                {
+                    "id": "evertried_3",
+                    "text": "Ciekawi mnie to"
+                },
+                {
+                    "id": "evertried_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_020",
+            "text": "Najlepsza pora na seks?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "besttime_1",
+                    "text": "Rano"
+                },
+                {
+                    "id": "besttime_2",
+                    "text": "Po południu"
+                },
+                {
+                    "id": "besttime_3",
+                    "text": "Wieczorem"
+                },
+                {
+                    "id": "besttime_4",
+                    "text": "Późno w nocy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_021",
+            "text": "Jak długo byłeś/aś bez seksu?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "longestyo_1",
+                    "text": "Lata"
+                },
+                {
+                    "id": "longestyo_2",
+                    "text": "Miesiące"
+                },
+                {
+                    "id": "longestyo_3",
+                    "text": "Tygodnie"
+                },
+                {
+                    "id": "longestyo_4",
+                    "text": "Dni"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_022",
+            "text": "Czy kiedykolwiek spałeś/aś z kimś poznanym tego samego dnia?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "everhooke_1",
+                    "text": "Tak"
+                },
+                {
+                    "id": "everhooke_2",
+                    "text": "Kilka razy"
+                },
+                {
+                    "id": "everhooke_3",
+                    "text": "Raz"
+                },
+                {
+                    "id": "everhooke_4",
+                    "text": "Nigdy"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_023",
+            "text": "Co chciał(a)byś spróbować następnym razem?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "whatwould_1",
+                    "text": "Nowe pozycje"
+                },
+                {
+                    "id": "whatwould_2",
+                    "text": "Na dworze"
+                },
+                {
+                    "id": "whatwould_3",
+                    "text": "Odegranie ról"
+                },
+                {
+                    "id": "whatwould_4",
+                    "text": "Zabawki"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_024",
+            "text": "Jak bardzo jesteś spontaniczny/a?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "howsponta_1",
+                    "text": "Bardzo"
+                },
+                {
+                    "id": "howsponta_2",
+                    "text": "Czasami"
+                },
+                {
+                    "id": "howsponta_3",
+                    "text": "Rzadko"
+                },
+                {
+                    "id": "howsponta_4",
+                    "text": "Wcale"
+                }
+            ]
+        },
+        {
+            "id": "erotic_d_025",
+            "text": "Ulubiona część ciała partnera?",
+            "type": "predefined",
+            "options": [
+                {
+                    "id": "favoritep_1",
+                    "text": "Oczy"
+                },
+                {
+                    "id": "favoritep_2",
+                    "text": "Klatka piersiowa"
+                },
+                {
+                    "id": "favoritep_3",
+                    "text": "Pupa"
+                },
+                {
+                    "id": "favoritep_4",
+                    "text": "Nogi"
+                }
+            ]
+        }
+    ]
+}
